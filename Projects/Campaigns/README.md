@@ -4,7 +4,7 @@ Here are some ideas for campaign mods surrounding some adventures I feel could w
 
 ## Three Staves / CRASH Campaigns
 Based on both my personal lore universe and the CRASH shared adventure continuity. Some of the entries might be adapted to suit the overall narrative that could be set up in the space stage missions.
-#### Warrior
+### Warrior
 ***Theme: Fighting against the Grox and other hordes***
 *Grox and Anthrantus arc*
 1. Infestation
@@ -17,7 +17,7 @@ Based on both my personal lore universe and the CRASH shared adventure continuit
 7. The Horrors from Above 2
 8. Titanomachy
 
-#### Diplomat
+### Diplomat
 ***Theme: Diplomatically resolving crises at hand***
 1. Delicate Negotiations
 2. Burning Bridges part 1
@@ -42,7 +42,7 @@ Based on both my personal lore universe and the CRASH shared adventure continuit
 19. Swift Retribution
 20. The Scandal (potential new adventure, perhaps)
 
-#### Shaman
+### Shaman
 ***Theme: Spiritual enlightement and deeper truths of the galaxy***
 1. The Spirits Are Restless
 2. A Spiritual Journey
@@ -56,7 +56,7 @@ Based on both my personal lore universe and the CRASH shared adventure continuit
 10. Secrets of the Forgotten One
 11. Con-found-ed Relics
 
-#### Zealot
+### Zealot
 ***Theme: Helping out other zealot empires in the galaxy.***
 1. Temple of Spode
 2. Neon Genesis Duckylion
@@ -66,7 +66,7 @@ Based on both my personal lore universe and the CRASH shared adventure continuit
 6. Nightmare of Termina III - Time (adapted for open captain)
 7. Nightmare of Termina IV - Force
 
-#### Bard
+### Bard
 ***Theme: Having fun in the galaxy***
 1. Concert in the Park
 2. Crash Beach Party
@@ -80,7 +80,7 @@ Based on both my personal lore universe and the CRASH shared adventure continuit
 10. The Tiny Planet of Colour
 11. Making Movies with Libuz Suruz
 
-#### Ecologist
+### Ecologist
 ***Theme: The nature of the galaxy's many worlds***
 1. It Came From the Sky
 2. Problem in Paradise
@@ -94,7 +94,7 @@ Based on both my personal lore universe and the CRASH shared adventure continuit
 10. The Legend of Shermutor
 11. The Mind Electric
 
-#### Trader
+### Trader
 ***Theme: Galactic capitalism***
 1. The Ruins of Doom
 2. Consumer Watchalien
@@ -104,9 +104,8 @@ Based on both my personal lore universe and the CRASH shared adventure continuit
 6. A Cog in the ZeepCol Machine
 7. Operation Z-Information
 8. Served Cold
-9. Meet the To'Chal
 
-#### Scientist
+### Scientist
 ***Theme: Galactic advancements***
 1. TX-5000 Superweapon
 2. Antheran Commando
