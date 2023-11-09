@@ -1,0 +1,296 @@
+# Auto-generated localization file for: Clark and Stanley Go Camping (ID: 0X4002B24)
+# Adventure name
+0x00000001 Clark and Stanley Go Camping
+
+# Adventure description
+0x00000002 Meet up with Clark and Stanley out in the country side where they've gone camping.~br~Created by MaxisCimino
+
+# Intro text
+0x00000003 Our sensors indicate that Stanley and Clark are requesting your assistance. Go see what they want this time.
+
+# Win text
+0x00000004 And that's why you shouldn't stay too close to Clark and Stanley.
+
+# Lose text
+0x00000005 And that's why you shouldn't stay too close to Clark and Stanley.
+
+# Act 1
+0x00000006 Cool Spot
+0x00000007 Go see Clark and Stanley at their new campground, the best spot they've found so far. You should probably not get too close though.
+
+# Goal 1
+0x00000008 Hey man. Check out this sweet spot we found.
+0x00000009 Stanley and I were just about to roast up some marshmallows and watch the sunset. Are you in?
+
+
+# Act 2
+0x0000000a What's that noise?
+0x0000000b There's something very unsettling about this campgrounds.
+
+
+# Act 3
+0x0000000c Oh no!
+0x0000000d Poor Clark and Stanley.
+
+
+# Prop #14 - Marshmallow
+0x0000000e Marshmallow
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #15 - Clark
+0x0000000f Clark
+
+# Chatter for Act 1
+0x00000010 Hello there bud.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000011 Do you hear something?
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000012 Do you hear something?
+
+# Inspect for Act 3
+
+# Prop #19 - Stanley
+0x00000013 Stanley
+
+# Chatter for Act 1
+0x00000014 Awesome! You made it!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000015 What's that noise?
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000016 What's that noise?
+
+# Inspect for Act 3
+
+# Prop #23 - Mr Puzzle Truck
+0x00000017 Mr Puzzle Truck
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #24 - tank
+0x00000018 tank
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #25 - Fire Pit
+0x00000019 Fire Pit
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #26 - Mine
+0x0000001a Mine
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #27 - Poof White
+0x0000001b Poof White
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #28 - Vaudeville
+0x0000001c Vaudeville
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #29 - Zazafuscus
+0x0000001d Zazafuscus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #30 - Shrubbits
+0x0000001e Shrubbits
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #31 - Crickets Ambience 
+0x0000001f Crickets Ambience 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #32 - Fireflies
+0x00000020 Fireflies
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #33 - Sting Jazz Finale
+0x00000021 Sting Jazz Finale
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #34 - Marshallows
+0x00000022 Marshallows
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #35 - Tent
+0x00000023 Tent
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #36 - Folding Chair
+0x00000024 Folding Chair
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+

@@ -1,0 +1,3149 @@
+# Auto-generated localization file for: Protein Synthesis (ID: 0X303F7534)
+# Adventure name
+0x00000001 Protein Synthesis
+
+# Adventure description
+0x00000002 Let's learn about Protein Synthesis, from DNA transcription to translation!
+
+# Intro text
+0x00000003  
+
+# Win text
+0x00000004 You've passed!  
+
+# Lose text
+0x00000005 Try again, learn by doing!
+
+# Act 1
+0x00000006 Getting Started
+0x00000007 Speak to the teacher to find out about today's lesson.
+
+# Goal 1
+0x00000008 Today's lesson will cover DNA Transcription.
+0x00000009 This is the process cells use to make copies of DNA, which are used to build proteins.
+0x0000000a It's best to see this process close up, so follow Dweeble into the Shrinkolator.
+0x0000000b Follow the portals down into the body, then the cell, then into the nucleus.
+0x0000000c When you get to the DNA, take a closer look, and you'll see how it is put together.
+
+
+# Act 2
+0x0000000d Innerspace
+0x0000000e Time to get close and personal with the DNA molecules.
+
+# Goal 1
+
+# Goal 2
+0x0000000f DNA is composed of two strands, wrapped around each other in spiral, or HELIX
+0x00000010 The strands are connected by complementary BASE PAIRS.
+0x00000011 Notice how each red CYTOSINE is paired with a blue GUANINE, and green ADENINE is paired with purple THYMINE
+0x00000012 Remember that: it is very important.
+0x00000013 Let's take this DNA apart so we can make a copy!
+
+
+# Act 3
+0x00000014 Unzipping the DNA
+0x00000015 Let's break some bonds! As you lead the helicase down the DNA, the hydrogen bonds linking the two sides of the DNA will break, and the strands will separate.
+
+# Goal 1
+0x00000016 Helicase is an essential enzyme in transcription.
+0x00000017 It moves down the DNA strand to "unzip" it.
+
+# Goal 2
+
+# Goal 3
+
+
+# Act 4
+0x00000018 Synthesizing Messenger RNA
+0x00000019 Take a pair of high-energy pyrophosphates and give it to a free RNA nucleotide.  It will move to its complementary DNA nucleotide, and the polymerase will join it to the chain with a bang!
+
+# Goal 1
+
+# Goal 2
+
+# Goal 3
+
+
+# Act 5
+0x0000001a Translation: mRNA to Protein
+0x0000001b You've made messenger RNA, or mRNA.
+Go through a nuclear pore and bring the messenger RNA to an active ribosome, which will use it as a recipe to make a protein! 
+
+# Goal 1
+
+
+# Act 6
+0x0000001c Remember the Complements!
+0x0000001d This ribosome will take patterned codons and match them to their opposites on the mRNA.  But it's missing one!  Find the codon that complements Uracil Adenine Guanine!
+
+# Goal 1
+
+
+# Act 7
+0x0000001e Home Again
+0x0000001f A brand-new protein!  Pick it up, and return to the classroom through the glowing portal to get your grade.
+
+# Goal 1
+
+# Goal 2
+0x00000020 Congratulations, you've passed the class!
+0x00000021 You can keep your protein as a souvenir.
+
+# Goal 3
+
+
+# Act 8
+0x00000022 
+0x00000023 You passed!  And you know so much more about protein synthesis than you did before!
+
+
+# Prop #36 - Uracil (Free RNA)
+0x00000024 Uracil (Free RNA)
+
+# Chatter for Act 1
+0x00000025 Uracil
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000026 Uracil
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000027 Uracil
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000028 Uracil
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000029 Uracil
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000002a Uracil
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x0000002b Uracil
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x0000002c Uracil
+
+# Inspect for Act 8
+
+# Prop #45 - Adenine (Free RNA)
+0x0000002d Adenine (Free RNA)
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #46 - Guanine (Free RNA)
+0x0000002e Guanine (Free RNA)
+
+# Chatter for Act 1
+0x0000002f Guanine
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #48 - Cytosine (Free RNA)
+0x00000030 Cytosine (Free RNA)
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000031 Cytosine
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000032 Cytosine
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000033 Cytosine
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000034 Cytosine
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000035 Cytosine
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000036 Cytosine
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000037 Cytosine
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000038 Cytosine
+
+# Prop #57 - Red Blood Cell
+0x00000039 Red Blood Cell
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #58 - Body Cavity
+0x0000003a Body Cavity
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #59 - Cell
+0x0000003b Cell
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #60 - Teleporter
+0x0000003c Teleporter
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #61 - Smoke Red
+0x0000003d Smoke Red
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #62 - Cell Wall
+0x0000003e Cell Wall
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #63 - Nucleus
+0x0000003f Nucleus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #64 - Bacteria
+0x00000040 Bacteria
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #65 - gnat bait
+0x00000041 gnat bait
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #66 - saasas
+0x00000042 saasas
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #67 - Jump Pad 
+0x00000043 Jump Pad 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #68 - Nucleus Interior
+0x00000044 Nucleus Interior
+
+# Chatter for Act 1
+0x00000045 Nuclear membrane
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000046 Nuclear membrane
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000047 Nuclear membrane
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000048 Nuclear membrane
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000049 Nuclear membrane
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000004a Nuclear membrane
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x0000004b Nuclear membrane
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x0000004c Nuclear membrane
+
+# Inspect for Act 8
+
+# Prop #77 - Cloud Magic
+0x0000004d Cloud Magic
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #78 - Fog Magic
+0x0000004e Fog Magic
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #79 - DNA
+0x0000004f DNA
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #80 - DNA
+0x00000050 DNA
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #81 - Start Codon
+0x00000051 Start Codon
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000052 Start Codon
+
+# Inspect for Act 3
+0x00000053 Start Codon
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #84 - Stop Codon
+0x00000054 Stop Codon
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000055 Stop Codon
+
+# Inspect for Act 3
+0x00000056 StopCodon
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #87 - Nuclear Pore
+0x00000057 Nuclear Pore
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #88 - Nuclear pore
+0x00000058 Nuclear pore
+
+# Chatter for Act 1
+0x00000059 Nuclear pore
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000005a Nuclear pore
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000005b Nuclear pore
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000005c Nuclear pore
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x0000005d Nuclear pore
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000005e Nuclear pore
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x0000005f Nuclear pore
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000060 Nuclear pore
+
+# Inspect for Act 8
+
+# Prop #97 - Classroom floor
+0x00000061 Classroom floor
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #98 - Class room
+0x00000062 Class room
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #99 - Shrinkomatic
+0x00000063 Shrinkomatic
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #100 - Classroom wall
+0x00000064 Classroom wall
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #101 - Spotlight Green
+0x00000065 Spotlight Green
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #102 - Dweeble
+0x00000066 Dweeble
+
+# Chatter for Act 1
+0x00000067 Think happy thoughts.
+0x00000068 Don't you need a note from my mommy?
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #105 - Mrs. Atoms
+0x00000069 Mrs. Atoms
+
+# Chatter for Act 1
+0x0000006a I'll be grading you on your performance
+0x0000006b Keep going, you're doing....adequately.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000006c I'll be grading you on your performance
+0x0000006d Keep going, you're doing....adequately.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000006e I'll be grading you on your performance
+0x0000006f Keep going, you're doing....adequately.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000070 I'll be grading you on your performance
+0x00000071 Keep going, you're doing....adequately.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000072 There may be hope for this one yet.
+0x00000073 I think you're getting it!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000074 There may be hope for this one yet.
+0x00000075 I think you're getting it!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x00000076 There may be hope for this one yet.
+0x00000077 I think you're getting it!
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000078 There may be hope for this one yet.
+0x00000079 I think you're getting it!
+
+# Inspect for Act 8
+
+# Prop #122 - Kid Boy
+0x0000007a Kid Boy
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #123 - Kid Girl
+0x0000007b Kid Girl
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #124 - Teleporter
+0x0000007c Teleporter
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #125 - Celestial Portal
+0x0000007d Celestial Portal
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #126 - Dweeble
+0x0000007e Dweeble
+
+# Chatter for Act 1
+0x0000007f I don't feel so well.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000080 I don't feel so well.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000081 I don't feel so well.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000082 I don't feel so well.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000083 I don't feel so well.
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000084 I don't feel so well.
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x00000085 I don't feel so well.
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000086 I don't feel so well.
+
+# Inspect for Act 8
+
+# Prop #135 - Glitter Sphere
+0x00000087 Glitter Sphere
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #136 - Celestial Portal
+0x00000088 Celestial Portal
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #137 - Male Scream
+0x00000089 Male Scream
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #138 - Alien Abduction
+0x0000008a Alien Abduction
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #139 - Echoes Underwater
+0x0000008b Echoes Underwater
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #140 - Dweeble
+0x0000008c Dweeble
+
+# Chatter for Act 1
+0x0000008d I don't feel so well.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000008e I don't feel so well.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000008f I don't feel so well.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000090 I don't feel so well.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000091 I don't feel so well.
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000092 I don't feel so well.
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x00000093 I don't feel so well.
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000094 I don't feel so well.
+
+# Inspect for Act 8
+
+# Prop #149 - Cytosine-Guanine Hydrogen Bond
+0x00000095 Cytosine-Guanine Hydrogen Bond
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #150 - Thymine-Adenine Hydrogen Bond
+0x00000096 Thymine-Adenine Hydrogen Bond
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #151 - Cytosine
+0x00000097 Cytosine
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #152 - Guanine
+0x00000098 Guanine
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #153 - Crate Classic
+0x00000099 Crate Classic
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #154 - Helicase
+0x0000009a Helicase
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #155 - DNA
+0x0000009b DNA
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #156 - Adenine
+0x0000009c Adenine
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #157 - Thymine
+0x0000009d Thymine
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #158 - Thymine (separated)
+0x0000009e Thymine (separated)
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #159 - Guanine (separated)
+0x0000009f Guanine (separated)
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #160 - Adenine (separated)
+0x000000a0 Adenine (separated)
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #161 - RNA Polymerase
+0x000000a1 RNA Polymerase
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000a2 RNA Polymerase: that factory that builds RNA
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #163 - Adenine
+0x000000a3 Adenine
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #164 - Cytosine
+0x000000a4 Cytosine
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #165 - Guanine
+0x000000a5 Guanine
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #166 - Thymine
+0x000000a6 Thymine
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #167 - Pyrophosphates
+0x000000a7 Pyrophosphates
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #168 - Pyrophosphates
+0x000000a8 Pyrophosphates
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #169 - DNA half
+0x000000a9 DNA half
+
+# Chatter for Act 1
+0x000000aa We won't be using this half of the DNA to make RNA. We'll use the other strand.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000ab We won't be using this half of the DNA to make RNA. We'll use the other strand.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000ac We won't be using this half of the DNA to make RNA. We'll use the other strand.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000ad We won't be using this half of the DNA to make RNA. We'll use the other strand.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000000ae We won't be using this half of the DNA to make RNA. We'll use the other strand.
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000000af We won't be using this half of the DNA to make RNA. We'll use the other strand.
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x000000b0 We won't be using this half of the DNA to make RNA. We'll use the other strand.
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x000000b1 We won't be using this half of the DNA to make RNA. We'll use the other strand.
+
+# Inspect for Act 8
+
+# Prop #178 - Messenger RNA
+0x000000b2 Messenger RNA
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000000b3 Messenger RNA
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #180 - Poof White
+0x000000b4 Poof White
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #181 - Sting Fairy 
+0x000000b5 Sting Fairy 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #182 - Endoplasmic Reticulum
+0x000000b6 Endoplasmic Reticulum
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000b7 Endoplasmic Reticulum
+0x000000b8 With Ribosomes!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000b9 Endoplasmic Reticulum
+0x000000ba With Ribosomes!
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000bb Endoplasmic Reticulum
+0x000000bc With Ribosomes!
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000bd Endoplasmic Reticulum
+0x000000be With Ribosomes!
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000bf Endoplasmic Reticulum
+0x000000c0 With Ribosomes!
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000c1 Endoplasmic Reticulum
+0x000000c2 With Ribosomes!
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000c3 Endoplasmic Reticulum
+0x000000c4 With Ribosomes!
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000c5 Endoplasmic Reticulum
+0x000000c6 With Ribosomes!
+
+# Prop #199 - Active Ribosome
+0x000000c7 Active Ribosome
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #200 - Vacuole
+0x000000c8 Vacuole
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #201 - Guanine-Adenine-Guanine  Codon
+0x000000c9 Guanine-Adenine-Guanine  Codon
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #202 - Bomb Short
+0x000000ca Bomb Short
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000cb Guanine Adenine Guanine
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000cc Guanine Adenine Guanine
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000cd Guanine Adenine Guanine
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000ce Guanine Adenine Guanine
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000cf Guanine Adenine Guanine
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000d0 Guanine Adenine Guanine
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000d1 Guanine Adenine Guanine
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000d2 Guanine Adenine Guanine
+
+# Prop #211 - Bomb Short
+0x000000d3 Bomb Short
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000d4 Adenine Uracil Uracil
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000d5 Adenine Uracil Uracil
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000d6 Adenine Uracil Uracil
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000d7 Adenine Uracil Uracil
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000d8 Adenine Uracil Uracil
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000d9 Adenine Uracil Uracil
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000da Adenine Uracil Uracil
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000db Adenine Uracil Uracil
+
+# Prop #220 -   
+0x000000dc   
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000dd Adenine Uracil Cytosine
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000de Adenine Uracil Cytosine
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000df Adenine Uracil Cytosine
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000e0 Adenine Uracil Cytosine
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000e1 Adenine Uracil Cytosine
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000e2 Adenine Uracil Cytosine
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000e3 Adenine Uracil Cytosine
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000e4 Adenine Uracil Cytosine
+
+# Prop #229 -   
+0x000000e5   
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000e6 Cytosine Adenine Cytosine
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000e7 Cytosine Adenine Cytosine
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000e8 Cytosine Adenine Cytosine
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000e9 Cytosine Adenine Cytosine
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000ea Cytosine Adenine Cytosine
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000eb Cytosine Adenine Cytosine
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000ec Cytosine Adenine Cytosine
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000ed Cytosine Adenine Cytosine
+
+# Prop #238 - Bomb Short
+0x000000ee Bomb Short
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000ef Adenine Cytosine Guanine
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000f0 Adenine Cytosine Guanine
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000f1 Adenine Cytosine Guanine
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000f2 Adenine Cytosine Guanine
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000f3 Adenine Cytosine Guanine
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000f4 Adenine Cytosine Guanine
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000f5 Adenine Cytosine Guanine
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000f6 Adenine Cytosine Guanine
+
+# Prop #247 - Bomb Short
+0x000000f7 Bomb Short
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000f8 Guanine Uracil Guanine
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000f9 Guanine Uracil Guanine
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000fa Guanine Uracil Guanine
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000fb Guanine Uracil Guanine
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000fc Guanine Uracil Guanine
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000fd Guanine Uracil Guanine
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000fe Guanine Uracil Guanine
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000ff Guanine Uracil Guanine
+
+# Prop #256 - Teleporter
+0x00000100 Teleporter
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #257 - Teleporter
+0x00000101 Teleporter
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #258 - Protein
+0x00000102 Protein
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #259 - Blue Key
+0x00000103 Blue Key
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #260 - Cheering Crowd
+0x00000104 Cheering Crowd
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #261 - Confetti
+0x00000105 Confetti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #262 - Sting Fairy 
+0x00000106 Sting Fairy 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #263 - Fairy Wand
+0x00000107 Fairy Wand
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+

@@ -1,0 +1,1434 @@
+# Auto-generated localization file for: Mülleimerschlucht (ID: 0X905D1B56)
+# Adventure name
+0x00000001 Mülleimerschlucht
+
+# Adventure description
+0x00000002 Meisterin Niedlich und ihre Mannschaft von "Sportanern" verteidigen Mülleimerschlucht gegen die Pechbärchis. Mach bei dem Kampf mit, Chef! Von Dan Milano.
+
+# Intro text
+0x00000003 Willkommen in der Mülleimerschlucht! Schnall deine beste Waffe um, denn vor uns liegt das niedlichste Gemetzel aller Zeiten!
+
+# Win text
+0x00000004 Glückwunsch, das war ja ein Spitzenkrawall! Meisterin Niedlich und ihre Sportaner danken dir, dass du vorbeigeschaut hast, um Halo zu sagen!
+
+# Lose text
+0x00000005 Oh, das war süß, wie dein Kopf zerteilt wurde. Tut mir leid, Soldat, aber es hat dich erwischt. Was soll's, immerhin war's ein wirklich süßer Abgang. Besuch die Schlucht irgendwann mal wieder!
+
+# Act 1
+0x00000006 Hallo! Wie geht's?
+0x00000007 Willkommen in der Mülleimerschlucht! Für einen so niedlichen und hübschen Ort stinkt es hier wirklich ganz furchtbar!
+
+# Goal 1
+0x00000008 Halo! Wie läuft's?  Ich bin Meisterin Niedlich. Ich bin in deinem Spiel, und wir sind Freunde!  > ^^ <
+0x00000009 Das ist die Mülleimerschlucht. Wir Kätzchen versuchen, sie sauber zu halten, aber diese Bärchen stören ständig unser GLÜCK!
+0x0000000a Wenn wir uns geschickt anstellen, können wir ihre Flagge 3 Mal stehlen, damit sie weinen müssen.
+0x0000000b Stiehlst du sie für uns? Wirst auch dafür umarmt.
+
+
+# Act 2
+0x0000000c Schnapp dir die Flagge!
+0x0000000d Schnapp dir die feindliche Flagge und bring sie in deine Basis! Wenn du das 3 Mal schaffst, ohne draufzugehen, lernen diese Bärchen vielleicht, was Pech ist. Nämlich, als Verlierer dazustehen!
+
+# Goal 1
+
+
+# Act 3
+0x0000000e Schnapp dir die Flagge!
+0x0000000f Hol eine andere Flagge und bring sie zurück zur Kätzchenbasis!
+
+# Goal 1
+
+
+# Act 4
+0x00000010 Schnapp dir die Flagge!
+0x00000011 Hol die letzte Flagge und bring sie zurück zur Kätzchenbasis!
+
+# Goal 1
+
+
+# Prop #18 - Litter Box
+0x00000012 Litter Box
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #19 - Bear Base
+0x00000013 Bear Base
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #20 - Kätzchenbasis
+0x00000014 Kätzchenbasis
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #21 - Killerbärchi
+0x00000015 Killerbärchi
+
+# Chatter for Act 1
+0x00000016 Mach sie kaputt, und du bist geliefert!
+0x00000017 WOOO! Genau wie in Saigon!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000018 Mach sie kaputt, und du bist geliefert!
+0x00000019 WOOO! Genau wie in Saigon!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000001a Mach sie kaputt, und du bist geliefert!
+0x0000001b WOOO! Genau wie in Saigon!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000001c Mach sie kaputt, und du bist geliefert!
+0x0000001d WOOO! Genau wie in Saigon!
+
+# Inspect for Act 4
+
+# Prop #30 - Kriegsprügler
+0x0000001e Kriegsprügler
+
+# Chatter for Act 1
+0x0000001f Ptuh! Ptuh!
+0x00000020 Unfair! Hab dich besiegt!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000021 Ptuh! Ptuh!
+0x00000022 Unfair! Hab dich besiegt!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000023 Ptuh! Ptuh!
+0x00000024 Unfair! Hab dich besiegt!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000025 Ptuh! Ptuh!
+0x00000026 Unfair! Hab dich besiegt!
+
+# Inspect for Act 4
+
+# Prop #39 - Poo Pile
+0x00000027 Poo Pile
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #40 - Flies
+0x00000028 Flies
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #41 - Meisterin Niedlich
+0x00000029 Meisterin Niedlich
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000002a Unsere Basis gehört uns allein!
+0x0000002b Ist Krieg nicht ein Riesenspaß?
+0x0000002c Flaggen sind hübsch! Bring uns mehr!
+0x0000002d Mmm, ich rieche Schießpulverkekse!
+0x0000002e Hut ab, steile Leistung!
+
+# Inspect for Act 4
+
+# Prop #47 - Kackhündchen
+0x0000002f Kackhündchen
+
+# Chatter for Act 1
+0x00000030 Das is mein Planet!
+0x00000031 (= 0_0 =)
+0x00000032 Ich liebe den Geruch von brennenden Bärchis am Morgen!
+0x00000033 o.o
+0x00000034 ;)
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000035 Das is mein Planet!
+0x00000036 (= 0_0 =)
+0x00000037 Ich liebe den Geruch von brennenden Bärchis am Morgen!
+0x00000038 o.o
+0x00000039 ;)
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000003a Das is mein Planet!
+0x0000003b (= 0_0 =)
+0x0000003c Ich liebe den Geruch von brennenden Bärchis am Morgen!
+0x0000003d o.o
+0x0000003e ;)
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000003f Das is mein Planet!
+0x00000040 (= 0_0 =)
+0x00000041 Ich liebe den Geruch von brennenden Bärchis am Morgen!
+0x00000042 o.o
+0x00000043 ;)
+
+# Inspect for Act 4
+
+# Prop #68 - Kuschelpinguin
+0x00000044 Kuschelpinguin
+
+# Chatter for Act 1
+0x00000045 Isch mach gern was platt.
+0x00000046 Können wir jetzt kuscheln?
+0x00000047 Bedecke deinen Hintern!
+0x00000048 ^ ^
+0x00000049 Liebe und Fürsorge!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000004a Isch mach gern was platt.
+0x0000004b Können wir jetzt kuscheln?
+0x0000004c Bedecke deinen Hintern!
+0x0000004d ^ ^
+0x0000004e Liebe und Fürsorge!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000004f Isch mach gern was platt.
+0x00000050 Können wir jetzt kuscheln?
+0x00000051 Bedecke deinen Hintern!
+0x00000052 ^ ^
+0x00000053 Liebe und Fürsorge!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000054 Isch mach gern was platt.
+0x00000055 Können wir jetzt kuscheln?
+0x00000056 Bedecke deinen Hintern!
+0x00000057 ^ ^
+0x00000058 Liebe und Fürsorge!
+
+# Inspect for Act 4
+
+# Prop #89 - Knuddelkätzchen
+0x00000059 Knuddelkätzchen
+
+# Chatter for Act 1
+0x0000005a Vor Lachen aufm Boden kugel!
+0x0000005b Beste Freunde auf ewig!
+0x0000005c Lieb dich wie 'ne Schwester!
+0x0000005d Umarmung und Küsschen!
+0x0000005e Herrje! Vielen Dank!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000005f Vor Lachen aufm Boden kugel!
+0x00000060 Beste Freunde auf ewig!
+0x00000061 Lieb dich wie 'ne Schwester!
+0x00000062 Umarmung und Küsschen!
+0x00000063 Herrje! Vielen Dank!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000064 Vor Lachen aufm Boden kugel!
+0x00000065 Beste Freunde auf ewig!
+0x00000066 Lieb dich wie 'ne Schwester!
+0x00000067 Umarmung und Küsschen!
+0x00000068 Herrje! Vielen Dank!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000069 Vor Lachen aufm Boden kugel!
+0x0000006a Beste Freunde auf ewig!
+0x0000006b Lieb dich wie 'ne Schwester!
+0x0000006c Umarmung und Küsschen!
+0x0000006d Herrje! Vielen Dank!
+
+# Inspect for Act 4
+
+# Prop #110 - Bobo
+0x0000006e Bobo
+
+# Chatter for Act 1
+0x0000006f Ich hätte mein Wachstudium nicht abbrechen sollen.
+0x00000070 Nimm sie, ist mir doch egal!
+0x00000071 Ich muss immer die Flagge bewachen.
+0x00000072 Hast du hier schon mal eine Flagge gesehen?
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000073 Ich hätte mein Wachstudium nicht abbrechen sollen.
+0x00000074 Nimm sie, ist mir doch egal!
+0x00000075 Ich muss immer die Flagge bewachen.
+0x00000076 Hast du hier schon mal eine Flagge gesehen?
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000077 Ich hätte mein Wachstudium nicht abbrechen sollen.
+0x00000078 Nimm sie, ist mir doch egal!
+0x00000079 Ich muss immer die Flagge bewachen.
+0x0000007a Hast du hier schon mal eine Flagge gesehen?
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000007b Ich hätte mein Wachstudium nicht abbrechen sollen.
+0x0000007c Nimm sie, ist mir doch egal!
+0x0000007d Ich muss immer die Flagge bewachen.
+0x0000007e Hast du hier schon mal eine Flagge gesehen?
+
+# Inspect for Act 4
+
+# Prop #127 - Muffelbärchi
+0x0000007f Muffelbärchi
+
+# Chatter for Act 1
+0x00000080 Nicht vor meiner Tür!
+0x00000081 Hierher, süßes Kätzchen!
+0x00000082 Isch geh zu deiner Basis und mach deine Kumpels platt!
+0x00000083 Du sein wär echt übel!
+0x00000084 Flagge oder Leben!!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000085 Nicht vor meiner Tür!
+0x00000086 Hierher, süßes Kätzchen!
+0x00000087 Isch geh zu deiner Basis und mach deine Kumpels platt!
+0x00000088 Du sein wär echt übel!
+0x00000089 Flagge oder Leben!!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000008a Nicht vor meiner Tür!
+0x0000008b Hierher, süßes Kätzchen!
+0x0000008c Isch geh zu deiner Basis und mach deine Kumpels platt!
+0x0000008d Du sein wär echt übel!
+0x0000008e Flagge oder Leben!!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000008f Nicht vor meiner Tür!
+0x00000090 Hierher, süßes Kätzchen!
+0x00000091 Isch geh zu deiner Basis und mach deine Kumpels platt!
+0x00000092 Du sein wär echt übel!
+0x00000093 Flagge oder Leben!!
+
+# Inspect for Act 4
+
+# Prop #148 - Rainbow
+0x00000094 Rainbow
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #149 - Butterflies
+0x00000095 Butterflies
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #150 - Cloud Lightning
+0x00000096 Cloud Lightning
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #151 - Cloud Poison
+0x00000097 Cloud Poison
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #152 - Scooper
+0x00000098 Scooper
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #153 - Herzbonbongranate
+0x00000099 Herzbonbongranate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #154 - Herzbonbongranate
+0x0000009a Herzbonbongranate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #155 - Herzbonbongranate
+0x0000009b Herzbonbongranate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #156 - Muffelbärchi
+0x0000009c Muffelbärchi
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #157 - Kitzelkätzchen
+0x0000009d Kitzelkätzchen
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #158 - Spout Water
+0x0000009e Spout Water
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #159 - Fliegender Fisch
+0x0000009f Fliegender Fisch
+
+# Chatter for Act 1
+0x000000a0 Wheeeeeeeeeeee!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000a1 Wheeeeeeeeeeee!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000a2 Wheeeeeeeeeeee!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000a3 Wheeeeeeeeeeee!
+
+# Inspect for Act 4
+
+# Prop #164 - Power-Up Energy
+0x000000a4 Power-Up Energy
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #165 - Power-Up Health
+0x000000a5 Power-Up Health
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #166 - Power-Up Speed
+0x000000a6 Power-Up Speed
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #167 - Teleporter
+0x000000a7 Teleporter
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #168 - Bärchenflagge
+0x000000a8 Bärchenflagge
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #169 - Kätzchenbasis
+0x000000a9 Kätzchenbasis
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #170 - Smiley Cloud
+0x000000aa Smiley Cloud
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #171 - Smiley Sun
+0x000000ab Smiley Sun
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #172 - Flag Base
+0x000000ac Flag Base
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #173 - Muffelbärchi
+0x000000ad Muffelbärchi
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #174 - Power-Up Armor
+0x000000ae Power-Up Armor
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #175 - Power-Up Damage
+0x000000af Power-Up Damage
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #176 - Riechebärchi
+0x000000b0 Riechebärchi
+
+# Chatter for Act 1
+0x000000b1 Miesmacher!
+0x000000b2 Abgedreht!
+0x000000b3 Nieder mit den Schnurrern!
+0x000000b4 Ins MIAU gehört ein AU!
+0x000000b5 So ein Pech!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000b6 Miesmacher!
+0x000000b7 Abgedreht!
+0x000000b8 Nieder mit den Schnurrern!
+0x000000b9 Ins MIAU gehört ein AU!
+0x000000ba So ein Pech!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000bb Miesmacher!
+0x000000bc Abgedreht!
+0x000000bd Nieder mit den Schnurrern!
+0x000000be Ins MIAU gehört ein AU!
+0x000000bf So ein Pech!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000c0 Miesmacher!
+0x000000c1 Abgedreht!
+0x000000c2 Nieder mit den Schnurrern!
+0x000000c3 Ins MIAU gehört ein AU!
+0x000000c4 So ein Pech!
+
+# Inspect for Act 4
+
+# Prop #197 - Poo3
+0x000000c5 Poo3
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #198 - Glitter Sphere
+0x000000c6 Glitter Sphere
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #199 - Cat Toy
+0x000000c7 Cat Toy
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #200 - Cat Toy2
+0x000000c8 Cat Toy2
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #201 - Kackgranate
+0x000000c9 Kackgranate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #202 - Kackmine
+0x000000ca Kackmine
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #203 - Explosivkacke
+0x000000cb Explosivkacke
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #204 - Explosive Barrel
+0x000000cc Explosive Barrel
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #205 - Smoke Black
+0x000000cd Smoke Black
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #206 - Shish Kabob1
+0x000000ce Shish Kabob1
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #207 - Spotlight Green
+0x000000cf Spotlight Green
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #208 - Spotlight Pink
+0x000000d0 Spotlight Pink
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #209 - Lightning
+0x000000d1 Lightning
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #210 - Mad Cloud
+0x000000d2 Mad Cloud
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #211 - Explosive Barrel
+0x000000d3 Explosive Barrel
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #212 - box platform
+0x000000d4 box platform
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #213 - Explosive Barrel
+0x000000d5 Explosive Barrel
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #214 - Stinkebärchi
+0x000000d6 Stinkebärchi
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000d7 Keine Mätzchen mit den Kätzchen!
+0x000000d8 Nieder mit den Schnurrern!
+0x000000d9 Hierher, süßes Kätzchen!
+0x000000da Ins MIAU gehört ein AU!
+0x000000db Seh ich aus, als würde mich das interessieren?
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000dc Keine Mätzchen mit den Kätzchen!
+0x000000dd Nieder mit den Schnurrern!
+0x000000de Hierher, süßes Kätzchen!
+0x000000df Ins MIAU gehört ein AU!
+0x000000e0 Seh ich aus, als würde mich das interessieren?
+
+# Inspect for Act 4
+
+# Prop #225 - Kitzelkätzchen
+0x000000e1 Kitzelkätzchen
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #226 - Tootin'
+0x000000e2 Tootin'
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #227 - Fresh Powder
+0x000000e3 Fresh Powder
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #228 - Nestling Ambience
+0x000000e4 Nestling Ambience
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #229 - Thunder
+0x000000e5 Thunder
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #230 - Evil Whispers
+0x000000e6 Evil Whispers
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #231 - Metal Madness
+0x000000e7 Metal Madness
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #232 - Factory Steam
+0x000000e8 Factory Steam
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #233 - Kittie Helper
+0x000000e9 Kittie Helper
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+

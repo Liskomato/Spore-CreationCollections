@@ -1,0 +1,280 @@
+# Auto-generated localization file for: Clark and Stanley Go Swimming (ID: 0X986E1A60)
+# Adventure name
+0x00000001 Clark and Stanley Go Swimming
+
+# Adventure description
+0x00000002 Meet up with Clark and Stanley out by the beach where they've gone swimming.~br~Created by MaxisCimino
+
+# Intro text
+0x00000003 Sensors indicate that Clark and Stanley have requested your assitance once again. Go find them and see what they are up to. 
+
+# Win text
+0x00000004 Wow, these guys have the combined IQ of a sand crab.  But seriously dude, dancing 5 seconds after their deaths? That's just cold.
+
+# Lose text
+0x00000005 SHAAAAAAAAARK!!!
+
+# Act 1
+0x00000006 Beach Side
+0x00000007 Look for Clark and Stanley flapping in the water, but don't take a dip yourself.
+
+# Goal 1
+0x00000008 Hello friend! We're so glad you came!
+0x00000009 Stanley and I have been trying to swim with the dolphins all morning. Sadly we've had no luck.
+0x0000000a But worry not my friend for the waiting is almost over! We chummed the water.
+0x0000000b The cute dolphins should be here any second for hours and hours of fun.
+
+
+# Act 2
+0x0000000c Something in the Water
+0x0000000d Those are funny looking dolphins...
+
+
+# Act 3
+0x0000000e Oh no!
+0x0000000f Poor Clark and Stanley!
+
+
+# Prop #16 - Pier
+0x00000010 Pier
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #17 - Jump Pad 
+0x00000011 Jump Pad 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #18 - Clark
+0x00000012 Clark
+
+# Chatter for Act 1
+0x00000013 Hello there friend!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000014 Stanley, I don’t think those are dolphins!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #21 - Stanley
+0x00000015 Stanley
+
+# Chatter for Act 1
+0x00000016 Yay! You made it!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #23 - Shark
+0x00000017 Shark
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #24 - Jumping Fish
+0x00000018 Jumping Fish
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #25 - Shark
+0x00000019 Shark
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #26 - Sting Big Drum
+0x0000001a Sting Big Drum
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #27 - Vaudeville
+0x0000001b Vaudeville
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #28 - Beach Ambience
+0x0000001c Beach Ambience
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #29 - Chum
+0x0000001d Chum
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #30 - Shark
+0x0000001e Shark
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #31 - Sting Jazz Finale
+0x0000001f Sting Jazz Finale
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #32 - Palmento
+0x00000020 Palmento
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #33 - Seagull
+0x00000021 Seagull
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #34 - Crab
+0x00000022 Crab
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+

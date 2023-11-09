@@ -1,0 +1,3409 @@
+# Auto-generated localization file for: Planet in Not (ID: 0X96D7E693)
+# Adventure name
+0x00000001 Planet in Not
+
+# Adventure description
+0x00000002 Hilf den Bewohnern, das Paradies wieder in seinen ursprünglichen Zustand zu versetzen, indem du ihnen Kleidung gibst und den Apfel zum Baum der Erkenntnis zurückbringst.  Von Kevin Shinick.
+
+# Intro text
+0x00000003 Bringe dem Paradies seine ursprüngliche Schönheit zurück, indem du die nackten Dorfbewohner vor den Schlangen rettest und sie zum Spore-Mart-Supermarkt bringst.
+
+# Win text
+0x00000004 Glückwunsch! Du bist ja gar nicht so abartig wie wir dachten! Willkommen im Paradies!
+
+# Lose text
+0x00000005 Jetzt steckst du wohl in der ewigen Verdammnis fest! Wollen wir mit deiner Mutter zum Mittagessen gehen?
+
+# Act 1
+0x00000006 Ein Garten in Not
+0x00000007 In keinem anderen Universum wäre das jetzt ein guter Rat, aber vielleicht solltest du mal mit dem riesigen FKKler da reden.
+
+# Goal 1
+0x00000008 Hilfe! Wir haben was wirklich Dummes angestellt. Du weißt doch, dass Ärzte sagen, es sei gesund, Äpfel zu essen? Alles Blödsinn! Ein Apfel pro Tag, und jetzt ist meine Hose weg!
+0x00000009 Dazu noch Hemd, Unterwäsche und alles andere, außer meinem Hautausschlag.
+0x0000000a Außerdem greifen uns diese Schlangen an und ... HALLO! Meine Augen sind hier oben, Mann! Wie wär's mit etwas Anstand?
+0x0000000b Du bist genauso schlimm wie dieser Glotzkater da drüben. Das furchtbare Raubtier hat SECHS Augen, und fünf davon starren mir auf meine edelsten Teile. Das sechste ist vermutlich nur faul.
+0x0000000c Wenn man ihn SCHOCKIERT, werden daraus EXPLODIERENDE Augen. Das ist praktisch, wenn du uns helfen willst, die Schlangen loszuwerden und Kleidung zu besorgen. Und mein Hüftumfang ist 145.
+
+
+# Act 2
+0x0000000d Alles im Blick
+0x0000000e Wenn tanzen alles ist, was du tun musst, damit das furchtbare Raubtier seine explodierenden Augenbomben fallen lässt, kannst du von Glück reden.
+
+# Goal 1
+0x0000000f Was guckst du denn so? Es gibt kein Gebot, das da lautet: 'Du sollst keine Nackten angaffen!' Und jetzt verzieh dich!
+0x00000010 Und wenn du meinst, du kannst mich schockieren, bist du schief gewickelt. Ich habe hier schon mehr Eier gesehen, als es auf einem Hühnerhof gibt. Mehr edle Teile als im besten Juwelierladen.
+0x00000011 Eigentlich schockiert mich nichts mehr, außer jemand ist blöd genug, in der Öffentlichkeit zu tanzen.
+
+# Goal 2
+
+
+# Act 3
+0x00000012 Alles im Blick
+0x00000013 Du hast deinen Kopf benutzt, um so weit zu kommen, also benutze jetzt diese Augen, um die Schlangen zu besiegen!
+
+# Goal 1
+
+
+# Act 4
+0x00000014 Nix Schuh. Nix Hemd. Nix Scham.
+0x00000015 Großer Opa Schmidt! Du hast den besonderen Apfel gefunden! Nimm ihn und führe diese Narren zum örtlichen SporeMart!
+
+# Goal 1
+
+# Goal 2
+
+
+# Act 5
+0x00000016 Rücknahmebedingungen für Nackte
+0x00000017 Während alle Kleidung kaufen, solltest du Gottfried, den Leiter des SporeMarts, finden und ihm den Apfel geben. Den nimmt er lieber als Kreditkarten.
+
+# Goal 1
+0x00000018 Danke für deinen Einkauf bei Gottfried - dem größten Sporemarkt der Galaxie!
+0x00000019 Durch den Einkauf von so viel Kleidung und die Rückgabe des Apfels bist du heute unser Kunde des Tages!
+0x0000001a Als Dankeschön habe ich dem Paradies seine ursprüngliche Schönheit zurückgegeben. Geh raus und sieh's dir mal an! Und mach nicht wieder ein &@#* draus!
+0x0000001b Komm bitte wieder!
+
+# Goal 2
+
+
+# Act 6
+0x0000001c Am letzten Tag gab's Party!
+0x0000001d Finde Rudy und sieh dir seine neuen Klamotten an!
+
+# Goal 1
+
+# Goal 2
+0x0000001e Hey! Da bist du ja. Danke, dass du den Planeten gerettet hast. Und das alles ohne Recycling!
+0x0000001f Was hältst du von meinem neuen Look? Der wird mir bei den Damen sicher weiterhelfen.
+0x00000020 Oder bei den Männern. Ich bin verwirrt.
+0x00000021 Liebling!
+
+
+# Prop #34 - Pear
+0x00000022 Pear
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #35 - Skeleton Cluster
+0x00000023 Skeleton Cluster
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #36 - Skeleton Ribcage
+0x00000024 Skeleton Ribcage
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #37 - Skeleton Fish
+0x00000025 Skeleton Fish
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #38 - Rudy, der Nackte
+0x00000026 Rudy, der Nackte
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #39 - SporeMart
+0x00000027 SporeMart
+
+# Chatter for Act 1
+0x00000028 SporeMart
+0x00000029 Nackte willkommen!
+0x0000002a Super-Sonntag-Sonderangebot!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000002b SporeMart
+0x0000002c Nackte willkommen!
+0x0000002d Super-Sonntag-Sonderangebot!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000002e SporeMart
+0x0000002f Nackte willkommen!
+0x00000030 Super-Sonntag-Sonderangebot!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000031 SporeMart
+0x00000032 Nackte willkommen!
+0x00000033 Super-Sonntag-Sonderangebot!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #52 - Marquee
+0x00000034 Marquee
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #53 - Skeleton Head
+0x00000035 Skeleton Head
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #54 - Skeleton Fragments
+0x00000036 Skeleton Fragments
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #55 - Skeleton Bone
+0x00000037 Skeleton Bone
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #56 - Conglomerate Rock
+0x00000038 Conglomerate Rock
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #57 - Fig
+0x00000039 Fig
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #58 - Fiese Katze
+0x0000003a Fiese Katze
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #59 - Fiese Katze
+0x0000003b Fiese Katze
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #60 - Grenade
+0x0000003c Grenade
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #61 - SporeMart-Verkäufer
+0x0000003d SporeMart-Verkäufer
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #62 - Schlange
+0x0000003e Schlange
+
+# Chatter for Act 1
+0x0000003f Mmmmm! Das andere weiße Fleisch!
+0x00000040 Nackedi, Nackedu, Nackedeideidei!
+0x00000041 Unfassbar! Diesen Ort muss man einfach lieben.
+0x00000042 Man wird davon überhaupt nicht satt.
+0x00000043 Ich bin nicht gemein, nur hungrig.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000044 Mmmmm! Das andere weiße Fleisch!
+0x00000045 Nackedi, Nackedu, Nackedeideidei!
+0x00000046 Unfassbar! Diesen Ort muss man einfach lieben.
+0x00000047 Man wird davon überhaupt nicht satt.
+0x00000048 Ich bin nicht gemein, nur hungrig.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000049 Mmmmm! Das andere weiße Fleisch!
+0x0000004a Nackedi, Nackedu, Nackedeideidei!
+0x0000004b Unfassbar! Diesen Ort muss man einfach lieben.
+0x0000004c Man wird davon überhaupt nicht satt.
+0x0000004d Ich bin nicht gemein, nur hungrig.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #78 - Mongtu
+0x0000004e Mongtu
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #79 - Apfel
+0x0000004f Apfel
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #80 - Glitter Sphere
+0x00000050 Glitter Sphere
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #81 - Mystischer Apfel
+0x00000051 Mystischer Apfel
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000052 Mystischer Apfel
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000053 Mystischer Apfel
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000054 Mystischer Apfel
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #85 - Panicking Crowd
+0x00000055 Panicking Crowd
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #86 - Toronado
+0x00000056 Toronado
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #87 - Jump Pad 
+0x00000057 Jump Pad 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #88 - Binoculars
+0x00000058 Binoculars
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #89 - Folding Chair
+0x00000059 Folding Chair
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #90 - Mordleff
+0x0000005a Mordleff
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #91 - Pounded Plaza
+0x0000005b Pounded Plaza
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #92 - SporeMart Sides Damaged
+0x0000005c SporeMart Sides Damaged
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #93 - SporeMart Door Damaged Closed
+0x0000005d SporeMart Door Damaged Closed
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #94 - Nach Eden
+0x0000005e Nach Eden
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #95 - SporeMart Wall
+0x0000005f SporeMart Wall
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #96 - Museum Windows
+0x00000060 Museum Windows
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #97 - SporeMart Wall End
+0x00000061 SporeMart Wall End
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #98 - SporeMart Pole
+0x00000062 SporeMart Pole
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #99 - SporeMart Counter 1
+0x00000063 SporeMart Counter 1
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #100 - SporeMart Counter 2
+0x00000064 SporeMart Counter 2
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #101 - Gottfried
+0x00000065 Gottfried
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #102 - Zum SporeMart
+0x00000066 Zum SporeMart
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #103 - SporeMart
+0x00000067 SporeMart
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #104 - SporeMart Sides
+0x00000068 SporeMart Sides
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #105 - Gardelobatus
+0x00000069 Gardelobatus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #106 - Grundspurius
+0x0000006a Grundspurius
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #107 - Zona
+0x0000006b Zona
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #108 - Rainbow
+0x0000006c Rainbow
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #109 - Forest Ambience
+0x0000006d Forest Ambience
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #110 - Angezogener Rudy
+0x0000006e Angezogener Rudy
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #111 - Höhlenmann
+0x0000006f Höhlenmann
+
+# Chatter for Act 1
+0x00000070 Ich weiß nicht, wo ich meine Geldbörse hintun soll.
+0x00000071 Für ein Suspensorium gäbe ich jetzt alles!
+0x00000072 Ich hoffe, dass er am achten Tag die Anti-Reibungscreme erschafft!
+0x00000073 Ich glaube, man hat gerade meinen Lümmel gesehen.
+0x00000074 Das gibt dem Begriff "Sackhüpfen" eine völlig neue Bedeutung.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000075 Ich weiß nicht, wo ich meine Geldbörse hintun soll.
+0x00000076 Für ein Suspensorium gäbe ich jetzt alles!
+0x00000077 Ich hoffe, dass er am achten Tag die Anti-Reibungscreme erschafft!
+0x00000078 Ich glaube, man hat gerade meinen Lümmel gesehen.
+0x00000079 Das gibt dem Begriff "Sackhüpfen" eine völlig neue Bedeutung.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000007a Er muss meine Schlange riechen!
+0x0000007b Das ist wie eine Aufführung von 'Die Nackte und das Biest'.
+0x0000007c Ich werde jetzt gleich ein Naked Lunch, also ein nacktes Mittagessen.
+0x0000007d Serpentine, Sheldon, Serpentine!
+0x0000007e So was träume ich immer, wenn ich Tacos gegessen habe!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000007f Wow! Der Apfel fällt wirklich nicht weit vom Stamm.
+0x00000080 Er ist so reif!
+0x00000081 Warum habe ich das Gefühl, ich müsste jetzt die Theorie der Schwerkraft erklären?
+0x00000082 Hoffentlich sind meine Birnenaktien nicht auch gefallen.
+0x00000083 Warum starren wir alle diesen Apfel an?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000084 Ich sehe großartig aus!
+0x00000085 Ich glaube, ich habe bei der Apfeldiät einiges an Gewicht verloren.
+0x00000086 Hat noch jemand einen richtigen Sonnenbrand?
+0x00000087 Ich bin allergisch gegen Wolle.
+0x00000088 Können wir bei der Lebensmittelabteilung anhalten?
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #137 - Höhlenmann
+0x00000089 Höhlenmann
+
+# Chatter for Act 1
+0x0000008a Er muss meine Schlange riechen!
+0x0000008b Das ist wie eine Aufführung von 'Die Nackte und das Biest'.
+0x0000008c Ich werde jetzt gleich ein Naked Lunch, also ein nacktes Mittagessen.
+0x0000008d Serpentine, Sheldon, Serpentine!
+0x0000008e So was träume ich immer, wenn ich Tacos gegessen habe!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000008f Er muss meine Schlange riechen!
+0x00000090 Das ist wie eine Aufführung von 'Die Nackte und das Biest'.
+0x00000091 Ich werde jetzt gleich ein Naked Lunch, also ein nacktes Mittagessen.
+0x00000092 Serpentine, Sheldon, Serpentine!
+0x00000093 So was träume ich immer, wenn ich Tacos gegessen habe!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000094 Er muss meine Schlange riechen!
+0x00000095 Das ist wie eine Aufführung von 'Die Nackte und das Biest'.
+0x00000096 Ich werde jetzt gleich ein Naked Lunch, also ein nacktes Mittagessen.
+0x00000097 Serpentine, Sheldon, Serpentine!
+0x00000098 So was träume ich immer, wenn ich Tacos gegessen habe!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000099 Wow! Der Apfel fällt wirklich nicht weit vom Stamm.
+0x0000009a Er ist so reif!
+0x0000009b Warum habe ich das Gefühl, ich müsste jetzt die Theorie der Schwerkraft erklären?
+0x0000009c Hoffentlich sind meine Birnenaktien nicht auch gefallen.
+0x0000009d Warum starren wir alle diesen Apfel an?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x0000009e Ich sehe großartig aus!
+0x0000009f Ich glaube, ich habe bei der Apfeldiät einiges an Gewicht verloren.
+0x000000a0 Hat noch jemand einen richtigen Sonnenbrand?
+0x000000a1 Ich bin allergisch gegen Wolle.
+0x000000a2 Können wir bei der Lebensmittelabteilung anhalten?
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #163 - Höhlenmann
+0x000000a3 Höhlenmann
+
+# Chatter for Act 1
+0x000000a4 Ich weiß nicht, wo ich meine Geldbörse hintun soll.
+0x000000a5 Für ein Suspensorium gäbe ich jetzt alles!
+0x000000a6 Ich hoffe, dass er am achten Tag die Anti-Reibungscreme erschafft!
+0x000000a7 Ich glaube, man hat gerade meinen Lümmel gesehen.
+0x000000a8 Das gibt dem Begriff "Sackhüpfen" eine völlig neue Bedeutung.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000a9 Ich weiß nicht, wo ich meine Geldbörse hintun soll.
+0x000000aa Für ein Suspensorium gäbe ich jetzt alles!
+0x000000ab Ich hoffe, dass er am achten Tag die Anti-Reibungscreme erschafft!
+0x000000ac Ich glaube, man hat gerade meinen Lümmel gesehen.
+0x000000ad Das gibt dem Begriff "Sackhüpfen" eine völlig neue Bedeutung.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000ae Er muss meine Schlange riechen!
+0x000000af Das ist wie eine Aufführung von 'Die Nackte und das Biest'.
+0x000000b0 Ich werde jetzt gleich ein Naked Lunch, also ein nacktes Mittagessen.
+0x000000b1 Serpentine, Sheldon, Serpentine!
+0x000000b2 So was träume ich immer, wenn ich Tacos gegessen habe!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000b3 Wow! Der Apfel fällt wirklich nicht weit vom Stamm.
+0x000000b4 Er ist so reif!
+0x000000b5 Warum habe ich das Gefühl, ich müsste jetzt die Theorie der Schwerkraft erklären?
+0x000000b6 Hoffentlich sind meine Birnenaktien nicht auch gefallen.
+0x000000b7 Warum starren wir alle diesen Apfel an?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000000b8 Ich sehe großartig aus!
+0x000000b9 Ich glaube, ich habe bei der Apfeldiät einiges an Gewicht verloren.
+0x000000ba Hat noch jemand einen richtigen Sonnenbrand?
+0x000000bb Ich bin allergisch gegen Wolle.
+0x000000bc Können wir bei der Lebensmittelabteilung anhalten?
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #189 - Höhlenfrau
+0x000000bd Höhlenfrau
+
+# Chatter for Act 1
+0x000000be Ich weiß nicht, wo ich meine Geldbörse hintun soll.
+0x000000bf Für ein Suspensorium gäbe ich jetzt alles!
+0x000000c0 Ich hoffe, dass er am achten Tag die Anti-Reibungscreme erschafft!
+0x000000c1 Ich glaube, man hat gerade meinen Lümmel gesehen.
+0x000000c2 Das gibt dem Begriff "Sackhüpfen" eine völlig neue Bedeutung.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000c3 Ich weiß nicht, wo ich meine Geldbörse hintun soll.
+0x000000c4 Für ein Suspensorium gäbe ich jetzt alles!
+0x000000c5 Ich hoffe, dass er am achten Tag die Anti-Reibungscreme erschafft!
+0x000000c6 Ich glaube, man hat gerade meinen Lümmel gesehen.
+0x000000c7 Das gibt dem Begriff "Sackhüpfen" eine völlig neue Bedeutung.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000c8 Das ist wie eine Aufführung von 'Die Nackte und das Biest'.
+0x000000c9 Ich werde jetzt gleich ein Naked Lunch, also ein nacktes Mittagessen.
+0x000000ca Serpentine, Sheldon, Serpentine!
+0x000000cb So was träume ich immer, wenn ich Tacos gegessen habe!
+0x000000cc Pass auf, wo du die Dinger hinwirfst!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000cd Wow! Der Apfel fällt wirklich nicht weit vom Stamm.
+0x000000ce Er ist so reif!
+0x000000cf Warum habe ich das Gefühl, ich müsste jetzt die Theorie der Schwerkraft erklären?
+0x000000d0 Hoffentlich sind meine Birnenaktien nicht auch gefallen.
+0x000000d1 Warum starren wir alle diesen Apfel an?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000000d2 Ich sehe großartig aus!
+0x000000d3 Ich glaube, ich habe bei der Apfeldiät einiges an Gewicht verloren.
+0x000000d4 Hat noch jemand einen richtigen Sonnenbrand?
+0x000000d5 Ich bin allergisch gegen Wolle.
+0x000000d6 Können wir bei der Lebensmittelabteilung anhalten?
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #215 - Höhlenmann
+0x000000d7 Höhlenmann
+
+# Chatter for Act 1
+0x000000d8 Er muss meine Schlange riechen!
+0x000000d9 Das ist wie eine Aufführung von 'Die Nackte und das Biest'.
+0x000000da Ich werde jetzt gleich ein Naked Lunch, also ein nacktes Mittagessen.
+0x000000db Serpentine, Sheldon, Serpentine!
+0x000000dc So was träume ich immer, wenn ich Tacos gegessen habe!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000dd Er muss meine Schlange riechen!
+0x000000de Das ist wie eine Aufführung von 'Die Nackte und das Biest'.
+0x000000df Ich werde jetzt gleich ein Naked Lunch, also ein nacktes Mittagessen.
+0x000000e0 Serpentine, Sheldon, Serpentine!
+0x000000e1 So was träume ich immer, wenn ich Tacos gegessen habe!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000e2 Er muss meine Schlange riechen!
+0x000000e3 Das ist wie eine Aufführung von 'Die Nackte und das Biest'.
+0x000000e4 Ich werde jetzt gleich ein Naked Lunch, also ein nacktes Mittagessen.
+0x000000e5 Serpentine, Sheldon, Serpentine!
+0x000000e6 So was träume ich immer, wenn ich Tacos gegessen habe!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000e7 Wow! Der Apfel fällt wirklich nicht weit vom Stamm.
+0x000000e8 Er ist so reif!
+0x000000e9 Warum habe ich das Gefühl, ich müsste jetzt die Theorie der Schwerkraft erklären?
+0x000000ea Hoffentlich sind meine Birnenaktien nicht auch gefallen.
+0x000000eb Warum starren wir alle diesen Apfel an?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000000ec Ich sehe großartig aus!
+0x000000ed Ich glaube, ich habe bei der Apfeldiät einiges an Gewicht verloren.
+0x000000ee Hat noch jemand einen richtigen Sonnenbrand?
+0x000000ef Ich bin allergisch gegen Wolle.
+0x000000f0 Können wir bei der Lebensmittelabteilung anhalten?
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #241 - Höhlenmann
+0x000000f1 Höhlenmann
+
+# Chatter for Act 1
+0x000000f2 Ich weiß nicht, wo ich meine Geldbörse hintun soll.
+0x000000f3 Für ein Suspensorium gäbe ich jetzt alles!
+0x000000f4 Ich hoffe, dass er am achten Tag die Anti-Reibungscreme erschafft!
+0x000000f5 Ich glaube, man hat gerade meinen Lümmel gesehen.
+0x000000f6 Das gibt dem Begriff "Sackhüpfen" eine völlig neue Bedeutung.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000f7 Ich weiß nicht, wo ich meine Geldbörse hintun soll.
+0x000000f8 Für ein Suspensorium gäbe ich jetzt alles!
+0x000000f9 Ich hoffe, dass er am achten Tag die Anti-Reibungscreme erschafft!
+0x000000fa Ich glaube, man hat gerade meinen Lümmel gesehen.
+0x000000fb Das gibt dem Begriff "Sackhüpfen" eine völlig neue Bedeutung.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000fc Er muss meine Schlange riechen!
+0x000000fd Das ist wie eine Aufführung von 'Die Nackte und das Biest'.
+0x000000fe Ich werde jetzt gleich ein Naked Lunch, also ein nacktes Mittagessen.
+0x000000ff Serpentine, Sheldon, Serpentine!
+0x00000100 So was träume ich immer, wenn ich Tacos gegessen habe!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000101 Wow! Der Apfel fällt wirklich nicht weit vom Stamm.
+0x00000102 Er ist so reif!
+0x00000103 Warum habe ich das Gefühl, ich müsste jetzt die Theorie der Schwerkraft erklären?
+0x00000104 Hoffentlich sind meine Birnenaktien nicht auch gefallen.
+0x00000105 Warum starren wir alle diesen Apfel an?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000106 Ich sehe großartig aus!
+0x00000107 Ich glaube, ich habe bei der Apfeldiät einiges an Gewicht verloren.
+0x00000108 Hat noch jemand einen richtigen Sonnenbrand?
+0x00000109 Ich bin allergisch gegen Wolle.
+0x0000010a Können wir bei der Lebensmittelabteilung anhalten?
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #267 - Höhlenmann
+0x0000010b Höhlenmann
+
+# Chatter for Act 1
+0x0000010c Er muss meine Schlange riechen!
+0x0000010d Das ist wie eine Aufführung von 'Die Nackte und das Biest'.
+0x0000010e Ich werde jetzt gleich ein Naked Lunch, also ein nacktes Mittagessen.
+0x0000010f Serpentine, Sheldon, Serpentine!
+0x00000110 So was träume ich immer, wenn ich Tacos gegessen habe!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000111 Er muss meine Schlange riechen!
+0x00000112 Das ist wie eine Aufführung von 'Die Nackte und das Biest'.
+0x00000113 Ich werde jetzt gleich ein Naked Lunch, also ein nacktes Mittagessen.
+0x00000114 Serpentine, Sheldon, Serpentine!
+0x00000115 So was träume ich immer, wenn ich Tacos gegessen habe!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000116 Er muss meine Schlange riechen!
+0x00000117 Das ist wie eine Aufführung von 'Die Nackte und das Biest'.
+0x00000118 Ich werde jetzt gleich ein Naked Lunch, also ein nacktes Mittagessen.
+0x00000119 Serpentine, Sheldon, Serpentine!
+0x0000011a So was träume ich immer, wenn ich Tacos gegessen habe!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000011b Wow! Der Apfel fällt wirklich nicht weit vom Stamm.
+0x0000011c Er ist so reif!
+0x0000011d Warum habe ich das Gefühl, ich müsste jetzt die Theorie der Schwerkraft erklären?
+0x0000011e Hoffentlich sind meine Birnenaktien nicht auch gefallen.
+0x0000011f Warum starren wir alle diesen Apfel an?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000120 Ich sehe großartig aus!
+0x00000121 Ich glaube, ich habe bei der Apfeldiät einiges an Gewicht verloren.
+0x00000122 Hat noch jemand einen richtigen Sonnenbrand?
+0x00000123 Ich bin allergisch gegen Wolle.
+0x00000124 Können wir bei der Lebensmittelabteilung anhalten?
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #293 - Angezogener Mann
+0x00000125 Angezogener Mann
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000126 Ich liebe Gartenpartys!
+0x00000127 Nackt hast du mir besser gefallen.
+0x00000128 Ich mache heute Party, als hätten wir schon Tag neun!
+0x00000129 Ich glaube, ich bin in Efeu reingetreten.
+0x0000012a Hier brauchst du doch mindestens 50 Gärtner.
+
+# Inspect for Act 6
+
+# Prop #299 - Angezogener Mann
+0x0000012b Angezogener Mann
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000012c Ich liebe Gartenpartys!
+0x0000012d Nackt hast du mir besser gefallen.
+0x0000012e Ich mache heute Party, als hätten wir schon Tag neun!
+0x0000012f Ich glaube, ich bin in Efeu reingetreten.
+0x00000130 Hier brauchst du doch mindestens 50 Gärtner.
+
+# Inspect for Act 6
+
+# Prop #305 - Angezogener Mann
+0x00000131 Angezogener Mann
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000132 Ich liebe Gartenpartys!
+0x00000133 Nackt hast du mir besser gefallen.
+0x00000134 Ich mache heute Party, als hätten wir schon Tag neun!
+0x00000135 Ich glaube, ich bin in Efeu reingetreten.
+0x00000136 Hier brauchst du doch mindestens 50 Gärtner.
+
+# Inspect for Act 6
+
+# Prop #311 - Angezogener Mann
+0x00000137 Angezogener Mann
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000138 Ich liebe Gartenpartys!
+0x00000139 Nackt hast du mir besser gefallen.
+0x0000013a Ich mache heute Party, als hätten wir schon Tag neun!
+0x0000013b Ich glaube, ich bin in Efeu reingetreten.
+0x0000013c Hier brauchst du doch mindestens 50 Gärtner.
+
+# Inspect for Act 6
+
+# Prop #317 - Angezogener Mann
+0x0000013d Angezogener Mann
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000013e Ich liebe Gartenpartys!
+0x0000013f Nackt hast du mir besser gefallen.
+0x00000140 Ich mache heute Party, als hätten wir schon Tag neun!
+0x00000141 Ich glaube, ich bin in Efeu reingetreten.
+0x00000142 Hier brauchst du doch mindestens 50 Gärtner.
+
+# Inspect for Act 6
+
+# Prop #323 - Angezogener Mann
+0x00000143 Angezogener Mann
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000144 Ich liebe Gartenpartys!
+0x00000145 Nackt hast du mir besser gefallen.
+0x00000146 Ich mache heute Party, als hätten wir schon Tag neun!
+0x00000147 Ich glaube, ich bin in Efeu reingetreten.
+0x00000148 Hier brauchst du doch mindestens 50 Gärtner.
+
+# Inspect for Act 6
+
+# Prop #329 - Angezogener Mann
+0x00000149 Angezogener Mann
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000014a Ich liebe Gartenpartys!
+0x0000014b Nackt hast du mir besser gefallen.
+0x0000014c Ich mache heute Party, als hätten wir schon Tag neun!
+0x0000014d Ich glaube, ich bin in Efeu reingetreten.
+0x0000014e Hier brauchst du doch mindestens 50 Gärtner.
+
+# Inspect for Act 6
+
+# Prop #335 - Höhlenmann
+0x0000014f Höhlenmann
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #336 - Höhlenmann
+0x00000150 Höhlenmann
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #337 - Blue Gate
+0x00000151 Blue Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #338 - Eden-Sonnenlicht
+0x00000152 Eden-Sonnenlicht
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #339 - Rudy Sonnenlicht
+0x00000153 Rudy Sonnenlicht
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #340 - Kleiderregal A
+0x00000154 Kleiderregal A
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #341 - Kleiderregal B
+0x00000155 Kleiderregal B
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #342 - Kleiderregal C
+0x00000156 Kleiderregal C
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #343 - Poof White
+0x00000157 Poof White
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #344 - Cha Cha
+0x00000158 Cha Cha
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #345 - Boogaloo
+0x00000159 Boogaloo
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #346 - Sting Angels
+0x0000015a Sting Angels
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #347 - Sting Fairy 
+0x0000015b Sting Fairy 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #348 - Sunbeams
+0x0000015c Sunbeams
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #349 - Awed Crowd
+0x0000015d Awed Crowd
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #350 - Glitter Sphere
+0x0000015e Glitter Sphere
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #351 - Searchlight
+0x0000015f Searchlight
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #352 - Female Scream
+0x00000160 Female Scream
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #353 - PervCat's Magazines
+0x00000161 PervCat's Magazines
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #354 - Butterflies
+0x00000162 Butterflies
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #355 - Pond
+0x00000163 Pond
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #356 - Waterfall
+0x00000164 Waterfall
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #357 - SporeMart Sign
+0x00000165 SporeMart Sign
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #358 - Spotlight Lone 
+0x00000166 Spotlight Lone 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #359 - Runway Lights
+0x00000167 Runway Lights
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #360 - Festivity Fountain
+0x00000168 Festivity Fountain
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #361 - Foliage Folly
+0x00000169 Foliage Folly
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #362 - Crate Classic
+0x0000016a Crate Classic
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #363 - City Lights
+0x0000016b City Lights
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #364 - Marquee
+0x0000016c Marquee
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #365 - Balloons
+0x0000016d Balloons
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #366 - Glitter Sphere
+0x0000016e Glitter Sphere
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #367 - Fog White
+0x0000016f Fog White
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #368 - Halo
+0x00000170 Halo
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #369 - Isoslaya
+0x00000171 Isoslaya
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #370 - Zazafuscus
+0x00000172 Zazafuscus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #371 - Pinjoop
+0x00000173 Pinjoop
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #372 - Crumjewl
+0x00000174 Crumjewl
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #373 - Frumptash
+0x00000175 Frumptash
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #374 - Pond
+0x00000176 Pond
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #375 - Dimple Stack
+0x00000177 Dimple Stack
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #376 - Birdy
+0x00000178 Birdy
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #377 - Airship
+0x00000179 Airship
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #378 - Cloud Lightning
+0x0000017a Cloud Lightning
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #379 - Unicorn
+0x0000017b Unicorn
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #380 - Fiese Katze
+0x0000017c Fiese Katze
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000017d Nackt habt ihr mir besser gefallen.
+0x0000017e Warum müsst ihr eure Männlichkeit verbergen? Langweilig!
+
+# Inspect for Act 6
+
+# Prop #383 - Schlange
+0x0000017f Schlange
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #384 - Power-Up Health
+0x00000180 Power-Up Health
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #385 - Kleiderregal D
+0x00000181 Kleiderregal D
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #386 - Broken SporeMart sign
+0x00000182 Broken SporeMart sign
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #387 - Eva
+0x00000183 Eva
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000184 Ich heiße Eva.
+0x00000185 Warum erfreust du dich nicht an der neuen Landschaft?
+0x00000186 Wie Schokolade.
+
+# Inspect for Act 6
+
+# Prop #391 - Die Schlange
+0x00000187 Die Schlange
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000188 Hey, Schätzchen! Wie heißt du denn?
+0x00000189 Komm schon! Wir könnten uns einen Apfel teilen.
+0x0000018a Hier sieht's doch aus, als hätte sich ein Einhorn übergeben. Ich hab's lieber schwarz.
+0x0000018b Wie meine Seele.
+
+# Inspect for Act 6
+
+# Prop #396 - Der Apfel!
+0x0000018c Der Apfel!
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+

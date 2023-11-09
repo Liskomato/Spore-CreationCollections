@@ -1,0 +1,3409 @@
+# Auto-generated localization file for: Planeetta pulassa (ID: 0X29EB769C)
+# Adventure name
+0x00000001 Planeetta pulassa
+
+# Adventure description
+0x00000002 Auta paratiisin asukkaita palauttamaan planeetta alkuperäiseen tilaansa. Sitä varten asukkaiden pitää pukeutua ja palauttaa omena takaisin tiedon puuhun. Seikkailun loi Kevin Shinick.
+
+# Intro text
+0x00000003 Palauta paratiisi alkuperäiseen tilaansa pelastamalla alastomat kyläläiset käärmeiltä ja viemällä heidät Spore-marketin suojiin.
+
+# Win text
+0x00000004 Onneksi olkoon! Et olekaan sellainen elostelija kuin kuvittelimme. Tervetuloa paratiisiin!
+
+# Lose text
+0x00000005 Sinua taitaakin odottaa ikuinen kadotus. Jaa, ehkä voisimme tavata tuttuja nyt kun meillä on aikaa. Jospa kävisimme lounaalla emosi kanssa?
+
+# Act 1
+0x00000006 Paratiisi pulassa
+0x00000007 Tätä neuvoa et varmaan kuule missään muualla, mutta kannattaisi ehkä mennä juttelemaan tuolle jättimäiselle alastomalle tyypille.
+
+# Goal 1
+0x00000008 Apua! Teimme tosi tyhmästi. Tiedäthän miten lääkärit aina sanovat, että omena päivässä pitää terveenä? Se on roskaa. Yhtenä päivänä söin omenan, mutta nyt loitolla ovatkin housuni.
+0x00000009 Samalla menivät paidat ja alusvaatteet ja melko lailla kaikki paitsi ihottuma.
+0x0000000a Sen lisäksi meidän kimppuumme hyökkäilee kaiken aikaa omituisia käärmeitä... Hei! Nostahan katseesi, senkin ääliö. Voisit edes yrittää olla säädyllinen.
+0x0000000b Olet melkein yhtä paha kuin tuo tirkistelevä ällökissa. Sillä ällötyksellä on kuusi silmää, joista viisi tuijottelee kaiken aikaa todella estottomasti. Kuudes taitaa katsoa vähän kieroon.
+0x0000000c Jos sitä säikäyttää, sen silmät muuttuvat räjähtäviksi. Siitä voisi olla hyötyä, jos aiot auttaa meitä pääsemään eroon käärmeistä ja etsiä meille vähän vaatteita. Tykkään muuten sinisestä.
+
+
+# Act 2
+0x0000000d Silmistä silmään
+0x0000000e Jos saat sen ällön pedon pudottamaan silmänsä ihan vain tanssimalla, niin olet totisesti onnekas.
+
+# Goal 1
+0x0000000f Mitäs tuijotat? Yksikään käsky ei kyllä kiellä nakujen tuijottelua, mutta hyvät tavat kieltävät, joten painuhan tiehesi siitä.
+0x00000010 Jos yrität hätkähdyttää minua, olet kovan paikan edessä. Olen nimittäin nähnyt yhtä ja toista täällä ollessani. Intiimialueita on kuule vilkkunut enemmän kuin yleisessä saunassa.
+0x00000011 Itse asiassa ainoa minua hätkähdyttävä asia on se, että joku kehtaa tanssia julkisesti.
+
+# Goal 2
+
+
+# Act 3
+0x00000012 Silmistä silmään
+0x00000013 Selvisit tänne asti ihan vain päätäsi vaivaamalla. Tuhoa nyt käärmeet mulkoimillasi!
+
+# Goal 1
+
+
+# Act 4
+0x00000014 Vailla kenkiä, paitaa ja häpeää.
+0x00000015 Hienoa, omenahemmo! Löysit erikoisomenan. Käytä sitä ja johdata nämä hölmöläiset paikalliseen Spore-markettiin.
+
+# Goal 1
+
+# Goal 2
+
+
+# Act 5
+0x00000016 Alusvaatteita ei voi palauttaa
+0x00000017 Nyt kun kaikki shoppailevat vaatteita, etsi kaupan johtaja Pontus ja anna omena hänelle. Jostain syystä hän pitää omenoista enemmän kuin luottokorteista.
+
+# Goal 1
+0x00000018 Galaksin suurimman tavaratalon Pontuksen henkilökunta kiittää sinua asioinnistasi.
+0x00000019 Ostit tukuittain vaatteita ja palautit vielä omenankin. Sen ansiosta sinut on valittu päivän asiakkaaksi!
+0x0000001a Kiitokseksi olen restauroinut paratiisin alkuperäisasuunsa. Menepä ulos ja ihaile maisemaa. Älä vain sotke sitä uudelleen!
+0x0000001b Tervetuloa uudelleen.
+
+# Goal 2
+
+
+# Act 6
+0x0000001c Viimeisenä päivänä juhlitaan!
+0x0000001d Etsi Nipa ja tsekkaa sen uudet kuteet.
+
+# Goal 1
+
+# Goal 2
+0x0000001e Siinähän sinä olet. Kiitokset planeetan pelastamisesta. Selvisit kaiken lisäksi kierrättämättä.
+0x0000001f Mitä pidät uudesta lookistani? Ajattelin sen auttavan naaraiden houkuttelussa.
+0x00000020 Tai urosten... Alan olla jo aika hämilläni itsekin.
+0x00000021 Kultapieni.
+
+
+# Prop #34 - Pear
+0x00000022 Pear
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #35 - Skeleton Cluster
+0x00000023 Skeleton Cluster
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #36 - Skeleton Ribcage
+0x00000024 Skeleton Ribcage
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #37 - Skeleton Fish
+0x00000025 Skeleton Fish
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #38 - Nipa Nakula
+0x00000026 Nipa Nakula
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #39 - Spore-marketti
+0x00000027 Spore-marketti
+
+# Chatter for Act 1
+0x00000028 Spore-marketti
+0x00000029 Alastomat tervetuloa!
+0x0000002a Supersunnuntain erikoistarjous!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000002b Spore-marketti
+0x0000002c Alastomat tervetuloa!
+0x0000002d Supersunnuntain erikoistarjous!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000002e Spore-marketti
+0x0000002f Alastomat tervetuloa!
+0x00000030 Supersunnuntain erikoistarjous!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000031 Spore-marketti
+0x00000032 Alastomat tervetuloa!
+0x00000033 Supersunnuntain erikoistarjous!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #52 - Marquee
+0x00000034 Marquee
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #53 - Skeleton Head
+0x00000035 Skeleton Head
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #54 - Skeleton Fragments
+0x00000036 Skeleton Fragments
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #55 - Skeleton Bone
+0x00000037 Skeleton Bone
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #56 - Conglomerate Rock
+0x00000038 Conglomerate Rock
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #57 - Fig
+0x00000039 Fig
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #58 - Ällökisu
+0x0000003a Ällökisu
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #59 - Ällökisu
+0x0000003b Ällökisu
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #60 - Grenade
+0x0000003c Grenade
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #61 - Spore-marketin mainos
+0x0000003d Spore-marketin mainos
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #62 - Käärme
+0x0000003e Käärme
+
+# Chatter for Act 1
+0x0000003f Mmm. Ruokaa!
+0x00000040 Naku, naku nakulii!
+0x00000041 Hitsi, miten tykkään tästä paikasta.
+0x00000042 Nämä ovat tosi kevyitä.
+0x00000043 En ole ilkeä. Olen vain nälkäinen.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000044 Mmm. Ruokaa!
+0x00000045 Naku, naku nakulii!
+0x00000046 Hitsi, miten tykkään tästä paikasta.
+0x00000047 Nämä ovat tosi kevyitä.
+0x00000048 En ole ilkeä. Olen vain nälkäinen.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000049 Mmm. Ruokaa!
+0x0000004a Naku, naku nakulii!
+0x0000004b Hitsi, miten tykkään tästä paikasta.
+0x0000004c Nämä ovat tosi kevyitä.
+0x0000004d En ole ilkeä. Olen vain nälkäinen.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #78 - Mongtu
+0x0000004e Mongtu
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #79 - Omena
+0x0000004f Omena
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #80 - Glitter Sphere
+0x00000050 Glitter Sphere
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #81 - Mystinen omena
+0x00000051 Mystinen omena
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000052 Mystinen omena
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000053 Mystinen omena
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000054 Mystinen omena
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #85 - Panicking Crowd
+0x00000055 Panicking Crowd
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #86 - Toronado
+0x00000056 Toronado
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #87 - Jump Pad 
+0x00000057 Jump Pad 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #88 - Binoculars
+0x00000058 Binoculars
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #89 - Folding Chair
+0x00000059 Folding Chair
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #90 - Mordleff
+0x0000005a Mordleff
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #91 - Pounded Plaza
+0x0000005b Pounded Plaza
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #92 - SporeMart Sides Damaged
+0x0000005c SporeMart Sides Damaged
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #93 - SporeMart Door Damaged Closed
+0x0000005d SporeMart Door Damaged Closed
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #94 - Eedeniin
+0x0000005e Eedeniin
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #95 - SporeMart Wall
+0x0000005f SporeMart Wall
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #96 - Museum Windows
+0x00000060 Museum Windows
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #97 - SporeMart Wall End
+0x00000061 SporeMart Wall End
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #98 - SporeMart Pole
+0x00000062 SporeMart Pole
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #99 - SporeMart Counter 1
+0x00000063 SporeMart Counter 1
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #100 - SporeMart Counter 2
+0x00000064 SporeMart Counter 2
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #101 - Pontus
+0x00000065 Pontus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #102 - Spore-markettiin
+0x00000066 Spore-markettiin
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #103 - SporeMart
+0x00000067 SporeMart
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #104 - SporeMart Sides
+0x00000068 SporeMart Sides
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #105 - Gardelobatus
+0x00000069 Gardelobatus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #106 - Grundspurius
+0x0000006a Grundspurius
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #107 - Zona
+0x0000006b Zona
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #108 - Rainbow
+0x0000006c Rainbow
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #109 - Forest Ambience
+0x0000006d Forest Ambience
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #110 - Verhottu Nipa
+0x0000006e Verhottu Nipa
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #111 - Luolaotus
+0x0000006f Luolaotus
+
+# Chatter for Act 1
+0x00000070 Missä minun pitäisi säilyttää lompakkoani?
+0x00000071 Olisipa minulla edes kalsarit!
+0x00000072 Toivon, että kahdeksantena päivänä hän luo pirtelön!
+0x00000073 Hups taisin juuri vilauttaa veijariani.
+0x00000074 Tämä kyllä antaa pussijuoksulle aivan uuden merkityksen.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000075 Missä minun pitäisi säilyttää lompakkoani?
+0x00000076 Olisipa minulla edes kalsarit!
+0x00000077 Toivon, että kahdeksantena päivänä hän luo pirtelön!
+0x00000078 Hups taisin juuri vilauttaa veijariani.
+0x00000079 Tämä kyllä antaa pussijuoksulle aivan uuden merkityksen.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000007a Hän saa haistaa käärmettäni!
+0x0000007b Ihan kuin Nakula ja hirviö.
+0x0000007c Minusta on tulossa alaston lounas.
+0x0000007d Käärme, tässä on Sepetius.
+0x0000007e Tämä on ihan kuin siitä unesta, jonka näin syötyäni pilaantuneita tacoja.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000007f Vau. Omena ei tosiaankaan putoa kauas puusta.
+0x00000080 Se on niin kypsä!
+0x00000081 Ei kai tämä nyt niin hirveän monimutkaista ole?
+0x00000082 Toivottavasti osakkeeni eivät nyt laske.
+0x00000083 Miksi me tuijotetaan tuota omenaa?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000084 Olen tosi upea!
+0x00000085 Taisin laihtua vähän sillä omenadieetillä.
+0x00000086 Paloiko kukaan muu auringossa?
+0x00000087 Olen allerginen villalle.
+0x00000088 Voisimmeko pysähtyä ravintolan kohdalla?
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #137 - Luolaotus
+0x00000089 Luolaotus
+
+# Chatter for Act 1
+0x0000008a Hän saa haistaa käärmettäni!
+0x0000008b Ihan kuin Nakula ja hirviö.
+0x0000008c Minusta on tulossa alaston lounas.
+0x0000008d Käärme, tässä on Sepetius.
+0x0000008e Tämä on ihan kuin siitä unesta, jonka näin syötyäni pilaantuneita tacoja.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000008f Hän saa haistaa käärmettäni!
+0x00000090 Ihan kuin Nakula ja hirviö.
+0x00000091 Minusta on tulossa alaston lounas.
+0x00000092 Käärme, tässä on Sepetius.
+0x00000093 Tämä on ihan kuin siitä unesta, jonka näin syötyäni pilaantuneita tacoja.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000094 Hän saa haistaa käärmettäni!
+0x00000095 Ihan kuin Nakula ja hirviö.
+0x00000096 Minusta on tulossa alaston lounas.
+0x00000097 Käärme, tässä on Sepetius.
+0x00000098 Tämä on ihan kuin siitä unesta, jonka näin syötyäni pilaantuneita tacoja.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000099 Vau. Omena ei tosiaankaan putoa kauas puusta.
+0x0000009a Se on niin kypsä!
+0x0000009b Ei kai tämä nyt niin hirveän monimutkaista ole?
+0x0000009c Toivottavasti osakkeeni eivät nyt laske.
+0x0000009d Miksi me tuijotetaan tuota omenaa?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x0000009e Olen tosi upea!
+0x0000009f Taisin laihtua vähän sillä omenadieetillä.
+0x000000a0 Paloiko kukaan muu auringossa?
+0x000000a1 Olen allerginen villalle.
+0x000000a2 Voisimmeko pysähtyä ravintolan kohdalla?
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #163 - Luolaotus
+0x000000a3 Luolaotus
+
+# Chatter for Act 1
+0x000000a4 Missä minun pitäisi säilyttää lompakkoani?
+0x000000a5 Olisipa minulla edes kalsarit!
+0x000000a6 Toivon, että kahdeksantena päivänä hän luo pirtelön!
+0x000000a7 Hups taisin juuri vilauttaa veijariani.
+0x000000a8 Tämä kyllä antaa pussijuoksulle aivan uuden merkityksen.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000a9 Missä minun pitäisi säilyttää lompakkoani?
+0x000000aa Olisipa minulla edes kalsarit!
+0x000000ab Toivon, että kahdeksantena päivänä hän luo pirtelön!
+0x000000ac Hups taisin juuri vilauttaa veijariani.
+0x000000ad Tämä kyllä antaa pussijuoksulle aivan uuden merkityksen.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000ae Hän saa haistaa käärmettäni!
+0x000000af Ihan kuin Nakula ja hirviö.
+0x000000b0 Minusta on tulossa alaston lounas.
+0x000000b1 Käärme, tässä on Sepetius.
+0x000000b2 Tämä on ihan kuin siitä unesta, jonka näin syötyäni pilaantuneita tacoja.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000b3 Vau. Omena ei tosiaankaan putoa kauas puusta.
+0x000000b4 Se on niin kypsä!
+0x000000b5 Ei kai tämä nyt niin hirveän monimutkaista ole?
+0x000000b6 Toivottavasti osakkeeni eivät nyt laske.
+0x000000b7 Miksi me tuijotetaan tuota omenaa?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000000b8 Olen tosi upea!
+0x000000b9 Taisin laihtua vähän sillä omenadieetillä.
+0x000000ba Paloiko kukaan muu auringossa?
+0x000000bb Olen allerginen villalle.
+0x000000bc Voisimmeko pysähtyä ravintolan kohdalla?
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #189 - Luolanaaras
+0x000000bd Luolanaaras
+
+# Chatter for Act 1
+0x000000be Missä minun pitäisi säilyttää lompakkoani?
+0x000000bf Olisipa minulla edes kalsarit!
+0x000000c0 Toivon, että kahdeksantena päivänä hän luo pirtelön!
+0x000000c1 Hups taisin juuri vilauttaa veijariani.
+0x000000c2 Tämä kyllä antaa pussijuoksulle aivan uuden merkityksen.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000c3 Missä minun pitäisi säilyttää lompakkoani?
+0x000000c4 Olisipa minulla edes kalsarit!
+0x000000c5 Toivon, että kahdeksantena päivänä hän luo pirtelön!
+0x000000c6 Hups taisin juuri vilauttaa veijariani.
+0x000000c7 Tämä kyllä antaa pussijuoksulle aivan uuden merkityksen.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000c8 Ihan kuin Nakula ja hirviö.
+0x000000c9 Minusta on tulossa alaston lounas.
+0x000000ca Käärme, tässä on Sepetius.
+0x000000cb Tämä on ihan kuin siitä unesta, jonka näin syötyäni pilaantuneita tacoja.
+0x000000cc Katso vähän minne viskot niitä!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000cd Vau. Omena ei tosiaankaan putoa kauas puusta.
+0x000000ce Se on niin kypsä!
+0x000000cf Ei kai tämä nyt niin hirveän monimutkaista ole?
+0x000000d0 Toivottavasti osakkeeni eivät nyt laske.
+0x000000d1 Miksi me tuijotetaan tuota omenaa?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000000d2 Olen tosi upea!
+0x000000d3 Taisin laihtua vähän sillä omenadieetillä.
+0x000000d4 Paloiko kukaan muu auringossa?
+0x000000d5 Olen allerginen villalle.
+0x000000d6 Voisimmeko pysähtyä ravintolan kohdalla?
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #215 - Luolaotus
+0x000000d7 Luolaotus
+
+# Chatter for Act 1
+0x000000d8 Hän saa haistaa käärmettäni!
+0x000000d9 Ihan kuin Nakula ja hirviö.
+0x000000da Minusta on tulossa alaston lounas.
+0x000000db Käärme, tässä on Sepetius.
+0x000000dc Tämä on ihan kuin siitä unesta, jonka näin syötyäni pilaantuneita tacoja.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000dd Hän saa haistaa käärmettäni!
+0x000000de Ihan kuin Nakula ja hirviö.
+0x000000df Minusta on tulossa alaston lounas.
+0x000000e0 Käärme, tässä on Sepetius.
+0x000000e1 Tämä on ihan kuin siitä unesta, jonka näin syötyäni pilaantuneita tacoja.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000e2 Hän saa haistaa käärmettäni!
+0x000000e3 Ihan kuin Nakula ja hirviö.
+0x000000e4 Minusta on tulossa alaston lounas.
+0x000000e5 Käärme, tässä on Sepetius.
+0x000000e6 Tämä on ihan kuin siitä unesta, jonka näin syötyäni pilaantuneita tacoja.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000e7 Vau. Omena ei tosiaankaan putoa kauas puusta.
+0x000000e8 Se on niin kypsä!
+0x000000e9 Ei kai tämä nyt niin hirveän monimutkaista ole?
+0x000000ea Toivottavasti osakkeeni eivät nyt laske.
+0x000000eb Miksi me tuijotetaan tuota omenaa?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000000ec Olen tosi upea!
+0x000000ed Taisin laihtua vähän sillä omenadieetillä.
+0x000000ee Paloiko kukaan muu auringossa?
+0x000000ef Olen allerginen villalle.
+0x000000f0 Voisimmeko pysähtyä ravintolan kohdalla?
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #241 - Luolaotus
+0x000000f1 Luolaotus
+
+# Chatter for Act 1
+0x000000f2 Missä minun pitäisi säilyttää lompakkoani?
+0x000000f3 Olisipa minulla edes kalsarit!
+0x000000f4 Toivon, että kahdeksantena päivänä hän luo pirtelön!
+0x000000f5 Hups taisin juuri vilauttaa veijariani.
+0x000000f6 Tämä kyllä antaa pussijuoksulle aivan uuden merkityksen.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000f7 Missä minun pitäisi säilyttää lompakkoani?
+0x000000f8 Olisipa minulla edes kalsarit!
+0x000000f9 Toivon, että kahdeksantena päivänä hän luo pirtelön!
+0x000000fa Hups taisin juuri vilauttaa veijariani.
+0x000000fb Tämä kyllä antaa pussijuoksulle aivan uuden merkityksen.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000fc Hän saa haistaa käärmettäni!
+0x000000fd Ihan kuin Nakula ja hirviö.
+0x000000fe Minusta on tulossa alaston lounas.
+0x000000ff Käärme, tässä on Sepetius.
+0x00000100 Tämä on ihan kuin siitä unesta, jonka näin syötyäni pilaantuneita tacoja.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000101 Vau. Omena ei tosiaankaan putoa kauas puusta.
+0x00000102 Se on niin kypsä!
+0x00000103 Ei kai tämä nyt niin hirveän monimutkaista ole?
+0x00000104 Toivottavasti osakkeeni eivät nyt laske.
+0x00000105 Miksi me tuijotetaan tuota omenaa?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000106 Olen tosi upea!
+0x00000107 Taisin laihtua vähän sillä omenadieetillä.
+0x00000108 Paloiko kukaan muu auringossa?
+0x00000109 Olen allerginen villalle.
+0x0000010a Voisimmeko pysähtyä ravintolan kohdalla?
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #267 - Luolaotus
+0x0000010b Luolaotus
+
+# Chatter for Act 1
+0x0000010c Hän saa haistaa käärmettäni!
+0x0000010d Ihan kuin Nakula ja hirviö.
+0x0000010e Minusta on tulossa alaston lounas.
+0x0000010f Käärme, tässä on Sepetius.
+0x00000110 Tämä on ihan kuin siitä unesta, jonka näin syötyäni pilaantuneita tacoja.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000111 Hän saa haistaa käärmettäni!
+0x00000112 Ihan kuin Nakula ja hirviö.
+0x00000113 Minusta on tulossa alaston lounas.
+0x00000114 Käärme, tässä on Sepetius.
+0x00000115 Tämä on ihan kuin siitä unesta, jonka näin syötyäni pilaantuneita tacoja.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000116 Hän saa haistaa käärmettäni!
+0x00000117 Ihan kuin Nakula ja hirviö.
+0x00000118 Minusta on tulossa alaston lounas.
+0x00000119 Käärme, tässä on Sepetius.
+0x0000011a Tämä on ihan kuin siitä unesta, jonka näin syötyäni pilaantuneita tacoja.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000011b Vau. Omena ei tosiaankaan putoa kauas puusta.
+0x0000011c Se on niin kypsä!
+0x0000011d Ei kai tämä nyt niin hirveän monimutkaista ole?
+0x0000011e Toivottavasti osakkeeni eivät nyt laske.
+0x0000011f Miksi me tuijotetaan tuota omenaa?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000120 Olen tosi upea!
+0x00000121 Taisin laihtua vähän sillä omenadieetillä.
+0x00000122 Paloiko kukaan muu auringossa?
+0x00000123 Olen allerginen villalle.
+0x00000124 Voisimmeko pysähtyä ravintolan kohdalla?
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #293 - Verhottu otus
+0x00000125 Verhottu otus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000126 Puutarhajuhlat on tosi kivoja.
+0x00000127 Olitte kivempia nakuina.
+0x00000128 Tänään juhlin niin kuin päivänä yhdeksäntenä!
+0x00000129 Taisin astua myrkkymurattiin.
+0x0000012a Paikan ylläpitoon tarvitaan varmaan kymmeniä puutarhureita.
+
+# Inspect for Act 6
+
+# Prop #299 - Verhottu otus
+0x0000012b Verhottu otus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000012c Puutarhajuhlat on tosi kivoja.
+0x0000012d Olitte kivempia nakuina.
+0x0000012e Tänään juhlin niin kuin päivänä yhdeksäntenä!
+0x0000012f Taisin astua myrkkymurattiin.
+0x00000130 Paikan ylläpitoon tarvitaan varmaan kymmeniä puutarhureita.
+
+# Inspect for Act 6
+
+# Prop #305 - Verhottu otus
+0x00000131 Verhottu otus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000132 Puutarhajuhlat on tosi kivoja.
+0x00000133 Olitte kivempia nakuina.
+0x00000134 Tänään juhlin niin kuin päivänä yhdeksäntenä!
+0x00000135 Taisin astua myrkkymurattiin.
+0x00000136 Paikan ylläpitoon tarvitaan varmaan kymmeniä puutarhureita.
+
+# Inspect for Act 6
+
+# Prop #311 - Verhottu otus
+0x00000137 Verhottu otus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000138 Puutarhajuhlat on tosi kivoja.
+0x00000139 Olitte kivempia nakuina.
+0x0000013a Tänään juhlin niin kuin päivänä yhdeksäntenä!
+0x0000013b Taisin astua myrkkymurattiin.
+0x0000013c Paikan ylläpitoon tarvitaan varmaan kymmeniä puutarhureita.
+
+# Inspect for Act 6
+
+# Prop #317 - Verhottu otus
+0x0000013d Verhottu otus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000013e Puutarhajuhlat on tosi kivoja.
+0x0000013f Olitte kivempia nakuina.
+0x00000140 Tänään juhlin niin kuin päivänä yhdeksäntenä!
+0x00000141 Taisin astua myrkkymurattiin.
+0x00000142 Paikan ylläpitoon tarvitaan varmaan kymmeniä puutarhureita.
+
+# Inspect for Act 6
+
+# Prop #323 - Verhottu otus
+0x00000143 Verhottu otus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000144 Puutarhajuhlat on tosi kivoja.
+0x00000145 Olitte kivempia nakuina.
+0x00000146 Tänään juhlin niin kuin päivänä yhdeksäntenä!
+0x00000147 Taisin astua myrkkymurattiin.
+0x00000148 Paikan ylläpitoon tarvitaan varmaan kymmeniä puutarhureita.
+
+# Inspect for Act 6
+
+# Prop #329 - Verhottu otus
+0x00000149 Verhottu otus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000014a Puutarhajuhlat on tosi kivoja.
+0x0000014b Olitte kivempia nakuina.
+0x0000014c Tänään juhlin niin kuin päivänä yhdeksäntenä!
+0x0000014d Taisin astua myrkkymurattiin.
+0x0000014e Paikan ylläpitoon tarvitaan varmaan kymmeniä puutarhureita.
+
+# Inspect for Act 6
+
+# Prop #335 - Luolaotus
+0x0000014f Luolaotus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #336 - Luolaotus
+0x00000150 Luolaotus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #337 - Blue Gate
+0x00000151 Blue Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #338 - Eedenin auringonvalo
+0x00000152 Eedenin auringonvalo
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #339 - Nipan valaisin
+0x00000153 Nipan valaisin
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #340 - Vaateteline A
+0x00000154 Vaateteline A
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #341 - Vaateteline B
+0x00000155 Vaateteline B
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #342 - Vaateteline C
+0x00000156 Vaateteline C
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #343 - Poof White
+0x00000157 Poof White
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #344 - Cha Cha
+0x00000158 Cha Cha
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #345 - Boogaloo
+0x00000159 Boogaloo
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #346 - Sting Angels
+0x0000015a Sting Angels
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #347 - Sting Fairy 
+0x0000015b Sting Fairy 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #348 - Sunbeams
+0x0000015c Sunbeams
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #349 - Awed Crowd
+0x0000015d Awed Crowd
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #350 - Glitter Sphere
+0x0000015e Glitter Sphere
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #351 - Searchlight
+0x0000015f Searchlight
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #352 - Female Scream
+0x00000160 Female Scream
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #353 - PervCat's Magazines
+0x00000161 PervCat's Magazines
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #354 - Butterflies
+0x00000162 Butterflies
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #355 - Pond
+0x00000163 Pond
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #356 - Waterfall
+0x00000164 Waterfall
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #357 - SporeMart Sign
+0x00000165 SporeMart Sign
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #358 - Spotlight Lone 
+0x00000166 Spotlight Lone 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #359 - Runway Lights
+0x00000167 Runway Lights
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #360 - Festivity Fountain
+0x00000168 Festivity Fountain
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #361 - Foliage Folly
+0x00000169 Foliage Folly
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #362 - Crate Classic
+0x0000016a Crate Classic
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #363 - City Lights
+0x0000016b City Lights
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #364 - Marquee
+0x0000016c Marquee
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #365 - Balloons
+0x0000016d Balloons
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #366 - Glitter Sphere
+0x0000016e Glitter Sphere
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #367 - Fog White
+0x0000016f Fog White
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #368 - Halo
+0x00000170 Halo
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #369 - Isoslaya
+0x00000171 Isoslaya
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #370 - Zazafuscus
+0x00000172 Zazafuscus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #371 - Pinjoop
+0x00000173 Pinjoop
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #372 - Crumjewl
+0x00000174 Crumjewl
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #373 - Frumptash
+0x00000175 Frumptash
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #374 - Pond
+0x00000176 Pond
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #375 - Dimple Stack
+0x00000177 Dimple Stack
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #376 - Birdy
+0x00000178 Birdy
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #377 - Airship
+0x00000179 Airship
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #378 - Cloud Lightning
+0x0000017a Cloud Lightning
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #379 - Unicorn
+0x0000017b Unicorn
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #380 - Ällökisu
+0x0000017c Ällökisu
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000017d Olitte kivempia nakuina.
+0x0000017e Ihan turhaan peittelet urossäkkejäsi. Aika onnetonta.
+
+# Inspect for Act 6
+
+# Prop #383 - Käärme
+0x0000017f Käärme
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #384 - Power-Up Health
+0x00000180 Power-Up Health
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #385 - Vaateteline D
+0x00000181 Vaateteline D
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #386 - Broken SporeMart sign
+0x00000182 Broken SporeMart sign
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #387 - Eeva
+0x00000183 Eeva
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000184 Olen Eeva.
+0x00000185 Mikset vain nauti näkymistä?
+0x00000186 Niin kuin suklaasta.
+
+# Inspect for Act 6
+
+# Prop #391 - Käärme
+0x00000187 Käärme
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000188 Hei, hemmo. Mikä on nimesi?
+0x00000189 Äläs nyt. Voisimme syödä omenan puoliksi.
+0x0000018a Täällä on niin värikästä, että näyttää siltä kuin yksisarvinen olisi oksennellut ympäriinsä. Synkkyys on enemmän mieleeni.
+0x0000018b Sellainen on sielunikin.
+
+# Inspect for Act 6
+
+# Prop #396 - Omena!
+0x0000018c Omena!
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+

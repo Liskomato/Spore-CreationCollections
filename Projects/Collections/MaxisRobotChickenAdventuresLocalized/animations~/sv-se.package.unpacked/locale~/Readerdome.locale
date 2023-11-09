@@ -1,0 +1,3737 @@
+# Auto-generated localization file for: Läsardome (ID: 0X34B51340)
+# Adventure name
+0x00000001 Läsardome
+
+# Adventure description
+0x00000002 En man går in ... En man kommer ut ... oftast är den kille som går in samma kille som kommer ut. Av Breckin Meyer.
+
+# Intro text
+0x00000003 Kunskap är makt. Förnya ditt LÅNEKORT hos bibliotekarien. Han kanske är en kille ... din sexistiska datorspelare.
+
+# Win text
+0x00000004 DU KLARADE DET! Jag är stolt över dig... japp... bara stolt över att du lyckades... det är allt... hetsa inte upp dig nu... det är inte som om du utrotat fattigdom... ut med dig nu!
+
+# Lose text
+0x00000005 Du har misslyckats. Jag är riktigt besviken på dig ... kanske de andra HADE rätt om dig. Nu känner jag mig dum. Hoppas du är lycklig nu ... nolla.
+
+# Act 1
+0x00000006 Förnya och förbättra
+0x00000007 Gå och tala med chefsbibliotekarien herr Bookman. Ja, bibliotekarier kan vara män ... din sexist. Leta nu rätt på honom och sluta tänka som på 50-talet. Lev i nuet!
+
+# Goal 1
+0x00000008 Hallå där, unge man. Vill du förnya din nyckel till kunskapsbanken, även kallad ditt lånekort?
+0x00000009 Ett sådant kort är ett privilegium. Vi delar inte bara ut dem som allmosor. Ja, du hörde rätt! Jag är gammal och lättskrämd, DÖM MIG INTE FÖR DET!
+0x0000000a Jag är inte säker på att jag gillar snittet på kläderna, glansen i dina skor eller basen i din röst. Hur ska jag veta om du kan hantera makten som kommer med KORTET?
+0x0000000b Du måste göra lite konster för att få den, sockerbrallan... vems byxor har jag egentligen på mig? Det är dags för mina piller, gå och tala med bokmasken, han kan lära dig stegen i denna rumba.
+0x0000000c Och glöm inte, jag kommer att hålla ett öga på dig ... mitt bra öga ... som jag fortfarande kan se med.
+
+
+# Act 2
+0x0000000d Bokmasken
+0x0000000e Bokmasken har en önskan som bara du kan uppfylla ... NEJ DIN SJUKA TYP, INTE DET! Håll bara utkik efter en stor djäkla mask som läser ... jösses. 
+
+
+# Goal 1
+0x0000000f Hallå! Brukar jag komma till ditt jobb och slå fiskespöna ut handen på dig? Ja, jag kallade dig för fiskare. Stick nu innan jag sätter kroken i dig och låter dig dingla över ett hajakvarium.
+0x00000010 Skickade Bookman dig? Varför sade du inte det ... men vänta, det gjorde du ju. Så du vill ha ett lånekort. Vill du fylla hjärnvindlingarna med något, va?
+0x00000011 Jag kan hjälpa dig, men du måste göra något för mig. Du måste bege dig till staden Mordork och hitta den enda ringen, ÄH JAG BARA SKOJAR.
+0x00000012 Detta är inget vanligt bibliotek. Vi har soffor! Dessutom kommer alla böckerna till liv ... hmmm ... jag borde nog ha inlett med det där andra, va?
+0x00000013 Gör mig en tjänst och hitta en bok om något stort och saftigt ... NEJ TOKER! Äpplen! Leta rätt på en bok om äpplen. Vad är det för fel med dagens ungdomar?
+
+# Goal 2
+0x00000014 Det var en gång ett äpple som hette PC. PC var det rödaste och läckraste äpplet bland alla sina vänner.
+0x00000015 En dag tog PC en promenad när en skåpbil ställde sig i vägen för honom. Ett gäng arga läkare hoppade ut och spöade äppelsaften ur PC.
+0x00000016 När läkarna gick iväg vände sig den ena om och sade: "där fick du för att du håller patienterna borta, ditt delikata röda &%$@*%#."
+0x00000017 PC överlevde, men kunde aldrig spela piano igen... vilket han i och för sig inte gjorde innan eftersom han var ett äpple, men han hade ju alltid velat börja... men nu kan han inte det längre.
+0x00000018 Han blev mer och mer tokig och arbetar nu nere i hamnen under namnet Juicebrallan. Slut.
+
+
+# Act 3
+0x00000019 Äppelpalooza
+0x0000001a Knack, knack. Vem är där? Äpplet. Vilket äpple? BARA GE ÄPPLET TILL BOKMASKEN NU!
+
+# Goal 1
+
+
+# Act 4
+0x0000001b Lejonopolis
+0x0000001c Ta ett snack med det där toviga lejonet, men var försiktig ... han är ett lejon ... lejon dödar människor nästan jämt.
+
+# Goal 1
+0x0000001d Någon har vaknat på fel sida av piedestalen idag. Titta på den där manen! Den är som en man, om manen vore riktig tovig och aldrig någonsin ville träffa någon.
+0x0000001e Vilket grinigt lejon. Minns ni filmen "Griniga gamla gubbar?" Tja, om lejonet hade varit med i den kunde den ha hetat "Grinigt lejon med riktigt förfärlig man"... och ingen hade sett den.
+0x0000001f Det finns kanske en bok som kan hjälpa mig att tämja den vilda manen?
+
+# Goal 2
+0x00000020 BERÖMDA BORSTAR GENOM HISTORIEN.
+0x00000021 Aha! Här är den! BORSTAR!
+
+
+# Act 5
+0x00000022 Borsta av axlarna
+0x00000023 Borste + tovig lejonman, vad får du om du lägger ihop det?
+
+# Goal 1
+
+
+# Act 6
+0x00000024 Hur man lyckas utan lejon
+0x00000025 Lejonet kastar sig ut från statyn med perfekt kammad man och är lyckligt.
+
+# Goal 1
+0x00000026 Gör plats åt herr Snygging. Mina damer, bilda kö till vänster. Jag kan inte tacka dig nog.
+0x00000027 Åh, jag fick något i tassen. Äh vänta, jag är ju ännu stiligare där nere! Bäst jag går till fantasyavdelningen, eftersom ingen kommer att tro att man kan vara så här snygg!
+0x00000028 Så du behöver ett lånekort. Inga problem.
+0x00000029 Du måste bli godkänd av chefsbibliotekarien. Jag måste varna dig, för hon kan vara lite –
+0x0000002a Tusan! Här kommer hon, och DÖDEN FÖLJER HENNE!
+
+
+# Act 7
+0x0000002b Dödsbibliotekarien
+0x0000002c Bibliotekarien dödade lejonet! Ta reda på vad hon behöver.
+
+# Goal 1
+0x0000002d Ett hjärtas resa till hjärtlandet av Lovey McLovington.
+
+
+# Act 8
+0x0000002e Kortet
+0x0000002f Allt bibliotekarien behövde var lite kärlek. Julio-kärlek. Nu kan du skaffa lånekortet från herr Bookman
+
+# Goal 1
+0x00000030 Såg du Julio? Fick inte han en gås i ansiktet förra året? Helt makalöst.
+0x00000031 Jag har aldrig förstått vad som är tilldragande med honom. Han har ju bröst. Riktig DDD-kupa, det är märkligt.
+0x00000032 Tja, jag brukar hålla mitt ord, så du har förtjänat ett lånekort. Grattis.
+0x00000033 Men kom ihåg, varje gång du lämnar tillbaka en bok för sent kommer jag att finnas där. Om du så ritar en smiley i marginalen, kommer jag att finnas där. För vet du vad som aldrig sover?
+0x00000034 RÄTTVISAN!... och New York, antar jag. Så går den där låten i alla fall. Och folk med sömnproblem sover sällan... Vad pratade vi om? Vem är du? Hur kan du tala mitt språk? Vem har skickat dig?
+
+
+# Prop #53 - Bok
+0x00000035 Bok
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000036 DE KALLAR MIG MR SHUMWAY av Barf
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000037 DE KALLAR MIG MR SHUMWAY av Barf
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000038 DE KALLAR MIG MR SHUMWAY av Barf
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000039 DE KALLAR MIG MR SHUMWAY av Barf
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000003a DE KALLAR MIG MR SHUMWAY av Barf
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x0000003b DE KALLAR MIG MR SHUMWAY av Barf
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x0000003c DE KALLAR MIG MR SHUMWAY av Barf
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x0000003d DE KALLAR MIG MR SHUMWAY av Barf
+
+# Prop #62 - Poof Black
+0x0000003e Poof Black
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #63 - Wooden Bookshelf (full)
+0x0000003f Wooden Bookshelf (full)
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #64 - Jump Pad 
+0x00000040 Jump Pad 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #65 - Teleporter
+0x00000041 Teleporter
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #66 - Herr Bookman
+0x00000042 Herr Bookman
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #67 - Library Table
+0x00000043 Library Table
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #68 - Library Chair
+0x00000044 Library Chair
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #69 - Library Card Catalogue
+0x00000045 Library Card Catalogue
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #70 - Book Carrier
+0x00000046 Book Carrier
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #71 - Library Desk
+0x00000047 Library Desk
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #72 - Library Ladder
+0x00000048 Library Ladder
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #73 - Bokmasken
+0x00000049 Bokmasken
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000004a Äntligen kan jag njuta av ett äpple!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #75 - Bibliotekarie
+0x0000004b Bibliotekarie
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x0000004c Är det du som har stört ordningen på mitt bibliotek? Då är det dags för bestraffning. Gör dig redo!
+0x0000004d Det enda det där lejonet duger till är att ligga framför min eldstad!
+0x0000004e Enligt min klocka är det dags att sparka stjärt!
+0x0000004f Jag är här för att piska svansar och äta rädisor. Och jag har slut på rädisor.
+0x00000050 Dags för en tripp till dödsannonserna.
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000051 Jag kan inte tro att det verkligen är du.
+0x00000052 Detta är en dröm som blivit sann!
+
+# Inspect for Act 8
+
+# Prop #83 - Lejon
+0x00000053 Lejon
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #84 - Lejonstaty
+0x00000054 Lejonstaty
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #85 - Book Holder
+0x00000055 Book Holder
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #86 - Pedestal
+0x00000056 Pedestal
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #87 - Library Wall No Pillar
+0x00000057 Library Wall No Pillar
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #88 - Bok 10
+0x00000058 Bok 10
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000059 DET ÄR INTE LÄTT ATT VARA GRÖN av Seth Green
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x0000005a DET ÄR INTE LÄTT ATT VARA GRÖN av Seth Green
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000005b DET ÄR INTE LÄTT ATT VARA GRÖN av Seth Green
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000005c DET ÄR INTE LÄTT ATT VARA GRÖN av Seth Green
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000005d DET ÄR INTE LÄTT ATT VARA GRÖN av Seth Green
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x0000005e DET ÄR INTE LÄTT ATT VARA GRÖN av Seth Green
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x0000005f DET ÄR INTE LÄTT ATT VARA GRÖN av Seth Green
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000060 DET ÄR INTE LÄTT ATT VARA GRÖN av Seth Green
+
+# Prop #97 - Bok 11
+0x00000061 Bok 11
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000062 PATIENT NOLL av Plaris Chilton UTDRAG - "Beklagar utslagen."
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000063 PATIENT NOLL av Plaris Chilton UTDRAG - "Beklagar utslagen."
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000064 PATIENT NOLL av Plaris Chilton UTDRAG - "Beklagar utslagen."
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000065 PATIENT NOLL av Plaris Chilton UTDRAG - "Beklagar utslagen."
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000066 PATIENT NOLL av Plaris Chilton UTDRAG - "Beklagar utslagen."
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000067 PATIENT NOLL av Plaris Chilton UTDRAG - "Beklagar utslagen."
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000068 PATIENT NOLL av Plaris Chilton UTDRAG - "Beklagar utslagen."
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000069 PATIENT NOLL av Plaris Chilton UTDRAG - "Beklagar utslagen."
+
+# Prop #106 - Bok 12
+0x0000006a Bok 12
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x0000006b RÄDDAREN I BRÖDET *UPPDATERAD VERSION* av D.J. Falinger  "Nu med ännu fler vaga referenser att missförstå"
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x0000006c RÄDDAREN I BRÖDET *UPPDATERAD VERSION* av D.J. Falinger  "Nu med ännu fler vaga referenser att missförstå"
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000006d RÄDDAREN I BRÖDET *UPPDATERAD VERSION* av D.J. Falinger  "Nu med ännu fler vaga referenser att missförstå"
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000006e RÄDDAREN I BRÖDET *UPPDATERAD VERSION* av D.J. Falinger  "Nu med ännu fler vaga referenser att missförstå"
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000006f RÄDDAREN I BRÖDET *UPPDATERAD VERSION* av D.J. Falinger  "Nu med ännu fler vaga referenser att missförstå"
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000070 RÄDDAREN I BRÖDET *UPPDATERAD VERSION* av D.J. Falinger  "Nu med ännu fler vaga referenser att missförstå"
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000071 RÄDDAREN I BRÖDET *UPPDATERAD VERSION* av D.J. Falinger  "Nu med ännu fler vaga referenser att missförstå"
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000072 RÄDDAREN I BRÖDET *UPPDATERAD VERSION* av D.J. Falinger  "Nu med ännu fler vaga referenser att missförstå"
+
+# Prop #115 - Bok 13
+0x00000073 Bok 13
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000074 EN KORT HISTORIK ÖVER TIDEN av den där killen i stolen med röstsaken.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000075 EN KORT HISTORIK ÖVER TIDEN av den där killen i stolen med röstsaken.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000076 EN KORT HISTORIK ÖVER TIDEN av den där killen i stolen med röstsaken.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000077 EN KORT HISTORIK ÖVER TIDEN av den där killen i stolen med röstsaken.
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000078 EN KORT HISTORIK ÖVER TIDEN av den där killen i stolen med röstsaken.
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000079 EN KORT HISTORIK ÖVER TIDEN av den där killen i stolen med röstsaken.
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x0000007a EN KORT HISTORIK ÖVER TIDEN av den där killen i stolen med röstsaken.
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x0000007b EN KORT HISTORIK ÖVER TIDEN av den där killen i stolen med röstsaken.
+
+# Prop #124 - Bok 14
+0x0000007c Bok 14
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x0000007d JAG GIFTE MIG MED EN DÅRE av Remi More "En kvinnas resa mot giftermål med en som andas genom munnen."
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x0000007e JAG GIFTE MIG MED EN DÅRE av Remi More "En kvinnas resa mot giftermål med en som andas genom munnen."
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000007f JAG GIFTE MIG MED EN DÅRE av Remi More "En kvinnas resa mot giftermål med en som andas genom munnen."
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000080 JAG GIFTE MIG MED EN DÅRE av Remi More "En kvinnas resa mot giftermål med en som andas genom munnen."
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000081 JAG GIFTE MIG MED EN DÅRE av Remi More "En kvinnas resa mot giftermål med en som andas genom munnen."
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000082 JAG GIFTE MIG MED EN DÅRE av Remi More "En kvinnas resa mot giftermål med en som andas genom munnen."
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000083 JAG GIFTE MIG MED EN DÅRE av Remi More "En kvinnas resa mot giftermål med en som andas genom munnen."
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000084 JAG GIFTE MIG MED EN DÅRE av Remi More "En kvinnas resa mot giftermål med en som andas genom munnen."
+
+# Prop #133 - Bok 15
+0x00000085 Bok 15
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000086 LARRY BLOTTER OCH DEN HELIGA SKRÄP OCKSÅ JAG BÖRJAR BLI FÖR GAMMAL FÖR TROLLKARLSSKOLAN av R.J. Bowling UTDRAG -
+0x00000087 "Idag använde jag mina krafter för att döda en uteliggare ... bara för att det var kul."
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000088 LARRY BLOTTER OCH DEN HELIGA SKRÄP OCKSÅ JAG BÖRJAR BLI FÖR GAMMAL FÖR TROLLKARLSSKOLAN av R.J. Bowling UTDRAG -
+0x00000089 "Idag använde jag mina krafter för att döda en uteliggare ... bara för att det var kul."
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000008a LARRY BLOTTER OCH DEN HELIGA SKRÄP OCKSÅ JAG BÖRJAR BLI FÖR GAMMAL FÖR TROLLKARLSSKOLAN av R.J. Bowling UTDRAG -
+0x0000008b "Idag använde jag mina krafter för att döda en uteliggare ... bara för att det var kul."
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000008c LARRY BLOTTER OCH DEN HELIGA SKRÄP OCKSÅ JAG BÖRJAR BLI FÖR GAMMAL FÖR TROLLKARLSSKOLAN av R.J. Bowling UTDRAG -
+0x0000008d "Idag använde jag mina krafter för att döda en uteliggare ... bara för att det var kul."
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000008e LARRY BLOTTER OCH DEN HELIGA SKRÄP OCKSÅ JAG BÖRJAR BLI FÖR GAMMAL FÖR TROLLKARLSSKOLAN av R.J. Bowling UTDRAG -
+0x0000008f "Idag använde jag mina krafter för att döda en uteliggare ... bara för att det var kul."
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000090 LARRY BLOTTER OCH DEN HELIGA SKRÄP OCKSÅ JAG BÖRJAR BLI FÖR GAMMAL FÖR TROLLKARLSSKOLAN av R.J. Bowling UTDRAG -
+0x00000091 "Idag använde jag mina krafter för att döda en uteliggare ... bara för att det var kul."
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000092 LARRY BLOTTER OCH DEN HELIGA SKRÄP OCKSÅ JAG BÖRJAR BLI FÖR GAMMAL FÖR TROLLKARLSSKOLAN av R.J. Bowling UTDRAG -
+0x00000093 "Idag använde jag mina krafter för att döda en uteliggare ... bara för att det var kul."
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000094 LARRY BLOTTER OCH DEN HELIGA SKRÄP OCKSÅ JAG BÖRJAR BLI FÖR GAMMAL FÖR TROLLKARLSSKOLAN av R.J. Bowling UTDRAG -
+0x00000095 "Idag använde jag mina krafter för att döda en uteliggare ... bara för att det var kul."
+
+# Prop #150 - Bok 16
+0x00000096 Bok 16
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000097 TIGERN, TJALLAREN, GARDEROBEN,
+0x00000098 TAKFLÄKTEN, APAN, DISKMASKINEN, VASEN VID SOFFAN,
+0x00000099 STÄDERSKAN PÅ ÖVERVÅNINGEN SOM ALLTID HAR TAJTA TRÖJOR OCH SPELAR FÖROLÄMPAD NÄR HON SER ATT DU STIRRAR
+0x0000009a ... JAG MENAR, VAD TROR HON ATT DU TITTAR PÅ, SÅ VARMT ÄR DET INTE HÄR INNE RARING. av P.S. Louie
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x0000009b TIGERN, TJALLAREN, GARDEROBEN,
+0x0000009c TAKFLÄKTEN, APAN, DISKMASKINEN, VASEN VID SOFFAN,
+0x0000009d STÄDERSKAN PÅ ÖVERVÅNINGEN SOM ALLTID HAR TAJTA TRÖJOR OCH SPELAR FÖROLÄMPAD NÄR HON SER ATT DU STIRRAR
+0x0000009e ... JAG MENAR, VAD TROR HON ATT DU TITTAR PÅ, SÅ VARMT ÄR DET INTE HÄR INNE RARING. av P.S. Louie
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000009f TIGERN, TJALLAREN, GARDEROBEN,
+0x000000a0 TAKFLÄKTEN, APAN, DISKMASKINEN, VASEN VID SOFFAN,
+0x000000a1 STÄDERSKAN PÅ ÖVERVÅNINGEN SOM ALLTID HAR TAJTA TRÖJOR OCH SPELAR FÖROLÄMPAD NÄR HON SER ATT DU STIRRAR
+0x000000a2 ... JAG MENAR, VAD TROR HON ATT DU TITTAR PÅ, SÅ VARMT ÄR DET INTE HÄR INNE RARING. av P.S. Louie
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000a3 TIGERN, TJALLAREN, GARDEROBEN,
+0x000000a4 TAKFLÄKTEN, APAN, DISKMASKINEN, VASEN VID SOFFAN,
+0x000000a5 STÄDERSKAN PÅ ÖVERVÅNINGEN SOM ALLTID HAR TAJTA TRÖJOR OCH SPELAR FÖROLÄMPAD NÄR HON SER ATT DU STIRRAR
+0x000000a6 ... JAG MENAR, VAD TROR HON ATT DU TITTAR PÅ, SÅ VARMT ÄR DET INTE HÄR INNE RARING. av P.S. Louie
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000a7 TIGERN, TJALLAREN, GARDEROBEN,
+0x000000a8 TAKFLÄKTEN, APAN, DISKMASKINEN, VASEN VID SOFFAN,
+0x000000a9 STÄDERSKAN PÅ ÖVERVÅNINGEN SOM ALLTID HAR TAJTA TRÖJOR OCH SPELAR FÖROLÄMPAD NÄR HON SER ATT DU STIRRAR
+0x000000aa ... JAG MENAR, VAD TROR HON ATT DU TITTAR PÅ, SÅ VARMT ÄR DET INTE HÄR INNE RARING. av P.S. Louie
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000ab TIGERN, TJALLAREN, GARDEROBEN,
+0x000000ac TAKFLÄKTEN, APAN, DISKMASKINEN, VASEN VID SOFFAN,
+0x000000ad STÄDERSKAN PÅ ÖVERVÅNINGEN SOM ALLTID HAR TAJTA TRÖJOR OCH SPELAR FÖROLÄMPAD NÄR HON SER ATT DU STIRRAR
+0x000000ae ... JAG MENAR, VAD TROR HON ATT DU TITTAR PÅ, SÅ VARMT ÄR DET INTE HÄR INNE RARING. av P.S. Louie
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000af TIGERN, TJALLAREN, GARDEROBEN,
+0x000000b0 TAKFLÄKTEN, APAN, DISKMASKINEN, VASEN VID SOFFAN,
+0x000000b1 STÄDERSKAN PÅ ÖVERVÅNINGEN SOM ALLTID HAR TAJTA TRÖJOR OCH SPELAR FÖROLÄMPAD NÄR HON SER ATT DU STIRRAR
+0x000000b2 ... JAG MENAR, VAD TROR HON ATT DU TITTAR PÅ, SÅ VARMT ÄR DET INTE HÄR INNE RARING. av P.S. Louie
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000b3 TIGERN, TJALLAREN, GARDEROBEN,
+0x000000b4 TAKFLÄKTEN, APAN, DISKMASKINEN, VASEN VID SOFFAN,
+0x000000b5 STÄDERSKAN PÅ ÖVERVÅNINGEN SOM ALLTID HAR TAJTA TRÖJOR OCH SPELAR FÖROLÄMPAD NÄR HON SER ATT DU STIRRAR
+0x000000b6 ... JAG MENAR, VAD TROR HON ATT DU TITTAR PÅ, SÅ VARMT ÄR DET INTE HÄR INNE RARING. av P.S. Louie
+
+# Prop #183 - Bok 17
+0x000000b7 Bok 17
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000b8 Ett hjärtas resa till hjärtlandet av Lovey McLovington.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000b9 Ett hjärtas resa till hjärtlandet av Lovey McLovington.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000ba Ett hjärtas resa till hjärtlandet av Lovey McLovington.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000bb Ett hjärtas resa till hjärtlandet av Lovey McLovington.
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000bc Ett hjärtas resa till hjärtlandet av Lovey McLovington.
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000bd Ett hjärtas resa till hjärtlandet av Lovey McLovington.
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000be Ett hjärtas resa till hjärtlandet av Lovey McLovington.
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000bf Ett hjärtas resa till hjärtlandet av Lovey McLovington.
+
+# Prop #192 - Bok 18
+0x000000c0 Bok 18
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000c1 JA, JAG ÄR HÄR; MEN JAG GILLAR DIG INTE PÅ DET SÄTTET MARGARET av Gud
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000c2 JA, JAG ÄR HÄR; MEN JAG GILLAR DIG INTE PÅ DET SÄTTET MARGARET av Gud
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000c3 JA, JAG ÄR HÄR; MEN JAG GILLAR DIG INTE PÅ DET SÄTTET MARGARET av Gud
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000c4 JA, JAG ÄR HÄR; MEN JAG GILLAR DIG INTE PÅ DET SÄTTET MARGARET av Gud
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000c5 JA, JAG ÄR HÄR; MEN JAG GILLAR DIG INTE PÅ DET SÄTTET MARGARET av Gud
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000c6 JA, JAG ÄR HÄR; MEN JAG GILLAR DIG INTE PÅ DET SÄTTET MARGARET av Gud
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000c7 JA, JAG ÄR HÄR; MEN JAG GILLAR DIG INTE PÅ DET SÄTTET MARGARET av Gud
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000c8 JA, JAG ÄR HÄR; MEN JAG GILLAR DIG INTE PÅ DET SÄTTET MARGARET av Gud
+
+# Prop #201 - Bok 19
+0x000000c9 Bok 19
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000ca VILKA ANDRA ICKE-LEVANDE FÖREMÅL KAN VARA ONDA? av Steven Queen
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000cb VILKA ANDRA ICKE-LEVANDE FÖREMÅL KAN VARA ONDA? av Steven Queen
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000cc VILKA ANDRA ICKE-LEVANDE FÖREMÅL KAN VARA ONDA? av Steven Queen
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000cd VILKA ANDRA ICKE-LEVANDE FÖREMÅL KAN VARA ONDA? av Steven Queen
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000ce VILKA ANDRA ICKE-LEVANDE FÖREMÅL KAN VARA ONDA? av Steven Queen
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000cf VILKA ANDRA ICKE-LEVANDE FÖREMÅL KAN VARA ONDA? av Steven Queen
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000d0 VILKA ANDRA ICKE-LEVANDE FÖREMÅL KAN VARA ONDA? av Steven Queen
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000d1 VILKA ANDRA ICKE-LEVANDE FÖREMÅL KAN VARA ONDA? av Steven Queen
+
+# Prop #210 - Bok 2
+0x000000d2 Bok 2
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000d3 ÄR DU DÄR STEVE? av J.C.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000d4 ÄR DU DÄR STEVE? av J.C.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000d5 ÄR DU DÄR STEVE? av J.C.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000d6 ÄR DU DÄR STEVE? av J.C.
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000d7 ÄR DU DÄR STEVE? av J.C.
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000d8 ÄR DU DÄR STEVE? av J.C.
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000d9 ÄR DU DÄR STEVE? av J.C.
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000da ÄR DU DÄR STEVE? av J.C.
+
+# Prop #219 - Bok 20
+0x000000db Bok 20
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000dc LEONARDO-KODEN av Stan Maroon UTDRAG – "Ja, det finns en del skumma saker under Louvren, för att inte snacka om Vatikanstaten."
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000dd LEONARDO-KODEN av Stan Maroon UTDRAG – "Ja, det finns en del skumma saker under Louvren, för att inte snacka om Vatikanstaten."
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000de LEONARDO-KODEN av Stan Maroon UTDRAG – "Ja, det finns en del skumma saker under Louvren, för att inte snacka om Vatikanstaten."
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000df LEONARDO-KODEN av Stan Maroon UTDRAG – "Ja, det finns en del skumma saker under Louvren, för att inte snacka om Vatikanstaten."
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000e0 LEONARDO-KODEN av Stan Maroon UTDRAG – "Ja, det finns en del skumma saker under Louvren, för att inte snacka om Vatikanstaten."
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000e1 LEONARDO-KODEN av Stan Maroon UTDRAG – "Ja, det finns en del skumma saker under Louvren, för att inte snacka om Vatikanstaten."
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000e2 LEONARDO-KODEN av Stan Maroon UTDRAG – "Ja, det finns en del skumma saker under Louvren, för att inte snacka om Vatikanstaten."
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000e3 LEONARDO-KODEN av Stan Maroon UTDRAG – "Ja, det finns en del skumma saker under Louvren, för att inte snacka om Vatikanstaten."
+
+# Prop #228 - Bok 21
+0x000000e4 Bok 21
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000e5 Det var en gång ett äpple som hette PC. PC var det rödaste och läckraste äpplet bland alla sina vänner.
+0x000000e6 En dag tog PC en promenad när en skåpbil ställde sig i vägen för honom. Ett gäng arga läkare hoppade ut och spöade äppelsaften ur PC.
+0x000000e7 När läkarna gick iväg vände sig den ena om och sade: "där fick du för att du håller patienterna borta, ditt delikata röda &%$@*%#."
+0x000000e8 PC överlevde, men kunde aldrig spela piano igen... vilket han i och för sig inte gjorde innan eftersom han var ett äpple, men han hade ju alltid velat börja... men nu kan han inte det längre.
+0x000000e9 Han blev mer och mer tokig och arbetar nu nere i hamnen under namnet Juicebrallan. Slut.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000ea Det var en gång ett äpple som hette PC. PC var det rödaste och läckraste äpplet bland alla sina vänner.
+0x000000eb En dag tog PC en promenad när en skåpbil ställde sig i vägen för honom. Ett gäng arga läkare hoppade ut och spöade äppelsaften ur PC.
+0x000000ec När läkarna gick iväg vände sig den ena om och sade: "där fick du för att du håller patienterna borta, ditt delikata röda &%$@*%#."
+0x000000ed PC överlevde, men kunde aldrig spela piano igen... vilket han i och för sig inte gjorde innan eftersom han var ett äpple, men han hade ju alltid velat börja... men nu kan han inte det längre.
+0x000000ee Han blev mer och mer tokig och arbetar nu nere i hamnen under namnet Juicebrallan. Slut.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000ef Det var en gång ett äpple som hette PC. PC var det rödaste och läckraste äpplet bland alla sina vänner.
+0x000000f0 En dag tog PC en promenad när en skåpbil ställde sig i vägen för honom. Ett gäng arga läkare hoppade ut och spöade äppelsaften ur PC.
+0x000000f1 När läkarna gick iväg vände sig den ena om och sade: "där fick du för att du håller patienterna borta, ditt delikata röda &%$@*%#."
+0x000000f2 PC överlevde, men kunde aldrig spela piano igen... vilket han i och för sig inte gjorde innan eftersom han var ett äpple, men han hade ju alltid velat börja... men nu kan han inte det längre.
+0x000000f3 Han blev mer och mer tokig och arbetar nu nere i hamnen under namnet Juicebrallan. Slut.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000f4 Det var en gång ett äpple som hette PC. PC var det rödaste och läckraste äpplet bland alla sina vänner.
+0x000000f5 En dag tog PC en promenad när en skåpbil ställde sig i vägen för honom. Ett gäng arga läkare hoppade ut och spöade äppelsaften ur PC.
+0x000000f6 När läkarna gick iväg vände sig den ena om och sade: "där fick du för att du håller patienterna borta, ditt delikata röda &%$@*%#."
+0x000000f7 PC överlevde, men kunde aldrig spela piano igen... vilket han i och för sig inte gjorde innan eftersom han var ett äpple, men han hade ju alltid velat börja... men nu kan han inte det längre.
+0x000000f8 Han blev mer och mer tokig och arbetar nu nere i hamnen under namnet Juicebrallan. Slut.
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000f9 Det var en gång ett äpple som hette PC. PC var det rödaste och läckraste äpplet bland alla sina vänner.
+0x000000fa En dag tog PC en promenad när en skåpbil ställde sig i vägen för honom. Ett gäng arga läkare hoppade ut och spöade äppelsaften ur PC.
+0x000000fb När läkarna gick iväg vände sig den ena om och sade: "där fick du för att du håller patienterna borta, ditt delikata röda &%$@*%#."
+0x000000fc PC överlevde, men kunde aldrig spela piano igen... vilket han i och för sig inte gjorde innan eftersom han var ett äpple, men han hade ju alltid velat börja... men nu kan han inte det längre.
+0x000000fd Han blev mer och mer tokig och arbetar nu nere i hamnen under namnet Juicebrallan. Slut.
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000fe Det var en gång ett äpple som hette PC. PC var det rödaste och läckraste äpplet bland alla sina vänner.
+0x000000ff En dag tog PC en promenad när en skåpbil ställde sig i vägen för honom. Ett gäng arga läkare hoppade ut och spöade äppelsaften ur PC.
+0x00000100 När läkarna gick iväg vände sig den ena om och sade: "där fick du för att du håller patienterna borta, ditt delikata röda &%$@*%#."
+0x00000101 PC överlevde, men kunde aldrig spela piano igen... vilket han i och för sig inte gjorde innan eftersom han var ett äpple, men han hade ju alltid velat börja... men nu kan han inte det längre.
+0x00000102 Han blev mer och mer tokig och arbetar nu nere i hamnen under namnet Juicebrallan. Slut.
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000103 Det var en gång ett äpple som hette PC. PC var det rödaste och läckraste äpplet bland alla sina vänner.
+0x00000104 En dag tog PC en promenad när en skåpbil ställde sig i vägen för honom. Ett gäng arga läkare hoppade ut och spöade äppelsaften ur PC.
+0x00000105 När läkarna gick iväg vände sig den ena om och sade: "där fick du för att du håller patienterna borta, ditt delikata röda &%$@*%#."
+0x00000106 PC överlevde, men kunde aldrig spela piano igen... vilket han i och för sig inte gjorde innan eftersom han var ett äpple, men han hade ju alltid velat börja... men nu kan han inte det längre.
+0x00000107 Han blev mer och mer tokig och arbetar nu nere i hamnen under namnet Juicebrallan. Slut.
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000108 Det var en gång ett äpple som hette PC. PC var det rödaste och läckraste äpplet bland alla sina vänner.
+0x00000109 En dag tog PC en promenad när en skåpbil ställde sig i vägen för honom. Ett gäng arga läkare hoppade ut och spöade äppelsaften ur PC.
+0x0000010a När läkarna gick iväg vände sig den ena om och sade: "där fick du för att du håller patienterna borta, ditt delikata röda &%$@*%#."
+0x0000010b PC överlevde, men kunde aldrig spela piano igen... vilket han i och för sig inte gjorde innan eftersom han var ett äpple, men han hade ju alltid velat börja... men nu kan han inte det längre.
+0x0000010c Han blev mer och mer tokig och arbetar nu nere i hamnen under namnet Juicebrallan. Slut.
+
+# Prop #269 - Bok 22
+0x0000010d Bok 22
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x0000010e SKYLIGHT av Melanie Meyer "NU SOM BOK!"
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x0000010f SKYLIGHT av Melanie Meyer "NU SOM BOK!"
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000110 SKYLIGHT av Melanie Meyer "NU SOM BOK!"
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000111 SKYLIGHT av Melanie Meyer "NU SOM BOK!"
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000112 SKYLIGHT av Melanie Meyer "NU SOM BOK!"
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000113 SKYLIGHT av Melanie Meyer "NU SOM BOK!"
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000114 SKYLIGHT av Melanie Meyer "NU SOM BOK!"
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000115 SKYLIGHT av Melanie Meyer "NU SOM BOK!"
+
+# Prop #278 - Bok 3
+0x00000116 Bok 3
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000117 HUR MAN KAN LYCKAS MED ALLT UTAN NÅGRA EGENTLIGA TALANGER ELLER FÖRMÅGOR av Aster Kushion
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000118 HUR MAN KAN LYCKAS MED ALLT UTAN NÅGRA EGENTLIGA TALANGER ELLER FÖRMÅGOR av Aster Kushion
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000119 HUR MAN KAN LYCKAS MED ALLT UTAN NÅGRA EGENTLIGA TALANGER ELLER FÖRMÅGOR av Aster Kushion
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000011a HUR MAN KAN LYCKAS MED ALLT UTAN NÅGRA EGENTLIGA TALANGER ELLER FÖRMÅGOR av Aster Kushion
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000011b HUR MAN KAN LYCKAS MED ALLT UTAN NÅGRA EGENTLIGA TALANGER ELLER FÖRMÅGOR av Aster Kushion
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x0000011c HUR MAN KAN LYCKAS MED ALLT UTAN NÅGRA EGENTLIGA TALANGER ELLER FÖRMÅGOR av Aster Kushion
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x0000011d HUR MAN KAN LYCKAS MED ALLT UTAN NÅGRA EGENTLIGA TALANGER ELLER FÖRMÅGOR av Aster Kushion
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x0000011e HUR MAN KAN LYCKAS MED ALLT UTAN NÅGRA EGENTLIGA TALANGER ELLER FÖRMÅGOR av Aster Kushion
+
+# Prop #287 - Bok 4
+0x0000011f Bok 4
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000120 SPOILERVARNING VOL. 1 UTDRAG -
+0x00000121 "Spruce Wellis var död hela tiden.
+0x00000122 Kelvin Spazzy är Kaisah Sosie ... på sätt och vis.
+0x00000123 Brad Mitt finns i Edwin Mortons hjärna.
+0x00000124 Snorman har klätt sig som sin mamma."
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000125 SPOILERVARNING VOL. 1 UTDRAG -
+0x00000126 "Spruce Wellis var död hela tiden.
+0x00000127 Kelvin Spazzy är Kaisah Sosie ... på sätt och vis.
+0x00000128 Brad Mitt finns i Edwin Mortons hjärna.
+0x00000129 Snorman har klätt sig som sin mamma."
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000012a SPOILERVARNING VOL. 1 UTDRAG -
+0x0000012b "Spruce Wellis var död hela tiden.
+0x0000012c Kelvin Spazzy är Kaisah Sosie ... på sätt och vis.
+0x0000012d Brad Mitt finns i Edwin Mortons hjärna.
+0x0000012e Snorman har klätt sig som sin mamma."
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000012f SPOILERVARNING VOL. 1 UTDRAG -
+0x00000130 "Spruce Wellis var död hela tiden.
+0x00000131 Kelvin Spazzy är Kaisah Sosie ... på sätt och vis.
+0x00000132 Brad Mitt finns i Edwin Mortons hjärna.
+0x00000133 Snorman har klätt sig som sin mamma."
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000134 SPOILERVARNING VOL. 1 UTDRAG -
+0x00000135 "Spruce Wellis var död hela tiden.
+0x00000136 Kelvin Spazzy är Kaisah Sosie ... på sätt och vis.
+0x00000137 Brad Mitt finns i Edwin Mortons hjärna.
+0x00000138 Snorman har klätt sig som sin mamma."
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000139 SPOILERVARNING VOL. 1 UTDRAG -
+0x0000013a "Spruce Wellis var död hela tiden.
+0x0000013b Kelvin Spazzy är Kaisah Sosie ... på sätt och vis.
+0x0000013c Brad Mitt finns i Edwin Mortons hjärna.
+0x0000013d Snorman har klätt sig som sin mamma."
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x0000013e SPOILERVARNING VOL. 1 UTDRAG -
+0x0000013f "Spruce Wellis var död hela tiden.
+0x00000140 Kelvin Spazzy är Kaisah Sosie ... på sätt och vis.
+0x00000141 Brad Mitt finns i Edwin Mortons hjärna.
+0x00000142 Snorman har klätt sig som sin mamma."
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000143 SPOILERVARNING VOL. 1 UTDRAG -
+0x00000144 "Spruce Wellis var död hela tiden.
+0x00000145 Kelvin Spazzy är Kaisah Sosie ... på sätt och vis.
+0x00000146 Brad Mitt finns i Edwin Mortons hjärna.
+0x00000147 Snorman har klätt sig som sin mamma."
+
+# Prop #328 - Bok 5
+0x00000148 Bok 5
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000149 MOBY DICK ... ti hi.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x0000014a MOBY DICK ... ti hi.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000014b MOBY DICK ... ti hi.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000014c MOBY DICK ... ti hi.
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000014d MOBY DICK ... ti hi.
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x0000014e MOBY DICK ... ti hi.
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x0000014f MOBY DICK ... ti hi.
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000150 MOBY DICK ... ti hi.
+
+# Prop #337 - Bok 6
+0x00000151 Bok 6
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000152 SLUTA HATA av Carrot Bottom
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000153 SLUTA HATA av Carrot Bottom
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000154 SLUTA HATA av Carrot Bottom
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000155 SLUTA HATA av Carrot Bottom
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000156 SLUTA HATA av Carrot Bottom
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000157 SLUTA HATA av Carrot Bottom
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000158 SLUTA HATA av Carrot Bottom
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000159 SLUTA HATA av Carrot Bottom
+
+# Prop #346 - Bok 7
+0x0000015a Bok 7
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x0000015b JAG SKREV KEJSARSKETCHEN I ROBOT CHICKEN av Breckin Meyer
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x0000015c JAG SKREV KEJSARSKETCHEN I ROBOT CHICKEN av Breckin Meyer
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000015d JAG SKREV KEJSARSKETCHEN I ROBOT CHICKEN av Breckin Meyer
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000015e JAG SKREV KEJSARSKETCHEN I ROBOT CHICKEN av Breckin Meyer
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000015f JAG SKREV KEJSARSKETCHEN I ROBOT CHICKEN av Breckin Meyer
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000160 JAG SKREV KEJSARSKETCHEN I ROBOT CHICKEN av Breckin Meyer
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000161 JAG SKREV KEJSARSKETCHEN I ROBOT CHICKEN av Breckin Meyer
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000162 JAG SKREV KEJSARSKETCHEN I ROBOT CHICKEN av Breckin Meyer
+
+# Prop #355 - Bok 8
+0x00000163 Bok 8
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000164 UTDRAG UR RINGON-BIBELN – "Varför skulle någon vilja äga denna? Jag menar, det är så dumt!
+0x00000165 Ringoner tror inte på vårt religionssystem så varför skulle de översätta vår bibel? På skoj eller? Det är så dumt."
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000166 UTDRAG UR RINGON-BIBELN – "Varför skulle någon vilja äga denna? Jag menar, det är så dumt!
+0x00000167 Ringoner tror inte på vårt religionssystem så varför skulle de översätta vår bibel? På skoj eller? Det är så dumt."
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000168 UTDRAG UR RINGON-BIBELN – "Varför skulle någon vilja äga denna? Jag menar, det är så dumt!
+0x00000169 Ringoner tror inte på vårt religionssystem så varför skulle de översätta vår bibel? På skoj eller? Det är så dumt."
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000016a UTDRAG UR RINGON-BIBELN – "Varför skulle någon vilja äga denna? Jag menar, det är så dumt!
+0x0000016b Ringoner tror inte på vårt religionssystem så varför skulle de översätta vår bibel? På skoj eller? Det är så dumt."
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000016c UTDRAG UR RINGON-BIBELN – "Varför skulle någon vilja äga denna? Jag menar, det är så dumt!
+0x0000016d Ringoner tror inte på vårt religionssystem så varför skulle de översätta vår bibel? På skoj eller? Det är så dumt."
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x0000016e UTDRAG UR RINGON-BIBELN – "Varför skulle någon vilja äga denna? Jag menar, det är så dumt!
+0x0000016f Ringoner tror inte på vårt religionssystem så varför skulle de översätta vår bibel? På skoj eller? Det är så dumt."
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000170 UTDRAG UR RINGON-BIBELN – "Varför skulle någon vilja äga denna? Jag menar, det är så dumt!
+0x00000171 Ringoner tror inte på vårt religionssystem så varför skulle de översätta vår bibel? På skoj eller? Det är så dumt."
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000172 UTDRAG UR RINGON-BIBELN – "Varför skulle någon vilja äga denna? Jag menar, det är så dumt!
+0x00000173 Ringoner tror inte på vårt religionssystem så varför skulle de översätta vår bibel? På skoj eller? Det är så dumt."
+
+# Prop #372 - Bok 9
+0x00000174 Bok 9
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000175 BERÖMDA BORSTAR GENOM HISTORIEN.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000176 BERÖMDA BORSTAR GENOM HISTORIEN.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000177 BERÖMDA BORSTAR GENOM HISTORIEN.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000178 BERÖMDA BORSTAR GENOM HISTORIEN.
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000179 BERÖMDA BORSTAR GENOM HISTORIEN.
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x0000017a BERÖMDA BORSTAR GENOM HISTORIEN.
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x0000017b BERÖMDA BORSTAR GENOM HISTORIEN.
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x0000017c BERÖMDA BORSTAR GENOM HISTORIEN.
+
+# Prop #381 - Ancient Books
+0x0000017d Ancient Books
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #382 - PC
+0x0000017e PC
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000017f Vad får du om du korsar en bomb och ett äpple? Ett granatäpple! Hooah!!
+0x00000180 Ett äpple för dina tankar. Kul va? Jag gillar det skämtet.
+0x00000181 Hur gör du äppelpaj? Det är bara att paja äpplet. Hooah! Jag skrattar mig alldeles skruttig. Dubbel-hooah!
+0x00000182 Varför kan inte ett äpple ha en frisyr? För att det är alldeles skaligt!
+0x00000183 Vet du varför ett äpple inte kan bli en cowboy? För att vi är rödskinn! Gud så lustigt.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #388 - Jump Pad 
+0x00000184 Jump Pad 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #389 - Hårborste
+0x00000185 Hårborste
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000186 Jag vet hår frustrerande det kan vara när det tovar sig. Hi hi.
+0x00000187 Att inte ha ha en fin frisyr är rent hårresande. Hi hi, igen.
+0x00000188 Tja, detta är det nyaste. Visst är det hårligt. Hi hi, del tre – den här gången är det personligt.
+0x00000189 Det populäraste instrumentet måste vara saxofönen? Hi hi, nya versionen.
+0x0000018a Jag är så glad att vi gör det här nu, så att vi inte blir fast här ... lyssna nu ... PERMANENT! Hi hi del fyra – en ny början.
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #395 - Teleporter
+0x0000018b Teleporter
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #396 - Jump Pad 
+0x0000018c Jump Pad 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #397 - Love Bomb
+0x0000018d Love Bomb
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #398 - Column 'o Love
+0x0000018e Column 'o Love
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #399 - Julio
+0x0000018f Julio
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000190 Du och jag kan väl gå bort till romantikavdelningen och få hyllorna att skaka lite.
+0x00000191 Jag tror att du behöver lite kärlek.
+
+# Inspect for Act 8
+
+# Prop #402 - Teleporter
+0x00000192 Teleporter
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #403 - Jump Pad 
+0x00000193 Jump Pad 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #404 - Poof White
+0x00000194 Poof White
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #405 - Boulder
+0x00000195 Boulder
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #406 - Sting Angels
+0x00000196 Sting Angels
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #407 - Door Open
+0x00000197 Door Open
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #408 - Fairy Wand
+0x00000198 Fairy Wand
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #409 - Blue Key
+0x00000199 Blue Key
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #410 - Sting Romance
+0x0000019a Sting Romance
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #411 - Korp
+0x0000019b Korp
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000019c E=MC DÖD!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #413 - Library Bookshelves
+0x0000019d Library Bookshelves
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #414 - Chandelier
+0x0000019e Chandelier
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #415 - Study Carrels
+0x0000019f Study Carrels
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #416 - Library Main Door
+0x000001a0 Library Main Door
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #417 - Library Door (open)
+0x000001a1 Library Door (open)
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #418 - Library Doorway
+0x000001a2 Library Doorway
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #419 - Library Doors (Closed)
+0x000001a3 Library Doors (Closed)
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #420 - Librarian's Desk
+0x000001a4 Librarian's Desk
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #421 - Door Open
+0x000001a5 Door Open
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #422 - Poof White
+0x000001a6 Poof White
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #423 - Book Tower
+0x000001a7 Book Tower
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #424 - Library wall 1
+0x000001a8 Library wall 1
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #425 - Library wall One Pillar
+0x000001a9 Library wall One Pillar
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #426 - Spotlight Lone 
+0x000001aa Spotlight Lone 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #427 - Library Archway
+0x000001ab Library Archway
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #428 - Library Ceiling
+0x000001ac Library Ceiling
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #429 - Lamp of Delight
+0x000001ad Lamp of Delight
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #430 - Festivity Fountain
+0x000001ae Festivity Fountain
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #431 - Foliage Folly
+0x000001af Foliage Folly
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #432 - Flying Book 4
+0x000001b0 Flying Book 4
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #433 - Book Fly2
+0x000001b1 Book Fly2
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #434 - Blue Key
+0x000001b2 Blue Key
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #435 - Haunted House
+0x000001b3 Haunted House
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #436 - Biblioteksbesökare
+0x000001b4 Biblioteksbesökare
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000001b5 Den här boken luktar majschips ... eller fötter ... nej, majschips, definitivt majschips.
+0x000001b6 VARFÖR ÄR ALLA SÅ TYSTA? SÄG NÅGOT!
+0x000001b7 Är det ett bibliotek eller?
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000001b8 Den här boken luktar majschips ... eller fötter ... nej, majschips, definitivt majschips.
+0x000001b9 VARFÖR ÄR ALLA SÅ TYSTA? SÄG NÅGOT!
+0x000001ba Är det ett bibliotek eller?
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000001bb Den här boken luktar majschips ... eller fötter ... nej, majschips, definitivt majschips.
+0x000001bc VARFÖR ÄR ALLA SÅ TYSTA? SÄG NÅGOT!
+0x000001bd Är det ett bibliotek eller?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000001be Den här boken luktar majschips ... eller fötter ... nej, majschips, definitivt majschips.
+0x000001bf VARFÖR ÄR ALLA SÅ TYSTA? SÄG NÅGOT!
+0x000001c0 Är det ett bibliotek eller?
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000001c1 Den här boken luktar majschips ... eller fötter ... nej, majschips, definitivt majschips.
+0x000001c2 VARFÖR ÄR ALLA SÅ TYSTA? SÄG NÅGOT!
+0x000001c3 Är det ett bibliotek eller?
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x000001c4 Den här boken luktar majschips ... eller fötter ... nej, majschips, definitivt majschips.
+0x000001c5 VARFÖR ÄR ALLA SÅ TYSTA? SÄG NÅGOT!
+0x000001c6 Är det ett bibliotek eller?
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x000001c7 Den här boken luktar majschips ... eller fötter ... nej, majschips, definitivt majschips.
+0x000001c8 VARFÖR ÄR ALLA SÅ TYSTA? SÄG NÅGOT!
+0x000001c9 Är det ett bibliotek eller?
+
+# Inspect for Act 8
+
+# Prop #458 - Nördgris
+0x000001ca Nördgris
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000001cb 35 cent för en försenad bok! Jag ska visa dem, jag ska betala i småmynt. Rostiga småmynt.
+0x000001cc Kan du ett annat ord för ordbok?
+0x000001cd Jag önskar att jag var hemma och tittade på Robot Chickens kejsarsketch, som Breckin Meyer skrev.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000001ce 35 cent för en försenad bok! Jag ska visa dem, jag ska betala i småmynt. Rostiga småmynt.
+0x000001cf Kan du ett annat ord för ordbok?
+0x000001d0 Jag önskar att jag var hemma och tittade på Robot Chickens kejsarsketch, som Breckin Meyer skrev.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000001d1 35 cent för en försenad bok! Jag ska visa dem, jag ska betala i småmynt. Rostiga småmynt.
+0x000001d2 Kan du ett annat ord för ordbok?
+0x000001d3 Jag önskar att jag var hemma och tittade på Robot Chickens kejsarsketch, som Breckin Meyer skrev.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000001d4 35 cent för en försenad bok! Jag ska visa dem, jag ska betala i småmynt. Rostiga småmynt.
+0x000001d5 Kan du ett annat ord för ordbok?
+0x000001d6 Jag önskar att jag var hemma och tittade på Robot Chickens kejsarsketch, som Breckin Meyer skrev.
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000001d7 35 cent för en försenad bok! Jag ska visa dem, jag ska betala i småmynt. Rostiga småmynt.
+0x000001d8 Kan du ett annat ord för ordbok?
+0x000001d9 Jag önskar att jag var hemma och tittade på Robot Chickens kejsarsketch, som Breckin Meyer skrev.
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x000001da 35 cent för en försenad bok! Jag ska visa dem, jag ska betala i småmynt. Rostiga småmynt.
+0x000001db Kan du ett annat ord för ordbok?
+0x000001dc Jag önskar att jag var hemma och tittade på Robot Chickens kejsarsketch, som Breckin Meyer skrev.
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x000001dd 35 cent för en försenad bok! Jag ska visa dem, jag ska betala i småmynt. Rostiga småmynt.
+0x000001de Kan du ett annat ord för ordbok?
+0x000001df Jag önskar att jag var hemma och tittade på Robot Chickens kejsarsketch, som Breckin Meyer skrev.
+
+# Inspect for Act 8
+
+# Prop #480 - Ancient Books
+0x000001e0 Ancient Books
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #481 - Blue Key
+0x000001e1 Blue Key
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #482 - Green Key
+0x000001e2 Green Key
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #483 - Chandelier
+0x000001e3 Chandelier
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #484 - Den blinde mannen
+0x000001e4 Den blinde mannen
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000001e5 Jag somnade just, men ramlade inte. Jag är en KAMEL!
+0x000001e6 Hur kan det komma sig att jag aldrig sett en babyduva?
+0x000001e7 Oj då, Larry Plotter är en flicka!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000001e8 Jag somnade just, men ramlade inte. Jag är en KAMEL!
+0x000001e9 Hur kan det komma sig att jag aldrig sett en babyduva?
+0x000001ea Oj då, Larry Plotter är en flicka!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000001eb Jag somnade just, men ramlade inte. Jag är en KAMEL!
+0x000001ec Hur kan det komma sig att jag aldrig sett en babyduva?
+0x000001ed Oj då, Larry Plotter är en flicka!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x000001ee Jag somnade just, men ramlade inte. Jag är en KAMEL!
+0x000001ef Hur kan det komma sig att jag aldrig sett en babyduva?
+0x000001f0 Oj då, Larry Plotter är en flicka!
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x000001f1 Jag somnade just, men ramlade inte. Jag är en KAMEL!
+0x000001f2 Hur kan det komma sig att jag aldrig sett en babyduva?
+0x000001f3 Oj då, Larry Plotter är en flicka!
+
+# Inspect for Act 8
+
+# Prop #500 - Rörmokare
+0x000001f4 Rörmokare
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000001f5 Åh Charlie, vad ska du göra med all den där chokladen?
+0x000001f6 Åh Jane Austen, du är skadad. Vem har skadat dig?
+0x000001f7 Om jag var på rullskridskor skulle det vara fantastiskt.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000001f8 Åh Charlie, vad ska du göra med all den där chokladen?
+0x000001f9 Åh Jane Austen, du är skadad. Vem har skadat dig?
+0x000001fa Om jag var på rullskridskor skulle det vara fantastiskt.
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000001fb Åh Charlie, vad ska du göra med all den där chokladen?
+0x000001fc Åh Jane Austen, du är skadad. Vem har skadat dig?
+0x000001fd Om jag var på rullskridskor skulle det vara fantastiskt.
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x000001fe Åh Charlie, vad ska du göra med all den där chokladen?
+0x000001ff Åh Jane Austen, du är skadad. Vem har skadat dig?
+0x00000200 Om jag var på rullskridskor skulle det vara fantastiskt.
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000201 Åh Charlie, vad ska du göra med all den där chokladen?
+0x00000202 Åh Jane Austen, du är skadad. Vem har skadat dig?
+0x00000203 Om jag var på rullskridskor skulle det vara fantastiskt.
+
+# Inspect for Act 8
+
+# Prop #516 - Sir Beakenstein
+0x00000204 Sir Beakenstein
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000205 Jag är naken under kläderna!
+0x00000206 Jag önskar att alla dessa böcker var mina vänner.
+0x00000207 Mamma tycker att jag är stilig.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000208 Jag är naken under kläderna!
+0x00000209 Jag önskar att alla dessa böcker var mina vänner.
+0x0000020a Mamma tycker att jag är stilig.
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000020b Jag är naken under kläderna!
+0x0000020c Jag önskar att alla dessa böcker var mina vänner.
+0x0000020d Mamma tycker att jag är stilig.
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x0000020e Jag är naken under kläderna!
+0x0000020f Jag önskar att alla dessa böcker var mina vänner.
+0x00000210 Mamma tycker att jag är stilig.
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000211 Jag är naken under kläderna!
+0x00000212 Jag önskar att alla dessa böcker var mina vänner.
+0x00000213 Mamma tycker att jag är stilig.
+
+# Inspect for Act 8
+
+# Prop #532 - Wortgon
+0x00000214 Wortgon
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000215 Jag kissade lite.
+0x00000216 Jag har clownmakeup på min baddräkt.
+0x00000217 Detta är bara pappers-TV-shower! Typiskt.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000218 Jag kissade lite.
+0x00000219 Jag har clownmakeup på min baddräkt.
+0x0000021a Detta är bara pappers-TV-shower! Typiskt.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000021b Jag kissade lite.
+0x0000021c Jag har clownmakeup på min baddräkt.
+0x0000021d Detta är bara pappers-TV-shower! Typiskt.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x0000021e Jag kissade lite.
+0x0000021f Jag har clownmakeup på min baddräkt.
+0x00000220 Detta är bara pappers-TV-shower! Typiskt.
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000221 Jag kissade lite.
+0x00000222 Jag har clownmakeup på min baddräkt.
+0x00000223 Detta är bara pappers-TV-shower! Typiskt.
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x00000224 Jag kissade lite.
+0x00000225 Jag har clownmakeup på min baddräkt.
+0x00000226 Detta är bara pappers-TV-shower! Typiskt.
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000227 Jag kissade lite.
+0x00000228 Jag har clownmakeup på min baddräkt.
+0x00000229 Detta är bara pappers-TV-shower! Typiskt.
+
+# Inspect for Act 8
+

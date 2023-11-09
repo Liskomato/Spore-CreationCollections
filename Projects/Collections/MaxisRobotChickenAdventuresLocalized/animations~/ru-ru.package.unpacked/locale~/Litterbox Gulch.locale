@@ -1,0 +1,1434 @@
+# Auto-generated localization file for: Лоточное ущелье (ID: 0X8EDCCE4A)
+# Adventure name
+0x00000001 Лоточное ущелье
+
+# Adventure description
+0x00000002 Госпожа Милашка и ее "Cпортанцы" защищают Лоточное ущелье от Беспечных медвежат. Капитан, помогай!  Автор - Дэн Милано.
+
+# Intro text
+0x00000003 Добро пожаловать в Лоточное ущелье! Приготовьте самые крутые пушки: здесь есть, чем заняться!
+
+# Win text
+0x00000004 Вот это да! Поздравляем! Госпожа Милашка и ее спортанцы благодарят тебя!
+
+# Lose text
+0x00000005 Вот это круто! Бах-бах, ты вламываешься в самый нужный момент! Ой, тебя, кажется, немного того... Ну, ничего! Это достойная смерть. Может, заглянешь еще в ущелье?
+
+# Act 1
+0x00000006 Привет! Как дела?
+0x00000007 Добро пожаловать в Лоточное ущелье! Ого, в этом милом местечке явно что-то не так...
+
+# Goal 1
+0x00000008 Здорово. Как твое ничего? Я госпожа Милашка. Короче, ты за меня, я за тебя! > ^^ <
+0x00000009 Это Лоточное ущелье. Мы пытаемся его очистить, а тупым медвежатам, похоже, по фигу!
+0x0000000a Если повезет, мы 3 раза стащим их флаг! Тогда они попляшут!
+0x0000000b Поможешь? Ну, пова-а-а-алуста!
+
+
+# Act 2
+0x0000000c Захвати флаг!
+0x0000000d Захвати вражеский флаг и доставь его в свой лагерь. Если ты сделаешь это трижды и ни разу не попадешься, то, возможно, медвежата перестанут быть такими беспечными.
+
+# Goal 1
+
+
+# Act 3
+0x0000000e Захвати флаг!
+0x0000000f Нужно принести еще два флага.
+
+# Goal 1
+
+
+# Act 4
+0x00000010 Захвати флаг!
+0x00000011 Нужно принести еще один флаг.
+
+# Goal 1
+
+
+# Prop #18 - Litter Box
+0x00000012 Litter Box
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #19 - Bear Base
+0x00000013 Bear Base
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #20 - Лагерь котят
+0x00000014 Лагерь котят
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #21 - Медведь-убийца
+0x00000015 Медведь-убийца
+
+# Chatter for Act 1
+0x00000016 Кто круче, тот и рулит!
+0x00000017 Ух! Крутотень!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000018 Кто круче, тот и рулит!
+0x00000019 Ух! Крутотень!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000001a Кто круче, тот и рулит!
+0x0000001b Ух! Крутотень!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000001c Кто круче, тот и рулит!
+0x0000001d Ух! Крутотень!
+
+# Inspect for Act 4
+
+# Prop #30 - Ворсакс
+0x0000001e Ворсакс
+
+# Chatter for Act 1
+0x0000001f Ой ееее!
+0x00000020 Не боись! Я тебя небольно прибью.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000021 Ой ееее!
+0x00000022 Не боись! Я тебя небольно прибью.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000023 Ой ееее!
+0x00000024 Не боись! Я тебя небольно прибью.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000025 Ой ееее!
+0x00000026 Не боись! Я тебя небольно прибью.
+
+# Inspect for Act 4
+
+# Prop #39 - Poo Pile
+0x00000027 Poo Pile
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #40 - Flies
+0x00000028 Flies
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #41 - Госпожа Милашка
+0x00000029 Госпожа Милашка
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000002a Тут все наше!
+0x0000002b Воевать - круто!
+0x0000002c Обожаю флаги! Давай еще!
+0x0000002d М-м-м! Запахло паленым!
+0x0000002e Снимаю шляпу!
+
+# Inspect for Act 4
+
+# Prop #47 - Какощен
+0x0000002f Какощен
+
+# Chatter for Act 1
+0x00000030 Эта мая планета!
+0x00000031 (= 0_0 =)
+0x00000032 Люблю жареную медвежатину!
+0x00000033 o.o
+0x00000034 ;)
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000035 Эта мая планета!
+0x00000036 (= 0_0 =)
+0x00000037 Люблю жареную медвежатину!
+0x00000038 o.o
+0x00000039 ;)
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000003a Эта мая планета!
+0x0000003b (= 0_0 =)
+0x0000003c Люблю жареную медвежатину!
+0x0000003d o.o
+0x0000003e ;)
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000003f Эта мая планета!
+0x00000040 (= 0_0 =)
+0x00000041 Люблю жареную медвежатину!
+0x00000042 o.o
+0x00000043 ;)
+
+# Inspect for Act 4
+
+# Prop #68 - Пингвин-обнимала
+0x00000044 Пингвин-обнимала
+
+# Chatter for Act 1
+0x00000045 Хосю убива-ать.
+0x00000046 Давай обнимемся?
+0x00000047 Берегись!
+0x00000048 ^ ^
+0x00000049 ТЫ БЭСТ!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000004a Хосю убива-ать.
+0x0000004b Давай обнимемся?
+0x0000004c Берегись!
+0x0000004d ^ ^
+0x0000004e ТЫ БЭСТ!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000004f Хосю убива-ать.
+0x00000050 Давай обнимемся?
+0x00000051 Берегись!
+0x00000052 ^ ^
+0x00000053 ТЫ БЭСТ!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000054 Хосю убива-ать.
+0x00000055 Давай обнимемся?
+0x00000056 Берегись!
+0x00000057 ^ ^
+0x00000058 ТЫ БЭСТ!
+
+# Inspect for Act 4
+
+# Prop #89 - Плюшевый котенок
+0x00000059 Плюшевый котенок
+
+# Chatter for Act 1
+0x0000005a УГАР!
+0x0000005b ЦАЛУЮ!
+0x0000005c ЛАФКИ!
+0x0000005d ЧМОКИ!
+0x0000005e ОМГ! СПС!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000005f УГАР!
+0x00000060 ЦАЛУЮ!
+0x00000061 ЛАФКИ!
+0x00000062 ЧМОКИ!
+0x00000063 ОМГ! СПС!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000064 УГАР!
+0x00000065 ЦАЛУЮ!
+0x00000066 ЛАФКИ!
+0x00000067 ЧМОКИ!
+0x00000068 ОМГ! СПС!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000069 УГАР!
+0x0000006a ЦАЛУЮ!
+0x0000006b ЛАФКИ!
+0x0000006c ЧМОКИ!
+0x0000006d ОМГ! СПС!
+
+# Inspect for Act 4
+
+# Prop #110 - Бобо
+0x0000006e Бобо
+
+# Chatter for Act 1
+0x0000006f Эх, не надо было пропускать строевую подготовку.
+0x00000070 Ладно, бери, мне он не нужен.
+0x00000071 Вечно меня ставят охранять флаг.
+0x00000072 Где-то здесь был флаг...
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000073 Эх, не надо было пропускать строевую подготовку.
+0x00000074 Ладно, бери, мне он не нужен.
+0x00000075 Вечно меня ставят охранять флаг.
+0x00000076 Где-то здесь был флаг...
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000077 Эх, не надо было пропускать строевую подготовку.
+0x00000078 Ладно, бери, мне он не нужен.
+0x00000079 Вечно меня ставят охранять флаг.
+0x0000007a Где-то здесь был флаг...
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000007b Эх, не надо было пропускать строевую подготовку.
+0x0000007c Ладно, бери, мне он не нужен.
+0x0000007d Вечно меня ставят охранять флаг.
+0x0000007e Где-то здесь был флаг...
+
+# Inspect for Act 4
+
+# Prop #127 - Медвескунс
+0x0000007f Медвескунс
+
+# Chatter for Act 1
+0x00000080 ФИГА СЕ!
+0x00000081 Эй, котенок!
+0x00000082 Иду вас мочить!
+0x00000083 Кранты тебе.
+0x00000084 Флаг или жизнь!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000085 ФИГА СЕ!
+0x00000086 Эй, котенок!
+0x00000087 Иду вас мочить!
+0x00000088 Кранты тебе.
+0x00000089 Флаг или жизнь!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000008a ФИГА СЕ!
+0x0000008b Эй, котенок!
+0x0000008c Иду вас мочить!
+0x0000008d Кранты тебе.
+0x0000008e Флаг или жизнь!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000008f ФИГА СЕ!
+0x00000090 Эй, котенок!
+0x00000091 Иду вас мочить!
+0x00000092 Кранты тебе.
+0x00000093 Флаг или жизнь!
+
+# Inspect for Act 4
+
+# Prop #148 - Rainbow
+0x00000094 Rainbow
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #149 - Butterflies
+0x00000095 Butterflies
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #150 - Cloud Lightning
+0x00000096 Cloud Lightning
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #151 - Cloud Poison
+0x00000097 Cloud Poison
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #152 - Scooper
+0x00000098 Scooper
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #153 - Леденец сердечком (граната)
+0x00000099 Леденец сердечком (граната)
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #154 - Леденец сердечком (граната)
+0x0000009a Леденец сердечком (граната)
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #155 - Леденец сердечком (граната)
+0x0000009b Леденец сердечком (граната)
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #156 - Медвескунс
+0x0000009c Медвескунс
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #157 - Котеночек-ребеночек
+0x0000009d Котеночек-ребеночек
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #158 - Spout Water
+0x0000009e Spout Water
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #159 - Рыба-летяга
+0x0000009f Рыба-летяга
+
+# Chatter for Act 1
+0x000000a0 Уи-и-и-и!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000a1 Уи-и-и-и!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000a2 Уи-и-и-и!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000a3 Уи-и-и-и!
+
+# Inspect for Act 4
+
+# Prop #164 - Power-Up Energy
+0x000000a4 Power-Up Energy
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #165 - Power-Up Health
+0x000000a5 Power-Up Health
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #166 - Power-Up Speed
+0x000000a6 Power-Up Speed
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #167 - Teleporter
+0x000000a7 Teleporter
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #168 - Флаг медвежат
+0x000000a8 Флаг медвежат
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #169 - Лагерь котят
+0x000000a9 Лагерь котят
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #170 - Smiley Cloud
+0x000000aa Smiley Cloud
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #171 - Smiley Sun
+0x000000ab Smiley Sun
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #172 - Flag Base
+0x000000ac Flag Base
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #173 - Медвескунс
+0x000000ad Медвескунс
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #174 - Power-Up Armor
+0x000000ae Power-Up Armor
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #175 - Power-Up Damage
+0x000000af Power-Up Damage
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #176 - Мишка-вонючка
+0x000000b0 Мишка-вонючка
+
+# Chatter for Act 1
+0x000000b1 Выпий йаду!
+0x000000b2 АЦКИЙ СОТАНА!
+0x000000b3 Ф топку!
+0x000000b4 ЖЖОТЕ!
+0x000000b5 АЦТОЙ!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000b6 Выпий йаду!
+0x000000b7 АЦКИЙ СОТАНА!
+0x000000b8 Ф топку!
+0x000000b9 ЖЖОТЕ!
+0x000000ba АЦТОЙ!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000bb Выпий йаду!
+0x000000bc АЦКИЙ СОТАНА!
+0x000000bd Ф топку!
+0x000000be ЖЖОТЕ!
+0x000000bf АЦТОЙ!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000c0 Выпий йаду!
+0x000000c1 АЦКИЙ СОТАНА!
+0x000000c2 Ф топку!
+0x000000c3 ЖЖОТЕ!
+0x000000c4 АЦТОЙ!
+
+# Inspect for Act 4
+
+# Prop #197 - Poo3
+0x000000c5 Poo3
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #198 - Glitter Sphere
+0x000000c6 Glitter Sphere
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #199 - Cat Toy
+0x000000c7 Cat Toy
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #200 - Cat Toy2
+0x000000c8 Cat Toy2
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #201 - Какограната
+0x000000c9 Какограната
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #202 - Какомина
+0x000000ca Какомина
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #203 - Какобомба
+0x000000cb Какобомба
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #204 - Explosive Barrel
+0x000000cc Explosive Barrel
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #205 - Smoke Black
+0x000000cd Smoke Black
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #206 - Shish Kabob1
+0x000000ce Shish Kabob1
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #207 - Spotlight Green
+0x000000cf Spotlight Green
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #208 - Spotlight Pink
+0x000000d0 Spotlight Pink
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #209 - Lightning
+0x000000d1 Lightning
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #210 - Mad Cloud
+0x000000d2 Mad Cloud
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #211 - Explosive Barrel
+0x000000d3 Explosive Barrel
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #212 - box platform
+0x000000d4 box platform
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #213 - Explosive Barrel
+0x000000d5 Explosive Barrel
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #214 - Вонючий медвежонок
+0x000000d6 Вонючий медвежонок
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000d7 Добивай котят!
+0x000000d8 Мочи недоумков!
+0x000000d9 Эй, котенок!
+0x000000da ЖЖОТЕ!
+0x000000db КТО БОИТСЯ? Я БОИТСЯ?
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000dc Добивай котят!
+0x000000dd Мочи недоумков!
+0x000000de Эй, котенок!
+0x000000df ЖЖОТЕ!
+0x000000e0 КТО БОИТСЯ? Я БОИТСЯ?
+
+# Inspect for Act 4
+
+# Prop #225 - Котеночек-ребеночек
+0x000000e1 Котеночек-ребеночек
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #226 - Tootin'
+0x000000e2 Tootin'
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #227 - Fresh Powder
+0x000000e3 Fresh Powder
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #228 - Nestling Ambience
+0x000000e4 Nestling Ambience
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #229 - Thunder
+0x000000e5 Thunder
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #230 - Evil Whispers
+0x000000e6 Evil Whispers
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #231 - Metal Madness
+0x000000e7 Metal Madness
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #232 - Factory Steam
+0x000000e8 Factory Steam
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #233 - Kittie Helper
+0x000000e9 Kittie Helper
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+

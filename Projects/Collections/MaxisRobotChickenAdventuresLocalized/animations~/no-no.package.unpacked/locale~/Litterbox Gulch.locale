@@ -1,0 +1,1434 @@
+# Auto-generated localization file for: Kattedokløfta (ID: 0X88549EC7)
+# Adventure name
+0x00000001 Kattedokløfta
+
+# Adventure description
+0x00000002 Mester Søt og sporetanerne forsvarer Kattedokløfta mot Terrorteddyene. Kast deg ut i kampen, sjef! Skrevet av Dan Milano.
+
+# Intro text
+0x00000003 Velkommen til Kattedokløfta! Ta med deg det beste våpenet du har, dette blir det søteste blodbadet noen sinne!
+
+# Win text
+0x00000004 Gratulerer, det gikk jo helt kanon! Mester Søt og sporetanerne takker deg for at du kom innom og hilste på!
+
+# Lose text
+0x00000005 Åååå, hodet ditt ble delt i to på en såååå søt måte. Beklager soldat. Du ble visst fragga. Men for å se på den lyse siden - det var jo en bedårende død. Kom tilbake til kløfta når du vil!
+
+# Act 1
+0x00000006 Heisann, hvordan går det?
+0x00000007 Velkommen til Kattedokløfta! Til å være et såpass søtt og vakkert sted, er det et eller annet som ikke lukter helt riktig!
+
+# Goal 1
+0x00000008 Hallo! Skjer'a? Jeg er Mester Søt. Jeg er vennen din! > ^^ <
+0x00000009 Dette er Kattedokløfta. Vi pusekatter liker å holde rent her, men de slemme teddybjørnene bryr seg ikke noe om det!
+0x0000000a Hvis vi er smarte, stjeler vi flagget deres 3 ganger og får dem til å grine.
+0x0000000b Kan du stjele det for oss? Hvis du får en klemz?
+
+
+# Act 2
+0x0000000c Ta flagget!
+0x0000000d Ta flagget til fienden og ta det med til basen din. Gjør dette tre ganger uten å bli drept, så kanskje bjørnene får noe de kan konsentrere seg om. Nemlig ikke å være tapere!
+
+# Goal 1
+
+
+# Act 3
+0x0000000e Ta flagget!
+0x0000000f Finn et flagg til, og ta det med tilbake til pusekattbasen.
+
+# Goal 1
+
+
+# Act 4
+0x00000010 Ta flagget!
+0x00000011 Finn det siste flagget og ta det med tilbake til pusekattbasen.
+
+# Goal 1
+
+
+# Prop #18 - Litter Box
+0x00000012 Litter Box
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #19 - Bear Base
+0x00000013 Bear Base
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #20 - Pusekattbase
+0x00000014 Pusekattbase
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #21 - Slakterbjørn
+0x00000015 Slakterbjørn
+
+# Chatter for Act 1
+0x00000016 Hvis du ødelegger det, må du ødelegge det fullstendig!
+0x00000017 Wooo! Akkurat som i Saigon!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000018 Hvis du ødelegger det, må du ødelegge det fullstendig!
+0x00000019 Wooo! Akkurat som i Saigon!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000001a Hvis du ødelegger det, må du ødelegge det fullstendig!
+0x0000001b Wooo! Akkurat som i Saigon!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000001c Hvis du ødelegger det, må du ødelegge det fullstendig!
+0x0000001d Wooo! Akkurat som i Saigon!
+
+# Inspect for Act 4
+
+# Prop #30 - Vortesvina
+0x0000001e Vortesvina
+
+# Chatter for Act 1
+0x0000001f Proo! Proo!
+0x00000020 Det er urettferdig! Jeg drepte deg!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000021 Proo! Proo!
+0x00000022 Det er urettferdig! Jeg drepte deg!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000023 Proo! Proo!
+0x00000024 Det er urettferdig! Jeg drepte deg!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000025 Proo! Proo!
+0x00000026 Det er urettferdig! Jeg drepte deg!
+
+# Inspect for Act 4
+
+# Prop #39 - Poo Pile
+0x00000027 Poo Pile
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #40 - Flies
+0x00000028 Flies
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #41 - Mester Søt
+0x00000029 Mester Søt
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000002a Alle dine base er tilhøre oss!
+0x0000002b Ikke sant krig er skikkelig moro?
+0x0000002c Flagg er pene! Ta med mer!
+0x0000002d Mmm, jeg lukter kruttkaker!
+0x0000002e MHOTY
+
+# Inspect for Act 4
+
+# Prop #47 - Bæsjevalp
+0x0000002f Bæsjevalp
+
+# Chatter for Act 1
+0x00000030 Det er min planet!
+0x00000031 (= 0_0 =)
+0x00000032 Jeg elsker lukten av svidd teddy om morgenen!
+0x00000033 o.o
+0x00000034 ;)
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000035 Det er min planet!
+0x00000036 (= 0_0 =)
+0x00000037 Jeg elsker lukten av svidd teddy om morgenen!
+0x00000038 o.o
+0x00000039 ;)
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000003a Det er min planet!
+0x0000003b (= 0_0 =)
+0x0000003c Jeg elsker lukten av svidd teddy om morgenen!
+0x0000003d o.o
+0x0000003e ;)
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000003f Det er min planet!
+0x00000040 (= 0_0 =)
+0x00000041 Jeg elsker lukten av svidd teddy om morgenen!
+0x00000042 o.o
+0x00000043 ;)
+
+# Inspect for Act 4
+
+# Prop #68 - Hugin Pingvin
+0x00000044 Hugin Pingvin
+
+# Chatter for Act 1
+0x00000045 Jeg vil drepe.
+0x00000046 Skal vi klemme hverandre nå?
+0x00000047 Pass baken din!
+0x00000048 ^ ^
+0x00000049 TLC!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000004a Jeg vil drepe.
+0x0000004b Skal vi klemme hverandre nå?
+0x0000004c Pass baken din!
+0x0000004d ^ ^
+0x0000004e TLC!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000004f Jeg vil drepe.
+0x00000050 Skal vi klemme hverandre nå?
+0x00000051 Pass baken din!
+0x00000052 ^ ^
+0x00000053 TLC!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000054 Jeg vil drepe.
+0x00000055 Skal vi klemme hverandre nå?
+0x00000056 Pass baken din!
+0x00000057 ^ ^
+0x00000058 TLC!
+
+# Inspect for Act 4
+
+# Prop #89 - Kosekatt
+0x00000059 Kosekatt
+
+# Chatter for Act 1
+0x0000005a ROFLMAO!
+0x0000005b BVF!!
+0x0000005c LYLAS!
+0x0000005d XOXO!
+0x0000005e OMG! TYVM!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000005f ROFLMAO!
+0x00000060 BVF!!
+0x00000061 LYLAS!
+0x00000062 XOXO!
+0x00000063 OMG! TYVM!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000064 ROFLMAO!
+0x00000065 BVF!!
+0x00000066 LYLAS!
+0x00000067 XOXO!
+0x00000068 OMG! TYVM!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000069 ROFLMAO!
+0x0000006a BVF!!
+0x0000006b LYLAS!
+0x0000006c XOXO!
+0x0000006d OMG! TYVM!
+
+# Inspect for Act 4
+
+# Prop #110 - Bobo
+0x0000006e Bobo
+
+# Chatter for Act 1
+0x0000006f Jeg skulle ikke sluttet på vaktskolen.
+0x00000070 Ta det, samme for meg.
+0x00000071 De ber alltid meg om å passe flagget.
+0x00000072 Har du sett et flagg her noe sted?
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000073 Jeg skulle ikke sluttet på vaktskolen.
+0x00000074 Ta det, samme for meg.
+0x00000075 De ber alltid meg om å passe flagget.
+0x00000076 Har du sett et flagg her noe sted?
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000077 Jeg skulle ikke sluttet på vaktskolen.
+0x00000078 Ta det, samme for meg.
+0x00000079 De ber alltid meg om å passe flagget.
+0x0000007a Har du sett et flagg her noe sted?
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000007b Jeg skulle ikke sluttet på vaktskolen.
+0x0000007c Ta det, samme for meg.
+0x0000007d De ber alltid meg om å passe flagget.
+0x0000007e Har du sett et flagg her noe sted?
+
+# Inspect for Act 4
+
+# Prop #127 - Stinkbjørn
+0x0000007f Stinkbjørn
+
+# Chatter for Act 1
+0x00000080 NIMBY!
+0x00000081 Puse, puse, puse, pus!
+0x00000082 Jeg drar til basen din og dreper alle folka dine!
+0x00000083 STBY!
+0x00000084 Flagg eller frag!!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000085 NIMBY!
+0x00000086 Puse, puse, puse, pus!
+0x00000087 Jeg drar til basen din og dreper alle folka dine!
+0x00000088 STBY!
+0x00000089 Flagg eller frag!!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000008a NIMBY!
+0x0000008b Puse, puse, puse, pus!
+0x0000008c Jeg drar til basen din og dreper alle folka dine!
+0x0000008d STBY!
+0x0000008e Flagg eller frag!!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000008f NIMBY!
+0x00000090 Puse, puse, puse, pus!
+0x00000091 Jeg drar til basen din og dreper alle folka dine!
+0x00000092 STBY!
+0x00000093 Flagg eller frag!!
+
+# Inspect for Act 4
+
+# Prop #148 - Rainbow
+0x00000094 Rainbow
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #149 - Butterflies
+0x00000095 Butterflies
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #150 - Cloud Lightning
+0x00000096 Cloud Lightning
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #151 - Cloud Poison
+0x00000097 Cloud Poison
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #152 - Scooper
+0x00000098 Scooper
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #153 - Hjertegodisgranat
+0x00000099 Hjertegodisgranat
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #154 - Hjertegodisgranat
+0x0000009a Hjertegodisgranat
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #155 - Hjertegodisgranat
+0x0000009b Hjertegodisgranat
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #156 - Stinkbjørn
+0x0000009c Stinkbjørn
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #157 - Kilepusekatt
+0x0000009d Kilepusekatt
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #158 - Spout Water
+0x0000009e Spout Water
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #159 - Flygefisk
+0x0000009f Flygefisk
+
+# Chatter for Act 1
+0x000000a0 Huuuuiiii!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000a1 Huuuuiiii!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000a2 Huuuuiiii!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000a3 Huuuuiiii!
+
+# Inspect for Act 4
+
+# Prop #164 - Power-Up Energy
+0x000000a4 Power-Up Energy
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #165 - Power-Up Health
+0x000000a5 Power-Up Health
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #166 - Power-Up Speed
+0x000000a6 Power-Up Speed
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #167 - Teleporter
+0x000000a7 Teleporter
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #168 - Bær flagget.
+0x000000a8 Bær flagget.
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #169 - Pusekattbase
+0x000000a9 Pusekattbase
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #170 - Smiley Cloud
+0x000000aa Smiley Cloud
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #171 - Smiley Sun
+0x000000ab Smiley Sun
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #172 - Flag Base
+0x000000ac Flag Base
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #173 - Stinkbjørn
+0x000000ad Stinkbjørn
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #174 - Power-Up Armor
+0x000000ae Power-Up Armor
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #175 - Power-Up Damage
+0x000000af Power-Up Damage
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #176 - Stankbjørn
+0x000000b0 Stankbjørn
+
+# Chatter for Act 1
+0x000000b1 RTM!
+0x000000b2 Svarte!
+0x000000b3 Død over smutsjerne!
+0x000000b4 Det er dette som er AU-en i MJAU!
+0x000000b5 Yo!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000b6 RTM!
+0x000000b7 Svarte!
+0x000000b8 Død over smutsjerne!
+0x000000b9 Det er dette som er AU-en i MJAU!
+0x000000ba Yo!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000bb RTM!
+0x000000bc Svarte!
+0x000000bd Død over smutsjerne!
+0x000000be Det er dette som er AU-en i MJAU!
+0x000000bf Yo!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000c0 RTM!
+0x000000c1 Svarte!
+0x000000c2 Død over smutsjerne!
+0x000000c3 Det er dette som er AU-en i MJAU!
+0x000000c4 Yo!
+
+# Inspect for Act 4
+
+# Prop #197 - Poo3
+0x000000c5 Poo3
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #198 - Glitter Sphere
+0x000000c6 Glitter Sphere
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #199 - Cat Toy
+0x000000c7 Cat Toy
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #200 - Cat Toy2
+0x000000c8 Cat Toy2
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #201 - Bæsjegranat
+0x000000c9 Bæsjegranat
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #202 - Bæsjemine
+0x000000ca Bæsjemine
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #203 - Sprengbæsj
+0x000000cb Sprengbæsj
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #204 - Explosive Barrel
+0x000000cc Explosive Barrel
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #205 - Smoke Black
+0x000000cd Smoke Black
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #206 - Shish Kabob1
+0x000000ce Shish Kabob1
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #207 - Spotlight Green
+0x000000cf Spotlight Green
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #208 - Spotlight Pink
+0x000000d0 Spotlight Pink
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #209 - Lightning
+0x000000d1 Lightning
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #210 - Mad Cloud
+0x000000d2 Mad Cloud
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #211 - Explosive Barrel
+0x000000d3 Explosive Barrel
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #212 - box platform
+0x000000d4 box platform
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #213 - Explosive Barrel
+0x000000d5 Explosive Barrel
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #214 - Stankbjørn
+0x000000d6 Stankbjørn
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000d7 Drep alle kattene!
+0x000000d8 Død over smutsjerne!
+0x000000d9 Puse, puse, puse, pus!
+0x000000da Det er dette som er AU-en i MJAU!
+0x000000db DILLIGAS!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000dc Drep alle kattene!
+0x000000dd Død over smutsjerne!
+0x000000de Puse, puse, puse, pus!
+0x000000df Det er dette som er AU-en i MJAU!
+0x000000e0 DILLIGAS!
+
+# Inspect for Act 4
+
+# Prop #225 - Kilepusekatt
+0x000000e1 Kilepusekatt
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #226 - Tootin'
+0x000000e2 Tootin'
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #227 - Fresh Powder
+0x000000e3 Fresh Powder
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #228 - Nestling Ambience
+0x000000e4 Nestling Ambience
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #229 - Thunder
+0x000000e5 Thunder
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #230 - Evil Whispers
+0x000000e6 Evil Whispers
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #231 - Metal Madness
+0x000000e7 Metal Madness
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #232 - Factory Steam
+0x000000e8 Factory Steam
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #233 - Kittie Helper
+0x000000e9 Kittie Helper
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+

@@ -1,0 +1,2017 @@
+# Auto-generated localization file for: Monstered Town (ID: 0XEF42DA4E)
+# Adventure name
+0x00000001 Monstered Town
+
+# Adventure description
+0x00000002 Are you Captain enough to take on a giant monster that's already destroyed half of this planet's downtown?~br~Created by MaxisGuillaume, edited by MaxisCimino
+
+# Intro text
+0x00000003 Watch out, you've been beamed down right by some kind of giant monster. See what's going on and fix the situation.
+
+# Win text
+0x00000004 What an epic fight! Good thing you stayed out of it.
+
+# Lose text
+0x00000005 Next time try not to get stepped on, it might hurt...
+
+# Act 1
+0x00000006 Step 1: See what's up
+0x00000007 The local militia has been dispatch but can't contain the situation, see why not.
+
+# Goal 1
+0x00000008 What a giant freak of nature!
+0x00000009 It must have come from the sea...
+0x0000000a There must be a way to take it down before it takes out a bigger chunk of the city, and quick!
+
+# Goal 2
+0x0000000b What are you doing in my house? Go away!
+0x0000000c What is it? There's a giant monster in the city?
+0x0000000d That was a disaster waiting to happen... we've been putting too much trash into the oceans...
+0x0000000e ... while all that trash could have come to me! Muahahaha!
+0x0000000f Now buzz off!
+
+# Goal 3
+0x00000010 Good mornin', Captain!
+0x00000011 We have quite the situation on our hands...
+0x00000012 Some kind of giant monster is wreaking havoc all over downtown!
+0x00000013 We've sent the air force and the artillery, to no avail.
+0x00000014 Go uptown and bring the "big guns" back here. You'll now what I mean when you see them.
+
+
+# Act 2
+0x00000015 Step 2: Find the Big Guns
+0x00000016 Go uptown and find the Big Guns.
+
+# Goal 1
+0x00000017 These things look mean and ready to fight!
+0x00000018 They have "monster begone" written all over them.
+0x00000019 Now let's bring them back to downtown.
+
+
+# Act 3
+0x0000001a Step 3: Bring the Big Guns
+0x0000001b The Big Guns needs you as a guide through the city's streets. Find the best way back downtown.
+
+# Goal 1
+
+
+# Act 4
+0x0000001c Step 4: Sit Down and Watch
+0x0000001d The giant monsters has it coming... and here it comes!
+
+# Goal 1
+
+
+# Act 5
+0x0000001e Step 5: Clean up the Mess
+0x0000001f That's a lot of destruction here, the militia's general has your next assignment.
+
+# Goal 1
+0x00000020 Nice work, Captain! Couldn't have done better myself.
+0x00000021 Now take this broom and clean up the mess.
+0x00000022 It's an order, Captain!
+
+
+# Prop #35 - Central Lab
+0x00000023 Central Lab
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #36 - Center Block
+0x00000024 Center Block
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #37 - Logian Home
+0x00000025 Logian Home
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #38 - Fun Lab
+0x00000026 Fun Lab
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #39 - Neon Home
+0x00000027 Neon Home
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #40 - Prime Store
+0x00000028 Prime Store
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #41 - Prime Apartments
+0x00000029 Prime Apartments
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #42 - Store Block
+0x0000002a Store Block
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #43 - Zenarion Senate
+0x0000002b Zenarion Senate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #44 - Zook Offices
+0x0000002c Zook Offices
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #45 - Zook Multiplex
+0x0000002d Zook Multiplex
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #46 - Zook Skyscraper
+0x0000002e Zook Skyscraper
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #47 - Annihilated Apartments
+0x0000002f Annihilated Apartments
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #48 - Borked Basement
+0x00000030 Borked Basement
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #49 - Downed Downtown
+0x00000031 Downed Downtown
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #50 - Obliterated Overpass
+0x00000032 Obliterated Overpass
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #51 - Over-Easy Overpass
+0x00000033 Over-Easy Overpass
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #52 - Overkilled Overpass
+0x00000034 Overkilled Overpass
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #53 - Pounded Plaza
+0x00000035 Pounded Plaza
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #54 - Ruined Rubble
+0x00000036 Ruined Rubble
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #55 - Thrashed Tower
+0x00000037 Thrashed Tower
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #56 - Signs
+0x00000038 Signs
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #57 - Big Screen
+0x00000039 Big Screen
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #58 - Triangle Signs
+0x0000003a Triangle Signs
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #59 - Rounded Signs
+0x0000003b Rounded Signs
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #60 - Big Monster
+0x0000003c Big Monster
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #61 - Amantari Chopper
+0x0000003d Amantari Chopper
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #62 - Amantari Artillery
+0x0000003e Amantari Artillery
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #63 - Amantari Gunship
+0x0000003f Amantari Gunship
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #64 - Wrecked Bril Car
+0x00000040 Wrecked Bril Car
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #65 - Wrecked Bril Truck
+0x00000041 Wrecked Bril Truck
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #66 - Wrecked Bril Van
+0x00000042 Wrecked Bril Van
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #67 - Hall of Science
+0x00000043 Hall of Science
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #68 - Satellite Broadcast Station
+0x00000044 Satellite Broadcast Station
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #69 - Futuristic Tower
+0x00000045 Futuristic Tower
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #70 - Blue Sports Car
+0x00000046 Blue Sports Car
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #71 - Electric City-Van
+0x00000047 Electric City-Van
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #72 - Mushroom Cloud Once
+0x00000048 Mushroom Cloud Once
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #73 - Shuttle Parking Garage
+0x00000049 Shuttle Parking Garage
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #74 - Spode Wall End
+0x0000004a Spode Wall End
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #75 - Spode Wall
+0x0000004b Spode Wall
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #76 - Spode Gate
+0x0000004c Spode Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #77 - Full Dumpster
+0x0000004d Full Dumpster
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #78 - Dumpster
+0x0000004e Dumpster
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #79 - Coraphylos
+0x0000004f Coraphylos
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #80 - Diebelisc
+0x00000050 Diebelisc
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #81 - Epiphylo
+0x00000051 Epiphylo
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #82 - Isoslaya
+0x00000052 Isoslaya
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #83 - Jin
+0x00000053 Jin
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #84 - Plumble Gazebo
+0x00000054 Plumble Gazebo
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #85 - Plumble Shed
+0x00000055 Plumble Shed
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #86 - Zazafuscus
+0x00000056 Zazafuscus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #87 - Granite Stack
+0x00000057 Granite Stack
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #88 - Local Rock
+0x00000058 Local Rock
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #89 - Local Stack
+0x00000059 Local Stack
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #90 - Nihonian
+0x0000005a Nihonian
+
+# Chatter for Act 1
+0x0000005b Thank the maker! We're saved!
+0x0000005c I so almost died.
+0x0000005d I think I peed my pance.
+0x0000005e That was a close one!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000005f Thank the maker! We're saved!
+0x00000060 I so almost died.
+0x00000061 I think I peed my pance.
+0x00000062 That was a close one!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000063 Thank the maker! We're saved!
+0x00000064 I so almost died.
+0x00000065 I think I peed my pance.
+0x00000066 That was a close one!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000067 Thank the maker! We're saved!
+0x00000068 I so almost died.
+0x00000069 I think I peed my pance.
+0x0000006a That was a close one!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x0000006b Thank the maker! We're saved!
+0x0000006c I so almost died.
+0x0000006d I think I peed my pance.
+0x0000006e That was a close one!
+
+# Inspect for Act 5
+
+# Prop #111 - Nihonian Soldier
+0x0000006f Nihonian Soldier
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #112 - Homeless Sage
+0x00000070 Homeless Sage
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #113 - Cardboard Boxes
+0x00000071 Cardboard Boxes
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #114 - Full Trash Can
+0x00000072 Full Trash Can
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #115 - Spilled Trash Can
+0x00000073 Spilled Trash Can
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #116 - Nihonian General
+0x00000074 Nihonian General
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #117 - Galazan City Hall
+0x00000075 Galazan City Hall
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #118 - Galazan Mall
+0x00000076 Galazan Mall
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #119 - The Big Guns
+0x00000077 The Big Guns
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #120 - Broom
+0x00000078 Broom
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #121 - Broom
+0x00000079 Broom
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #122 - Creepy Action 1
+0x0000007a Creepy Action 1
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #123 - Epic Adventure
+0x0000007b Epic Adventure
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #124 - Space Warriors
+0x0000007c Space Warriors
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #125 - Victory March
+0x0000007d Victory March
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #126 - Panicking Crowd
+0x0000007e Panicking Crowd
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #127 - Nihonian
+0x0000007f Nihonian
+
+# Chatter for Act 1
+0x00000080 Oh my god!
+0x00000081 What is that thing!?
+0x00000082 Run!!!
+0x00000083 We're going to die!!
+0x00000084 He totally stepped on my car!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000085 Oh my god!
+0x00000086 What is that thing!?
+0x00000087 Run!!!
+0x00000088 We're going to die!!
+0x00000089 He totally stepped on my car!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000008a Oh my god!
+0x0000008b What is that thing!?
+0x0000008c Run!!!
+0x0000008d We're going to die!!
+0x0000008e He totally stepped on my car!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000008f Oh my god!
+0x00000090 What is that thing!?
+0x00000091 Run!!!
+0x00000092 We're going to die!!
+0x00000093 He totally stepped on my car!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000094 He did it!
+0x00000095 We're saved!
+0x00000096 Thank you so much!
+0x00000097 Awesome job!!
+0x00000098 Man, our city is really messed up.
+
+# Inspect for Act 5
+
+# Prop #153 - Nihonian
+0x00000099 Nihonian
+
+# Chatter for Act 1
+0x0000009a Oh my god!
+0x0000009b We're all going to die!
+0x0000009c Help us!
+0x0000009d Sweet sassy molassey!!
+0x0000009e Out of my way!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000009f Oh my god!
+0x000000a0 We're all going to die!
+0x000000a1 Help us!
+0x000000a2 Sweet sassy molassey!!
+0x000000a3 Out of my way!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000a4 Oh my god!
+0x000000a5 We're all going to die!
+0x000000a6 Help us!
+0x000000a7 Sweet sassy molassey!!
+0x000000a8 Out of my way!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000a9 Oh my god!
+0x000000aa We're all going to die!
+0x000000ab Help us!
+0x000000ac Sweet sassy molassey!!
+0x000000ad Out of my way!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000000ae Wow!
+0x000000af I can't believe it!
+0x000000b0 We're saved!
+0x000000b1 Thank the stars!
+0x000000b2 I love you!
+
+# Inspect for Act 5
+
+# Prop #179 - Traffic 4
+0x000000b3 Traffic 4
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #180 - Busy Factory 2
+0x000000b4 Busy Factory 2
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #181 - Sting Angels
+0x000000b5 Sting Angels
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #182 - Nihonian
+0x000000b6 Nihonian
+
+# Chatter for Act 1
+0x000000b7 Let's get out of here!
+0x000000b8 Run!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000b9 Let's get out of here!
+0x000000ba Run!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000bb Let's get out of here!
+0x000000bc Run!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000bd Let's get out of here!
+0x000000be Run!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000000bf Let's get out of here!
+0x000000c0 Run!
+
+# Inspect for Act 5
+
+# Prop #193 - Cheering Crowd
+0x000000c1 Cheering Crowd
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #194 - Blue Gate
+0x000000c2 Blue Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Prop #195 - Dustpan
+0x000000c3 Dustpan
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+

@@ -1,0 +1,3737 @@
+# Auto-generated localization file for: Czytelnia (ID: 0XBEA9BE5A)
+# Adventure name
+0x00000001 Czytelnia
+
+# Adventure description
+0x00000002 Jedna osoba wchodzi... Jedna wychodzi... I zazwyczaj jest to ta soma osoba. Autor: Breckin Meyer.
+
+# Intro text
+0x00000003 Wiedza to potęga. Odnów swoją KARTĘ BIBLIOTECZNĄ. Czy bibliotekarz jest mężczyzną? Ty szowinistyczny graczu!
+
+# Win text
+0x00000004 UDAŁO SIĘ! Jestem z Ciebie dumny... Tak... Cieszę się, że udało Ci się osiągnąć założony cel... To by było na tyle... No dobra, nie przesadzajmy, nie przyznali ci Nobla... Zabieraj się stąd.
+
+# Lose text
+0x00000005 Nie udało się. Zawiodłem się... Może jednak mieli rację co do Ciebie? Teraz wyszedłem na durnia. Mam nadzieję, że chociaż Ty się cieszysz... Głąbie.
+
+# Act 1
+0x00000006 Odnowione i usprawnione
+0x00000007 Idź porozmawiać z głównym bibliotekarzem, panem Książeczką. Tak, pracownicy biblioteki mogą być facetami... Ty szowinisto. Znajdź go i przestań żyć w latach 50. Mamy XXI wiek!
+
+# Goal 1
+0x00000008 Dzień dobry, młoda osobo. Chcesz odnowić swoja przepustkę do wiedzy, czyli kartę biblioteczną?
+0x00000009 Te karty to przywilej. Nie rozdaje się ich jak ulotek. Tak, dobrze słyszysz! Mam swoje lata, zdrowie już nie to, NIE TOBIE MNIE OCENIAĆ!
+0x0000000a Nie podoba mi się twój strój, ani połysk butów, ani ton głosu. Skąd będę wiedzieć, że poradzisz sobie z potęgą, jaką daje KARTA?
+0x0000000b Musisz trochę poskakać przez obręcze, kochasiu... A kogo ja kocham? Czas na moje tabletki... Idź pogadać z molem, on ci wszystko powie.
+0x0000000c I pamiętaj, że będę mieć na ciebie oko... To zdrowe... To, które widzi. Drugie pilnuje śniadania.
+
+
+# Act 2
+0x0000000d Mól książkowy
+0x0000000e Mól książkowy ma problem, który tylko Ty możesz rozwiązać... NIE, TY ZBOCZEŃCU, NIE TAKI! Popatrz na tego wielkiego, zaczytanego mola... Rety. 
+
+
+# Goal 1
+0x0000000f Ej! Czy ja przychodzę do ciebie i zabieram ci wędkę? Tak, nazywam cię rybakiem. Wynocha stąd, zanim nabiję cię na haczyk i użyję jako przynęty na rekiny.
+0x00000010 Książeczka cię przysłał? Czemu nic nie mówisz... Czekaj, właśnie mówisz. A więc chcesz kartę. Co, chcesz przetrzeć trochę zwoje, co?
+0x00000011 Mogę ci pomóc, ale musisz coś dla mnie zrobić. Musisz wybrać się do miasta Mordork i znaleźć taki jeden pierścień. DOBRA, ŻARTUJĘ!
+0x00000012 To nie jest zwyczajna biblioteka. Mamy kanapy!! I książki żyją... Hmmm, powinienem poprzestać na części pierwszej, co?
+0x00000013 Zrób coś dla mnie i przynieś mi książkę o tych krągłych, jędrnych... NIE O TYM! O jabłkach! Znajdź mi książkę o jabłkach. Ach, ta dzisiejsza młodzież!
+
+# Goal 2
+0x00000014 Dawno, dawno temu żyło sobie jabłko zwane Komputerem. Jarzysz? Komputerem! Nieważne... Było to najczerwieńsze i najsłodsze jabłko ze wszystkich.
+0x00000015 Pewnego dnia komputer wyszedł na spacer. Nagle drogę zajechał mu minibus a którego wypadła banda wściekłych dentystów, którzy następnie sprali go na kwaśne jabłko.
+0x00000016 Już mieli odjeżdżać, kiedy jeden odwraca się i mówi: „To za nasze straty, ty słodkie &%$@*%#”.
+0x00000017 Komputer przeżył, ale na pianinie juz nie zagra... Oczywiście zdaje ci się, że to nic, bo przecież i tak nie mógł grać, bo był jabłkiem... Ale on miał nadzieję... A teraz już jej nie ma.
+0x00000018 Powoli popadł się w depresję i teraz pracuje w dokach. Znają go jako Antonówkę. Koniec.
+
+
+# Act 3
+0x00000019 Jabłkownik
+0x0000001a Puk, puk. Kto tam? Jabłko. Jakie jabłko? PO PROSTU PRZYNIEŚ MOLOWI JABŁKO!
+
+# Goal 1
+
+
+# Act 4
+0x0000001b Lwiopolis
+0x0000001c Idź pogadać z tym kudłatym lwem, ale uważaj... To w końcu lew... One jedzą ludzi.
+
+# Goal 1
+0x0000001d Ktoś chyba wstał lewą łapą. Spójrz na grzywę! Wygląda jakby się obraziła na świat i chciała schować przed nim w... Samej sobie..
+0x0000001e To jest mrukliwy lew. Pamiętasz film „Stare zrzędy”? No więc tu można mówić o „Starym zrzędliwym lwie, z bardzo skudloną grzywą”... Ale tego nikt by nie chciał oglądać.
+0x0000001f Może jest jakaś książka o tym, jak radzić sobie ze skudloną grzywą.
+
+# Goal 2
+0x00000020 NAJSŁAWNIEJSZE SZCZOTKI W HISTORII.
+0x00000021 Acha! Jest! SZCZOTKI!
+
+
+# Act 5
+0x00000022 Użyj szczotki
+0x00000023 Szczotka + kudłata grzywa, dodaj dwa do dwóch.
+
+# Goal 1
+
+
+# Act 6
+0x00000024 Jak postępować z lwem
+0x00000025 Lew zeskakuje z postumentu całkiem szczęśliwy z uczesaną grzywą.
+
+# Goal 1
+0x00000026 Przejście dla pana przystojniaka. Panie, kolejka na lewo. Panowie, przykro mi.
+0x00000027 Au, mam coś w łapie. Czekaj, tam będzie lepiej! Przesunę się trochę w kierunku fikcji. Inaczej nikt nie uwierzy, że taki ze mnie przystojniak!
+0x00000028 A więc potrzebujesz karty bibliotecznej. Nic prostszego.
+0x00000029 Musisz tylko uzyskać potwierdzenie głównej bibliotekarki. Pójdę i szepnę jej słówko, ponieważ potrafi być... Cóż —
+0x0000002a A niech to! Idzie, a z nią NADCIĄGA ŚMIERĆ!
+
+
+# Act 7
+0x0000002b Śmierciotekarz
+0x0000002c Bibliotekarka zabiła lwa! Dowiedz się, czego chce.
+
+# Goal 1
+0x0000002d Poradnik od serca o samym sercu kraju Autor: Lovey McLovington
+
+
+# Act 8
+0x0000002e Karta
+0x0000002f Wszystko, czego potrzebowała, to odrobina miłości. Może być z taśmy. Teraz dostaniesz od pana Książeczki swoja kartę
+
+# Goal 1
+0x00000030 Widziałeś Julio? Czy to nie on dostał w papę kaczką kilka lat temu? To dopiero było.
+0x00000031 Nigdy mnie to nie pociągało. Ten koleś ma nieproporcjonalną klatkę piersiową, to wydaje się dziwne.
+0x00000032 Cóż, jestem słownym człowiekiem, a pan zasłużył sobie na kartę biblioteczną. Gratuluję.
+0x00000033 Ale pamiętaj! Jeśli kiedyś oddasz książkę po terminie, będę wiedział! Jeśli będziesz smarował po marginesach, będę wiedział! Ponieważ wiesz, co nigdy nie śpi?...
+0x00000034 SPRAWIEDLIWOŚĆ! ... I Nowy Jork, chyba. To znaczy, tak jest w piosence. Cierpiący na bezsenność też rzadko śpią... O czym to mówiliśmy? Kim jesteś? Skąd znasz mój język? Kto cię przysłał!?
+
+
+# Prop #53 - Książka
+0x00000035 Książka
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000036 MÓWIĄ O MNIE PAN RYNSZTOK. Autor: Bełt
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000037 MÓWIĄ O MNIE PAN RYNSZTOK. Autor: Bełt
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000038 MÓWIĄ O MNIE PAN RYNSZTOK. Autor: Bełt
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000039 MÓWIĄ O MNIE PAN RYNSZTOK. Autor: Bełt
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000003a MÓWIĄ O MNIE PAN RYNSZTOK. Autor: Bełt
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x0000003b MÓWIĄ O MNIE PAN RYNSZTOK. Autor: Bełt
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x0000003c MÓWIĄ O MNIE PAN RYNSZTOK. Autor: Bełt
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x0000003d MÓWIĄ O MNIE PAN RYNSZTOK. Autor: Bełt
+
+# Prop #62 - Poof Black
+0x0000003e Poof Black
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #63 - Wooden Bookshelf (full)
+0x0000003f Wooden Bookshelf (full)
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #64 - Jump Pad 
+0x00000040 Jump Pad 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #65 - Teleporter
+0x00000041 Teleporter
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #66 - Pan Książeczka
+0x00000042 Pan Książeczka
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #67 - Library Table
+0x00000043 Library Table
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #68 - Library Chair
+0x00000044 Library Chair
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #69 - Library Card Catalogue
+0x00000045 Library Card Catalogue
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #70 - Book Carrier
+0x00000046 Book Carrier
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #71 - Library Desk
+0x00000047 Library Desk
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #72 - Library Ladder
+0x00000048 Library Ladder
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #73 - Mól książkowy
+0x00000049 Mól książkowy
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000004a Wreszcie mogę nacieszyć się jabłkiem!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #75 - Bibliotekarz
+0x0000004b Bibliotekarz
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x0000004c To ty śmiesz przeszkadzać w bibliotece!? Koniec tego dobrego. Nadszedł czas zapłaty!
+0x0000004d Lew jest dobry tylko wtedy, kiedy LEŻY przed moim kominkiem!!
+0x0000004e Według mojego zegarka nadeszła godzina, by komuś wkopać!
+0x0000004f Jestem tu, by komuś przyłożyć i najeść się rzodkiewek. A rzodkiewek nie ma.
+0x00000050 Czas zawitać na stronę z nekrologami.
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000051 Nie mogę uwierzyć, że to naprawdę ty.
+0x00000052 To spełnienie marzeń!
+
+# Inspect for Act 8
+
+# Prop #83 - Lew
+0x00000053 Lew
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #84 - Posąg lwa
+0x00000054 Posąg lwa
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #85 - Book Holder
+0x00000055 Book Holder
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #86 - Pedestal
+0x00000056 Pedestal
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #87 - Library Wall No Pillar
+0x00000057 Library Wall No Pillar
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #88 - Książka 10
+0x00000058 Książka 10
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000059 NIE JEST ŁATWO BYĆ ZIELONYM Autor: Sergiusz Zielony
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x0000005a NIE JEST ŁATWO BYĆ ZIELONYM Autor: Sergiusz Zielony
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000005b NIE JEST ŁATWO BYĆ ZIELONYM Autor: Sergiusz Zielony
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000005c NIE JEST ŁATWO BYĆ ZIELONYM Autor: Sergiusz Zielony
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000005d NIE JEST ŁATWO BYĆ ZIELONYM Autor: Sergiusz Zielony
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x0000005e NIE JEST ŁATWO BYĆ ZIELONYM Autor: Sergiusz Zielony
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x0000005f NIE JEST ŁATWO BYĆ ZIELONYM Autor: Sergiusz Zielony
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000060 NIE JEST ŁATWO BYĆ ZIELONYM Autor: Sergiusz Zielony
+
+# Prop #97 - Książka 11
+0x00000061 Książka 11
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000062 PACJENT ZERO Autor: Plaris Chilton FRAGMENT — „Przepraszam za wysypkę”.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000063 PACJENT ZERO Autor: Plaris Chilton FRAGMENT — „Przepraszam za wysypkę”.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000064 PACJENT ZERO Autor: Plaris Chilton FRAGMENT — „Przepraszam za wysypkę”.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000065 PACJENT ZERO Autor: Plaris Chilton FRAGMENT — „Przepraszam za wysypkę”.
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000066 PACJENT ZERO Autor: Plaris Chilton FRAGMENT — „Przepraszam za wysypkę”.
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000067 PACJENT ZERO Autor: Plaris Chilton FRAGMENT — „Przepraszam za wysypkę”.
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000068 PACJENT ZERO Autor: Plaris Chilton FRAGMENT — „Przepraszam za wysypkę”.
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000069 PACJENT ZERO Autor: Plaris Chilton FRAGMENT — „Przepraszam za wysypkę”.
+
+# Prop #106 - Książka 12
+0x0000006a Książka 12
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x0000006b RZUCAJĄCY W ZBOŻU *WERSJA POPRAWIONA* Autor: D.J. Falinger  „Teraz jeszcze mniej jasne przypisy dla niezorientowanych”
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x0000006c RZUCAJĄCY W ZBOŻU *WERSJA POPRAWIONA* Autor: D.J. Falinger  „Teraz jeszcze mniej jasne przypisy dla niezorientowanych”
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000006d RZUCAJĄCY W ZBOŻU *WERSJA POPRAWIONA* Autor: D.J. Falinger  „Teraz jeszcze mniej jasne przypisy dla niezorientowanych”
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000006e RZUCAJĄCY W ZBOŻU *WERSJA POPRAWIONA* Autor: D.J. Falinger  „Teraz jeszcze mniej jasne przypisy dla niezorientowanych”
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000006f RZUCAJĄCY W ZBOŻU *WERSJA POPRAWIONA* Autor: D.J. Falinger  „Teraz jeszcze mniej jasne przypisy dla niezorientowanych”
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000070 RZUCAJĄCY W ZBOŻU *WERSJA POPRAWIONA* Autor: D.J. Falinger  „Teraz jeszcze mniej jasne przypisy dla niezorientowanych”
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000071 RZUCAJĄCY W ZBOŻU *WERSJA POPRAWIONA* Autor: D.J. Falinger  „Teraz jeszcze mniej jasne przypisy dla niezorientowanych”
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000072 RZUCAJĄCY W ZBOŻU *WERSJA POPRAWIONA* Autor: D.J. Falinger  „Teraz jeszcze mniej jasne przypisy dla niezorientowanych”
+
+# Prop #115 - Książka 13
+0x00000073 Książka 13
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000074 KRÓTKA HISTORIA CZASU  Autor: ten gość na krześle z takim czymś do gadania
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000075 KRÓTKA HISTORIA CZASU  Autor: ten gość na krześle z takim czymś do gadania
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000076 KRÓTKA HISTORIA CZASU  Autor: ten gość na krześle z takim czymś do gadania
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000077 KRÓTKA HISTORIA CZASU  Autor: ten gość na krześle z takim czymś do gadania
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000078 KRÓTKA HISTORIA CZASU  Autor: ten gość na krześle z takim czymś do gadania
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000079 KRÓTKA HISTORIA CZASU  Autor: ten gość na krześle z takim czymś do gadania
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x0000007a KRÓTKA HISTORIA CZASU  Autor: ten gość na krześle z takim czymś do gadania
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x0000007b KRÓTKA HISTORIA CZASU  Autor: ten gość na krześle z takim czymś do gadania
+
+# Prop #124 - Książka 14
+0x0000007c Książka 14
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x0000007d WYSZŁAM ZA KRETYNA Autor: Remi More „Opowieść kobiety, która poślubiła faceta jedzącego nożem”.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x0000007e WYSZŁAM ZA KRETYNA Autor: Remi More „Opowieść kobiety, która poślubiła faceta jedzącego nożem”.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000007f WYSZŁAM ZA KRETYNA Autor: Remi More „Opowieść kobiety, która poślubiła faceta jedzącego nożem”.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000080 WYSZŁAM ZA KRETYNA Autor: Remi More „Opowieść kobiety, która poślubiła faceta jedzącego nożem”.
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000081 WYSZŁAM ZA KRETYNA Autor: Remi More „Opowieść kobiety, która poślubiła faceta jedzącego nożem”.
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000082 WYSZŁAM ZA KRETYNA Autor: Remi More „Opowieść kobiety, która poślubiła faceta jedzącego nożem”.
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000083 WYSZŁAM ZA KRETYNA Autor: Remi More „Opowieść kobiety, która poślubiła faceta jedzącego nożem”.
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000084 WYSZŁAM ZA KRETYNA Autor: Remi More „Opowieść kobiety, która poślubiła faceta jedzącego nożem”.
+
+# Prop #133 - Książka 15
+0x00000085 Książka 15
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000086 LARRY BLOTTER I ŚWIĘCONY BAŁAGAN ZA STARY SIĘ ROBIĘ NA SZKOŁĘ DLA CZARODZIEJÓW Autor: R.J. Bowling FRAGMENT —
+0x00000087 „Dzisiaj wykorzystałem swoją moc, aby zabić włóczęgę... Dla zabawy”.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000088 LARRY BLOTTER I ŚWIĘCONY BAŁAGAN ZA STARY SIĘ ROBIĘ NA SZKOŁĘ DLA CZARODZIEJÓW Autor: R.J. Bowling FRAGMENT —
+0x00000089 „Dzisiaj wykorzystałem swoją moc, aby zabić włóczęgę... Dla zabawy”.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000008a LARRY BLOTTER I ŚWIĘCONY BAŁAGAN ZA STARY SIĘ ROBIĘ NA SZKOŁĘ DLA CZARODZIEJÓW Autor: R.J. Bowling FRAGMENT —
+0x0000008b „Dzisiaj wykorzystałem swoją moc, aby zabić włóczęgę... Dla zabawy”.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000008c LARRY BLOTTER I ŚWIĘCONY BAŁAGAN ZA STARY SIĘ ROBIĘ NA SZKOŁĘ DLA CZARODZIEJÓW Autor: R.J. Bowling FRAGMENT —
+0x0000008d „Dzisiaj wykorzystałem swoją moc, aby zabić włóczęgę... Dla zabawy”.
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000008e LARRY BLOTTER I ŚWIĘCONY BAŁAGAN ZA STARY SIĘ ROBIĘ NA SZKOŁĘ DLA CZARODZIEJÓW Autor: R.J. Bowling FRAGMENT —
+0x0000008f „Dzisiaj wykorzystałem swoją moc, aby zabić włóczęgę... Dla zabawy”.
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000090 LARRY BLOTTER I ŚWIĘCONY BAŁAGAN ZA STARY SIĘ ROBIĘ NA SZKOŁĘ DLA CZARODZIEJÓW Autor: R.J. Bowling FRAGMENT —
+0x00000091 „Dzisiaj wykorzystałem swoją moc, aby zabić włóczęgę... Dla zabawy”.
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000092 LARRY BLOTTER I ŚWIĘCONY BAŁAGAN ZA STARY SIĘ ROBIĘ NA SZKOŁĘ DLA CZARODZIEJÓW Autor: R.J. Bowling FRAGMENT —
+0x00000093 „Dzisiaj wykorzystałem swoją moc, aby zabić włóczęgę... Dla zabawy”.
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000094 LARRY BLOTTER I ŚWIĘCONY BAŁAGAN ZA STARY SIĘ ROBIĘ NA SZKOŁĘ DLA CZARODZIEJÓW Autor: R.J. Bowling FRAGMENT —
+0x00000095 „Dzisiaj wykorzystałem swoją moc, aby zabić włóczęgę... Dla zabawy”.
+
+# Prop #150 - Książka 16
+0x00000096 Książka 16
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000097 TYGRYS, KAPUŚ I STARY REGAŁ,
+0x00000098 WENTYLATOR, MAŁPA, ZMYWARKA, WAZON PRZY KANAPIE,
+0x00000099 POKOJÓWKA Z GÓRY, KTÓRA ZAWSZE UBIERA SIĘ W KUSE KOSZULKI I UDAJE OBRAŻONĄ, JAK SIĘ NA NIĄ GAPISZ
+0x0000009a ... NIE WIEM, O CO JEJ CHODZI, NIE JEST AŻ TAK GORĄCO, MOJA DROGA Autor: P.S. Louie
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x0000009b TYGRYS, KAPUŚ I STARY REGAŁ,
+0x0000009c WENTYLATOR, MAŁPA, ZMYWARKA, WAZON PRZY KANAPIE,
+0x0000009d POKOJÓWKA Z GÓRY, KTÓRA ZAWSZE UBIERA SIĘ W KUSE KOSZULKI I UDAJE OBRAŻONĄ, JAK SIĘ NA NIĄ GAPISZ
+0x0000009e ... NIE WIEM, O CO JEJ CHODZI, NIE JEST AŻ TAK GORĄCO, MOJA DROGA Autor: P.S. Louie
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000009f TYGRYS, KAPUŚ I STARY REGAŁ,
+0x000000a0 WENTYLATOR, MAŁPA, ZMYWARKA, WAZON PRZY KANAPIE,
+0x000000a1 POKOJÓWKA Z GÓRY, KTÓRA ZAWSZE UBIERA SIĘ W KUSE KOSZULKI I UDAJE OBRAŻONĄ, JAK SIĘ NA NIĄ GAPISZ
+0x000000a2 ... NIE WIEM, O CO JEJ CHODZI, NIE JEST AŻ TAK GORĄCO, MOJA DROGA Autor: P.S. Louie
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000a3 TYGRYS, KAPUŚ I STARY REGAŁ,
+0x000000a4 WENTYLATOR, MAŁPA, ZMYWARKA, WAZON PRZY KANAPIE,
+0x000000a5 POKOJÓWKA Z GÓRY, KTÓRA ZAWSZE UBIERA SIĘ W KUSE KOSZULKI I UDAJE OBRAŻONĄ, JAK SIĘ NA NIĄ GAPISZ
+0x000000a6 ... NIE WIEM, O CO JEJ CHODZI, NIE JEST AŻ TAK GORĄCO, MOJA DROGA Autor: P.S. Louie
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000a7 TYGRYS, KAPUŚ I STARY REGAŁ,
+0x000000a8 WENTYLATOR, MAŁPA, ZMYWARKA, WAZON PRZY KANAPIE,
+0x000000a9 POKOJÓWKA Z GÓRY, KTÓRA ZAWSZE UBIERA SIĘ W KUSE KOSZULKI I UDAJE OBRAŻONĄ, JAK SIĘ NA NIĄ GAPISZ
+0x000000aa ... NIE WIEM, O CO JEJ CHODZI, NIE JEST AŻ TAK GORĄCO, MOJA DROGA Autor: P.S. Louie
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000ab TYGRYS, KAPUŚ I STARY REGAŁ,
+0x000000ac WENTYLATOR, MAŁPA, ZMYWARKA, WAZON PRZY KANAPIE,
+0x000000ad POKOJÓWKA Z GÓRY, KTÓRA ZAWSZE UBIERA SIĘ W KUSE KOSZULKI I UDAJE OBRAŻONĄ, JAK SIĘ NA NIĄ GAPISZ
+0x000000ae ... NIE WIEM, O CO JEJ CHODZI, NIE JEST AŻ TAK GORĄCO, MOJA DROGA Autor: P.S. Louie
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000af TYGRYS, KAPUŚ I STARY REGAŁ,
+0x000000b0 WENTYLATOR, MAŁPA, ZMYWARKA, WAZON PRZY KANAPIE,
+0x000000b1 POKOJÓWKA Z GÓRY, KTÓRA ZAWSZE UBIERA SIĘ W KUSE KOSZULKI I UDAJE OBRAŻONĄ, JAK SIĘ NA NIĄ GAPISZ
+0x000000b2 ... NIE WIEM, O CO JEJ CHODZI, NIE JEST AŻ TAK GORĄCO, MOJA DROGA Autor: P.S. Louie
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000b3 TYGRYS, KAPUŚ I STARY REGAŁ,
+0x000000b4 WENTYLATOR, MAŁPA, ZMYWARKA, WAZON PRZY KANAPIE,
+0x000000b5 POKOJÓWKA Z GÓRY, KTÓRA ZAWSZE UBIERA SIĘ W KUSE KOSZULKI I UDAJE OBRAŻONĄ, JAK SIĘ NA NIĄ GAPISZ
+0x000000b6 ... NIE WIEM, O CO JEJ CHODZI, NIE JEST AŻ TAK GORĄCO, MOJA DROGA Autor: P.S. Louie
+
+# Prop #183 - Książka 17
+0x000000b7 Książka 17
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000b8 Poradnik od serca o samym sercu kraju Autor: Lovey McLovington
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000b9 Poradnik od serca o samym sercu kraju Autor: Lovey McLovington
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000ba Poradnik od serca o samym sercu kraju Autor: Lovey McLovington
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000bb Poradnik od serca o samym sercu kraju Autor: Lovey McLovington
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000bc Poradnik od serca o samym sercu kraju Autor: Lovey McLovington
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000bd Poradnik od serca o samym sercu kraju Autor: Lovey McLovington
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000be Poradnik od serca o samym sercu kraju Autor: Lovey McLovington
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000bf Poradnik od serca o samym sercu kraju Autor: Lovey McLovington
+
+# Prop #192 - Książka 18
+0x000000c0 Książka 18
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000c1 TAK, JESTEM TU, ALE NIE KOCHAM CIĘ, MAŁGORZATO Autor: Bóg
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000c2 TAK, JESTEM TU, ALE NIE KOCHAM CIĘ, MAŁGORZATO Autor: Bóg
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000c3 TAK, JESTEM TU, ALE NIE KOCHAM CIĘ, MAŁGORZATO Autor: Bóg
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000c4 TAK, JESTEM TU, ALE NIE KOCHAM CIĘ, MAŁGORZATO Autor: Bóg
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000c5 TAK, JESTEM TU, ALE NIE KOCHAM CIĘ, MAŁGORZATO Autor: Bóg
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000c6 TAK, JESTEM TU, ALE NIE KOCHAM CIĘ, MAŁGORZATO Autor: Bóg
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000c7 TAK, JESTEM TU, ALE NIE KOCHAM CIĘ, MAŁGORZATO Autor: Bóg
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000c8 TAK, JESTEM TU, ALE NIE KOCHAM CIĘ, MAŁGORZATO Autor: Bóg
+
+# Prop #201 - Książka 19
+0x000000c9 Książka 19
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000ca JAKIE INNE NIEOŻYWIONE PRZEDMIOTY POTRAFIĄ BYĆ ZŁOŚLIWE? Autor: Steven Queen
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000cb JAKIE INNE NIEOŻYWIONE PRZEDMIOTY POTRAFIĄ BYĆ ZŁOŚLIWE? Autor: Steven Queen
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000cc JAKIE INNE NIEOŻYWIONE PRZEDMIOTY POTRAFIĄ BYĆ ZŁOŚLIWE? Autor: Steven Queen
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000cd JAKIE INNE NIEOŻYWIONE PRZEDMIOTY POTRAFIĄ BYĆ ZŁOŚLIWE? Autor: Steven Queen
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000ce JAKIE INNE NIEOŻYWIONE PRZEDMIOTY POTRAFIĄ BYĆ ZŁOŚLIWE? Autor: Steven Queen
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000cf JAKIE INNE NIEOŻYWIONE PRZEDMIOTY POTRAFIĄ BYĆ ZŁOŚLIWE? Autor: Steven Queen
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000d0 JAKIE INNE NIEOŻYWIONE PRZEDMIOTY POTRAFIĄ BYĆ ZŁOŚLIWE? Autor: Steven Queen
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000d1 JAKIE INNE NIEOŻYWIONE PRZEDMIOTY POTRAFIĄ BYĆ ZŁOŚLIWE? Autor: Steven Queen
+
+# Prop #210 - Książka 2
+0x000000d2 Książka 2
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000d3 JESTEŚ TAM, STEFEK? Autor: J.C.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000d4 JESTEŚ TAM, STEFEK? Autor: J.C.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000d5 JESTEŚ TAM, STEFEK? Autor: J.C.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000d6 JESTEŚ TAM, STEFEK? Autor: J.C.
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000d7 JESTEŚ TAM, STEFEK? Autor: J.C.
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000d8 JESTEŚ TAM, STEFEK? Autor: J.C.
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000d9 JESTEŚ TAM, STEFEK? Autor: J.C.
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000da JESTEŚ TAM, STEFEK? Autor: J.C.
+
+# Prop #219 - Książka 20
+0x000000db Książka 20
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000dc KOD LEONARDA Autor: Stan Maroon FRAGMENT — „Tak, pod tym Luwrem jest coś dziwnego, o Watykanie już nie wspomnę”.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000dd KOD LEONARDA Autor: Stan Maroon FRAGMENT — „Tak, pod tym Luwrem jest coś dziwnego, o Watykanie już nie wspomnę”.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000de KOD LEONARDA Autor: Stan Maroon FRAGMENT — „Tak, pod tym Luwrem jest coś dziwnego, o Watykanie już nie wspomnę”.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000df KOD LEONARDA Autor: Stan Maroon FRAGMENT — „Tak, pod tym Luwrem jest coś dziwnego, o Watykanie już nie wspomnę”.
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000e0 KOD LEONARDA Autor: Stan Maroon FRAGMENT — „Tak, pod tym Luwrem jest coś dziwnego, o Watykanie już nie wspomnę”.
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000e1 KOD LEONARDA Autor: Stan Maroon FRAGMENT — „Tak, pod tym Luwrem jest coś dziwnego, o Watykanie już nie wspomnę”.
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000e2 KOD LEONARDA Autor: Stan Maroon FRAGMENT — „Tak, pod tym Luwrem jest coś dziwnego, o Watykanie już nie wspomnę”.
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000e3 KOD LEONARDA Autor: Stan Maroon FRAGMENT — „Tak, pod tym Luwrem jest coś dziwnego, o Watykanie już nie wspomnę”.
+
+# Prop #228 - Książka 21
+0x000000e4 Książka 21
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000e5 Dawno, dawno temu żyło sobie jabłko zwane Komputerem. Jarzysz? Komputerem! Nieważne... Było to najczerwieńsze i najsłodsze jabłko ze wszystkich.
+0x000000e6 Pewnego dnia komputer wyszedł na spacer. Nagle drogę zajechał mu minibus a którego wypadła banda wściekłych dentystów, którzy następnie sprali go na kwaśne jabłko.
+0x000000e7 Już mieli odjeżdżać, kiedy jeden odwraca się i mówi: „To za nasze straty, ty słodkie &%$@*%#”.
+0x000000e8 Komputer przeżył, ale na pianinie juz nie zagra... Oczywiście zdaje ci się, że to nic, bo przecież i tak nie mógł grać, bo był jabłkiem... Ale on miał nadzieję... A teraz już jej nie ma.
+0x000000e9 Powoli popadł się w depresję i teraz pracuje w dokach. Znają go jako Antonówkę. Koniec.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000ea Dawno, dawno temu żyło sobie jabłko zwane Komputerem. Jarzysz? Komputerem! Nieważne... Było to najczerwieńsze i najsłodsze jabłko ze wszystkich.
+0x000000eb Pewnego dnia komputer wyszedł na spacer. Nagle drogę zajechał mu minibus a którego wypadła banda wściekłych dentystów, którzy następnie sprali go na kwaśne jabłko.
+0x000000ec Już mieli odjeżdżać, kiedy jeden odwraca się i mówi: „To za nasze straty, ty słodkie &%$@*%#”.
+0x000000ed Komputer przeżył, ale na pianinie juz nie zagra... Oczywiście zdaje ci się, że to nic, bo przecież i tak nie mógł grać, bo był jabłkiem... Ale on miał nadzieję... A teraz już jej nie ma.
+0x000000ee Powoli popadł się w depresję i teraz pracuje w dokach. Znają go jako Antonówkę. Koniec.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000ef Dawno, dawno temu żyło sobie jabłko zwane Komputerem. Jarzysz? Komputerem! Nieważne... Było to najczerwieńsze i najsłodsze jabłko ze wszystkich.
+0x000000f0 Pewnego dnia komputer wyszedł na spacer. Nagle drogę zajechał mu minibus a którego wypadła banda wściekłych dentystów, którzy następnie sprali go na kwaśne jabłko.
+0x000000f1 Już mieli odjeżdżać, kiedy jeden odwraca się i mówi: „To za nasze straty, ty słodkie &%$@*%#”.
+0x000000f2 Komputer przeżył, ale na pianinie juz nie zagra... Oczywiście zdaje ci się, że to nic, bo przecież i tak nie mógł grać, bo był jabłkiem... Ale on miał nadzieję... A teraz już jej nie ma.
+0x000000f3 Powoli popadł się w depresję i teraz pracuje w dokach. Znają go jako Antonówkę. Koniec.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000f4 Dawno, dawno temu żyło sobie jabłko zwane Komputerem. Jarzysz? Komputerem! Nieważne... Było to najczerwieńsze i najsłodsze jabłko ze wszystkich.
+0x000000f5 Pewnego dnia komputer wyszedł na spacer. Nagle drogę zajechał mu minibus a którego wypadła banda wściekłych dentystów, którzy następnie sprali go na kwaśne jabłko.
+0x000000f6 Już mieli odjeżdżać, kiedy jeden odwraca się i mówi: „To za nasze straty, ty słodkie &%$@*%#”.
+0x000000f7 Komputer przeżył, ale na pianinie juz nie zagra... Oczywiście zdaje ci się, że to nic, bo przecież i tak nie mógł grać, bo był jabłkiem... Ale on miał nadzieję... A teraz już jej nie ma.
+0x000000f8 Powoli popadł się w depresję i teraz pracuje w dokach. Znają go jako Antonówkę. Koniec.
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000f9 Dawno, dawno temu żyło sobie jabłko zwane Komputerem. Jarzysz? Komputerem! Nieważne... Było to najczerwieńsze i najsłodsze jabłko ze wszystkich.
+0x000000fa Pewnego dnia komputer wyszedł na spacer. Nagle drogę zajechał mu minibus a którego wypadła banda wściekłych dentystów, którzy następnie sprali go na kwaśne jabłko.
+0x000000fb Już mieli odjeżdżać, kiedy jeden odwraca się i mówi: „To za nasze straty, ty słodkie &%$@*%#”.
+0x000000fc Komputer przeżył, ale na pianinie juz nie zagra... Oczywiście zdaje ci się, że to nic, bo przecież i tak nie mógł grać, bo był jabłkiem... Ale on miał nadzieję... A teraz już jej nie ma.
+0x000000fd Powoli popadł się w depresję i teraz pracuje w dokach. Znają go jako Antonówkę. Koniec.
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000fe Dawno, dawno temu żyło sobie jabłko zwane Komputerem. Jarzysz? Komputerem! Nieważne... Było to najczerwieńsze i najsłodsze jabłko ze wszystkich.
+0x000000ff Pewnego dnia komputer wyszedł na spacer. Nagle drogę zajechał mu minibus a którego wypadła banda wściekłych dentystów, którzy następnie sprali go na kwaśne jabłko.
+0x00000100 Już mieli odjeżdżać, kiedy jeden odwraca się i mówi: „To za nasze straty, ty słodkie &%$@*%#”.
+0x00000101 Komputer przeżył, ale na pianinie juz nie zagra... Oczywiście zdaje ci się, że to nic, bo przecież i tak nie mógł grać, bo był jabłkiem... Ale on miał nadzieję... A teraz już jej nie ma.
+0x00000102 Powoli popadł się w depresję i teraz pracuje w dokach. Znają go jako Antonówkę. Koniec.
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000103 Dawno, dawno temu żyło sobie jabłko zwane Komputerem. Jarzysz? Komputerem! Nieważne... Było to najczerwieńsze i najsłodsze jabłko ze wszystkich.
+0x00000104 Pewnego dnia komputer wyszedł na spacer. Nagle drogę zajechał mu minibus a którego wypadła banda wściekłych dentystów, którzy następnie sprali go na kwaśne jabłko.
+0x00000105 Już mieli odjeżdżać, kiedy jeden odwraca się i mówi: „To za nasze straty, ty słodkie &%$@*%#”.
+0x00000106 Komputer przeżył, ale na pianinie juz nie zagra... Oczywiście zdaje ci się, że to nic, bo przecież i tak nie mógł grać, bo był jabłkiem... Ale on miał nadzieję... A teraz już jej nie ma.
+0x00000107 Powoli popadł się w depresję i teraz pracuje w dokach. Znają go jako Antonówkę. Koniec.
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000108 Dawno, dawno temu żyło sobie jabłko zwane Komputerem. Jarzysz? Komputerem! Nieważne... Było to najczerwieńsze i najsłodsze jabłko ze wszystkich.
+0x00000109 Pewnego dnia komputer wyszedł na spacer. Nagle drogę zajechał mu minibus a którego wypadła banda wściekłych dentystów, którzy następnie sprali go na kwaśne jabłko.
+0x0000010a Już mieli odjeżdżać, kiedy jeden odwraca się i mówi: „To za nasze straty, ty słodkie &%$@*%#”.
+0x0000010b Komputer przeżył, ale na pianinie juz nie zagra... Oczywiście zdaje ci się, że to nic, bo przecież i tak nie mógł grać, bo był jabłkiem... Ale on miał nadzieję... A teraz już jej nie ma.
+0x0000010c Powoli popadł się w depresję i teraz pracuje w dokach. Znają go jako Antonówkę. Koniec.
+
+# Prop #269 - Książka 22
+0x0000010d Książka 22
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x0000010e ŚWIATŁO Autor: Melanie Meyer „TERAZ KSIĄŻKA!”
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x0000010f ŚWIATŁO Autor: Melanie Meyer „TERAZ KSIĄŻKA!”
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000110 ŚWIATŁO Autor: Melanie Meyer „TERAZ KSIĄŻKA!”
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000111 ŚWIATŁO Autor: Melanie Meyer „TERAZ KSIĄŻKA!”
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000112 ŚWIATŁO Autor: Melanie Meyer „TERAZ KSIĄŻKA!”
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000113 ŚWIATŁO Autor: Melanie Meyer „TERAZ KSIĄŻKA!”
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000114 ŚWIATŁO Autor: Melanie Meyer „TERAZ KSIĄŻKA!”
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000115 ŚWIATŁO Autor: Melanie Meyer „TERAZ KSIĄŻKA!”
+
+# Prop #278 - Książka 3
+0x00000116 Książka 3
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000117 JAK OSIĄGNĄĆ SUKCES, NIE MAJĄC ANI TALENTU, ANI ZDOLNOŚCI Autor: Aster Podusia
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000118 JAK OSIĄGNĄĆ SUKCES, NIE MAJĄC ANI TALENTU, ANI ZDOLNOŚCI Autor: Aster Podusia
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000119 JAK OSIĄGNĄĆ SUKCES, NIE MAJĄC ANI TALENTU, ANI ZDOLNOŚCI Autor: Aster Podusia
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000011a JAK OSIĄGNĄĆ SUKCES, NIE MAJĄC ANI TALENTU, ANI ZDOLNOŚCI Autor: Aster Podusia
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000011b JAK OSIĄGNĄĆ SUKCES, NIE MAJĄC ANI TALENTU, ANI ZDOLNOŚCI Autor: Aster Podusia
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x0000011c JAK OSIĄGNĄĆ SUKCES, NIE MAJĄC ANI TALENTU, ANI ZDOLNOŚCI Autor: Aster Podusia
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x0000011d JAK OSIĄGNĄĆ SUKCES, NIE MAJĄC ANI TALENTU, ANI ZDOLNOŚCI Autor: Aster Podusia
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x0000011e JAK OSIĄGNĄĆ SUKCES, NIE MAJĄC ANI TALENTU, ANI ZDOLNOŚCI Autor: Aster Podusia
+
+# Prop #287 - Książka 4
+0x0000011f Książka 4
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000120 OSTRZEŻENIE O UJAWNIANIU FABUŁY CZ. 1 (FRAGMENT) —
+0x00000121 „Spruce Wellis cały czas był martwy.
+0x00000122 Kelvin Spazzy to Kaisah Sosie... Mniej więcej.
+0x00000123 Brad Mitt jest w głowie Edwina Mortona.
+0x00000124 Snorman przebrał się za swoja matkę”.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000125 OSTRZEŻENIE O UJAWNIANIU FABUŁY CZ. 1 (FRAGMENT) —
+0x00000126 „Spruce Wellis cały czas był martwy.
+0x00000127 Kelvin Spazzy to Kaisah Sosie... Mniej więcej.
+0x00000128 Brad Mitt jest w głowie Edwina Mortona.
+0x00000129 Snorman przebrał się za swoja matkę”.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000012a OSTRZEŻENIE O UJAWNIANIU FABUŁY CZ. 1 (FRAGMENT) —
+0x0000012b „Spruce Wellis cały czas był martwy.
+0x0000012c Kelvin Spazzy to Kaisah Sosie... Mniej więcej.
+0x0000012d Brad Mitt jest w głowie Edwina Mortona.
+0x0000012e Snorman przebrał się za swoja matkę”.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000012f OSTRZEŻENIE O UJAWNIANIU FABUŁY CZ. 1 (FRAGMENT) —
+0x00000130 „Spruce Wellis cały czas był martwy.
+0x00000131 Kelvin Spazzy to Kaisah Sosie... Mniej więcej.
+0x00000132 Brad Mitt jest w głowie Edwina Mortona.
+0x00000133 Snorman przebrał się za swoja matkę”.
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000134 OSTRZEŻENIE O UJAWNIANIU FABUŁY CZ. 1 (FRAGMENT) —
+0x00000135 „Spruce Wellis cały czas był martwy.
+0x00000136 Kelvin Spazzy to Kaisah Sosie... Mniej więcej.
+0x00000137 Brad Mitt jest w głowie Edwina Mortona.
+0x00000138 Snorman przebrał się za swoja matkę”.
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000139 OSTRZEŻENIE O UJAWNIANIU FABUŁY CZ. 1 (FRAGMENT) —
+0x0000013a „Spruce Wellis cały czas był martwy.
+0x0000013b Kelvin Spazzy to Kaisah Sosie... Mniej więcej.
+0x0000013c Brad Mitt jest w głowie Edwina Mortona.
+0x0000013d Snorman przebrał się za swoja matkę”.
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x0000013e OSTRZEŻENIE O UJAWNIANIU FABUŁY CZ. 1 (FRAGMENT) —
+0x0000013f „Spruce Wellis cały czas był martwy.
+0x00000140 Kelvin Spazzy to Kaisah Sosie... Mniej więcej.
+0x00000141 Brad Mitt jest w głowie Edwina Mortona.
+0x00000142 Snorman przebrał się za swoja matkę”.
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000143 OSTRZEŻENIE O UJAWNIANIU FABUŁY CZ. 1 (FRAGMENT) —
+0x00000144 „Spruce Wellis cały czas był martwy.
+0x00000145 Kelvin Spazzy to Kaisah Sosie... Mniej więcej.
+0x00000146 Brad Mitt jest w głowie Edwina Mortona.
+0x00000147 Snorman przebrał się za swoja matkę”.
+
+# Prop #328 - Książka 5
+0x00000148 Książka 5
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000149 MOBY DICK... Ech.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x0000014a MOBY DICK... Ech.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000014b MOBY DICK... Ech.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000014c MOBY DICK... Ech.
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000014d MOBY DICK... Ech.
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x0000014e MOBY DICK... Ech.
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x0000014f MOBY DICK... Ech.
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000150 MOBY DICK... Ech.
+
+# Prop #337 - Książka 6
+0x00000151 Książka 6
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000152 PRZESTAŃ NIENAWIDZIĆ Autor: Marchew Tyłek
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000153 PRZESTAŃ NIENAWIDZIĆ Autor: Marchew Tyłek
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000154 PRZESTAŃ NIENAWIDZIĆ Autor: Marchew Tyłek
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000155 PRZESTAŃ NIENAWIDZIĆ Autor: Marchew Tyłek
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000156 PRZESTAŃ NIENAWIDZIĆ Autor: Marchew Tyłek
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000157 PRZESTAŃ NIENAWIDZIĆ Autor: Marchew Tyłek
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000158 PRZESTAŃ NIENAWIDZIĆ Autor: Marchew Tyłek
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000159 PRZESTAŃ NIENAWIDZIĆ Autor: Marchew Tyłek
+
+# Prop #346 - Książka 7
+0x0000015a Książka 7
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x0000015b SKECZ O IMPERATORZE DO ROBOTA KURCZAKA BYŁ MÓJ Autor: Breckin Meyer
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x0000015c SKECZ O IMPERATORZE DO ROBOTA KURCZAKA BYŁ MÓJ Autor: Breckin Meyer
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000015d SKECZ O IMPERATORZE DO ROBOTA KURCZAKA BYŁ MÓJ Autor: Breckin Meyer
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000015e SKECZ O IMPERATORZE DO ROBOTA KURCZAKA BYŁ MÓJ Autor: Breckin Meyer
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000015f SKECZ O IMPERATORZE DO ROBOTA KURCZAKA BYŁ MÓJ Autor: Breckin Meyer
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000160 SKECZ O IMPERATORZE DO ROBOTA KURCZAKA BYŁ MÓJ Autor: Breckin Meyer
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000161 SKECZ O IMPERATORZE DO ROBOTA KURCZAKA BYŁ MÓJ Autor: Breckin Meyer
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000162 SKECZ O IMPERATORZE DO ROBOTA KURCZAKA BYŁ MÓJ Autor: Breckin Meyer
+
+# Prop #355 - Książka 8
+0x00000163 Książka 8
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000164 FRAGMENT Z BIBLII RINGONÓW — „Czemu ktoś chciałby to mieć. Znaczy, to jest tak okropnie głupie!
+0x00000165 Ringoni nie uznają naszych systemów wierzeń, więc po co tłumaczyliby biblię?! Dla zabawy? To idiotyczne”.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000166 FRAGMENT Z BIBLII RINGONÓW — „Czemu ktoś chciałby to mieć. Znaczy, to jest tak okropnie głupie!
+0x00000167 Ringoni nie uznają naszych systemów wierzeń, więc po co tłumaczyliby biblię?! Dla zabawy? To idiotyczne”.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000168 FRAGMENT Z BIBLII RINGONÓW — „Czemu ktoś chciałby to mieć. Znaczy, to jest tak okropnie głupie!
+0x00000169 Ringoni nie uznają naszych systemów wierzeń, więc po co tłumaczyliby biblię?! Dla zabawy? To idiotyczne”.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000016a FRAGMENT Z BIBLII RINGONÓW — „Czemu ktoś chciałby to mieć. Znaczy, to jest tak okropnie głupie!
+0x0000016b Ringoni nie uznają naszych systemów wierzeń, więc po co tłumaczyliby biblię?! Dla zabawy? To idiotyczne”.
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000016c FRAGMENT Z BIBLII RINGONÓW — „Czemu ktoś chciałby to mieć. Znaczy, to jest tak okropnie głupie!
+0x0000016d Ringoni nie uznają naszych systemów wierzeń, więc po co tłumaczyliby biblię?! Dla zabawy? To idiotyczne”.
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x0000016e FRAGMENT Z BIBLII RINGONÓW — „Czemu ktoś chciałby to mieć. Znaczy, to jest tak okropnie głupie!
+0x0000016f Ringoni nie uznają naszych systemów wierzeń, więc po co tłumaczyliby biblię?! Dla zabawy? To idiotyczne”.
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000170 FRAGMENT Z BIBLII RINGONÓW — „Czemu ktoś chciałby to mieć. Znaczy, to jest tak okropnie głupie!
+0x00000171 Ringoni nie uznają naszych systemów wierzeń, więc po co tłumaczyliby biblię?! Dla zabawy? To idiotyczne”.
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000172 FRAGMENT Z BIBLII RINGONÓW — „Czemu ktoś chciałby to mieć. Znaczy, to jest tak okropnie głupie!
+0x00000173 Ringoni nie uznają naszych systemów wierzeń, więc po co tłumaczyliby biblię?! Dla zabawy? To idiotyczne”.
+
+# Prop #372 - Książka 9
+0x00000174 Książka 9
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000175 NAJSŁAWNIEJSZE SZCZOTKI W HISTORII.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000176 NAJSŁAWNIEJSZE SZCZOTKI W HISTORII.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000177 NAJSŁAWNIEJSZE SZCZOTKI W HISTORII.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000178 NAJSŁAWNIEJSZE SZCZOTKI W HISTORII.
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000179 NAJSŁAWNIEJSZE SZCZOTKI W HISTORII.
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x0000017a NAJSŁAWNIEJSZE SZCZOTKI W HISTORII.
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x0000017b NAJSŁAWNIEJSZE SZCZOTKI W HISTORII.
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x0000017c NAJSŁAWNIEJSZE SZCZOTKI W HISTORII.
+
+# Prop #381 - Ancient Books
+0x0000017d Ancient Books
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #382 - PC
+0x0000017e PC
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000017f Co będzie, jak skrzyżujesz jabłko z ptasim mleczkiem? Rajskie jabłko! Ha!
+0x00000180 Jabłko za myśl. Łapiesz! Uwielbiam ten dowcip.
+0x00000181 Jak otrzymać kwaśne jabłko? Dobrze je sprać. Haha! Z tego mogę się śmiać cały dzień. Hahahaha!
+0x00000182 O, a jak otrzymać roladę jabłkową?! Stoczyć je z górki! Jeju, sam tarzam się ze śmiechu.
+0x00000183 A wiesz dlaczego jabłko nie może zostać modelką? Ponieważ ładne jest dopiero dojrzałe! Rety, padnę.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #388 - Jump Pad 
+0x00000184 Jump Pad 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #389 - Szczotka do włosów
+0x00000185 Szczotka do włosów
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000186 Och, wiem doskonale, jak szczotkofrustrujące jest mieć rozczochrane włosy. Ech.
+0x00000187 Mieć dobrze ułożone włosy jest dziś na szczotce. Ech, kontynuacja.
+0x00000188 Owszem, to nowa rączka. Daj spokój, bo się zaszczotkurumienię. Ech, część trzecia — tym razem to sprawa osobista.
+0x00000189 Ludzie muszą zwolnić, wciąż w takim szczotkośpiechu. Ech, powrót.
+0x0000018a Cieszę się, że zdążymy, bo po piątej trafilibyśmy na... Uwaga... GODZINY SZCZOTU! Ech, część czwarta — nowy początek.
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #395 - Teleporter
+0x0000018b Teleporter
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #396 - Jump Pad 
+0x0000018c Jump Pad 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #397 - Love Bomb
+0x0000018d Love Bomb
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #398 - Column 'o Love
+0x0000018e Column 'o Love
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #399 - Julio
+0x0000018f Julio
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000190 Przejdźmy się we dwoje do działu z romansami i zróbmy zamieszanie pomiędzy półkami.
+0x00000191 Chyba za późno dla Ciebie na kochanie.
+
+# Inspect for Act 8
+
+# Prop #402 - Teleporter
+0x00000192 Teleporter
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #403 - Jump Pad 
+0x00000193 Jump Pad 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #404 - Poof White
+0x00000194 Poof White
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #405 - Boulder
+0x00000195 Boulder
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #406 - Sting Angels
+0x00000196 Sting Angels
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #407 - Door Open
+0x00000197 Door Open
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #408 - Fairy Wand
+0x00000198 Fairy Wand
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #409 - Blue Key
+0x00000199 Blue Key
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #410 - Sting Romance
+0x0000019a Sting Romance
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #411 - Kruk
+0x0000019b Kruk
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000019c E=MC ŚMIERĆ!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #413 - Library Bookshelves
+0x0000019d Library Bookshelves
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #414 - Chandelier
+0x0000019e Chandelier
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #415 - Study Carrels
+0x0000019f Study Carrels
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #416 - Library Main Door
+0x000001a0 Library Main Door
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #417 - Library Door (open)
+0x000001a1 Library Door (open)
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #418 - Library Doorway
+0x000001a2 Library Doorway
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #419 - Library Doors (Closed)
+0x000001a3 Library Doors (Closed)
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #420 - Librarian's Desk
+0x000001a4 Librarian's Desk
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #421 - Door Open
+0x000001a5 Door Open
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #422 - Poof White
+0x000001a6 Poof White
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #423 - Book Tower
+0x000001a7 Book Tower
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #424 - Library wall 1
+0x000001a8 Library wall 1
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #425 - Library wall One Pillar
+0x000001a9 Library wall One Pillar
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #426 - Spotlight Lone 
+0x000001aa Spotlight Lone 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #427 - Library Archway
+0x000001ab Library Archway
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #428 - Library Ceiling
+0x000001ac Library Ceiling
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #429 - Lamp of Delight
+0x000001ad Lamp of Delight
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #430 - Festivity Fountain
+0x000001ae Festivity Fountain
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #431 - Foliage Folly
+0x000001af Foliage Folly
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #432 - Flying Book 4
+0x000001b0 Flying Book 4
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #433 - Book Fly2
+0x000001b1 Book Fly2
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #434 - Blue Key
+0x000001b2 Blue Key
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #435 - Haunted House
+0x000001b3 Haunted House
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #436 - Klient biblioteki
+0x000001b4 Klient biblioteki
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000001b5 Tę książkę czuć chipsami... A może stopami... Nie, to na pewno czipsy.
+0x000001b6 DLACZEGO WSZYSCY SĄ CICHO!? POWIEDZCIE COŚ!
+0x000001b7 To biblioteka czy teka biblii?
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000001b8 Tę książkę czuć chipsami... A może stopami... Nie, to na pewno czipsy.
+0x000001b9 DLACZEGO WSZYSCY SĄ CICHO!? POWIEDZCIE COŚ!
+0x000001ba To biblioteka czy teka biblii?
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000001bb Tę książkę czuć chipsami... A może stopami... Nie, to na pewno czipsy.
+0x000001bc DLACZEGO WSZYSCY SĄ CICHO!? POWIEDZCIE COŚ!
+0x000001bd To biblioteka czy teka biblii?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000001be Tę książkę czuć chipsami... A może stopami... Nie, to na pewno czipsy.
+0x000001bf DLACZEGO WSZYSCY SĄ CICHO!? POWIEDZCIE COŚ!
+0x000001c0 To biblioteka czy teka biblii?
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000001c1 Tę książkę czuć chipsami... A może stopami... Nie, to na pewno czipsy.
+0x000001c2 DLACZEGO WSZYSCY SĄ CICHO!? POWIEDZCIE COŚ!
+0x000001c3 To biblioteka czy teka biblii?
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x000001c4 Tę książkę czuć chipsami... A może stopami... Nie, to na pewno czipsy.
+0x000001c5 DLACZEGO WSZYSCY SĄ CICHO!? POWIEDZCIE COŚ!
+0x000001c6 To biblioteka czy teka biblii?
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x000001c7 Tę książkę czuć chipsami... A może stopami... Nie, to na pewno czipsy.
+0x000001c8 DLACZEGO WSZYSCY SĄ CICHO!? POWIEDZCIE COŚ!
+0x000001c9 To biblioteka czy teka biblii?
+
+# Inspect for Act 8
+
+# Prop #458 - Świnia maniak
+0x000001ca Świnia maniak
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000001cb 35 groszy za przetrzymaną książkę! Dobra, niech wiedzą, że płacę co do grosza. Zardzewiałego grosza
+0x000001cc Jak inaczej nazwać tezaurus?
+0x000001cd Chciałabym być w domu i oglądać skecz Breckina Meyera o Imperatorze do Robota Kurczaka.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000001ce 35 groszy za przetrzymaną książkę! Dobra, niech wiedzą, że płacę co do grosza. Zardzewiałego grosza
+0x000001cf Jak inaczej nazwać tezaurus?
+0x000001d0 Chciałabym być w domu i oglądać skecz Breckina Meyera o Imperatorze do Robota Kurczaka.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000001d1 35 groszy za przetrzymaną książkę! Dobra, niech wiedzą, że płacę co do grosza. Zardzewiałego grosza
+0x000001d2 Jak inaczej nazwać tezaurus?
+0x000001d3 Chciałabym być w domu i oglądać skecz Breckina Meyera o Imperatorze do Robota Kurczaka.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000001d4 35 groszy za przetrzymaną książkę! Dobra, niech wiedzą, że płacę co do grosza. Zardzewiałego grosza
+0x000001d5 Jak inaczej nazwać tezaurus?
+0x000001d6 Chciałabym być w domu i oglądać skecz Breckina Meyera o Imperatorze do Robota Kurczaka.
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000001d7 35 groszy za przetrzymaną książkę! Dobra, niech wiedzą, że płacę co do grosza. Zardzewiałego grosza
+0x000001d8 Jak inaczej nazwać tezaurus?
+0x000001d9 Chciałabym być w domu i oglądać skecz Breckina Meyera o Imperatorze do Robota Kurczaka.
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x000001da 35 groszy za przetrzymaną książkę! Dobra, niech wiedzą, że płacę co do grosza. Zardzewiałego grosza
+0x000001db Jak inaczej nazwać tezaurus?
+0x000001dc Chciałabym być w domu i oglądać skecz Breckina Meyera o Imperatorze do Robota Kurczaka.
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x000001dd 35 groszy za przetrzymaną książkę! Dobra, niech wiedzą, że płacę co do grosza. Zardzewiałego grosza
+0x000001de Jak inaczej nazwać tezaurus?
+0x000001df Chciałabym być w domu i oglądać skecz Breckina Meyera o Imperatorze do Robota Kurczaka.
+
+# Inspect for Act 8
+
+# Prop #480 - Ancient Books
+0x000001e0 Ancient Books
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #481 - Blue Key
+0x000001e1 Blue Key
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #482 - Green Key
+0x000001e2 Green Key
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #483 - Chandelier
+0x000001e3 Chandelier
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #484 - Ślepiec
+0x000001e4 Ślepiec
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000001e5 Zasnąłem i nie przewróciłem się. JESTEM WIELBŁĄDEM!
+0x000001e6 Dlaczego nigdy nie widziałem małego gołąbka?
+0x000001e7 Rany, Larry Plotter jest dziewczyną!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000001e8 Zasnąłem i nie przewróciłem się. JESTEM WIELBŁĄDEM!
+0x000001e9 Dlaczego nigdy nie widziałem małego gołąbka?
+0x000001ea Rany, Larry Plotter jest dziewczyną!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000001eb Zasnąłem i nie przewróciłem się. JESTEM WIELBŁĄDEM!
+0x000001ec Dlaczego nigdy nie widziałem małego gołąbka?
+0x000001ed Rany, Larry Plotter jest dziewczyną!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x000001ee Zasnąłem i nie przewróciłem się. JESTEM WIELBŁĄDEM!
+0x000001ef Dlaczego nigdy nie widziałem małego gołąbka?
+0x000001f0 Rany, Larry Plotter jest dziewczyną!
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x000001f1 Zasnąłem i nie przewróciłem się. JESTEM WIELBŁĄDEM!
+0x000001f2 Dlaczego nigdy nie widziałem małego gołąbka?
+0x000001f3 Rany, Larry Plotter jest dziewczyną!
+
+# Inspect for Act 8
+
+# Prop #500 - Hydraulik
+0x000001f4 Hydraulik
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000001f5 Ej, Henio, co masz zamiar zrobić z tą całą czekoladą?
+0x000001f6 Och, Jane Austen, jesteś ranna. Kto to zrobił?
+0x000001f7 Fajnie byłoby być teraz na rolkach.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000001f8 Ej, Henio, co masz zamiar zrobić z tą całą czekoladą?
+0x000001f9 Och, Jane Austen, jesteś ranna. Kto to zrobił?
+0x000001fa Fajnie byłoby być teraz na rolkach.
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000001fb Ej, Henio, co masz zamiar zrobić z tą całą czekoladą?
+0x000001fc Och, Jane Austen, jesteś ranna. Kto to zrobił?
+0x000001fd Fajnie byłoby być teraz na rolkach.
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x000001fe Ej, Henio, co masz zamiar zrobić z tą całą czekoladą?
+0x000001ff Och, Jane Austen, jesteś ranna. Kto to zrobił?
+0x00000200 Fajnie byłoby być teraz na rolkach.
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000201 Ej, Henio, co masz zamiar zrobić z tą całą czekoladą?
+0x00000202 Och, Jane Austen, jesteś ranna. Kto to zrobił?
+0x00000203 Fajnie byłoby być teraz na rolkach.
+
+# Inspect for Act 8
+
+# Prop #516 - Herr Dziobenstein
+0x00000204 Herr Dziobenstein
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000205 Pod ubraniem nic nie mam!
+0x00000206 Żeby tak wszystkie książki były moimi przyjaciółmi.
+0x00000207 Mama sądzi, że jestem przystojny.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000208 Pod ubraniem nic nie mam!
+0x00000209 Żeby tak wszystkie książki były moimi przyjaciółmi.
+0x0000020a Mama sądzi, że jestem przystojny.
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000020b Pod ubraniem nic nie mam!
+0x0000020c Żeby tak wszystkie książki były moimi przyjaciółmi.
+0x0000020d Mama sądzi, że jestem przystojny.
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x0000020e Pod ubraniem nic nie mam!
+0x0000020f Żeby tak wszystkie książki były moimi przyjaciółmi.
+0x00000210 Mama sądzi, że jestem przystojny.
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000211 Pod ubraniem nic nie mam!
+0x00000212 Żeby tak wszystkie książki były moimi przyjaciółmi.
+0x00000213 Mama sądzi, że jestem przystojny.
+
+# Inspect for Act 8
+
+# Prop #532 - Żłopacz
+0x00000214 Żłopacz
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000215 Tylko trochę nasiusiałem.
+0x00000216 Mam maskę klauna na stroju kąpielowym.
+0x00000217 To tylko jakieś nudne reportaże! Co za tandeta.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000218 Tylko trochę nasiusiałem.
+0x00000219 Mam maskę klauna na stroju kąpielowym.
+0x0000021a To tylko jakieś nudne reportaże! Co za tandeta.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000021b Tylko trochę nasiusiałem.
+0x0000021c Mam maskę klauna na stroju kąpielowym.
+0x0000021d To tylko jakieś nudne reportaże! Co za tandeta.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x0000021e Tylko trochę nasiusiałem.
+0x0000021f Mam maskę klauna na stroju kąpielowym.
+0x00000220 To tylko jakieś nudne reportaże! Co za tandeta.
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000221 Tylko trochę nasiusiałem.
+0x00000222 Mam maskę klauna na stroju kąpielowym.
+0x00000223 To tylko jakieś nudne reportaże! Co za tandeta.
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x00000224 Tylko trochę nasiusiałem.
+0x00000225 Mam maskę klauna na stroju kąpielowym.
+0x00000226 To tylko jakieś nudne reportaże! Co za tandeta.
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000227 Tylko trochę nasiusiałem.
+0x00000228 Mam maskę klauna na stroju kąpielowym.
+0x00000229 To tylko jakieś nudne reportaże! Co za tandeta.
+
+# Inspect for Act 8
+

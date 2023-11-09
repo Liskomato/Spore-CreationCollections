@@ -1,0 +1,1434 @@
+# Auto-generated localization file for: Hirveä Hiekkalaatikkola (ID: 0XF6AEB9D)
+# Adventure name
+0x00000001 Hirveä Hiekkalaatikkola
+
+# Adventure description
+0x00000002 Söpöläsmestari ja hänen sportaanijoukkonsa puolustavat parhaansa mukaan uhanalaista Hiekkalaatikkolaa kamalilta sottakarhuilta. Liity taisteluun, mestari! Seikkailun loi Dan Milano.
+
+# Intro text
+0x00000003 Tervetuloa uhattuun Hiekkalaatikkolaan. Lataa aseesi, sillä tästä tulee kaikkien aikojen söpöin verilöyly!
+
+# Win text
+0x00000004 Onneksi olkoon. Sepä oli melkoinen saavutus. Söpöläsmestari ja sportaanit esittävät sinulle kiitoksensa.
+
+# Lose text
+0x00000005 Voi, kylläpä kuolit söpösti. Valitan soturi, sinut teilattiin aivan yksiselitteisesti. Mutta hei, kuolithan ainakin söpösti. Palaa takaisin Hiekkalaatikkolaan, niin voit yrittää uudelleen.
+
+# Act 1
+0x00000006 Halojaa! Mitäs kuuluu?
+0x00000007 Tervetuloa Hiekkalaatikkolaan! Paikka on varsin ihana ja kaunis, mutta täällä kyllä lemahtaa melkoisesti!
+
+# Goal 1
+0x00000008 Halojaa! Kuinka hurisee? Oon Söpöläsmestari sun pelissä. Mä oon sun kamu! > ^^ <
+0x00000009 Tämä on Hiekkalaatikkola. Me kisut yritämme pitää sen siistinä, mutta täällä on noita sottakarhuja, jotka ei yhtään välitä siisteydestä.
+0x0000000a Jos olet ovela, voimme ryöstää heidän lippunsa kolmeen kertaan. Se saa ne takuulla itkemään.
+0x0000000b Nappaatko sen meille? Saat halin.
+
+
+# Act 2
+0x0000000c Lipunryöstö!
+0x0000000d Ryöstä vihollisen lippu ja tuo se tukikohtaasi. Tee sama kolme kertaa kuolematta, niin karhut saavat muuta ajateltavaa ­ nimittäin oman häviönsä!
+
+# Goal 1
+
+
+# Act 3
+0x0000000e Lipunryöstö!
+0x0000000f Hae lippu ja palauta se kisujen tukikohtaan.
+
+# Goal 1
+
+
+# Act 4
+0x00000010 Lipunryöstö!
+0x00000011 Hae viimeinen lippu ja palauta se kisujen tukikohtaan.
+
+# Goal 1
+
+
+# Prop #18 - Litter Box
+0x00000012 Litter Box
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #19 - Bear Base
+0x00000013 Bear Base
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #20 - Kisujen tukikohta
+0x00000014 Kisujen tukikohta
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #21 - Raivokarhu
+0x00000015 Raivokarhu
+
+# Chatter for Act 1
+0x00000016 Jos hajotat jotain, hajota se kunnolla!
+0x00000017 Jiihaa! Ihan kuin Imatralla!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000018 Jos hajotat jotain, hajota se kunnolla!
+0x00000019 Jiihaa! Ihan kuin Imatralla!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000001a Jos hajotat jotain, hajota se kunnolla!
+0x0000001b Jiihaa! Ihan kuin Imatralla!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000001c Jos hajotat jotain, hajota se kunnolla!
+0x0000001d Jiihaa! Ihan kuin Imatralla!
+
+# Inspect for Act 4
+
+# Prop #30 - Sotakärryt
+0x0000001e Sotakärryt
+
+# Chatter for Act 1
+0x0000001f Pthyi!
+0x00000020 Tää ei oo reiluu. Mähän tapoin sut!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000021 Pthyi!
+0x00000022 Tää ei oo reiluu. Mähän tapoin sut!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000023 Pthyi!
+0x00000024 Tää ei oo reiluu. Mähän tapoin sut!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000025 Pthyi!
+0x00000026 Tää ei oo reiluu. Mähän tapoin sut!
+
+# Inspect for Act 4
+
+# Prop #39 - Poo Pile
+0x00000027 Poo Pile
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #40 - Flies
+0x00000028 Flies
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #41 - Söpöläsmestari
+0x00000029 Söpöläsmestari
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000002a Kaikki meitin tukikohrat on meitin tukikohtii!
+0x0000002b Eikö sota olekin hauskaa?
+0x0000002c Liput on tosi nättejä. Tahtoo lisää!
+0x0000002d Mmm. Haisee ihan ruutileivoksille!
+0x0000002e Rispektiä!
+
+# Inspect for Act 4
+
+# Prop #47 - Kakkikoira
+0x0000002f Kakkikoira
+
+# Chatter for Act 1
+0x00000030 Mun planeetta!
+0x00000031 (= 0_0 =)
+0x00000032 Ah, mikään ei voita palavan karhun tuoksua!
+0x00000033 o.o
+0x00000034 ;)
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000035 Mun planeetta!
+0x00000036 (= 0_0 =)
+0x00000037 Ah, mikään ei voita palavan karhun tuoksua!
+0x00000038 o.o
+0x00000039 ;)
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000003a Mun planeetta!
+0x0000003b (= 0_0 =)
+0x0000003c Ah, mikään ei voita palavan karhun tuoksua!
+0x0000003d o.o
+0x0000003e ;)
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000003f Mun planeetta!
+0x00000040 (= 0_0 =)
+0x00000041 Ah, mikään ei voita palavan karhun tuoksua!
+0x00000042 o.o
+0x00000043 ;)
+
+# Inspect for Act 4
+
+# Prop #68 - Halipingviini
+0x00000044 Halipingviini
+
+# Chatter for Act 1
+0x00000045 Minusta on kiva tappaa juttuja!
+0x00000046 Joko halitaan?
+0x00000047 Peittäkää pakaranne!
+0x00000048 ^ ^
+0x00000049 <3
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000004a Minusta on kiva tappaa juttuja!
+0x0000004b Joko halitaan?
+0x0000004c Peittäkää pakaranne!
+0x0000004d ^ ^
+0x0000004e <3
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000004f Minusta on kiva tappaa juttuja!
+0x00000050 Joko halitaan?
+0x00000051 Peittäkää pakaranne!
+0x00000052 ^ ^
+0x00000053 <3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000054 Minusta on kiva tappaa juttuja!
+0x00000055 Joko halitaan?
+0x00000056 Peittäkää pakaranne!
+0x00000057 ^ ^
+0x00000058 <3
+
+# Inspect for Act 4
+
+# Prop #89 - Lutukisu
+0x00000059 Lutukisu
+
+# Chatter for Act 1
+0x0000005a ROTFL!
+0x0000005b Bestikset!
+0x0000005c Hani!
+0x0000005d XOXO!
+0x0000005e OMG! THX!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000005f ROTFL!
+0x00000060 Bestikset!
+0x00000061 Hani!
+0x00000062 XOXO!
+0x00000063 OMG! THX!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000064 ROTFL!
+0x00000065 Bestikset!
+0x00000066 Hani!
+0x00000067 XOXO!
+0x00000068 OMG! THX!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000069 ROTFL!
+0x0000006a Bestikset!
+0x0000006b Hani!
+0x0000006c XOXO!
+0x0000006d OMG! THX!
+
+# Inspect for Act 4
+
+# Prop #110 - Hebulo
+0x0000006e Hebulo
+
+# Chatter for Act 1
+0x0000006f Olisi pitänyt suorittaa vartijakoulu loppuun.
+0x00000070 Senkun otat sen. Minä en siitä perusta.
+0x00000071 Aina minä joudun vartioimaan lippua.
+0x00000072 Eikös täällä jossain ollut lippu?
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000073 Olisi pitänyt suorittaa vartijakoulu loppuun.
+0x00000074 Senkun otat sen. Minä en siitä perusta.
+0x00000075 Aina minä joudun vartioimaan lippua.
+0x00000076 Eikös täällä jossain ollut lippu?
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000077 Olisi pitänyt suorittaa vartijakoulu loppuun.
+0x00000078 Senkun otat sen. Minä en siitä perusta.
+0x00000079 Aina minä joudun vartioimaan lippua.
+0x0000007a Eikös täällä jossain ollut lippu?
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000007b Olisi pitänyt suorittaa vartijakoulu loppuun.
+0x0000007c Senkun otat sen. Minä en siitä perusta.
+0x0000007d Aina minä joudun vartioimaan lippua.
+0x0000007e Eikös täällä jossain ollut lippu?
+
+# Inspect for Act 4
+
+# Prop #127 - Haisukarhu
+0x0000007f Haisukarhu
+
+# Chatter for Act 1
+0x00000080 Ei tänne ainakaan!
+0x00000081 Kiss, kiss!
+0x00000082 Mä tuun sun tukikohtaan ja tapan sut kuoliaaks!
+0x00000083 Luuseri!
+0x00000084 Lippu tai läjäys!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000085 Ei tänne ainakaan!
+0x00000086 Kiss, kiss!
+0x00000087 Mä tuun sun tukikohtaan ja tapan sut kuoliaaks!
+0x00000088 Luuseri!
+0x00000089 Lippu tai läjäys!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000008a Ei tänne ainakaan!
+0x0000008b Kiss, kiss!
+0x0000008c Mä tuun sun tukikohtaan ja tapan sut kuoliaaks!
+0x0000008d Luuseri!
+0x0000008e Lippu tai läjäys!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000008f Ei tänne ainakaan!
+0x00000090 Kiss, kiss!
+0x00000091 Mä tuun sun tukikohtaan ja tapan sut kuoliaaks!
+0x00000092 Luuseri!
+0x00000093 Lippu tai läjäys!
+
+# Inspect for Act 4
+
+# Prop #148 - Rainbow
+0x00000094 Rainbow
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #149 - Butterflies
+0x00000095 Butterflies
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #150 - Cloud Lightning
+0x00000096 Cloud Lightning
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #151 - Cloud Poison
+0x00000097 Cloud Poison
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #152 - Scooper
+0x00000098 Scooper
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #153 - Karkkikranaatti
+0x00000099 Karkkikranaatti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #154 - Karkkikranaatti
+0x0000009a Karkkikranaatti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #155 - Karkkikranaatti
+0x0000009b Karkkikranaatti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #156 - Haisukarhu
+0x0000009c Haisukarhu
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #157 - Kutikatti
+0x0000009d Kutikatti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #158 - Spout Water
+0x0000009e Spout Water
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #159 - Lentokala
+0x0000009f Lentokala
+
+# Chatter for Act 1
+0x000000a0 UAAH!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000a1 UAAH!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000a2 UAAH!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000a3 UAAH!
+
+# Inspect for Act 4
+
+# Prop #164 - Power-Up Energy
+0x000000a4 Power-Up Energy
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #165 - Power-Up Health
+0x000000a5 Power-Up Health
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #166 - Power-Up Speed
+0x000000a6 Power-Up Speed
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #167 - Teleporter
+0x000000a7 Teleporter
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #168 - Karhulippu
+0x000000a8 Karhulippu
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #169 - Kisujen tukikohta
+0x000000a9 Kisujen tukikohta
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #170 - Smiley Cloud
+0x000000aa Smiley Cloud
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #171 - Smiley Sun
+0x000000ab Smiley Sun
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #172 - Flag Base
+0x000000ac Flag Base
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #173 - Haisukarhu
+0x000000ad Haisukarhu
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #174 - Power-Up Armor
+0x000000ae Power-Up Armor
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #175 - Power-Up Damage
+0x000000af Power-Up Damage
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #176 - Löyhkäkarhu
+0x000000b0 Löyhkäkarhu
+
+# Chatter for Act 1
+0x000000b1 Lue ohjeet!
+0x000000b2 Kakka homma!
+0x000000b3 Kuolema kehrääjille!
+0x000000b4 Tässä tulee autsia miautsiin!
+0x000000b5 Huono tuuri!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000b6 Lue ohjeet!
+0x000000b7 Kakka homma!
+0x000000b8 Kuolema kehrääjille!
+0x000000b9 Tässä tulee autsia miautsiin!
+0x000000ba Huono tuuri!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000bb Lue ohjeet!
+0x000000bc Kakka homma!
+0x000000bd Kuolema kehrääjille!
+0x000000be Tässä tulee autsia miautsiin!
+0x000000bf Huono tuuri!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000c0 Lue ohjeet!
+0x000000c1 Kakka homma!
+0x000000c2 Kuolema kehrääjille!
+0x000000c3 Tässä tulee autsia miautsiin!
+0x000000c4 Huono tuuri!
+
+# Inspect for Act 4
+
+# Prop #197 - Poo3
+0x000000c5 Poo3
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #198 - Glitter Sphere
+0x000000c6 Glitter Sphere
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #199 - Cat Toy
+0x000000c7 Cat Toy
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #200 - Cat Toy2
+0x000000c8 Cat Toy2
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #201 - Kakkakranaatti
+0x000000c9 Kakkakranaatti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #202 - Kakkakaivos
+0x000000ca Kakkakaivos
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #203 - Räjähtävä kakki
+0x000000cb Räjähtävä kakki
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #204 - Explosive Barrel
+0x000000cc Explosive Barrel
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #205 - Smoke Black
+0x000000cd Smoke Black
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #206 - Shish Kabob1
+0x000000ce Shish Kabob1
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #207 - Spotlight Green
+0x000000cf Spotlight Green
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #208 - Spotlight Pink
+0x000000d0 Spotlight Pink
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #209 - Lightning
+0x000000d1 Lightning
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #210 - Mad Cloud
+0x000000d2 Mad Cloud
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #211 - Explosive Barrel
+0x000000d3 Explosive Barrel
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #212 - box platform
+0x000000d4 box platform
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #213 - Explosive Barrel
+0x000000d5 Explosive Barrel
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #214 - Haisunalle
+0x000000d6 Haisunalle
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000d7 Kuolema kisuleille!
+0x000000d8 Kuolema kehrääjille!
+0x000000d9 Kiss, kiss!
+0x000000da Tässä tulee autsia miautsiin!
+0x000000db EVVK!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000dc Kuolema kisuleille!
+0x000000dd Kuolema kehrääjille!
+0x000000de Kiss, kiss!
+0x000000df Tässä tulee autsia miautsiin!
+0x000000e0 EVVK!
+
+# Inspect for Act 4
+
+# Prop #225 - Kutikatti
+0x000000e1 Kutikatti
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #226 - Tootin'
+0x000000e2 Tootin'
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #227 - Fresh Powder
+0x000000e3 Fresh Powder
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #228 - Nestling Ambience
+0x000000e4 Nestling Ambience
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #229 - Thunder
+0x000000e5 Thunder
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #230 - Evil Whispers
+0x000000e6 Evil Whispers
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #231 - Metal Madness
+0x000000e7 Metal Madness
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #232 - Factory Steam
+0x000000e8 Factory Steam
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #233 - Kittie Helper
+0x000000e9 Kittie Helper
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+

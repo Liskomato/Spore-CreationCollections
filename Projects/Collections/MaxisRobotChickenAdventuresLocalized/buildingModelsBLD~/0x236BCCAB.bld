@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><sporemodel>
+  <formatversion>18</formatversion>
+  <properties>
+    <modeltype>0x99e92f05</modeltype>
+    <zcorpscore>14</zcorpscore>
+  </properties>
+  <blocks count="3">
+    <blockref>
+      <blockid>0x40636000, 0xaf877f28</blockid>
+      <transform>
+        <scale>0.828916</scale>
+        <position>0,0,0.0100020</position>
+        <triangledirection>0,1,0</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,0,0</row0>
+          <row1>0,1,0</row1>
+          <row2>0,0,1</row2>
+        </orientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000005</paintregion>
+          <paintid>0x18890fdd</paintid>
+          <color1>0.282352,0.176468,0.168625</color1>
+          <color2>0.282352,0.176468,0.168625</color2>
+        </paint>
+        <paint>
+          <paintregion>0x0000000d</paintregion>
+          <paintid>0x18890fdd</paintid>
+          <color1>0.286273,0.576470,0.262744</color1>
+          <color2>0.219605,0.443136,0.203921</color2>
+        </paint>
+      </paintlist>
+      <childlist count="2">
+        <childid>2</childid>
+        <childid>1</childid>
+      </childlist>
+      <handles count="4">
+        <weight channel="0xd02751de">0.333000</weight>
+        <weight channel="0x808c04d9">0.200000</weight>
+        <weight channel="0x3af5266f">0.131731</weight>
+        <weight channel="0xbb7f0931">0.0207896</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0xb4813e2a</blockid>
+      <transform>
+        <scale>0.548811</scale>
+        <position>-9.33034e-5,-0.261368,4.814884</position>
+        <triangledirection>0,0.0205166,-0.999788</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,0,0</row0>
+          <row1>0,0.0205166,-0.999788</row1>
+          <row2>0,0.999788,0.0205166</row2>
+        </orientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000004</paintregion>
+          <paintid>0x18890fdd</paintid>
+          <color1>0.286273,0.576470,0.262744</color1>
+          <color2>0.219605,0.443136,0.203921</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000010</paintregion>
+          <paintid>0x18890fdd</paintid>
+          <color1>0.674507,0.850978,0.427451</color1>
+          <color2>0.674507,0.850978,0.427451</color2>
+        </paint>
+      </paintlist>
+      <handles count="1">
+        <weight channel="0x2e6521f4">1</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0x276b0d4a</blockid>
+      <transform>
+        <scale>0.75</scale>
+        <position>-0.257551,6.40766e-7,3.703320</position>
+        <triangledirection>0.299748,-1.19208e-7,-0.954017</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>2.11311e-8,-1,1.31594e-7</row0>
+          <row1>0.299748,-1.19208e-7,-0.954017</row1>
+          <row2>0.954017,5.96045e-8,0.299748</row2>
+        </orientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="2">
+        <paint>
+          <paintregion>0x00000002</paintregion>
+          <paintid>0x18890fdd</paintid>
+          <color1>0.286273,0.576470,0.262744</color1>
+          <color2>0.219605,0.443136,0.203921</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000004</paintregion>
+          <paintid>0x18890fdd</paintid>
+          <color1>0.286273,0.576470,0.262744</color1>
+          <color2>0.219605,0.443136,0.203921</color2>
+        </paint>
+      </paintlist>
+      <handles count="2">
+        <weight channel="0x7cc96c02">1</weight>
+        <weight channel="0xd02751de">0</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+  </blocks></sporemodel>

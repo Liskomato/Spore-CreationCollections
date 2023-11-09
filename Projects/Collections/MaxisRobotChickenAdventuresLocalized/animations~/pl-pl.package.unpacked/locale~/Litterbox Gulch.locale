@@ -1,0 +1,1434 @@
+# Auto-generated localization file for: Wąwóz śmietnikowy (ID: 0XBAB4D6A8)
+# Adventure name
+0x00000001 Wąwóz śmietnikowy
+
+# Adventure description
+0x00000002 Mistrzyni Słodka i jej drużyna „Sportan” broni śmietnikowego wąwozu przez Beztroskimi Misiami. Zacznij walczyć, wodzu! Autor: Dan Milano
+
+# Intro text
+0x00000003 Witamy w Wąwozie śmietnikowym!   Zabierz ze sobą swoją najlepszą broń. Będzie to najcudowniejsza krwawa łaźnia, o jakiej słyszał świat!
+
+# Win text
+0x00000004 Gratulacje, to była polka galopka!  Mistrzyni Słodka i jej drużyna sportan dziękuje ci za przybycie!
+
+# Lose text
+0x00000005 Och, twoja głowa tak cudnie pękła.   Przykro nam, ale twoje ciało chyba właśnie rozpadło się na kawałki.   Ale przynajmniej była to ładna śmierć.   Wpadnij jeszcze kiedyś do Wąwozu!
+
+# Act 1
+0x00000006 Witam, jak się masz?
+0x00000007 Witamy w Wąwozie śmietnikowym!   Jak na takie ładne miejsce coś tu okropnie śmierdzi!
+
+# Goal 1
+0x00000008 Halo!  Jak jez?   Jestem Mistrzyni Słodka.   Wchodziem w to, jeśtem twój psijaciel!  > ^^ <
+0x00000009 To jest wąwóz śmietnikowy.  Nam, kotkom, zależy na czystości, ale te okropne misie o nic się nie TROSZCZĄ!
+0x0000000a Jeśli będziemy sprytni, ukradniemy im flagę 3 razy i wtedy będą płakać.
+0x0000000b Ukradniesz to dla nas?   Za buziaka?
+
+
+# Act 2
+0x0000000c Zdobądź flagę!
+0x0000000d Zdobądź flagę wroga i wróć z nią do bazy. Zrób to trzy razy, unikając śmierci, a może te Misie będą miały wreszcie o co się troszczyć: o własną przegraną!
+
+# Goal 1
+
+
+# Act 3
+0x0000000e Zdobądź flagę!
+0x0000000f Zdobądź jeszcze jedną flagę i przynieś ją do kociej bazy.
+
+# Goal 1
+
+
+# Act 4
+0x00000010 Zdobądź flagę!
+0x00000011 Zdobądź ostatnią flagę i przynieś ją do kociej bazy.
+
+# Goal 1
+
+
+# Prop #18 - Litter Box
+0x00000012 Litter Box
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #19 - Bear Base
+0x00000013 Bear Base
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #20 - Kocia baza
+0x00000014 Kocia baza
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #21 - Niedźwiedź zabójca
+0x00000015 Niedźwiedź zabójca
+
+# Chatter for Act 1
+0x00000016 Jak posujesz, to musisz rozwalić do końca!
+0x00000017 Uuu!   Jak w Sajgonie!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000018 Jak posujesz, to musisz rozwalić do końca!
+0x00000019 Uuu!   Jak w Sajgonie!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000001a Jak posujesz, to musisz rozwalić do końca!
+0x0000001b Uuu!   Jak w Sajgonie!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000001c Jak posujesz, to musisz rozwalić do końca!
+0x0000001d Uuu!   Jak w Sajgonie!
+
+# Inspect for Act 4
+
+# Prop #30 - Świnie wojny
+0x0000001e Świnie wojny
+
+# Chatter for Act 1
+0x0000001f Tfu!  Tfu!
+0x00000020 Nie w porządku!  Nie żyjesz!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000021 Tfu!  Tfu!
+0x00000022 Nie w porządku!  Nie żyjesz!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000023 Tfu!  Tfu!
+0x00000024 Nie w porządku!  Nie żyjesz!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000025 Tfu!  Tfu!
+0x00000026 Nie w porządku!  Nie żyjesz!
+
+# Inspect for Act 4
+
+# Prop #39 - Poo Pile
+0x00000027 Poo Pile
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #40 - Flies
+0x00000028 Flies
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #41 - Mistrzyni Słodka
+0x00000029 Mistrzyni Słodka
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000002a Wszystkie wasze baza są należeć do nas!
+0x0000002b Czy wojna nie jest najfajniejszą rzeczą?
+0x0000002c Flagi są ładne!  Przynieś więcej!
+0x0000002d Mmm, czuję ciasteczka prochowe!
+0x0000002e Witam.
+
+# Inspect for Act 4
+
+# Prop #47 - Kupkoszczeniak
+0x0000002f Kupkoszczeniak
+
+# Chatter for Act 1
+0x00000030 To moja planeta!
+0x00000031 (= 0_0 =)
+0x00000032 Uwielbiam zapach pieczonego misia o poranku!
+0x00000033 o.o
+0x00000034 ;)
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000035 To moja planeta!
+0x00000036 (= 0_0 =)
+0x00000037 Uwielbiam zapach pieczonego misia o poranku!
+0x00000038 o.o
+0x00000039 ;)
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000003a To moja planeta!
+0x0000003b (= 0_0 =)
+0x0000003c Uwielbiam zapach pieczonego misia o poranku!
+0x0000003d o.o
+0x0000003e ;)
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000003f To moja planeta!
+0x00000040 (= 0_0 =)
+0x00000041 Uwielbiam zapach pieczonego misia o poranku!
+0x00000042 o.o
+0x00000043 ;)
+
+# Inspect for Act 4
+
+# Prop #68 - Hugsy Pingwin
+0x00000044 Hugsy Pingwin
+
+# Chatter for Act 1
+0x00000045 Kochać bijać
+0x00000046 Możemy się przytulić?
+0x00000047 Weź no to zakryj!
+0x00000048 ^ ^
+0x00000049 Dużo miłości!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000004a Kochać bijać
+0x0000004b Możemy się przytulić?
+0x0000004c Weź no to zakryj!
+0x0000004d ^ ^
+0x0000004e Dużo miłości!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000004f Kochać bijać
+0x00000050 Możemy się przytulić?
+0x00000051 Weź no to zakryj!
+0x00000052 ^ ^
+0x00000053 Dużo miłości!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000054 Kochać bijać
+0x00000055 Możemy się przytulić?
+0x00000056 Weź no to zakryj!
+0x00000057 ^ ^
+0x00000058 Dużo miłości!
+
+# Inspect for Act 4
+
+# Prop #89 - Przytulaśny kociak
+0x00000059 Przytulaśny kociak
+
+# Chatter for Act 1
+0x0000005a Buahahaha!
+0x0000005b Przyjaciele!
+0x0000005c Jesteś super!
+0x0000005d Buziaczki!
+0x0000005e O Boże! Wielkie dzięki!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000005f Buahahaha!
+0x00000060 Przyjaciele!
+0x00000061 Jesteś super!
+0x00000062 Buziaczki!
+0x00000063 O Boże! Wielkie dzięki!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000064 Buahahaha!
+0x00000065 Przyjaciele!
+0x00000066 Jesteś super!
+0x00000067 Buziaczki!
+0x00000068 O Boże! Wielkie dzięki!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000069 Buahahaha!
+0x0000006a Przyjaciele!
+0x0000006b Jesteś super!
+0x0000006c Buziaczki!
+0x0000006d O Boże! Wielkie dzięki!
+
+# Inspect for Act 4
+
+# Prop #110 - Bobo
+0x0000006e Bobo
+
+# Chatter for Act 1
+0x0000006f Nie trzeba było rzucać szkoły gwardii.
+0x00000070 Bierz to, nie obchodzi mnie to.
+0x00000071 Zawsze to ja mam strzec flagi.
+0x00000072 Zdarzyło ci się zobaczyć może gdzieś tutaj flagę?
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000073 Nie trzeba było rzucać szkoły gwardii.
+0x00000074 Bierz to, nie obchodzi mnie to.
+0x00000075 Zawsze to ja mam strzec flagi.
+0x00000076 Zdarzyło ci się zobaczyć może gdzieś tutaj flagę?
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000077 Nie trzeba było rzucać szkoły gwardii.
+0x00000078 Bierz to, nie obchodzi mnie to.
+0x00000079 Zawsze to ja mam strzec flagi.
+0x0000007a Zdarzyło ci się zobaczyć może gdzieś tutaj flagę?
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000007b Nie trzeba było rzucać szkoły gwardii.
+0x0000007c Bierz to, nie obchodzi mnie to.
+0x0000007d Zawsze to ja mam strzec flagi.
+0x0000007e Zdarzyło ci się zobaczyć może gdzieś tutaj flagę?
+
+# Inspect for Act 4
+
+# Prop #127 - Przyczajony niedźwiedź
+0x0000007f Przyczajony niedźwiedź
+
+# Chatter for Act 1
+0x00000080 UMYWAM RĘCE!
+0x00000081 Hej, kici-kici!
+0x00000082 Idem do wasza baza zabisz wasze kumple!
+0x00000083 Masz przerąbane!
+0x00000084 Flaga albo życie!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000085 UMYWAM RĘCE!
+0x00000086 Hej, kici-kici!
+0x00000087 Idem do wasza baza zabisz wasze kumple!
+0x00000088 Masz przerąbane!
+0x00000089 Flaga albo życie!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000008a UMYWAM RĘCE!
+0x0000008b Hej, kici-kici!
+0x0000008c Idem do wasza baza zabisz wasze kumple!
+0x0000008d Masz przerąbane!
+0x0000008e Flaga albo życie!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000008f UMYWAM RĘCE!
+0x00000090 Hej, kici-kici!
+0x00000091 Idem do wasza baza zabisz wasze kumple!
+0x00000092 Masz przerąbane!
+0x00000093 Flaga albo życie!
+
+# Inspect for Act 4
+
+# Prop #148 - Rainbow
+0x00000094 Rainbow
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #149 - Butterflies
+0x00000095 Butterflies
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #150 - Cloud Lightning
+0x00000096 Cloud Lightning
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #151 - Cloud Poison
+0x00000097 Cloud Poison
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #152 - Scooper
+0x00000098 Scooper
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #153 - Granat-lizak w kształcie serca
+0x00000099 Granat-lizak w kształcie serca
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #154 - Granat-lizak w kształcie serca
+0x0000009a Granat-lizak w kształcie serca
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #155 - Granat-lizak w kształcie serca
+0x0000009b Granat-lizak w kształcie serca
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #156 - Przyczajony niedźwiedź
+0x0000009c Przyczajony niedźwiedź
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #157 - Kotek z łaskotkami
+0x0000009d Kotek z łaskotkami
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #158 - Spout Water
+0x0000009e Spout Water
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #159 - Latające ryby
+0x0000009f Latające ryby
+
+# Chatter for Act 1
+0x000000a0 Łiiiii!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000a1 Łiiiii!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000a2 Łiiiii!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000a3 Łiiiii!
+
+# Inspect for Act 4
+
+# Prop #164 - Power-Up Energy
+0x000000a4 Power-Up Energy
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #165 - Power-Up Health
+0x000000a5 Power-Up Health
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #166 - Power-Up Speed
+0x000000a6 Power-Up Speed
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #167 - Teleporter
+0x000000a7 Teleporter
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #168 - Flaga Misiów
+0x000000a8 Flaga Misiów
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #169 - Kocia baza
+0x000000a9 Kocia baza
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #170 - Smiley Cloud
+0x000000aa Smiley Cloud
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #171 - Smiley Sun
+0x000000ab Smiley Sun
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #172 - Flag Base
+0x000000ac Flag Base
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #173 - Przyczajony niedźwiedź
+0x000000ad Przyczajony niedźwiedź
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #174 - Power-Up Armor
+0x000000ae Power-Up Armor
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #175 - Power-Up Damage
+0x000000af Power-Up Damage
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #176 - Śmierdzący niedźwiedź
+0x000000b0 Śmierdzący niedźwiedź
+
+# Chatter for Act 1
+0x000000b1 Zajrzyj do instrukcji!
+0x000000b2 Zdarza się!
+0x000000b3 Śmierć całuskom!
+0x000000b4 Dokładanie AU do MIAU!
+0x000000b5 A to pech!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000b6 Zajrzyj do instrukcji!
+0x000000b7 Zdarza się!
+0x000000b8 Śmierć całuskom!
+0x000000b9 Dokładanie AU do MIAU!
+0x000000ba A to pech!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000bb Zajrzyj do instrukcji!
+0x000000bc Zdarza się!
+0x000000bd Śmierć całuskom!
+0x000000be Dokładanie AU do MIAU!
+0x000000bf A to pech!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000c0 Zajrzyj do instrukcji!
+0x000000c1 Zdarza się!
+0x000000c2 Śmierć całuskom!
+0x000000c3 Dokładanie AU do MIAU!
+0x000000c4 A to pech!
+
+# Inspect for Act 4
+
+# Prop #197 - Poo3
+0x000000c5 Poo3
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #198 - Glitter Sphere
+0x000000c6 Glitter Sphere
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #199 - Cat Toy
+0x000000c7 Cat Toy
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #200 - Cat Toy2
+0x000000c8 Cat Toy2
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #201 - Łajnogranat
+0x000000c9 Łajnogranat
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #202 - Łajnomina
+0x000000ca Łajnomina
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #203 - Wybuchowe łajno
+0x000000cb Wybuchowe łajno
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #204 - Explosive Barrel
+0x000000cc Explosive Barrel
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #205 - Smoke Black
+0x000000cd Smoke Black
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #206 - Shish Kabob1
+0x000000ce Shish Kabob1
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #207 - Spotlight Green
+0x000000cf Spotlight Green
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #208 - Spotlight Pink
+0x000000d0 Spotlight Pink
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #209 - Lightning
+0x000000d1 Lightning
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #210 - Mad Cloud
+0x000000d2 Mad Cloud
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #211 - Explosive Barrel
+0x000000d3 Explosive Barrel
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #212 - box platform
+0x000000d4 box platform
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #213 - Explosive Barrel
+0x000000d5 Explosive Barrel
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #214 - Cuchnący niedźwiedź
+0x000000d6 Cuchnący niedźwiedź
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000d7 Precz z kociakami!
+0x000000d8 Śmierć całuskom!
+0x000000d9 Hej, kici-kici!
+0x000000da Dokładanie AU do MIAU!
+0x000000db DILLIGAS!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000dc Precz z kociakami!
+0x000000dd Śmierć całuskom!
+0x000000de Hej, kici-kici!
+0x000000df Dokładanie AU do MIAU!
+0x000000e0 DILLIGAS!
+
+# Inspect for Act 4
+
+# Prop #225 - Kotek z łaskotkami
+0x000000e1 Kotek z łaskotkami
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #226 - Tootin'
+0x000000e2 Tootin'
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #227 - Fresh Powder
+0x000000e3 Fresh Powder
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #228 - Nestling Ambience
+0x000000e4 Nestling Ambience
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #229 - Thunder
+0x000000e5 Thunder
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #230 - Evil Whispers
+0x000000e6 Evil Whispers
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #231 - Metal Madness
+0x000000e7 Metal Madness
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #232 - Factory Steam
+0x000000e8 Factory Steam
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #233 - Kittie Helper
+0x000000e9 Kittie Helper
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+

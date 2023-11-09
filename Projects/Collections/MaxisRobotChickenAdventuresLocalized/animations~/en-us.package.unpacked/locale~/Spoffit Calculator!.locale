@@ -1,0 +1,381 @@
+# Auto-generated localization file for: Spoffit Calculator! (ID: 0X8FC4BF25)
+# Adventure name
+0x00000001 Spoffit Calculator!
+
+# Adventure description
+0x00000002 The Spoffits are actually a highly intelligent species. They are capable of doing simple calculations, and do your laundry. Just give them numbers and let them calculate the answer for you!~br~Created by MaxisGamer, edited by MaxisKate
+
+# Intro text
+0x00000003 In this quick adventure, you'll see how to make a simple calculator. Feel free to explore the foggy area to see how this was done.
+
+# Win text
+0x00000004 1+1=2! The system can even be extended to count to higher numbers with some time and effort.
+
+# Lose text
+0x00000005 1+1=? Sometimes even Spoffits can't figure that one out...
+
+# Act 1
+0x00000006 Add up!
+0x00000007 Give numbers to the "left hand side" and the "right hand side" Spoffits, and wait for the answer!
+
+# Goal 1
+
+
+# Act 2
+0x00000008 Sum it up!
+0x00000009 Here comes the answer!
+
+
+
+# Prop #10 - 1 recp
+0x0000000a 1 recp
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #11 - 2 recep
+0x0000000b 2 recep
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #12 - Aleelia
+0x0000000c Aleelia
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #13 - Answer 3
+0x0000000d Answer 3
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #14 - Answer
+0x0000000e Answer
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #15 - Answer 4
+0x0000000f Answer 4
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #16 - Answer 5
+0x00000010 Answer 5
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #17 - Answer 6
+0x00000011 Answer 6
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #18 - 3 recp
+0x00000012 3 recp
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #19 - Q1
+0x00000013 Q1
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #20 - Q2
+0x00000014 Q2
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #21 - Q3
+0x00000015 Q3
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #22 - Right Hand Side
+0x00000016 Right Hand Side
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #23 - Left Hand Side
+0x00000017 Left Hand Side
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #24 - Answer 7
+0x00000018 Answer 7
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #25 - Q4
+0x00000019 Q4
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #26 - 4 recp
+0x0000001a 4 recp
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #27 - Fog Magic
+0x0000001b Fog Magic
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #28 - Monomeria
+0x0000001c Monomeria
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #29 - Horocus
+0x0000001d Horocus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #30 - Bogacer
+0x0000001e Bogacer
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #31 - Kurtorus
+0x0000001f Kurtorus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #32 - Buechnutans
+0x00000020 Buechnutans
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #33 - Local Rock
+0x00000021 Local Rock
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #34 - Local Stack
+0x00000022 Local Stack
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #35 - Raised bed
+0x00000023 Raised bed
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #36 - Raised bed
+0x00000024 Raised bed
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #37 - Dappled Sunlight
+0x00000025 Dappled Sunlight
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #38 - Stone Obelisk
+0x00000026 Stone Obelisk
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #39 - Stone Head
+0x00000027 Stone Head
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #40 - Ancient Sporehenge
+0x00000028 Ancient Sporehenge
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Prop #41 - Fossil Badge
+0x00000029 Fossil Badge
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+

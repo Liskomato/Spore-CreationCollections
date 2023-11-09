@@ -1,0 +1,5239 @@
+# Auto-generated localization file for: That's My Lunch! (ID: 0XFE3D2867)
+# Adventure name
+0x00000001 That's My Lunch!
+
+# Adventure description
+0x00000002 A planet of cute li'l bunnies and kittens and puppies!  You could just eat them right up!  ~br~Go see who's eating them right up.~br~~br~Written by Douglas Goldstein.
+
+# Intro text
+0x00000003 Sensors indicate someone named "Suzy Woozy" would like assistance with something called a "Bwirfday Party." Locate her and see if you can be of any help.
+
+
+# Win text
+0x00000004 Whew!  Suzy Woozy's happy, the Blood Beasts are happy, and all the animals are... um... let's never talk about this again, okay?  
+
+
+# Lose text
+0x00000005 Listen, buddy.  You're not going to get anywhere playing video games if you won't feed cute animals to monsters.
+
+# Act 1
+0x00000006 Suzy Woozy and friends
+0x00000007 Oh great, a little girl and her pets. This should be an easy mission...
+
+# Goal 1
+0x00000008 I'm Suzy Woozy! These are my puppies, kitties 'n' bunnies! Aren't they cuuuuuuuuuuuute?
+0x00000009 They are da whole world ta me!  I hope nuttin' evah happens to dem!
+0x0000000a Wait! It's my bwirfday! Today I gots an adawable invite to a bwirthday party in HUGS VALLEY!
+0x0000000b I've never been deah but I heah it's wonderfo!  You will be my fwiend too? Let's go togeddah!
+
+
+# Act 2
+0x0000000c Heading to Hugz Valley
+0x0000000d "Hugs Valley," eh?  Besides throwing up from cuteness, what dangers could there possibly be?
+
+# Goal 1
+0x0000000e What is this rancid, stinking, foul meat before me?  I shall eat you raw and use your fingers as toothpicks!
+0x0000000f Oh, you're with the tasty-looking girl?  And she got my..."invite"?  Heh heh.  Delicious!
+
+0x00000010 I want to dine on something adorable.  Give this candy to whoever wants it most and tell it to come get more.
+0x00000011 Then I shall kill it slowly and eat its flesh.  Perhaps then I'll let you live and spare the girl... for now!
+0x00000012 Here, give Suzy this net and tell her to run off and find a clue.  If she finds me, the deal is off and I eat her!  Now go quickly, meat!
+
+
+# Act 3
+0x00000013 Lead a critter to the Beast!
+0x00000014 First, distract Suzy with the net.  Then trick the cute animal with the candy before Suzy gets back.  Wait... are you really gonna do that?
+
+# Goal 1
+
+# Goal 2
+
+# Goal 3
+
+
+# Act 4
+0x00000015 Get through the cave
+0x00000016 Let's just get through this cave and hope there isn't another Blood Beast.
+
+# Goal 1
+0x00000017 Yes... Yes... My brother fed well, thanks to you!
+
+0x00000018 This is where we store the presents for all the girls we've tricked.  They never seem to make it to their party in Hugs Valley...
+0x00000019 ... and your little Suzy Woozy is NEXT!~br~ ... Although... Suzy's friends ARE making me salivate!  
+0x0000001a Allow me to kill and consume one before she finds me, and you may pass.   Here's more candy to trick them with.
+0x0000001b But send me CLEAN food!  I don't eat FILTHY animals!  What kind of Blood Beast do you think I am?
+
+
+# Act 5
+0x0000001c Find the clean critter
+0x0000001d Now, while Suzy is distracted by the presents, give some candy to the cleanest platter -- I mean plate -- I mean PET!
+
+# Goal 1
+
+# Goal 2
+
+
+# Act 6
+0x0000001e On to Hugs Valley!
+0x0000001f Thank goodness this is almost over.  But what, what's that in the bushes?
+
+# Goal 1
+0x00000020 You have fed us well!  We drank the cute animals' blood like diet soda!
+0x00000021 And yet, we still hunger.  We wish to have their stomachs in our stomachs.
+0x00000022 We will let you live if you betray your friends one last time.  A good deal, right?
+0x00000023 Give Suzy this new birthday card.  It's a trick that's sure to get rid of her for a while.
+0x00000024 By the time she gets back, her beloved pets will see the insides of our stomachs! Now go!
+
+
+# Act 7
+0x00000025 One Last Deception
+0x00000026 Yeah, distract Suzy by giving her the card and turn your back on everything that's good and holy.  You monster.
+
+# Goal 1
+0x00000027 A new bwifday card?  For ME?
+0x00000028 Hooray!  It's my spwecial day, ya knows.  Oh, i can jus' feel da love in da air.
+0x00000029 It says da key to da Hugz Valley partee is back in da cave?
+0x0000002a Oh my gosh!  Oh my gosh!  I'm hypah-ventalatin' wit  exwitement!
+0x0000002b I be wight back!  Make shuah nottin' hapwens to my baby fweinds while I'z gone, kay?
+
+# Goal 2
+
+
+# Act 8
+0x0000002c It's party time!
+0x0000002d Suzy has returned to find her friends missing, and a Space Captain who's sold his soul.
+
+
+# Goal 1
+0x0000002e I got my pwesent and Hugz Valley is wondahful!
+0x0000002f I am so happy!  And my fwends?  Were are dey?
+0x00000030 Oh right!  Da Blood Beasts ate dem, like dey do each year!  Yay!
+0x00000031 Death!  Murdah!   Scweamns of the dyin'!   I wuv to kill!  *giggle*
+0x00000032 Bwirfdays are best when dey are paid for wif souls!  Don't you agweee?  I said, 'DON'T YOU AGREE?"  ANSWER ME!
+
+
+# Prop #51 - Granite Rock
+0x00000033 Granite Rock
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #52 - Closed Wooden Doorway
+0x00000034 Closed Wooden Doorway
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #53 - Wooden Doorway Left
+0x00000035 Wooden Doorway Left
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #54 - Wooden Doorway Right
+0x00000036 Wooden Doorway Right
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #55 - Closed Wooden Doorway
+0x00000037 Closed Wooden Doorway
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #56 - Wooden Doorway Left
+0x00000038 Wooden Doorway Left
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #57 - Wooden Doorway Right
+0x00000039 Wooden Doorway Right
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #58 - Bday Present Long
+0x0000003a Bday Present Long
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #59 - Bday Present 2
+0x0000003b Bday Present 2
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #60 - Bday Present 3
+0x0000003c Bday Present 3
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #61 - Teddy Bear
+0x0000003d Teddy Bear
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #62 - Piggie Toy
+0x0000003e Piggie Toy
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #63 - Bday Present
+0x0000003f Bday Present
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #64 - Bday Present 4
+0x00000040 Bday Present 4
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #65 - Bday Present Long 2
+0x00000041 Bday Present Long 2
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #66 - Bday Present 5
+0x00000042 Bday Present 5
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #67 - Dog Beg Toy
+0x00000043 Dog Beg Toy
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #68 - Guillophiloides
+0x00000044 Guillophiloides
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #69 - Comptishii
+0x00000045 Comptishii
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #70 - Milleximius
+0x00000046 Milleximius
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #71 - Sunnyflynn
+0x00000047 Sunnyflynn
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #72 - Waterfall
+0x00000048 Waterfall
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #73 - Spout Water
+0x00000049 Spout Water
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #74 - Fog White
+0x0000004a Fog White
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #75 - Pond
+0x0000004b Pond
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #76 - Joem
+0x0000004c Joem
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #77 - Gratootle
+0x0000004d Gratootle
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #78 - Tapplest
+0x0000004e Tapplest
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #79 - Rainbow
+0x0000004f Rainbow
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #80 - Kitty House Small2
+0x00000050 Kitty House Small2
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #81 - Kitty House
+0x00000051 Kitty House
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #82 - Kitty House Small
+0x00000052 Kitty House Small
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #83 - Plutugola
+0x00000053 Plutugola
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #84 - Purtabella
+0x00000054 Purtabella
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #85 - Big Band 1
+0x00000055 Big Band 1
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #86 - Alien Abduction
+0x00000056 Alien Abduction
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #87 - Cloud Lightning
+0x00000057 Cloud Lightning
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #88 - Spikey Stack
+0x00000058 Spikey Stack
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #89 - Butterflies
+0x00000059 Butterflies
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #90 - Green Tentacle
+0x0000005a Green Tentacle
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #91 - Fire Pit
+0x0000005b Fire Pit
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #92 - Pleather Shrub
+0x0000005c Pleather Shrub
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #93 - Fog Evil
+0x0000005d Fog Evil
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #94 - Organic Formation
+0x0000005e Organic Formation
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #95 - Organic Stack
+0x0000005f Organic Stack
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #96 - Crab Stack
+0x00000060 Crab Stack
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #97 - Crab Formation
+0x00000061 Crab Formation
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #98 - Monster Sign
+0x00000062 Monster Sign
+
+# Chatter for Act 1
+0x00000063 Dis wai 2 Hugz Valee
+
+# Inspect for Act 1
+0x00000064 Dis wai 2 Hugz Valee
+
+# Chatter for Act 2
+0x00000065 Dis wai 2 Hugz Valee
+
+# Inspect for Act 2
+0x00000066 Dis wai 2 Hugz Valee
+
+# Chatter for Act 3
+0x00000067 Dis wai 2 Hugz Valee
+
+# Inspect for Act 3
+0x00000068 Dis wai 2 Hugz Valee
+
+# Chatter for Act 4
+0x00000069 Dis wai 2 Hugz Valee
+
+# Inspect for Act 4
+0x0000006a Dis wai 2 Hugz Valee
+
+# Chatter for Act 5
+0x0000006b Dis wai 2 Hugz Valee
+
+# Inspect for Act 5
+0x0000006c Dis wai 2 Hugz Valee
+
+# Chatter for Act 6
+0x0000006d Dis wai 2 Hugz Valee
+
+# Inspect for Act 6
+0x0000006e Dis wai 2 Hugz Valee
+
+# Chatter for Act 7
+0x0000006f Dis wai 2 Hugz Valee
+
+# Inspect for Act 7
+0x00000070 Dis wai 2 Hugz Valee
+
+# Chatter for Act 8
+0x00000071 Dis wai 2 Hugz Valee
+
+# Inspect for Act 8
+0x00000072 Dis wai 2 Hugz Valee
+
+# Prop #115 - Gifts
+0x00000073 Gifts
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #116 - Suzy Woozy
+0x00000074 Suzy Woozy
+
+# Chatter for Act 1
+0x00000075 Ooh wook! A new fwiend!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000076 A pwetty flowah!
+
+0x00000077 I loves flowahs!
+
+0x00000078 Stop 'n' smell da flowah evry-one!
+
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #121 - Dear Deer
+0x00000079 Dear Deer
+
+# Chatter for Act 1
+0x0000007a I loves me dat Suzy.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000007b Sigh... Isn't Suzy dreamy?
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #124 - BaBunny
+0x0000007c BaBunny
+
+# Chatter for Act 1
+0x0000007d I bounce!  I play!  I love!
+
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000007e Let's bounce!
+
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #127 - Lala Lizard
+0x0000007f Lala Lizard
+
+# Chatter for Act 1
+0x00000080 Suzy is kind and cuddly!
+
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000081 Will there be cuddles later?
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000082 This is not good.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #131 - KaKitty
+0x00000083 KaKitty
+
+# Chatter for Act 1
+0x00000084 meow meow meow meow meow meow
+
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000085 meow meow meow meow meow meow
+
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000086 What was that!?
+0x00000087 This place makes me nervous.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #136 - PoPuppy
+0x00000088 PoPuppy
+
+# Chatter for Act 1
+0x00000089 Life is happiness and hugs!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000008a Suzy is easily distracted.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000008b Oh my.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #140 - Class A Blood Beast
+0x0000008c Class A Blood Beast
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #141 - Clue Catcher
+0x0000008d Clue Catcher
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #142 - Suzy Woozy
+0x0000008e Suzy Woozy
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x0000008f A clue..? um...okay! I think I saw one ovah here!
+
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000090 A clue..? um...okay! I think I saw one ovah here!
+
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000091 A clue..? um...okay! I think I saw one ovah here!
+
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000092 Ooh thank you!
+
+0x00000093 A clue..? um...okay! I think I saw one over here!
+
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000094 Ooh thank you!
+
+0x00000095 A clue..? um...okay! I think I saw one over here!
+
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000096 Ooh thank you!
+
+0x00000097 A clue..? um...okay! I think I saw one over here!
+
+
+# Prop #152 - Dear Deer
+0x00000098 Dear Deer
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000099 When I eat candy, I puke rainbows!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x0000009a When I eat candy, I puke rainbows!
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000009b When I eat candy, I puke rainbows!
+
+# Chatter for Act 4
+0x0000009c Hooray!
+0x0000009d Off we go!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000009e Don't pick me... Don't pick me...
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x0000009f Don't pick me... Don't pick me...
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000a0 Don't pick me... Don't pick me...
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000a1 Don't pick me... Don't pick me...
+
+# Prop #162 - BaBunny
+0x000000a2 BaBunny
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000a3 Is that CANDY??  I want MORE!!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000a4 Is that CANDY??  I want MORE!!
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000a5 Is that CANDY??  I want MORE!!
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000a6 Is that CANDY??  I want MORE!!
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000a7 Is that CANDY??  I want MORE!!
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000a8 Is that CANDY??  I want MORE!!
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000a9 Is that CANDY??  I want MORE!!
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000aa Is that CANDY??  I want MORE!!
+
+# Prop #171 - Lala Lizard
+0x000000ab Lala Lizard
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000ac I'm on a strict diet of bugs and dirt.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000ad I'm on a strict diet of bugs and dirt.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000ae I'm on a strict diet of bugs and dirt.
+
+# Chatter for Act 4
+0x000000af What the heck?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000b0 No way jose.
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000b1 No way jose.
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000b2 No way jose.
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000b3 No way jose.
+
+# Prop #180 - KaKitty
+0x000000b4 KaKitty
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000b5 I never take candy from strangers!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000b6 I never take candy from strangers!
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000b7 I never take candy from strangers!
+
+# Chatter for Act 4
+0x000000b8 Where's Bunny?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000b9 Master needs me here! Not going anywhere.
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000ba Master needs me here! Not going anywhere.
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000bb Master needs me here! Not going anywhere.
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000bc Master needs me here! Not going anywhere.
+
+# Prop #189 - PoPuppy
+0x000000bd PoPuppy
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000be I'm not touching that...
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000bf I'm not touching that...
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000c0 I'm not touching that...
+
+# Chatter for Act 4
+0x000000c1 Oh my.
+0x000000c2 Did Suzy hear that?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000c3 I'm not touching that..
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000c4 I'm not touching that..
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000c5 I'm not touching that..
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000c6 I'm not touching that..
+
+# Prop #199 - Skeleton Spine 2
+0x000000c7 Skeleton Spine 2
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #200 - Green Gate
+0x000000c8 Green Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #201 - Skeleton Skull 2
+0x000000c9 Skeleton Skull 2
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #202 - The Cake
+0x000000ca The Cake
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #203 - Female Scream
+0x000000cb Female Scream
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #204 - Class B Blood Beast
+0x000000cc Class B Blood Beast
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #205 - Suzy Woozy
+0x000000cd Suzy Woozy
+
+# Chatter for Act 1
+0x000000ce ooh pretty presents!
+0x000000cf wow are these all for me?
+0x000000d0 sooo purrrty!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000d1 ooh pretty presents!
+0x000000d2 wow are these all for me?
+0x000000d3 sooo purrrty!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000d4 ooh pretty presents!
+0x000000d5 wow are these all for me?
+0x000000d6 sooo purrrty!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000d7 Oh mah goodness!  Lookit dem pwesents!
+0x000000d8 D'ese are aww fah me, wight?
+0x000000d9 So many, many, many!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000000da Oh mah goodness!  Lookit dem pwesents!
+0x000000db D'ese are aww fah me, wight?
+0x000000dc So many, many, many!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x000000dd ooh pretty presents!
+0x000000de wow are these all for me?
+0x000000df sooo purrrty!
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x000000e0 ooh pretty presents!
+0x000000e1 wow are these all for me?
+0x000000e2 sooo purrrty!
+
+# Inspect for Act 8
+
+# Prop #227 - Dear Deer
+0x000000e3 Dear Deer
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000e4 This one has a zit on its rear.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000e5 This one has a zit on its rear.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000e6 This one has a zit on its rear.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000e7 This one has a zit on its rear.
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000e8 This one has a zit on its rear.
+
+# Chatter for Act 6
+0x000000e9 Why do we keep hearing such screaming?
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #234 - Lala Lizard
+0x000000ea Lala Lizard
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000eb This one is clean and has the aroma of warm bread.
+
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000ec This one is clean and has the aroma of warm bread.
+
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000ed This one is clean and has the aroma of warm bread.
+
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000ee This one is clean and has the aroma of warm bread.
+
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000ef This one is clean and has the aroma of warm bread.
+
+
+# Chatter for Act 6
+0x000000f0 This one is warm and clean and smells like freshly-baked bread.
+
+# Inspect for Act 6
+0x000000f1 This one looks well kept.
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000f2 This one looks well kept.
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000f3 This one looks well kept.
+
+# Prop #244 - KaKitty
+0x000000f4 KaKitty
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000f5 This one looks terrified...and smells like it had an accident.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000f6 This one looks terrified...and smells like it had an accident.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000f7 This one looks terrified...and smells like it had an accident.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000f8 This one looks terrified...and smells like it had an accident.
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000f9 This one looks terrified...and smells like it had an accident.
+
+# Chatter for Act 6
+0x000000fa Um...Happy bwirthday time?
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x000000fb This one looks scared...and smells like it had an accident.
+
+# Inspect for Act 7
+0x000000fc This one looks scared...and smells like it had an accident.
+
+# Chatter for Act 8
+0x000000fd This one looks scared...and smells like it had an accident.
+
+# Inspect for Act 8
+0x000000fe This one looks scared...and smells like it had an accident.
+
+# Prop #255 - PoPuppy
+0x000000ff PoPuppy
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000100 This one flat out stinks.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000101 This one flat out stinks.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000102 This one flat out stinks.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000103 This one flat out stinks.
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000104 This one flat out stinks.
+
+# Chatter for Act 6
+0x00000105 Where did Lala Lizard go?
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x00000106 This one flat out stinks.
+
+# Inspect for Act 7
+0x00000107 This one flat out stinks.
+
+# Chatter for Act 8
+0x00000108 This one flat out stinks.
+
+# Inspect for Act 8
+0x00000109 This one flat out stinks.
+
+# Prop #266 - Skeleton Cluster
+0x0000010a Skeleton Cluster
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #267 - Skeleton Skull
+0x0000010b Skeleton Skull
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #268 - Female Scream
+0x0000010c Female Scream
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #269 - Class B Blood Beast
+0x0000010d Class B Blood Beast
+
+# Chatter for Act 1
+0x0000010e Patience my brother. Soon we will dine again.
+0x0000010f They look so delicious!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000110 Patience my brother. Soon we will dine again.
+0x00000111 They look so delicious!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000112 Patience my brother. Soon we will dine again.
+0x00000113 They look so delicious!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000114 Patience my brother. Soon we will dine again.
+0x00000115 They look so delicious!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000116 Patience my brother. Soon we will dine again.
+0x00000117 They look so delicious!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000118 Patience my brother. Soon we will dine again.
+0x00000119 I can smell their bones from here!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x0000011a They're mouth-watering!
+0x0000011b Innocence tastes like chicken!
+
+# Inspect for Act 8
+
+# Prop #284 - Class A Blood Beast
+0x0000011c Class A Blood Beast
+
+# Chatter for Act 1
+0x0000011d They're all here!
+0x0000011e Ooh, I can smell their bones from here. 
+
+0x0000011f Look at their little fat bodies. My mouth is watering.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000120 They're all here!
+0x00000121 Ooh, I can smell their bones from here. 
+
+0x00000122 Look at their little fat bodies. My mouth is watering.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000123 They're all here!
+0x00000124 Ooh, I can smell their bones from here. 
+
+0x00000125 Look at their little fat bodies. My mouth is watering.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000126 They're all here!
+0x00000127 Ooh, I can smell their bones from here. 
+
+0x00000128 Look at their little fat bodies. My mouth is watering.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000129 They're all here!
+0x0000012a Ooh, I can smell their bones from here. 
+
+0x0000012b Look at their little fat bodies. My mouth is watering.
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000012c They're all here!
+0x0000012d Ooh, I can smell their bones from here. 
+
+0x0000012e Look at their little fat bodies. My mouth is watering.
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x0000012f So delicious!
+0x00000130 Yum!
+
+# Inspect for Act 8
+
+# Prop #305 - Hydror
+0x00000131 Hydror
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #306 - Crumjewl
+0x00000132 Crumjewl
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #307 - Gifts
+0x00000133 Gifts
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #308 - Gifts
+0x00000134 Gifts
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #309 - Dream house
+0x00000135 Dream house
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #310 - Suzy Woozy
+0x00000136 Suzy Woozy
+
+# Chatter for Act 1
+0x00000137 Ooh a gift fa me?! I'll be wight back!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000138 Ooh a gift fa me?! I'll be wight back!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000139 Ooh a gift fa me?! I'll be wight back!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000013a Ooh a gift fa me?! I'll be wight back!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x0000013b Ooh a gift fa me?! I'll be wight back!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000013c Wow! Lookit this pwace!
+0x0000013d Hugz Valley iz dah awesum!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x0000013e Parteee!  Parteeeeeeeeeee!
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x0000013f Wheah is ev'rywun?
+
+# Inspect for Act 8
+
+# Prop #320 - Dear Deer
+0x00000140 Dear Deer
+
+# Chatter for Act 1
+0x00000141 I is scared!
+0x00000142 I now place my faith and trust in those who said they love me.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000143 I is scared!
+0x00000144 I now place my faith and trust in those who said they love me.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000145 I is scared!
+0x00000146 I now place my faith and trust in those who said they love me.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000147 I is scared!
+0x00000148 I now place my faith and trust in those who said they love me.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000149 I is scared!
+0x0000014a I now place my faith and trust in those who said they love me.
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000014b I is scared!
+0x0000014c I now place my faith and trust in those who said they love me.
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x0000014d I is scared!
+0x0000014e I now place my faith and trust in those who said they love me.
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x0000014f I is scared!
+0x00000150 I now place my faith and trust in those who said they love me.
+
+# Inspect for Act 8
+
+# Prop #337 - KaKitty
+0x00000151 KaKitty
+
+# Chatter for Act 1
+0x00000152 Will love keep me safe?
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000153 Will love keep me safe?
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000154 Will love keep me safe?
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000155 Will love keep me safe?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000156 Will love keep me safe?
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000157 Will love keep me safe?
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x00000158 Will love keep me safe?
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000159 Will love keep me safe?
+
+# Inspect for Act 8
+
+# Prop #346 - PoPuppy
+0x0000015a PoPuppy
+
+# Chatter for Act 1
+0x0000015b Hugs Valley is scary.  Suzy, keep us safe!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000015c Hugs Valley is scary.  Suzy, keep us safe!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000015d Hugs Valley is scary.  Suzy, keep us safe!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000015e Hugs Valley is scary.  Suzy, keep us safe!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x0000015f Hugs Valley is scary.  Suzy, keep us safe!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000160 Hugs Valley is scary.  Suzy, keep us safe!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x00000161 Hugs Valley is scary.  Suzy, keep us safe!
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000162 Hugs Valley is scary.  Suzy, keep us safe!
+
+# Inspect for Act 8
+
+# Prop #355 - Skeleton Cluster
+0x00000163 Skeleton Cluster
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #356 - Skeleton Ribcage
+0x00000164 Skeleton Ribcage
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #357 - Skeleton Skull
+0x00000165 Skeleton Skull
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #358 - Red Gate
+0x00000166 Red Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #359 - Red Gate
+0x00000167 Red Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #360 - Red Gate
+0x00000168 Red Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #361 - Red Gate
+0x00000169 Red Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #362 - Red Gate
+0x0000016a Red Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #363 - Gifts
+0x0000016b Gifts
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #364 - Unicorn
+0x0000016c Unicorn
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #365 - Nest Small
+0x0000016d Nest Small
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #366 - Local Stack
+0x0000016e Local Stack
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #367 - Local Rock
+0x0000016f Local Rock
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #368 - Crag Mable
+0x00000170 Crag Mable
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #369 - Phieris
+0x00000171 Phieris
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #370 - Leafsicus
+0x00000172 Leafsicus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #371 - Moxillus
+0x00000173 Moxillus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #372 - Quarinth
+0x00000174 Quarinth
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #373 - Shell Soft
+0x00000175 Shell Soft
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #374 - Shell Snail
+0x00000176 Shell Snail
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #375 - Irrepressible Illumination
+0x00000177 Irrepressible Illumination
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #376 - Kailadanifer
+0x00000178 Kailadanifer
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #377 - Zazafuscus
+0x00000179 Zazafuscus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #378 - Dappled Sunlight
+0x0000017a Dappled Sunlight
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #379 - Fog White
+0x0000017b Fog White
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #380 - Lamp of Delight
+0x0000017c Lamp of Delight
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #381 - Sting Angels
+0x0000017d Sting Angels
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #382 - Big Band Part 2
+0x0000017e Big Band Part 2
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #383 - Poof White
+0x0000017f Poof White
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #384 - Glitter Sphere
+0x00000180 Glitter Sphere
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #385 - Halo
+0x00000181 Halo
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #386 - Streamers
+0x00000182 Streamers
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #387 - Balloons
+0x00000183 Balloons
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #388 - Glitter Cannon
+0x00000184 Glitter Cannon
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #389 - Flower
+0x00000185 Flower
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #390 - Spit
+0x00000186 Spit
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #391 - Skeleton Cluster
+0x00000187 Skeleton Cluster
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #392 - Hugz Valley Sign
+0x00000188 Hugz Valley Sign
+
+# Chatter for Act 1
+0x00000189 This way to Hugs Valley
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000018a This way to Hugs Valley
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000018b This way to Hugs Valley
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000018c This way to Hugs Valley
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x0000018d This way to Hugs Valley
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000018e This way to Hugs Valley
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x0000018f This way to Hugs Valley
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000190 This way to Hugs Valley
+
+# Inspect for Act 8
+
+# Prop #401 - Hugz Valley Sign 2
+0x00000191 Hugz Valley Sign 2
+
+# Chatter for Act 1
+0x00000192 Dis wae tu Hugz Valee
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000193 Dis wae tu Hugz Valee
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000194 Dis wae tu Hugz Valee
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000195 Dis wae tu Hugz Valee
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000196 Dis wae tu Hugz Valee
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000197 Dis wae tu Hugz Valee
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x00000198 Dis wae tu Hugz Valee
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000199 Dis wae tu Hugz Valee
+
+# Inspect for Act 8
+
+# Prop #410 - Candy
+0x0000019a Candy
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #411 - Lollipop
+0x0000019b Lollipop
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #412 - Wide Curtain
+0x0000019c Wide Curtain
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #413 - White Gate
+0x0000019d White Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #414 - White Key
+0x0000019e White Key
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #415 - Rainbow
+0x0000019f Rainbow
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #416 - Wide Curtain
+0x000001a0 Wide Curtain
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #417 - Gate Posts
+0x000001a1 Gate Posts
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #418 - Posts Low
+0x000001a2 Posts Low
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #419 - Fence
+0x000001a3 Fence
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #420 - Blue Key
+0x000001a4 Blue Key
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #421 - Sting Inspiring
+0x000001a5 Sting Inspiring
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+

@@ -1,0 +1,5165 @@
+# Auto-generated localization file for: Gnällarn och hans bajs! (ID: 0X7BE433FC)
+# Adventure name
+0x00000001 Gnällarn och hans bajs!
+
+# Adventure description
+0x00000002 Upptäck clownen Läskigs hemlighet och möt hans cirkusmissfoster! Av Hugh Sterbakov.
+
+# Intro text
+0x00000003 Du reser genom en annan dimension, fylld av inte bara synintryck och ljud, utan av bajs, en resa till ett land där din uppfattning om bajs kommer att påverkas av universums mysterier
+
+# Win text
+0x00000004 Ge dig nu av, resenären, och se aldrig på bajs med samma ögon igen!
+
+# Lose text
+0x00000005 Du, det där sög.
+
+
+# Act 1
+0x00000006 Clowner får min själ att smälta
+0x00000007 Prata med clownen Läskig och få dina arbetsorder!
+
+# Goal 1
+0x00000008 Är det något fel, brorsan? Du är väl inte rädd för en clown? Jag har fått större barn än dig att gråta!
+0x00000009 Hoppas att du letar jobb, för jag har något alldeles särskilt åt dig brorsan!
+0x0000000a Min fjantiga noshörning vill inte komma in från ängen! Vänta tills du får höra varför!
+0x0000000b Han är rädd för sitt eget bajs! Kan du tänka dig, brorsan?
+0x0000000c Ta den här arbetsordern, gå till ängen och övertyga den där tönten om att fortsätta jobba! Kom igen, brorsan!
+
+# Goal 2
+0x0000000d God dag. Jag kallas för Gnällarn. Jag har ingen aning om varför.
+0x0000000e Åh, eländes elände! Elände, säger jag! Elände! Jag har avföringsskräck - jag är rädd för bajs!
+0x0000000f Var jag än vänder mig är jag fångad av bajs! Jag kan inte fly! Det är läskigt - är du inte rädd för bajs?
+0x00000010 Jag borde använda bajsskopan, men jag är för rädd - kan du göra det?
+0x00000011 Jag vet att jag måste tillbaka till jobbet, men jag går inte om inte du ordnar en väg genom bajset!
+
+
+# Act 2
+0x00000012 Noshörning med avföringsskräck
+0x00000013 Tala med Gnällarn och hjälp honom övervinna sin rädsla så att han vågar gå fram över ängen.
+
+
+# Goal 1
+
+# Goal 2
+
+# Goal 3
+
+
+# Act 3
+0x00000014 Gnällarn kommer hem
+0x00000015 Se efter vad som hänt med allt det där bajset.
+
+# Goal 1
+0x00000016 Tack för att du samlat in alla bajshögar! Hoppas att du har bra sjukförsäkring.
+0x00000017 Om du inte vill behålla den där bajsskopan kan du ge den till mig.
+0x00000018 Allt bajs du har samlat in har lämpats av i den där högen.
+0x00000019 ... denna enorma, insektslockande hög med bajs. Nu till något annat - jag börjar bli hungrig. Det är den tiden på dagen antar jag
+0x0000001a Ja, det är en gigantisk hög med bajs. Där borta. Jag ska nog beställa en pizza
+
+
+# Act 4
+0x0000001b Återvänd till Läskig
+0x0000001c Tala med Läskig och få information om din kommande undergång.
+
+# Goal 1
+0x0000001d Heliga bazookas, vad har du gjort? Den där stinkande bajshögen har lurat fram Gigamyggan!
+0x0000001e Skynda, min brorsa med en annan morsa – sätt samman den jättelika bajsskopan och slåss mot Gigamyggan!
+0x0000001f Bitarna ligger runt omkring tältet, brorsan!
+0x00000020 Skynda dig, det börjar bli jobbigt att kalla dig för brorsan!
+0x00000021 Avföringsstudier … jag får i alla fall lön!
+
+
+# Act 5
+0x00000022 Cirkusslakten
+0x00000023 Sätt samman myggmördarmaskinen.
+
+# Goal 1
+
+# Goal 2
+
+
+# Act 6
+0x00000024 Gigamyggans vrede
+0x00000025 För Gigamyggan till myggmördarmaskinen för att dräpa den!
+
+# Goal 1
+
+
+# Act 7
+0x00000026 Torka och spola
+0x00000027 Hämta din betalning från clownen Läskig.
+
+
+# Goal 1
+0x00000028 Åh, mänskligheten! Så vulgär!
+0x00000029 Alla är döda, brorsan! Hela cirkusen är förstörd!
+0x0000002a Vill du fortfarande ha dina pengar?
+0x0000002b Tja, det kan du väl få. Jag är ändå ruinerad.
+0x0000002c Ta dem om du vill ha dem. De finns i säcken där borta. Allt jag har kvar här i världen. Tack, brorsan.
+
+
+# Act 8
+0x0000002d Blängstaden
+0x0000002e Titta när den knäckta clownen gråter. Kul, va?
+
+
+# Prop #47 - Exploderande tält
+0x0000002f Exploderande tält
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #48 - Myggdödare
+0x00000030 Myggdödare
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #49 - Breckin
+0x00000031 Breckin
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000032 Titta på den gnälliga apan? "Jag heter Hugh, och jag är ledsen!"
+0x00000033 Vill apan ha en banan? Jag slår vad om att bananerna förslavar aporna på de flesta planeterna!
+0x00000034 Jag önskar att jag kunde kasta mitt bajs som Hugh. Då skulle jag kasta det på Hugh.
+0x00000035 De brukade låta mig ha boxhandskar på. Sedan blev jag hughad.
+0x00000036 Jag tycker att Gnällarn är en hughad prinsessa. Cirkusen är full av dem!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000037 Titta på den gnälliga apan? "Jag heter Hugh, och jag är ledsen!"
+0x00000038 Vill apan ha en banan? Jag slår vad om att bananerna förslavar aporna på de flesta planeterna!
+0x00000039 Jag önskar att jag kunde kasta mitt bajs som Hugh. Då skulle jag kasta det på Hugh.
+0x0000003a De brukade låta mig ha boxhandskar på. Sedan blev jag hughad.
+0x0000003b Jag tycker att Gnällarn är en hughad prinsessa. Cirkusen är full av dem!
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000003c Titta på den gnälliga apan? "Jag heter Hugh, och jag är ledsen!"
+0x0000003d Vill apan ha en banan? Jag slår vad om att bananerna förslavar aporna på de flesta planeterna!
+0x0000003e Jag önskar att jag kunde kasta mitt bajs som Hugh. Då skulle jag kasta det på Hugh.
+0x0000003f De brukade låta mig ha boxhandskar på. Sedan blev jag hughad.
+0x00000040 Jag tycker att Gnällarn är en hughad prinsessa. Cirkusen är full av dem!
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000041 Titta på den gnälliga apan? "Jag heter Hugh, och jag är ledsen!"
+0x00000042 Vill apan ha en banan? Jag slår vad om att bananerna förslavar aporna på de flesta planeterna!
+0x00000043 Jag önskar att jag kunde kasta mitt bajs som Hugh. Då skulle jag kasta det på Hugh.
+0x00000044 De brukade låta mig ha boxhandskar på. Sedan blev jag hughad.
+0x00000045 Jag tycker att Gnällarn är en hughad prinsessa. Cirkusen är full av dem!
+
+# Chatter for Act 5
+0x00000046 Allt är Hughs fel!
+0x00000047 Tusan också, insekt! Hoppas du kvävs på mig!
+
+0x00000048 Jag ska sparka ihjäl dig!
+0x00000049 Ajjj, jag blir hughad!
+0x0000004a Jag önskar att jag genomgått den där könsbytesoperationen!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000004b Allt är Hughs fel!
+0x0000004c Tusan också, insekt! Hoppas du kvävs på mig!
+
+0x0000004d Jag ska sparka ihjäl dig!
+0x0000004e Ajjj, jag blir hughad!
+0x0000004f Jag önskar att jag genomgått den där könsbytesoperationen!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #80 - Clownen Läskig
+0x00000050 Clownen Läskig
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #81 - Dan
+0x00000051 Dan
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000052 De borde gett mig Gnällarns roll! Jag är en bättre skådespelare!
+0x00000053 Det finns även en krabba som är rädd för krabbor! Gissa vad vi kallar honom!
+0x00000054 Om du hör talas om provspelningar på andra planeter, kan du tala om det för mig då? Jag är med i skådespelarfacket.
+0x00000055 Jag brukade arbeta på ett zoo där man fick klappa djuren. Ända till jag försökte klappa tillbaka. Det där besöksförbudet var något extra.
+0x00000056 Facket! Facket! Facket!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000057 De borde gett mig Gnällarns roll! Jag är en bättre skådespelare!
+0x00000058 Det finns även en krabba som är rädd för krabbor! Gissa vad vi kallar honom!
+0x00000059 Om du hör talas om provspelningar på andra planeter, kan du tala om det för mig då? Jag är med i skådespelarfacket.
+0x0000005a Jag brukade arbeta på ett zoo där man fick klappa djuren. Ända till jag försökte klappa tillbaka. Det där besöksförbudet var något extra.
+0x0000005b Facket! Facket! Facket!
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000005c De borde gett mig Gnällarns roll! Jag är en bättre skådespelare!
+0x0000005d Det finns även en krabba som är rädd för krabbor! Gissa vad vi kallar honom!
+0x0000005e Om du hör talas om provspelningar på andra planeter, kan du tala om det för mig då? Jag är med i skådespelarfacket.
+0x0000005f Jag brukade arbeta på ett zoo där man fick klappa djuren. Ända till jag försökte klappa tillbaka. Det där besöksförbudet var något extra.
+0x00000060 Facket! Facket! Facket!
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000061 De borde gett mig Gnällarns roll! Jag är en bättre skådespelare!
+0x00000062 Det finns även en krabba som är rädd för krabbor! Gissa vad vi kallar honom!
+0x00000063 Om du hör talas om provspelningar på andra planeter, kan du tala om det för mig då? Jag är med i skådespelarfacket.
+0x00000064 Jag brukade arbeta på ett zoo där man fick klappa djuren. Ända till jag försökte klappa tillbaka. Det där besöksförbudet var något extra.
+0x00000065 Facket! Facket! Facket!
+
+# Chatter for Act 5
+0x00000066 Åh, nej! Jag kommer att dö.
+0x00000067 Jag förtjänar bättre än att bli dödad av en gigantisk bajssugare!
+0x00000068 Jag blev nominerad till en Sporscar!
+0x00000069 Jag beklagar vad jag gjorde när jag var på zoo!
+0x0000006a Nåd!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000006b Åh, nej! Jag kommer att dö.
+0x0000006c Jag förtjänar bättre än att bli dödad av en gigantisk bajssugare!
+0x0000006d Jag blev nominerad till en Sporscar!
+0x0000006e Jag beklagar vad jag gjorde när jag var på zoo!
+0x0000006f Nåd!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #112 - Hugh
+0x00000070 Hugh
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000071 Hej, hur mår Hugh?
+0x00000072 Jag kommer från Hugh York City, och har varit ett tag i Kalamazoo. Atjoooo!
+0x00000073 Kängurun retas med Hugh. Det gör Hugh ledsen.
+0x00000074 Jag gjorde min debut hos en man som hette Knut och hans fru som hette Rut. Sedan åt jag en strut, duckade när någon ropade skjut och sedan red jag bort på en stut.
+
+0x00000075 Men nu är det slut, utan något prut. Hugh lämnar scenen.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000076 Hej, hur mår Hugh?
+0x00000077 Jag kommer från Hugh York City, och har varit ett tag i Kalamazoo. Atjoooo!
+0x00000078 Kängurun retas med Hugh. Det gör Hugh ledsen.
+0x00000079 Jag gjorde min debut hos en man som hette Knut och hans fru som hette Rut. Sedan åt jag en strut, duckade när någon ropade skjut och sedan red jag bort på en stut.
+
+0x0000007a Men nu är det slut, utan något prut. Hugh lämnar scenen.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000007b Hej, hur mår Hugh?
+0x0000007c Jag kommer från Hugh York City, och har varit ett tag i Kalamazoo. Atjoooo!
+0x0000007d Kängurun retas med Hugh. Det gör Hugh ledsen.
+0x0000007e Jag gjorde min debut hos en man som hette Knut och hans fru som hette Rut. Sedan åt jag en strut, duckade när någon ropade skjut och sedan red jag bort på en stut.
+
+0x0000007f Men nu är det slut, utan något prut. Hugh lämnar scenen.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000080 Hej, hur mår Hugh?
+0x00000081 Jag kommer från Hugh York City, och har varit ett tag i Kalamazoo. Atjoooo!
+0x00000082 Kängurun retas med Hugh. Det gör Hugh ledsen.
+0x00000083 Jag gjorde min debut hos en man som hette Knut och hans fru som hette Rut. Sedan åt jag en strut, duckade när någon ropade skjut och sedan red jag bort på en stut.
+
+0x00000084 Men nu är det slut, utan något prut. Hugh lämnar scenen.
+
+# Chatter for Act 5
+0x00000085 Kommer de att göra lim av mig? Eller apstuvning? Eller Cordon Bleu? Kanske en Roux, som du kan doppa i?
+0x00000086 Att dö är så hughigt!
+0x00000087 Jättelik insekt äter Hugh! Jag visste alltid att det skulle sluta så här!
+0x00000088 Så här var min barndom!
+0x00000089 Hugh lämnar scenen.
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000008a Kommer de att göra lim av mig? Eller apstuvning? Eller Cordon Bleu? Kanske en Roux, som du kan doppa i?
+0x0000008b Att dö är så hughigt!
+0x0000008c Jättelik insekt äter Hugh! Jag visste alltid att det skulle sluta så här!
+0x0000008d Så här var min barndom!
+0x0000008e Hugh lämnar scenen.
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #143 - Gigamyggan
+0x0000008f Gigamyggan
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #144 - Myggdödarsmälla
+0x00000090 Myggdödarsmälla
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #145 - Myggdödarburk
+0x00000091 Myggdödarburk
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #146 - Flugor
+0x00000092 Flugor
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #147 - Bajsskötare
+0x00000093 Bajsskötare
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000094 Det stämmer. Jag sköter bajs. Ekonomin stinker. Min fru har lämnat mig. Min son talar inte med mig. Vad har jag kvar?
+0x00000095 Det är en hel vetenskap att sköta bajs. Om du tittar i helt rätt belysning kan du se det lysa och höra det sjunga. Snyft
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000096 Det stämmer. Jag sköter bajs. Ekonomin stinker. Min fru har lämnat mig. Min son talar inte med mig. Vad har jag kvar?
+0x00000097 Det är en hel vetenskap att sköta bajs. Om du tittar i helt rätt belysning kan du se det lysa och höra det sjunga. Snyft
+
+# Chatter for Act 3
+0x00000098 Det stämmer. Jag sköter bajs. Ekonomin stinker. Min fru har lämnat mig. Min son talar inte med mig. Vad har jag kvar?
+0x00000099 Det är en hel vetenskap att sköta bajs. Om du tittar i helt rätt belysning kan du se det lysa och höra det sjunga. Snyft
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000009a Det stämmer. Jag sköter bajs. Ekonomin stinker. Min fru har lämnat mig. Min son talar inte med mig. Vad har jag kvar?
+0x0000009b Det är en hel vetenskap att sköta bajs. Om du tittar i helt rätt belysning kan du se det lysa och höra det sjunga. Snyft
+
+# Chatter for Act 5
+0x0000009c Jag som skulle försöka komma med i bajsskötar-Idol nästa år! Det får inte sluta så här!
+0x0000009d Jag luktar bajs - jag kommer att bli hans första mål! Ur vägen!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000009e Jag som skulle försöka komma med i bajsskötar-Idol nästa år! Det får inte sluta så här!
+0x0000009f Jag luktar bajs - jag kommer att bli hans första mål! Ur vägen!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #160 - Trädörr vänster
+0x000000a0 Trädörr vänster
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #161 - Wooden Doorway Right
+0x000000a1 Wooden Doorway Right
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #162 - Circus Cart
+0x000000a2 Circus Cart
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #163 - Colossal Poo Pile
+0x000000a3 Colossal Poo Pile
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #164 - Cloud Poison
+0x000000a4 Cloud Poison
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #165 - Poof Black
+0x000000a5 Poof Black
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #166 - Poof White
+0x000000a6 Poof White
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #167 - Flugor
+0x000000a7 Flugor
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #168 - Bajsskopa
+0x000000a8 Bajsskopa
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #169 - Tivolistängsel
+0x000000a9 Tivolistängsel
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #170 - Mr Puzzle Truck
+0x000000aa Mr Puzzle Truck
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #171 - Tältduk
+0x000000ab Tältduk
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #172 - Carny Tent Top Red
+0x000000ac Carny Tent Top Red
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #173 - Carny Flag Pole
+0x000000ad Carny Flag Pole
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #174 - Carny Truck White
+0x000000ae Carny Truck White
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #175 - Tälttak
+0x000000af Tälttak
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #176 - Carny Foodcart
+0x000000b0 Carny Foodcart
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #177 - Carny Table
+0x000000b1 Carny Table
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #178 - Låda
+0x000000b2 Låda
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #179 - Tunnan
+0x000000b3 Tunnan
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #180 - Dynamit
+0x000000b4 Dynamit
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #181 - Holiday Yellow Lights
+0x000000b5 Holiday Yellow Lights
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #182 - Cirkusstolpe
+0x000000b6 Cirkusstolpe
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #183 - Marquee
+0x000000b7 Marquee
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #184 - Carny Cage Bottom
+0x000000b8 Carny Cage Bottom
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #185 - Carny Cage Top
+0x000000b9 Carny Cage Top
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #186 - Carny Tent Top Large
+0x000000ba Carny Tent Top Large
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #187 - Carny Tent Bottom Large
+0x000000bb Carny Tent Bottom Large
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #188 - Carny Table Blue
+0x000000bc Carny Table Blue
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #189 - Carny Strongman Tent
+0x000000bd Carny Strongman Tent
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #190 - Holiday Purple Lights
+0x000000be Holiday Purple Lights
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #191 - Mallet
+0x000000bf Mallet
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #192 - Carny Arch
+0x000000c0 Carny Arch
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #193 - Starke mannen
+0x000000c1 Starke mannen
+
+# Chatter for Act 1
+0x000000c2 Jag är starkare än sex av er. Om vi var på månen skulle jag vara starkare än 99.6 av er. Det är sant.
+0x000000c3 Jag är även en utsökt skicklig glasblåsare. Men det ligger inga pengar i det.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000c4 Jag är starkare än sex av er. Om vi var på månen skulle jag vara starkare än 99.6 av er. Det är sant.
+0x000000c5 Jag är även en utsökt skicklig glasblåsare. Men det ligger inga pengar i det.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000c6 Jag är starkare än sex av er. Om vi var på månen skulle jag vara starkare än 99.6 av er. Det är sant.
+0x000000c7 Jag är även en utsökt skicklig glasblåsare. Men det ligger inga pengar i det.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000c8 Jag är starkare än sex av er. Om vi var på månen skulle jag vara starkare än 99.6 av er. Det är sant.
+0x000000c9 Jag är även en utsökt skicklig glasblåsare. Men det ligger inga pengar i det.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000000ca Vilken knipa!
+0x000000cb Det här går inte för sig! Mina tånaglar är inte torra!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000000cc Vilken knipa!
+0x000000cd Det här går inte för sig! Mina tånaglar är inte torra!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #206 - Hantel
+0x000000ce Hantel
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #207 - Carny Gypsy Ball
+0x000000cf Carny Gypsy Ball
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #208 - Carny Gypsy Tent
+0x000000d0 Carny Gypsy Tent
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #209 - Carny Moon
+0x000000d1 Carny Moon
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #210 - Carny Gypsy Sign
+0x000000d2 Carny Gypsy Sign
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #211 - Carny Gypsy Hand
+0x000000d3 Carny Gypsy Hand
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #212 - Carny Gypsy Star
+0x000000d4 Carny Gypsy Star
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #213 - Crickets Ambience 
+0x000000d5 Crickets Ambience 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #214 - Carny Bearded Lady Tent
+0x000000d6 Carny Bearded Lady Tent
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #215 - Siamese
+0x000000d7 Siamese
+
+# Chatter for Act 1
+0x000000d8 Två sammanväxta apor, en blind noshörning och en dum delfin gick in i en bar. Bartendern sade: Hur kunde delfinen gå in i baren?
+
+0x000000d9 Två sammanväxta apor, en rebellisk potatis och en bajsskötare gick in i en bar. Bartendern säger: varför är potatisen så arg?
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000da Två sammanväxta apor, en blind noshörning och en dum delfin gick in i en bar. Bartendern sade: Hur kunde delfinen gå in i baren?
+
+0x000000db Två sammanväxta apor, en rebellisk potatis och en bajsskötare gick in i en bar. Bartendern säger: varför är potatisen så arg?
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000dc Två sammanväxta apor, en blind noshörning och en dum delfin gick in i en bar. Bartendern sade: Hur kunde delfinen gå in i baren?
+
+0x000000dd Två sammanväxta apor, en rebellisk potatis och en bajsskötare gick in i en bar. Bartendern säger: varför är potatisen så arg?
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000de Två sammanväxta apor, en blind noshörning och en dum delfin gick in i en bar. Bartendern sade: Hur kunde delfinen gå in i baren?
+
+0x000000df Två sammanväxta apor, en rebellisk potatis och en bajsskötare gick in i en bar. Bartendern säger: varför är potatisen så arg?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000000e0 Torkan i mars har slagit sig på rötterna!
+0x000000e1 Meddelande till din mamma!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000000e2 Torkan i mars har slagit sig på rötterna!
+0x000000e3 Meddelande till din mamma!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #228 - SiaAndMese
+0x000000e4 SiaAndMese
+
+# Chatter for Act 1
+0x000000e5 Det här är väl inget. Vår mor var fäst vid tre personer och en åsna.
+0x000000e6 Vi hatade henne.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000e7 Det här är väl inget. Vår mor var fäst vid tre personer och en åsna.
+0x000000e8 Vi hatade henne.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000e9 Det här är väl inget. Vår mor var fäst vid tre personer och en åsna.
+0x000000ea Vi hatade henne.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000eb Det här är väl inget. Vår mor var fäst vid tre personer och en åsna.
+0x000000ec Vi hatade henne.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000000ed Gå hitåt - gå ditåt - gå hitåt - gå ditåt -gå hitåt - gå ditåt!
+0x000000ee Jag får huvudvärk!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000000ef Gå hitåt - gå ditåt - gå hitåt - gå ditåt -gå hitåt - gå ditåt!
+0x000000f0 Jag får huvudvärk!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #241 - Siamese twins
+0x000000f1 Siamese twins
+
+# Chatter for Act 1
+0x000000f2 Ärligt talat. Att vara sammanväxta i snablarna är inte så kul som det ser ut. Särskilt inte när små busungar vill hoppa hopprep.
+
+0x000000f3 Tja... det är ganska roligt när vi leker gömma jordnötterna.
+
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000f4 Ärligt talat. Att vara sammanväxta i snablarna är inte så kul som det ser ut. Särskilt inte när små busungar vill hoppa hopprep.
+
+0x000000f5 Tja... det är ganska roligt när vi leker gömma jordnötterna.
+
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000f6 Ärligt talat. Att vara sammanväxta i snablarna är inte så kul som det ser ut. Särskilt inte när små busungar vill hoppa hopprep.
+
+0x000000f7 Tja... det är ganska roligt när vi leker gömma jordnötterna.
+
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000f8 Ärligt talat. Att vara sammanväxta i snablarna är inte så kul som det ser ut. Särskilt inte när små busungar vill hoppa hopprep.
+
+0x000000f9 Tja... det är ganska roligt när vi leker gömma jordnötterna.
+
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000000fa Han skulle inte jaga oss om du bara lärde dig att torka baken!
+0x000000fb Snälla!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000000fc Han skulle inte jaga oss om du bara lärde dig att torka baken!
+0x000000fd Snälla!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #254 - Piggy-backer
+0x000000fe Piggy-backer
+
+# Chatter for Act 1
+0x000000ff Tyst - det fungerar för manliga hejaklacksledare, och ingen ifrågasätter deras mandom.
+0x00000100 Snälla be några flickor att prata med oss. Vi är så ensamma.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000101 Tyst - det fungerar för manliga hejaklacksledare, och ingen ifrågasätter deras mandom.
+0x00000102 Snälla be några flickor att prata med oss. Vi är så ensamma.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000103 Tyst - det fungerar för manliga hejaklacksledare, och ingen ifrågasätter deras mandom.
+0x00000104 Snälla be några flickor att prata med oss. Vi är så ensamma.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000105 Tyst - det fungerar för manliga hejaklacksledare, och ingen ifrågasätter deras mandom.
+0x00000106 Snälla be några flickor att prata med oss. Vi är så ensamma.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000107 Kan jag hoppa av din rygg nu?
+0x00000108 Ni suger hela bunten! Jag hatade det här jobbet! Dags att dö!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000109 Kan jag hoppa av din rygg nu?
+0x0000010a Ni suger hela bunten! Jag hatade det här jobbet! Dags att dö!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #267 - The Three ape brothers
+0x0000010b The Three ape brothers
+
+# Chatter for Act 1
+0x0000010c Tre apor. TRE. Svårt att tänka mig att dårarna där borta kan dra fram TRE apor ur häcken. Eller någon annanstans.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000010d Tre apor. TRE. Svårt att tänka mig att dårarna där borta kan dra fram TRE apor ur häcken. Eller någon annanstans.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000010e Tre apor. TRE. Svårt att tänka mig att dårarna där borta kan dra fram TRE apor ur häcken. Eller någon annanstans.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000010f Tre apor. TRE. Svårt att tänka mig att dårarna där borta kan dra fram TRE apor ur häcken. Eller någon annanstans.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000110 Vi välkomnar döden! Kom bara!
+0x00000111 Snälla döda oss först.
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000112 Vi välkomnar döden! Kom bara!
+0x00000113 Snälla döda oss först.
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #276 - Moosini Brothers
+0x00000114 Moosini Brothers
+
+# Chatter for Act 1
+0x00000115 Hallå där, så här tjänar vi vårt levebröd. Har du problem med det?
+0x00000116 Vad då, snubben? Vill du ge dig in i leken? Smaka på turbon? Trodde väl inte det, TÖNT
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000117 Hallå där, så här tjänar vi vårt levebröd. Har du problem med det?
+0x00000118 Vad då, snubben? Vill du ge dig in i leken? Smaka på turbon? Trodde väl inte det, TÖNT
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000119 Hallå där, så här tjänar vi vårt levebröd. Har du problem med det?
+0x0000011a Vad då, snubben? Vill du ge dig in i leken? Smaka på turbon? Trodde väl inte det, TÖNT
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000011b Hallå där, så här tjänar vi vårt levebröd. Har du problem med det?
+0x0000011c Vad då, snubben? Vill du ge dig in i leken? Smaka på turbon? Trodde väl inte det, TÖNT
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x0000011d Om det här är slutet, vill jag bara säga att livet sög.
+0x0000011e Aquasnubben säger att vi ska stanna och rulla över på rygg!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000011f Om det här är slutet, vill jag bara säga att livet sög.
+0x00000120 Aquasnubben säger att vi ska stanna och rulla över på rygg!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #289 - Zigenare
+0x00000121 Zigenare
+
+# Chatter for Act 1
+0x00000122 Det stämmer, typen! Jag är en zigenare, och jag ska lägga en förbannelse på dig! Sedan då? Vad ska du göra? Just det. Trodde väl att du skulle kliva undan.
+0x00000123 Fetare!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000124 Det stämmer, typen! Jag är en zigenare, och jag ska lägga en förbannelse på dig! Sedan då? Vad ska du göra? Just det. Trodde väl att du skulle kliva undan.
+0x00000125 Fetare!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000126 Det stämmer, typen! Jag är en zigenare, och jag ska lägga en förbannelse på dig! Sedan då? Vad ska du göra? Just det. Trodde väl att du skulle kliva undan.
+0x00000127 Fetare!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000128 Det stämmer, typen! Jag är en zigenare, och jag ska lägga en förbannelse på dig! Sedan då? Vad ska du göra? Just det. Trodde väl att du skulle kliva undan.
+0x00000129 Fetare!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x0000012a Kommer du närmare lägger jag en förbannelse på dig!
+0x0000012b Varulv!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000012c Kommer du närmare lägger jag en förbannelse på dig!
+0x0000012d Varulv!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #302 - Skäggiga damen
+0x0000012e Skäggiga damen
+
+# Chatter for Act 1
+0x0000012f Givetvis matchar mattan skägget!
+0x00000130 Kyss mig. Håret kommer att kittla på tungan.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000131 Givetvis matchar mattan skägget!
+0x00000132 Kyss mig. Håret kommer att kittla på tungan.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000133 Givetvis matchar mattan skägget!
+0x00000134 Kyss mig. Håret kommer att kittla på tungan.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000135 Givetvis matchar mattan skägget!
+0x00000136 Kyss mig. Håret kommer att kittla på tungan.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000137 Sluta nu! Först odlar jag skägg, sedan blir jag anfallen av en stor bajsinsekt! En del tjejer har tur jämt!
+0x00000138 Jag kan inte dö nu! Jag har aldrig blivit kysst!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000139 Sluta nu! Först odlar jag skägg, sedan blir jag anfallen av en stor bajsinsekt! En del tjejer har tur jämt!
+0x0000013a Jag kan inte dö nu! Jag har aldrig blivit kysst!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #315 - Eldslukare
+0x0000013b Eldslukare
+
+# Chatter for Act 1
+0x0000013c Eldslukning är en konst lika gammal som själva elden. Fast förr i tiden var det ju ingen som överlevde.
+0x0000013d Vet ni vad som passar bra till eld? Hallongelé. Det är sant. Dessutom rödbetssoppa.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000013e Eldslukning är en konst lika gammal som själva elden. Fast förr i tiden var det ju ingen som överlevde.
+0x0000013f Vet ni vad som passar bra till eld? Hallongelé. Det är sant. Dessutom rödbetssoppa.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000140 Eldslukning är en konst lika gammal som själva elden. Fast förr i tiden var det ju ingen som överlevde.
+0x00000141 Vet ni vad som passar bra till eld? Hallongelé. Det är sant. Dessutom rödbetssoppa.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000142 Eldslukning är en konst lika gammal som själva elden. Fast förr i tiden var det ju ingen som överlevde.
+0x00000143 Vet ni vad som passar bra till eld? Hallongelé. Det är sant. Dessutom rödbetssoppa.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000144 Jag är inte rädd för dig! Jag slukar eld som yrke! Så klart … du slukar ju bajs.
+
+0x00000145 Min bror äter kryp som du!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000146 Jag är inte rädd för dig! Jag slukar eld som yrke! Så klart … du slukar ju bajs.
+
+0x00000147 Min bror äter kryp som du!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #328 - Mygga
+0x00000148 Mygga
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #329 - Panicking Crowd
+0x00000149 Panicking Crowd
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #330 - Puzzle Entry Tent
+0x0000014a Puzzle Entry Tent
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #331 - Shrapnel Bomb Once
+0x0000014b Shrapnel Bomb Once
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #332 - Dying Embers
+0x0000014c Dying Embers
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #333 - Ash Storm
+0x0000014d Ash Storm
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #334 - Akrobat
+0x0000014e Akrobat
+
+# Chatter for Act 1
+0x0000014f Jag flyger genom luften med lätthet! Tja, egentligen är det rätt svårt.
+
+0x00000150 På kvällarna klär jag mig i trikåer och kallar mig för Akrobatmannen. Sedan ställer jag mig framför en spegel och ställer obehagliga frågor till mig själv.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000151 Jag flyger genom luften med lätthet! Tja, egentligen är det rätt svårt.
+
+0x00000152 På kvällarna klär jag mig i trikåer och kallar mig för Akrobatmannen. Sedan ställer jag mig framför en spegel och ställer obehagliga frågor till mig själv.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000153 Jag flyger genom luften med lätthet! Tja, egentligen är det rätt svårt.
+
+0x00000154 På kvällarna klär jag mig i trikåer och kallar mig för Akrobatmannen. Sedan ställer jag mig framför en spegel och ställer obehagliga frågor till mig själv.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000155 Jag flyger genom luften med lätthet! Tja, egentligen är det rätt svårt.
+
+0x00000156 På kvällarna klär jag mig i trikåer och kallar mig för Akrobatmannen. Sedan ställer jag mig framför en spegel och ställer obehagliga frågor till mig själv.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000157 Jag visste att jag skulle haft på mig min bepansrade ballerinakjol!
+0x00000158 Berätta för min mamma att jag älskar henne! Och att jag alltid visste vem jag var! Och jag förlåter henne! Men jag kommer aldrig att glömma!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000159 Jag visste att jag skulle haft på mig min bepansrade ballerinakjol!
+0x0000015a Berätta för min mamma att jag älskar henne! Och att jag alltid visste vem jag var! Och jag förlåter henne! Men jag kommer aldrig att glömma!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #347 - Dvärg
+0x0000015b Dvärg
+
+# Chatter for Act 1
+0x0000015c Nej, det blir ingen dvärgkastning ikväll.
+0x0000015d Bråka inte med mig, din långe räkel. Jag har en dvärgs proportionerliga styrka. Så det kommer att göra ont när jag slår dig på de runda.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000015e Nej, det blir ingen dvärgkastning ikväll.
+0x0000015f Bråka inte med mig, din långe räkel. Jag har en dvärgs proportionerliga styrka. Så det kommer att göra ont när jag slår dig på de runda.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000160 Nej, det blir ingen dvärgkastning ikväll.
+0x00000161 Bråka inte med mig, din långe räkel. Jag har en dvärgs proportionerliga styrka. Så det kommer att göra ont när jag slår dig på de runda.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000162 Nej, det blir ingen dvärgkastning ikväll.
+0x00000163 Bråka inte med mig, din långe räkel. Jag har en dvärgs proportionerliga styrka. Så det kommer att göra ont när jag slår dig på de runda.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000164 Det får inte sluta så här!
+0x00000165 Korta ben, svik mig inte nu!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000166 Det får inte sluta så här!
+0x00000167 Korta ben, svik mig inte nu!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #360 - Korvförsäljare
+0x00000168 Korvförsäljare
+
+# Chatter for Act 1
+0x00000169 Sluta skämta om korvarna. Köp en eller dra.
+0x0000016a Nej, jag har faktiskt hört alla korvskämt som finns. Jag lovar. Köp bara en korv och stick.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000016b Sluta skämta om korvarna. Köp en eller dra.
+0x0000016c Nej, jag har faktiskt hört alla korvskämt som finns. Jag lovar. Köp bara en korv och stick.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000016d Sluta skämta om korvarna. Köp en eller dra.
+0x0000016e Nej, jag har faktiskt hört alla korvskämt som finns. Jag lovar. Köp bara en korv och stick.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000016f Sluta skämta om korvarna. Köp en eller dra.
+0x00000170 Nej, jag har faktiskt hört alla korvskämt som finns. Jag lovar. Köp bara en korv och stick.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000171 Mina korvar känner ingen fruktan.
+0x00000172 Du kan bränna mina bröd, men aldrig ta min värdighet.
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000173 Mina korvar känner ingen fruktan.
+0x00000174 Du kan bränna mina bröd, men aldrig ta min värdighet.
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #373 - Gigamyggan
+0x00000175 Gigamyggan
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #374 - Mine
+0x00000176 Mine
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #375 - Korv
+0x00000177 Korv
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #376 - Sting Victory Horns
+0x00000178 Sting Victory Horns
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #377 - Bråte
+0x00000179 Bråte
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #378 - Bråte
+0x0000017a Bråte
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #379 - Bråte
+0x0000017b Bråte
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #380 - Shrapnel Bomb Once
+0x0000017c Shrapnel Bomb Once
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #381 - Dying Embers
+0x0000017d Dying Embers
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #382 - Ash Storm
+0x0000017e Ash Storm
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #383 - Tälttak
+0x0000017f Tälttak
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #384 - Tältduk
+0x00000180 Tältduk
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #385 - Cirkusstolpe
+0x00000181 Cirkusstolpe
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #386 - Shrapnel Bomb Once
+0x00000182 Shrapnel Bomb Once
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #387 - Dying Embers
+0x00000183 Dying Embers
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #388 - Ash Storm
+0x00000184 Ash Storm
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #389 - Cluster Bomb Once
+0x00000185 Cluster Bomb Once
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #390 - Fire Camp
+0x00000186 Fire Camp
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #391 - Bajsskötare
+0x00000187 Bajsskötare
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #392 - Död Dan
+0x00000188 Död Dan
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #393 - Död Hugh
+0x00000189 Död Hugh
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #394 - Död Breckin
+0x0000018a Död Breckin
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #395 - Död zigenare
+0x0000018b Död zigenare
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #396 - Död starke mannen
+0x0000018c Död starke mannen
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #397 - Död skäggiga damen
+0x0000018d Död skäggiga damen
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #398 - Död eldslukare
+0x0000018e Död eldslukare
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #399 - Död akrobat
+0x0000018f Död akrobat
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #400 - Död dvärg
+0x00000190 Död dvärg
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #401 - Död korvförsäljare
+0x00000191 Död korvförsäljare
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #402 - Rainfall
+0x00000192 Rainfall
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #403 - Rainfall Splash
+0x00000193 Rainfall Splash
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #404 - Cold Wind
+0x00000194 Cold Wind
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #405 - Thunder
+0x00000195 Thunder
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #406 - Creepy Wolves
+0x00000196 Creepy Wolves
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #407 - Gnällarn
+0x00000197 Gnällarn
+
+# Chatter for Act 1
+0x00000198 Åh nej, jag är omringad! Och det kommer fler!
+0x00000199 Jag borde aldrig ha ätit en Grox! Vem vet vad den hade ätit!
+
+0x0000019a Onda, onda bajs!
+0x0000019b Åh, vad jag föraktar matsmältningsprocessen!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000019c Åh nej, jag är omringad! Och det kommer fler!
+0x0000019d Jag borde aldrig ha ätit en Grox! Vem vet vad den hade ätit!
+
+0x0000019e Onda, onda bajs!
+0x0000019f Åh, vad jag föraktar matsmältningsprocessen!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000001a0 Åh nej, de gjorde det igen!
+0x000001a1 Det är därför jag är så rädd för mitt bajs! Insekterna!
+0x000001a2 När de ätit tillräckligt med bajs bildar de en gigantisk monsterinsekt och dödar alla jag känner!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000001a3 Åh nej, de gjorde det igen!
+0x000001a4 Det är därför jag är så rädd för mitt bajs! Insekterna!
+0x000001a5 När de ätit tillräckligt med bajs bildar de en gigantisk monsterinsekt och dödar alla jag känner!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x000001a6 Det händer alltid med alla jag tycker om!
+0x000001a7 Bajs dödar!
+0x000001a8 Jag svär på mina vänners liv, jag ska aldrig bajsa igen!
+0x000001a9 Baaaaaaaaaaaaaaaaaaaaaaaajs!
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #426 - Fackla
+0x000001aa Fackla
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #427 - Fire Pit
+0x000001ab Fire Pit
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #428 - Fire Camp
+0x000001ac Fire Camp
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #429 - Död Siames
+0x000001ad Död Siames
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #430 - Döda SiaOchMese
+0x000001ae Döda SiaOchMese
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #431 - Död Siameselly
+0x000001af Död Siameselly
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #432 - Döda Moosini-bröder
+0x000001b0 Döda Moosini-bröder
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #433 - Död ryggridare
+0x000001b1 Död ryggridare
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #434 - Döda tre apbröder
+0x000001b2 Döda tre apbröder
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #435 - Carny Tent Destroyed
+0x000001b3 Carny Tent Destroyed
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #436 - Carny Tent Large Destroyed
+0x000001b4 Carny Tent Large Destroyed
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #437 - Carny Gypsy Tent Destroyed
+0x000001b5 Carny Gypsy Tent Destroyed
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #438 - Mygga
+0x000001b6 Mygga
+
+# Chatter for Act 1
+0x000001b7 Buzz Buzz Buzz
+0x000001b8 Bzzz Bzzz Bzzz
+0x000001b9 Bzzz Yum Poo Yum Bzzz
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000001ba Buzz Buzz Buzz
+0x000001bb Bzzz Bzzz Bzzz
+0x000001bc Bzzz Yum Poo Yum Bzzz
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000001bd Buzz Buzz Buzz
+0x000001be Bzzz Bzzz Bzzz
+0x000001bf Bzzz Yum Poo Yum Bzzz
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000001c0 Buzz Buzz Buzz
+0x000001c1 Bzzz Bzzz Bzzz
+0x000001c2 Bzzz Yum Poo Yum Bzzz
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #451 - Smoke Black
+0x000001c3 Smoke Black
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #452 - Myggbete
+0x000001c4 Myggbete
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #453 - Myggbete
+0x000001c5 Myggbete
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #454 - Myggbete
+0x000001c6 Myggbete
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #455 - Mygga
+0x000001c7 Mygga
+
+# Chatter for Act 1
+0x000001c8 Buzz Buzz Buzz
+0x000001c9 Bzzz Bzzz Bzzz
+0x000001ca Bzzz Yum Poo Yum Bzzz
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000001cb Buzz Buzz Buzz
+0x000001cc Bzzz Bzzz Bzzz
+0x000001cd Bzzz Yum Poo Yum Bzzz
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000001ce Buzz Buzz Buzz
+0x000001cf Bzzz Bzzz Bzzz
+0x000001d0 Bzzz Yum Poo Yum Bzzz
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000001d1 Buzz Buzz Buzz
+0x000001d2 Bzzz Bzzz Bzzz
+0x000001d3 Bzzz Yum Poo Yum Bzzz
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #468 - Mygga
+0x000001d4 Mygga
+
+# Chatter for Act 1
+0x000001d5 Buzz Buzz Buzz
+0x000001d6 Bzzz Bzzz Bzzz
+0x000001d7 Bzzz Yum Poo Yum Bzzz
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000001d8 Buzz Buzz Buzz
+0x000001d9 Bzzz Bzzz Bzzz
+0x000001da Bzzz Yum Poo Yum Bzzz
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000001db Buzz Buzz Buzz
+0x000001dc Bzzz Bzzz Bzzz
+0x000001dd Bzzz Yum Poo Yum Bzzz
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000001de Buzz Buzz Buzz
+0x000001df Bzzz Bzzz Bzzz
+0x000001e0 Bzzz Yum Poo Yum Bzzz
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #481 - poo
+0x000001e1 poo
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #482 - Tivolistängsel
+0x000001e2 Tivolistängsel
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #483 - Circus sign
+0x000001e3 Circus sign
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #484 - Chokladkaka
+0x000001e4 Chokladkaka
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #485 - Högaffel
+0x000001e5 Högaffel
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #486 - Blue Key
+0x000001e6 Blue Key
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #487 - Empty Pen
+0x000001e7 Empty Pen
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #488 - Evil Whispers
+0x000001e8 Evil Whispers
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #489 - Desolate Wind
+0x000001e9 Desolate Wind
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+

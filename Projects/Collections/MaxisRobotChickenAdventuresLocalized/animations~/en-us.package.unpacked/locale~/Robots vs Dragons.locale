@@ -1,0 +1,390 @@
+# Auto-generated localization file for: Robots vs Dragons (ID: 0XE44B8167)
+# Adventure name
+0x00000001 Robots vs Dragons
+
+# Adventure description
+0x00000002 The dragons are coming! Can your team of robots take them down?
+Created by MaxisCimino
+
+# Intro text
+0x00000003 Captain! We have received a distress call from the Robot Colony of Abaraccu 5. Please assist in anyway that you.... Oh good, you're already there. Nevermind.
+
+# Win text
+0x00000004 Well done, Captain. Your leadership skills are a sight to behold.
+
+# Lose text
+0x00000005 You Fail. Try again if you have the guts.
+
+# Act 1
+0x00000006 They're coming!
+0x00000007 The dragons are coming! Get ready to fight!
+
+# Goal 1
+0x00000008 Welcome Captain. Your timing is perfect.
+0x00000009 We are under attack by a legion of dragons from the far west. Apparently they are not happy with our colonization efforts.
+0x0000000a We're just a bunch of humble mining bots! We are not cut out for battling dragons! 
+0x0000000b Thanks again for coming on such short notice. You have the command. Good luck.
+
+
+# Act 2
+0x0000000c Flight of the Dragons
+0x0000000d Use grenades and all your strength to take out those filthy reptiles.
+
+# Goal 1
+
+
+# Act 3
+0x0000000e Victory!
+0x0000000f Dragons were no match for you, now time to leave.
+
+# Goal 1
+0x00000010 We did it! Great job commander!
+0x00000011 We can not thank you enough for your assistance.
+0x00000012 Do you mind giving us your cell number in case those dragons come back?
+
+
+# Prop #19 - Robot
+0x00000013 Robot
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000014 What do we do?
+0x00000015 This is going to suck.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000016 Awesome!
+0x00000017 Wow, we did it.
+
+# Inspect for Act 3
+
+# Prop #24 - Dragon
+0x00000018 Dragon
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #25 - Jump Pad 
+0x00000019 Jump Pad 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #26 - Jump Pad 
+0x0000001a Jump Pad 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #27 - Robot Leader
+0x0000001b Robot Leader
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000001c Here they come.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000001d Great job!
+0x0000001e You were amazing.
+
+# Inspect for Act 3
+
+# Prop #31 - Grenade
+0x0000001f Grenade
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #32 - Power-Up Health
+0x00000020 Power-Up Health
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #33 - Ambush!
+0x00000021 Ambush!
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #34 - Platform
+0x00000022 Platform
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #35 - NightClub
+0x00000023 NightClub
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #36 - Sting Victory Horns
+0x00000024 Sting Victory Horns
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #37 - Robot Captain
+0x00000025 Robot Captain
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000026 Stay strong men.
+0x00000027 We can do this.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000028 Woo hoo!
+
+# Inspect for Act 3
+
+# Prop #41 - Robot Captain
+0x00000029 Robot Captain
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #42 - Robot
+0x0000002a Robot
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000002b Lead us Captain.
+0x0000002c There are so many.
+0x0000002d We're doing it!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000002e We did it!
+0x0000002f Yeah you better run!
+
+# Inspect for Act 3
+
+# Prop #48 - Robot Captain
+0x00000030 Robot Captain
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #49 - Robto hut
+0x00000031 Robto hut
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #50 - Busy Factory 2
+0x00000032 Busy Factory 2
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #51 - Conglomerate Stack
+0x00000033 Conglomerate Stack
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #52 - Cressynthe
+0x00000034 Cressynthe
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #53 - Fog White
+0x00000035 Fog White
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #54 - Cloud Lightning
+0x00000036 Cloud Lightning
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #55 - Power-Up Energy
+0x00000037 Power-Up Energy
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+

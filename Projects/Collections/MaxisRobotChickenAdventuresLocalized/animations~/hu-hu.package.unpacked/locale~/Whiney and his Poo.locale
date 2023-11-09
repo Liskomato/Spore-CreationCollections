@@ -1,0 +1,5161 @@
+# Auto-generated localization file for: Nyöszi és a csúnya kupacok (ID: 0X4C209D89)
+# Adventure name
+0x00000001 Nyöszi és a csúnya kupacok
+
+# Adventure description
+0x00000002 Ismerd meg Para, a bohóc hátborzongató titkát, és találkozz a társulata fura figuráival! Írta:  Hugh Sterbakov.
+
+# Intro text
+0x00000003 Új dimenzióba utazol időn és téren keresztül; egy olyan világba, ahol a barna színről alkotott fogalmaid örökre megváltoznak majd!
+
+# Win text
+0x00000004 Menj hát, utazó! A barna mostantól többet jelent majd a számodra, mint csak egy szín.
+
+# Lose text
+0x00000005 Öreg, ez szívás.
+
+
+# Act 1
+0x00000006 Bohóckodás
+0x00000007 Beszélj Parával, a bohóccal, hogy megkapd a szükséges utasításokat!
+
+# Goal 1
+0x00000008 Mi a baj, öreg? Csak nem félsz egy bohóctól? Megríkattam már nálad nagyobb gyerekeket is!
+0x00000009 Remélem, melóért jössz, cimbora, mert van egy feladatom a számodra.
+0x0000000a A nyafka orrszarvúm nem hajlandó hazajönni a legelőről. És ez még mind semmi! Tudod, miért?
+0x0000000b Fél a saját rittyenetétől! Hát elhiszed ezt, öreg barátom?
+0x0000000c Íme, az utasítások. Irány a legelő, és győzd meg azt a tülkös nebáncsvirágot, hogy jöjjön vissza dolgozni!
+
+# Goal 2
+0x0000000d Üdv, jóuram! A nevem Nyöszi. Fogalmam sincs, miért hívnak így.
+0x0000000e És ráadásul... Ráadásul ripofóbiás vagyok – félek a kakitól!
+0x0000000f Bármerre nézek, minden tele van ezekkel a szörnyű kis kupacokkal! Lehetetlen megszökni előle! Rettenetes, rémisztő... Te nem félsz tőle?
+0x00000010 Használnom kellene a gyűjtőzacsit, de úgy félek – megtennéd?
+0x00000011 Tudom, hogy folytatnom kellene a munkát, de addig képtelen vagyok, amíg utat nem vágsz a... A matériában.
+
+
+# Act 2
+0x00000012 A ripofóbiás rinocérosz
+0x00000013 Beszélj Nyöszivel, segíts neki legyőzni a félelmeit és átvágni a legelőn!
+
+
+# Goal 1
+
+# Goal 2
+
+# Goal 3
+
+
+# Act 3
+0x00000014 Nyöszi hazatér
+0x00000015 Lássuk, mi történt azokkal a csúnya kis kupacokkal!
+
+# Goal 1
+0x00000016 Köszönöm, hogy ilyen sok kupacot gyűjtöttél nekem össze! Remélem, van betegbiztosításod...
+0x00000017 Ha nincsenek nagyratörő terveid azzal a lepkehálóval, átpasszolhatnád...
+0x00000018 Az összes általad összeszedett matéria ebbe a pompás kis kupacba került.
+0x00000019 ... Ebbe a guszta, bogarakat is idevonzó, gőzölgő humuszhalomba. Más téma – korog a gyomrom, nem lehet, hogy ebédidő van?
+0x0000001a Bizony, az egy nagy kupac kaki. Itt, mellettünk. Lehet, hogy pizzát kéne rendelnem...
+
+
+# Act 4
+0x0000001b Visszatérés Parához
+0x0000001c Beszélj Parával közelgő végzetedről!
+
+# Goal 1
+0x0000001d Szent Habakuk, mit műveltél? Az a trükkös trottykupac idecsalta a böhömböglyöt!
+0x0000001e Gyerünk, cimbora, szereld össze azt a nagy mi-kulászsákot, és szállj szembe a böhömbögöllyel!
+0x0000001f Az alkatrészeket megtalálod a sátrak körül, öcsisajt!
+0x00000020 Siess, haver, mert fogytán vannak a szóvicceim!
+0x00000021 Koprológia, haver – néha jól jöhet!
+
+
+# Act 5
+0x00000022 A cirkuszi mészárlás
+0x00000023 Szereld össze a bögölydögölesztőt!
+
+# Goal 1
+
+# Goal 2
+
+
+# Act 6
+0x00000024 A böhömbögöly bosszúja
+0x00000025 Csald oda a böhömböglyöt a bögölydögölesztő készülékhez, hogy megölhesd!
+
+# Goal 1
+
+
+# Act 7
+0x00000026 Törlés és lehúzás
+0x00000027 Szerezd meg a fizetségedet Parától, a bohóctól!
+
+
+# Goal 1
+0x00000028 Egek, micsoda katasztrófa!
+0x00000029 Mindenki halott, haver! Tönkretették a cirkuszomat!
+0x0000002a Még mindig akarod a pénzemet?
+0x0000002b Azt hiszem, megkaphatod. Úgyis végem.
+0x0000002c Vedd el, ha akarod. Ott van, abban a zsákban. Ezen kívül semmim sincs ezen a világon. Kösz, haver.
+
+
+# Act 8
+0x0000002d A morcos város
+0x0000002e Ha sírni látod a leégett, lúzer bohócot... Az remek mulatság, nem?
+
+
+# Prop #47 - Robbanós sátor
+0x0000002f Robbanós sátor
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #48 - Bögölydögölesztő
+0x00000030 Bögölydögölesztő
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #49 - Breckin
+0x00000031 Breckin
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000032 Nézd már azt a nyavalygós majmot! „Hugh vagyok, és olyan szohomohorúúúú!”
+0x00000033 A majmóca banánt szeretne? Fogadjunk, hogy a legtöbb bolygón a banánok hajtják rabszolgasorba a majmokat!
+0x00000034 Bárcsak úgy tudnék kakit dobálni, mint Hugh. Akkor megdobálnám Hugh-t.
+0x00000035 Annak idején hagyták, hogy boxkesztyűt viseljek. Aztán meghugh-ztak...
+0x00000036 Nyöszi teljesen beleillik a cirkusz társulatába... És ezt nem bóknak szántam ám!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000037 Nézd már azt a nyavalygós majmot! „Hugh vagyok, és olyan szohomohorúúúú!”
+0x00000038 A majmóca banánt szeretne? Fogadjunk, hogy a legtöbb bolygón a banánok hajtják rabszolgasorba a majmokat!
+0x00000039 Bárcsak úgy tudnék kakit dobálni, mint Hugh. Akkor megdobálnám Hugh-t.
+0x0000003a Annak idején hagyták, hogy boxkesztyűt viseljek. Aztán meghugh-ztak...
+0x0000003b Nyöszi teljesen beleillik a cirkusz társulatába... És ezt nem bóknak szántam ám!
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000003c Nézd már azt a nyavalygós majmot! „Hugh vagyok, és olyan szohomohorúúúú!”
+0x0000003d A majmóca banánt szeretne? Fogadjunk, hogy a legtöbb bolygón a banánok hajtják rabszolgasorba a majmokat!
+0x0000003e Bárcsak úgy tudnék kakit dobálni, mint Hugh. Akkor megdobálnám Hugh-t.
+0x0000003f Annak idején hagyták, hogy boxkesztyűt viseljek. Aztán meghugh-ztak...
+0x00000040 Nyöszi teljesen beleillik a cirkusz társulatába... És ezt nem bóknak szántam ám!
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000041 Nézd már azt a nyavalygós majmot! „Hugh vagyok, és olyan szohomohorúúúú!”
+0x00000042 A majmóca banánt szeretne? Fogadjunk, hogy a legtöbb bolygón a banánok hajtják rabszolgasorba a majmokat!
+0x00000043 Bárcsak úgy tudnék kakit dobálni, mint Hugh. Akkor megdobálnám Hugh-t.
+0x00000044 Annak idején hagyták, hogy boxkesztyűt viseljek. Aztán meghugh-ztak...
+0x00000045 Nyöszi teljesen beleillik a cirkusz társulatába... És ezt nem bóknak szántam ám!
+
+# Chatter for Act 5
+0x00000046 Minden Hugh miatt van!
+0x00000047 A fene essen beléd, te dög! Remélem, megakadok a torkodon!
+
+0x00000048 Úgy megrúglak, hogy fel se kell segíteni Szent Mihály lovára!
+0x00000049 Ó, jaj, megesznek!!!
+0x0000004a Bárcsak megcsináltattam volna azt a nemváltoztató műtétet!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000004b Minden Hugh miatt van!
+0x0000004c A fene essen beléd, te dög! Remélem, megakadok a torkodon!
+
+0x0000004d Úgy megrúglak, hogy fel se kell segíteni Szent Mihály lovára!
+0x0000004e Ó, jaj, megesznek!!!
+0x0000004f Bárcsak megcsináltattam volna azt a nemváltoztató műtétet!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #80 - Para, a bohóc
+0x00000050 Para, a bohóc
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #81 - Dan
+0x00000051 Dan
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000052 Nekem kéne játszanom Nyöszit! Sokkal jobb színész vagyok!
+0x00000053 Van egy rák, aki fél a rákoktól! Szerinted hogy nevezzük?
+0x00000054 Ha a füledbe jutna, hogy bizonyos bolygókon szereplőválogatást tartanak, megtennéd, hogy szólsz? Tagja vagyok a BSZSZ-nek és a KSZSZ-nek is!
+0x00000055 Egy időben egy állatsimogatóban dolgoztam. Mígnem egy szép napon visszasimogattam... Szép kis távoltatási végzést sóztak a nyakamba!
+0x00000056 Szakszervezetet! Szakszervezetet! Szakszervezetet!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000057 Nekem kéne játszanom Nyöszit! Sokkal jobb színész vagyok!
+0x00000058 Van egy rák, aki fél a rákoktól! Szerinted hogy nevezzük?
+0x00000059 Ha a füledbe jutna, hogy bizonyos bolygókon szereplőválogatást tartanak, megtennéd, hogy szólsz? Tagja vagyok a BSZSZ-nek és a KSZSZ-nek is!
+0x0000005a Egy időben egy állatsimogatóban dolgoztam. Mígnem egy szép napon visszasimogattam... Szép kis távoltatási végzést sóztak a nyakamba!
+0x0000005b Szakszervezetet! Szakszervezetet! Szakszervezetet!
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000005c Nekem kéne játszanom Nyöszit! Sokkal jobb színész vagyok!
+0x0000005d Van egy rák, aki fél a rákoktól! Szerinted hogy nevezzük?
+0x0000005e Ha a füledbe jutna, hogy bizonyos bolygókon szereplőválogatást tartanak, megtennéd, hogy szólsz? Tagja vagyok a BSZSZ-nek és a KSZSZ-nek is!
+0x0000005f Egy időben egy állatsimogatóban dolgoztam. Mígnem egy szép napon visszasimogattam... Szép kis távoltatási végzést sóztak a nyakamba!
+0x00000060 Szakszervezetet! Szakszervezetet! Szakszervezetet!
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000061 Nekem kéne játszanom Nyöszit! Sokkal jobb színész vagyok!
+0x00000062 Van egy rák, aki fél a rákoktól! Szerinted hogy nevezzük?
+0x00000063 Ha a füledbe jutna, hogy bizonyos bolygókon szereplőválogatást tartanak, megtennéd, hogy szólsz? Tagja vagyok a BSZSZ-nek és a KSZSZ-nek is!
+0x00000064 Egy időben egy állatsimogatóban dolgoztam. Mígnem egy szép napon visszasimogattam... Szép kis távoltatási végzést sóztak a nyakamba!
+0x00000065 Szakszervezetet! Szakszervezetet! Szakszervezetet!
+
+# Chatter for Act 5
+0x00000066 Jaj, ne! Meg fogok halni!
+0x00000067 Ennél szebb halált érdemelek!
+0x00000068 Jelöltek Sporscarra!
+0x00000069 Sajnálom, amit az állatsimogatóban tettem!
+0x0000006a Kegyelem!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000006b Jaj, ne! Meg fogok halni!
+0x0000006c Ennél szebb halált érdemelek!
+0x0000006d Jelöltek Sporscarra!
+0x0000006e Sajnálom, amit az állatsimogatóban tettem!
+0x0000006f Kegyelem!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #112 - Hugh
+0x00000070 Hugh
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000071 Hello, hogy vagy ma?
+0x00000072 Hugh York Cityből érkeztem, ahol sajnos vétkeztem.
+0x00000073 Látod ott a kengurut? Kigúnyolja szegény Hugh-t.
+0x00000074 A haverom egy marabu, akit sajnos mar a bú. Legjobb barátja egy gnú, egy kis puhakalapú. Nem túl szilfid alakú.
+
+0x00000075 Hogy mi jön most? A búcsú: el is köszön tőled Hugh.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000076 Hello, hogy vagy ma?
+0x00000077 Hugh York Cityből érkeztem, ahol sajnos vétkeztem.
+0x00000078 Látod ott a kengurut? Kigúnyolja szegény Hugh-t.
+0x00000079 A haverom egy marabu, akit sajnos mar a bú. Legjobb barátja egy gnú, egy kis puhakalapú. Nem túl szilfid alakú.
+
+0x0000007a Hogy mi jön most? A búcsú: el is köszön tőled Hugh.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000007b Hello, hogy vagy ma?
+0x0000007c Hugh York Cityből érkeztem, ahol sajnos vétkeztem.
+0x0000007d Látod ott a kengurut? Kigúnyolja szegény Hugh-t.
+0x0000007e A haverom egy marabu, akit sajnos mar a bú. Legjobb barátja egy gnú, egy kis puhakalapú. Nem túl szilfid alakú.
+
+0x0000007f Hogy mi jön most? A búcsú: el is köszön tőled Hugh.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000080 Hello, hogy vagy ma?
+0x00000081 Hugh York Cityből érkeztem, ahol sajnos vétkeztem.
+0x00000082 Látod ott a kengurut? Kigúnyolja szegény Hugh-t.
+0x00000083 A haverom egy marabu, akit sajnos mar a bú. Legjobb barátja egy gnú, egy kis puhakalapú. Nem túl szilfid alakú.
+
+0x00000084 Hogy mi jön most? A búcsú: el is köszön tőled Hugh.
+
+# Chatter for Act 5
+0x00000085 Mi lesz belőlem? Becsinált, ha kicsinált? Könnyfakasztó ragasztó? Hússaláta öntettel? Ha már ennyit untattál...
+0x00000086 Meghalni – ez olyan tipikus!
+0x00000087 A nagy bogár megeszi Hugh-t! Annyira tudtam, hogy ez lesz a vége!
+0x00000088 Ilyen volt a gyerekkorom!
+0x00000089 Hugh el.
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000008a Mi lesz belőlem? Becsinált, ha kicsinált? Könnyfakasztó ragasztó? Hússaláta öntettel? Ha már ennyit untattál...
+0x0000008b Meghalni – ez olyan tipikus!
+0x0000008c A nagy bogár megeszi Hugh-t! Annyira tudtam, hogy ez lesz a vége!
+0x0000008d Ilyen volt a gyerekkorom!
+0x0000008e Hugh el.
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #143 - Böhömbögöly
+0x0000008f Böhömbögöly
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #144 - A bögölydögölesztő csapója
+0x00000090 A bögölydögölesztő csapója
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #145 - A bögölydögölesztő tartálya
+0x00000091 A bögölydögölesztő tartálya
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #146 - Legyek
+0x00000092 Legyek
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #147 - Kokszzsonglőr
+0x00000093 Kokszzsonglőr
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000094 Így is van. Pontosan azzal foglalkozom, amire gondolsz. Nézd, haver, a gazdaság botorkál. Az asszony lelécelt. A fiam nem áll szóba velem. Nekem csak ennyi maradt!
+0x00000095 A kakizsonglőrködés művészet, nem vitás. Ha megfelelő a világítás, láthatod, ahogy ragyog, és még a dalát is hallod. Szipp!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000096 Így is van. Pontosan azzal foglalkozom, amire gondolsz. Nézd, haver, a gazdaság botorkál. Az asszony lelécelt. A fiam nem áll szóba velem. Nekem csak ennyi maradt!
+0x00000097 A kakizsonglőrködés művészet, nem vitás. Ha megfelelő a világítás, láthatod, ahogy ragyog, és még a dalát is hallod. Szipp!
+
+# Chatter for Act 3
+0x00000098 Így is van. Pontosan azzal foglalkozom, amire gondolsz. Nézd, haver, a gazdaság botorkál. Az asszony lelécelt. A fiam nem áll szóba velem. Nekem csak ennyi maradt!
+0x00000099 A kakizsonglőrködés művészet, nem vitás. Ha megfelelő a világítás, láthatod, ahogy ragyog, és még a dalát is hallod. Szipp!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000009a Így is van. Pontosan azzal foglalkozom, amire gondolsz. Nézd, haver, a gazdaság botorkál. Az asszony lelécelt. A fiam nem áll szóba velem. Nekem csak ennyi maradt!
+0x0000009b A kakizsonglőrködés művészet, nem vitás. Ha megfelelő a világítás, láthatod, ahogy ragyog, és még a dalát is hallod. Szipp!
+
+# Chatter for Act 5
+0x0000009c Jelentkezni akartam a Megazsonglőrre jövőre, nem érhetek ilyen csúf véget!
+0x0000009d A szagom miatt garantáltan én leszek az első célpontja! Menjetek a közelemből!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000009e Jelentkezni akartam a Megazsonglőrre jövőre, nem érhetek ilyen csúf véget!
+0x0000009f A szagom miatt garantáltan én leszek az első célpontja! Menjetek a közelemből!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #160 - Fa ajtó, bal szárny
+0x000000a0 Fa ajtó, bal szárny
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #161 - Wooden Doorway Right
+0x000000a1 Wooden Doorway Right
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #162 - Circus Cart
+0x000000a2 Circus Cart
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #163 - Colossal Poo Pile
+0x000000a3 Colossal Poo Pile
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #164 - Cloud Poison
+0x000000a4 Cloud Poison
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #165 - Poof Black
+0x000000a5 Poof Black
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #166 - Poof White
+0x000000a6 Poof White
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #167 - Legyek
+0x000000a7 Legyek
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #168 - Gyűjtőzacskó
+0x000000a8 Gyűjtőzacskó
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #169 - Cirkuszi kerítés
+0x000000a9 Cirkuszi kerítés
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #170 - Mr Puzzle Truck
+0x000000aa Mr Puzzle Truck
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #171 - Sátoralap
+0x000000ab Sátoralap
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #172 - Carny Tent Top Red
+0x000000ac Carny Tent Top Red
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #173 - Carny Flag Pole
+0x000000ad Carny Flag Pole
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #174 - Carny Truck White
+0x000000ae Carny Truck White
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #175 - Sátortető
+0x000000af Sátortető
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #176 - Carny Foodcart
+0x000000b0 Carny Foodcart
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #177 - Carny Table
+0x000000b1 Carny Table
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #178 - Láda
+0x000000b2 Láda
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #179 - Hordó
+0x000000b3 Hordó
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #180 - Dinamit
+0x000000b4 Dinamit
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #181 - Holiday Yellow Lights
+0x000000b5 Holiday Yellow Lights
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #182 - Cirkuszi rúd
+0x000000b6 Cirkuszi rúd
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #183 - Marquee
+0x000000b7 Marquee
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #184 - Carny Cage Bottom
+0x000000b8 Carny Cage Bottom
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #185 - Carny Cage Top
+0x000000b9 Carny Cage Top
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #186 - Carny Tent Top Large
+0x000000ba Carny Tent Top Large
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #187 - Carny Tent Bottom Large
+0x000000bb Carny Tent Bottom Large
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #188 - Carny Table Blue
+0x000000bc Carny Table Blue
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #189 - Carny Strongman Tent
+0x000000bd Carny Strongman Tent
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #190 - Holiday Purple Lights
+0x000000be Holiday Purple Lights
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #191 - Mallet
+0x000000bf Mallet
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #192 - Carny Arch
+0x000000c0 Carny Arch
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #193 - Erőművész
+0x000000c1 Erőművész
+
+# Chatter for Act 1
+0x000000c2 Elbírnék hattal közületek! Ha a Holdon lennénk, 99,6-tal is elbírnék! Ez tudományosan bizonyított tény, öcsi!
+0x000000c3 Mellesleg kitűnő üvegfúvó vagyok, de sajnos abból nem lehet megélni.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000c4 Elbírnék hattal közületek! Ha a Holdon lennénk, 99,6-tal is elbírnék! Ez tudományosan bizonyított tény, öcsi!
+0x000000c5 Mellesleg kitűnő üvegfúvó vagyok, de sajnos abból nem lehet megélni.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000c6 Elbírnék hattal közületek! Ha a Holdon lennénk, 99,6-tal is elbírnék! Ez tudományosan bizonyított tény, öcsi!
+0x000000c7 Mellesleg kitűnő üvegfúvó vagyok, de sajnos abból nem lehet megélni.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000c8 Elbírnék hattal közületek! Ha a Holdon lennénk, 99,6-tal is elbírnék! Ez tudományosan bizonyított tény, öcsi!
+0x000000c9 Mellesleg kitűnő üvegfúvó vagyok, de sajnos abból nem lehet megélni.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000000ca Hát nem döbbenetes?
+0x000000cb Ó, jaj, ez így nem lesz jó! A lábujjaim körmei nem szárazak!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000000cc Hát nem döbbenetes?
+0x000000cd Ó, jaj, ez így nem lesz jó! A lábujjaim körmei nem szárazak!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #206 - Súlyzó
+0x000000ce Súlyzó
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #207 - Carny Gypsy Ball
+0x000000cf Carny Gypsy Ball
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #208 - Carny Gypsy Tent
+0x000000d0 Carny Gypsy Tent
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #209 - Carny Moon
+0x000000d1 Carny Moon
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #210 - Carny Gypsy Sign
+0x000000d2 Carny Gypsy Sign
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #211 - Carny Gypsy Hand
+0x000000d3 Carny Gypsy Hand
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #212 - Carny Gypsy Star
+0x000000d4 Carny Gypsy Star
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #213 - Crickets Ambience 
+0x000000d5 Crickets Ambience 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #214 - Carny Bearded Lady Tent
+0x000000d6 Carny Bearded Lady Tent
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #215 - Siamese
+0x000000d7 Siamese
+
+# Chatter for Act 1
+0x000000d8 Egy csapat beszívott majom, egy vak víziló és egy szőke delfin bemennek egy bárba. Erre azt mondja a csapos: „Hogy a csudába sétált be az a delfin?”
+0x000000d9 Egy csapat beszívott majom, egy renegát krumpli és egy kakizsonglőr bemennek egy bárba. Erre azt mondja a csapos: „Miért olyan morcos az a krumpli?”
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000da Egy csapat beszívott majom, egy vak víziló és egy szőke delfin bemennek egy bárba. Erre azt mondja a csapos: „Hogy a csudába sétált be az a delfin?”
+0x000000db Egy csapat beszívott majom, egy renegát krumpli és egy kakizsonglőr bemennek egy bárba. Erre azt mondja a csapos: „Miért olyan morcos az a krumpli?”
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000dc Egy csapat beszívott majom, egy vak víziló és egy szőke delfin bemennek egy bárba. Erre azt mondja a csapos: „Hogy a csudába sétált be az a delfin?”
+0x000000dd Egy csapat beszívott majom, egy renegát krumpli és egy kakizsonglőr bemennek egy bárba. Erre azt mondja a csapos: „Miért olyan morcos az a krumpli?”
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000de Egy csapat beszívott majom, egy vak víziló és egy szőke delfin bemennek egy bárba. Erre azt mondja a csapos: „Hogy a csudába sétált be az a delfin?”
+0x000000df Egy csapat beszívott majom, egy renegát krumpli és egy kakizsonglőr bemennek egy bárba. Erre azt mondja a csapos: „Miért olyan morcos az a krumpli?”
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000000e0 Ha március fagyának erejét április langy esője veri szét...
+0x000000e1 Jól mondod, öreg!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000000e2 Ha március fagyának erejét április langy esője veri szét...
+0x000000e3 Jól mondod, öreg!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #228 - SiaAndMese
+0x000000e4 SiaAndMese
+
+# Chatter for Act 1
+0x000000e5 Ez semmiség. Az anyukánk három emberrel és egy öszvérrel volt összenőve!
+0x000000e6 Utáltuk.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000e7 Ez semmiség. Az anyukánk három emberrel és egy öszvérrel volt összenőve!
+0x000000e8 Utáltuk.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000e9 Ez semmiség. Az anyukánk három emberrel és egy öszvérrel volt összenőve!
+0x000000ea Utáltuk.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000eb Ez semmiség. Az anyukánk három emberrel és egy öszvérrel volt összenőve!
+0x000000ec Utáltuk.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000000ed Erre menjünk – arra menjünk – erre menjünk – arra menjünk – erre menjünk – arra menjünk!
+0x000000ee Megfájdul tőled a fejem!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000000ef Erre menjünk – arra menjünk – erre menjünk – arra menjünk – erre menjünk – arra menjünk!
+0x000000f0 Megfájdul tőled a fejem!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #241 - Siamese twins
+0x000000f1 Siamese twins
+
+# Chatter for Act 1
+0x000000f2 Komolyan, nem túl jó móka, ha valakivel a törzsednél vagy összenőve. Ugrókötelezni például kimondottan macerás így.
+
+0x000000f3 Persze egész jól jön, ha az ember itt a piros, hol a pirost játszik.
+
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000f4 Komolyan, nem túl jó móka, ha valakivel a törzsednél vagy összenőve. Ugrókötelezni például kimondottan macerás így.
+
+0x000000f5 Persze egész jól jön, ha az ember itt a piros, hol a pirost játszik.
+
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000f6 Komolyan, nem túl jó móka, ha valakivel a törzsednél vagy összenőve. Ugrókötelezni például kimondottan macerás így.
+
+0x000000f7 Persze egész jól jön, ha az ember itt a piros, hol a pirost játszik.
+
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000f8 Komolyan, nem túl jó móka, ha valakivel a törzsednél vagy összenőve. Ugrókötelezni például kimondottan macerás így.
+
+0x000000f9 Persze egész jól jön, ha az ember itt a piros, hol a pirost játszik.
+
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000000fa Nem követne bennünket, ha megtanulnád rendesen használni a vécépapírt!
+0x000000fb Na de kérlek!!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000000fc Nem követne bennünket, ha megtanulnád rendesen használni a vécépapírt!
+0x000000fd Na de kérlek!!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #254 - Piggy-backer
+0x000000fe Piggy-backer
+
+# Chatter for Act 1
+0x000000ff Fogd be! A szurkolókórus férfi tagjainál működik, és soha senki nem kérdőjelezi meg a férfiasságukat.
+0x00000100 Kérlek, szólj a lányoknak, hogy beszélgessenek velünk! Olyan magányosak vagyunk.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000101 Fogd be! A szurkolókórus férfi tagjainál működik, és soha senki nem kérdőjelezi meg a férfiasságukat.
+0x00000102 Kérlek, szólj a lányoknak, hogy beszélgessenek velünk! Olyan magányosak vagyunk.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000103 Fogd be! A szurkolókórus férfi tagjainál működik, és soha senki nem kérdőjelezi meg a férfiasságukat.
+0x00000104 Kérlek, szólj a lányoknak, hogy beszélgessenek velünk! Olyan magányosak vagyunk.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000105 Fogd be! A szurkolókórus férfi tagjainál működik, és soha senki nem kérdőjelezi meg a férfiasságukat.
+0x00000106 Kérlek, szólj a lányoknak, hogy beszélgessenek velünk! Olyan magányosak vagyunk.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000107 Most már leszállhatok arról az átkozott hátadról?
+0x00000108 Nyomik vagytok mind! Gyűlöltem ezt a melót! Ideje meghalni!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000109 Most már leszállhatok arról az átkozott hátadról?
+0x0000010a Nyomik vagytok mind! Gyűlöltem ezt a melót! Ideje meghalni!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #267 - The Three ape brothers
+0x0000010b The Three ape brothers
+
+# Chatter for Act 1
+0x0000010c Három majom. HÁROM. Nem hiszem, hogy az a csapatnyi idióta képes lenne bárhonnan elővarázsolni HÁROM majmot...
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000010d Három majom. HÁROM. Nem hiszem, hogy az a csapatnyi idióta képes lenne bárhonnan elővarázsolni HÁROM majmot...
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000010e Három majom. HÁROM. Nem hiszem, hogy az a csapatnyi idióta képes lenne bárhonnan elővarázsolni HÁROM majmot...
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000010f Három majom. HÁROM. Nem hiszem, hogy az a csapatnyi idióta képes lenne bárhonnan elővarázsolni HÁROM majmot...
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000110 Várjuk már a halált! Ide vele!
+0x00000111 Először bennünket öljetek meg, kérlek!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000112 Várjuk már a halált! Ide vele!
+0x00000113 Először bennünket öljetek meg, kérlek!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #276 - Moosini Brothers
+0x00000114 Moosini Brothers
+
+# Chatter for Act 1
+0x00000115 Hé, ember, mi így keressük meg a napi betevőt. Valami gondod van?
+0x00000116 Mi az, haver? Szeretnéd kipróbálni? Kérsz egy kis kóstolót a turbótrükkből? Naná, hogy nem, te LÚZER!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000117 Hé, ember, mi így keressük meg a napi betevőt. Valami gondod van?
+0x00000118 Mi az, haver? Szeretnéd kipróbálni? Kérsz egy kis kóstolót a turbótrükkből? Naná, hogy nem, te LÚZER!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000119 Hé, ember, mi így keressük meg a napi betevőt. Valami gondod van?
+0x0000011a Mi az, haver? Szeretnéd kipróbálni? Kérsz egy kis kóstolót a turbótrükkből? Naná, hogy nem, te LÚZER!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000011b Hé, ember, mi így keressük meg a napi betevőt. Valami gondod van?
+0x0000011c Mi az, haver? Szeretnéd kipróbálni? Kérsz egy kis kóstolót a turbótrükkből? Naná, hogy nem, te LÚZER!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x0000011d Ha ez a vége, meg kell mondanom, hogy az élet hatalmas szívás volt.
+0x0000011e A vízicsávó szerint hemperegnünk kellene...
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000011f Ha ez a vége, meg kell mondanom, hogy az élet hatalmas szívás volt.
+0x00000120 A vízicsávó szerint hemperegnünk kellene...
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #289 - Jövendőmondó
+0x00000121 Jövendőmondó
+
+# Chatter for Act 1
+0x00000122 Így is van, te huligán! Jövendőmondó vagyok, és egy szempillantás alatt megátkozhatlak! És akkor mi lesz veled, ha? Na azért, sejtettem, hogy ettől visszaveszel a lendületből.
+0x00000123 Dagadék!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000124 Így is van, te huligán! Jövendőmondó vagyok, és egy szempillantás alatt megátkozhatlak! És akkor mi lesz veled, ha? Na azért, sejtettem, hogy ettől visszaveszel a lendületből.
+0x00000125 Dagadék!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000126 Így is van, te huligán! Jövendőmondó vagyok, és egy szempillantás alatt megátkozhatlak! És akkor mi lesz veled, ha? Na azért, sejtettem, hogy ettől visszaveszel a lendületből.
+0x00000127 Dagadék!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000128 Így is van, te huligán! Jövendőmondó vagyok, és egy szempillantás alatt megátkozhatlak! És akkor mi lesz veled, ha? Na azért, sejtettem, hogy ettől visszaveszel a lendületből.
+0x00000129 Dagadék!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x0000012a Gyere közelebb, és megátkozlak!
+0x0000012b Farkasember!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000012c Gyere közelebb, és megátkozlak!
+0x0000012d Farkasember!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #302 - Szakállas hölgy
+0x0000012e Szakállas hölgy
+
+# Chatter for Act 1
+0x0000012f Persze, hogy illik a ruhád a szakálladhoz!
+0x00000130 Csókolj meg! A szőr csiklandozni fogja a szádat, majd meglátod!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000131 Persze, hogy illik a ruhád a szakálladhoz!
+0x00000132 Csókolj meg! A szőr csiklandozni fogja a szádat, majd meglátod!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000133 Persze, hogy illik a ruhád a szakálladhoz!
+0x00000134 Csókolj meg! A szőr csiklandozni fogja a szádat, majd meglátod!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000135 Persze, hogy illik a ruhád a szakálladhoz!
+0x00000136 Csókolj meg! A szőr csiklandozni fogja a szádat, majd meglátod!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000137 Most már elég lesz a jóból! Először szakállam nő, aztán megtámad egy ilyen szörnyeteg!
+0x00000138 Nem halhatok meg most! Soha nem csókoltak meg!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000139 Most már elég lesz a jóból! Először szakállam nő, aztán megtámad egy ilyen szörnyeteg!
+0x0000013a Nem halhatok meg most! Soha nem csókoltak meg!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #315 - Tűznyelő
+0x0000013b Tűznyelő
+
+# Chatter for Act 1
+0x0000013c A tűznyelés művészete egyidős a tűzzel. Annak idején persze senki nem élte túl.
+0x0000013d Tudod, mi megy jól a tűzhöz? A málnadzsem. Komolyan. És a borscs is.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000013e A tűznyelés művészete egyidős a tűzzel. Annak idején persze senki nem élte túl.
+0x0000013f Tudod, mi megy jól a tűzhöz? A málnadzsem. Komolyan. És a borscs is.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000140 A tűznyelés művészete egyidős a tűzzel. Annak idején persze senki nem élte túl.
+0x00000141 Tudod, mi megy jól a tűzhöz? A málnadzsem. Komolyan. És a borscs is.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000142 A tűznyelés művészete egyidős a tűzzel. Annak idején persze senki nem élte túl.
+0x00000143 Tudod, mi megy jól a tűzhöz? A málnadzsem. Komolyan. És a borscs is.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000144 Nem félek tőled! Én tüzet nyelek a fizetésemért! Arról persze ne beszéljünk, hogy te mit nyelsz...
+
+0x00000145 A bátyám is bogarakat eszik, mint te!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000146 Nem félek tőled! Én tüzet nyelek a fizetésemért! Arról persze ne beszéljünk, hogy te mit nyelsz...
+
+0x00000147 A bátyám is bogarakat eszik, mint te!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #328 - Bögöly
+0x00000148 Bögöly
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #329 - Panicking Crowd
+0x00000149 Panicking Crowd
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #330 - Puzzle Entry Tent
+0x0000014a Puzzle Entry Tent
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #331 - Shrapnel Bomb Once
+0x0000014b Shrapnel Bomb Once
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #332 - Dying Embers
+0x0000014c Dying Embers
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #333 - Ash Storm
+0x0000014d Ash Storm
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #334 - Akrobata
+0x0000014e Akrobata
+
+# Chatter for Act 1
+0x0000014f Játszi könnyedséggel hasítom a levegőt! Vagyis... Tulajdonképpen majd' beleszakadok.
+
+0x00000150 Éjjel harisnyát öltök, és Akrobatmannak nevezem magam. Aztán beállok a tükör elé és kényes kérdéseket teszek fel magamnak.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000151 Játszi könnyedséggel hasítom a levegőt! Vagyis... Tulajdonképpen majd' beleszakadok.
+
+0x00000152 Éjjel harisnyát öltök, és Akrobatmannak nevezem magam. Aztán beállok a tükör elé és kényes kérdéseket teszek fel magamnak.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000153 Játszi könnyedséggel hasítom a levegőt! Vagyis... Tulajdonképpen majd' beleszakadok.
+
+0x00000154 Éjjel harisnyát öltök, és Akrobatmannak nevezem magam. Aztán beállok a tükör elé és kényes kérdéseket teszek fel magamnak.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000155 Játszi könnyedséggel hasítom a levegőt! Vagyis... Tulajdonképpen majd' beleszakadok.
+
+0x00000156 Éjjel harisnyát öltök, és Akrobatmannak nevezem magam. Aztán beállok a tükör elé és kényes kérdéseket teszek fel magamnak.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000157 Tudtam, hogy a páncélozott tütümben kellett volna jönnöm!
+0x00000158 Mondd meg a mamának, hogy szeretem! És hogy mindig tudtam, ki vagyok valójában! És hogy megbocsátottam neki! De elfelejteni sosem fogom!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000159 Tudtam, hogy a páncélozott tütümben kellett volna jönnöm!
+0x0000015a Mondd meg a mamának, hogy szeretem! És hogy mindig tudtam, ki vagyok valójában! És hogy megbocsátottam neki! De elfelejteni sosem fogom!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #347 - Törpe
+0x0000015b Törpe
+
+# Chatter for Act 1
+0x0000015c Nem, ma este nem lesz törpehajítás.
+0x0000015d Nem cicózz velem, melák! Rendelkezem a törpék arányos erejével. Ha eltrafálom a micsodádat, az eget is nagybőgőnek nézed!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000015e Nem, ma este nem lesz törpehajítás.
+0x0000015f Nem cicózz velem, melák! Rendelkezem a törpék arányos erejével. Ha eltrafálom a micsodádat, az eget is nagybőgőnek nézed!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000160 Nem, ma este nem lesz törpehajítás.
+0x00000161 Nem cicózz velem, melák! Rendelkezem a törpék arányos erejével. Ha eltrafálom a micsodádat, az eget is nagybőgőnek nézed!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000162 Nem, ma este nem lesz törpehajítás.
+0x00000163 Nem cicózz velem, melák! Rendelkezem a törpék arányos erejével. Ha eltrafálom a micsodádat, az eget is nagybőgőnek nézed!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000164 Nem érhetek ilyen csúnya véget!
+0x00000165 Tömpe lábak, ne hagyjatok cserben épp most!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000166 Nem érhetek ilyen csúnya véget!
+0x00000167 Tömpe lábak, ne hagyjatok cserben épp most!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #360 - Hotdogárus
+0x00000168 Hotdogárus
+
+# Chatter for Act 1
+0x00000169 Elég már a hotdoggal kapcsolatos disznó viccekből! Vegyél egyet, aztán viszlát!
+0x0000016a De komolyan. A létező összes virslis viccet hallottam már. Istenuccse. Kérlek, vegyél egyet, aztán tűnj el!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000016b Elég már a hotdoggal kapcsolatos disznó viccekből! Vegyél egyet, aztán viszlát!
+0x0000016c De komolyan. A létező összes virslis viccet hallottam már. Istenuccse. Kérlek, vegyél egyet, aztán tűnj el!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000016d Elég már a hotdoggal kapcsolatos disznó viccekből! Vegyél egyet, aztán viszlát!
+0x0000016e De komolyan. A létező összes virslis viccet hallottam már. Istenuccse. Kérlek, vegyél egyet, aztán tűnj el!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000016f Elég már a hotdoggal kapcsolatos disznó viccekből! Vegyél egyet, aztán viszlát!
+0x00000170 De komolyan. A létező összes virslis viccet hallottam már. Istenuccse. Kérlek, vegyél egyet, aztán tűnj el!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000171 A kolbászkáim nem ismernek félelmet.
+0x00000172 Megégetheted a kiflimet, de a méltóságomat sohasem veheted el!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000173 A kolbászkáim nem ismernek félelmet.
+0x00000174 Megégetheted a kiflimet, de a méltóságomat sohasem veheted el!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #373 - Böhömbögöly
+0x00000175 Böhömbögöly
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #374 - Mine
+0x00000176 Mine
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #375 - Hotdog
+0x00000177 Hotdog
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #376 - Sting Victory Horns
+0x00000178 Sting Victory Horns
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #377 - Murva
+0x00000179 Murva
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #378 - Murva
+0x0000017a Murva
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #379 - Murva
+0x0000017b Murva
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #380 - Shrapnel Bomb Once
+0x0000017c Shrapnel Bomb Once
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #381 - Dying Embers
+0x0000017d Dying Embers
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #382 - Ash Storm
+0x0000017e Ash Storm
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #383 - Sátortető
+0x0000017f Sátortető
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #384 - Sátoralap
+0x00000180 Sátoralap
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #385 - Cirkuszi rúd
+0x00000181 Cirkuszi rúd
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #386 - Shrapnel Bomb Once
+0x00000182 Shrapnel Bomb Once
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #387 - Dying Embers
+0x00000183 Dying Embers
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #388 - Ash Storm
+0x00000184 Ash Storm
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #389 - Cluster Bomb Once
+0x00000185 Cluster Bomb Once
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #390 - Fire Camp
+0x00000186 Fire Camp
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #391 - Kokszzsonglőr
+0x00000187 Kokszzsonglőr
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #392 - Halott Dan
+0x00000188 Halott Dan
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #393 - Halott Hugh
+0x00000189 Halott Hugh
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #394 - Halott Breckin
+0x0000018a Halott Breckin
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #395 - Halott jövendőmondó
+0x0000018b Halott jövendőmondó
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #396 - Halott erőművész
+0x0000018c Halott erőművész
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #397 - Halott szakállas hölgy
+0x0000018d Halott szakállas hölgy
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #398 - Halott tűznyelő
+0x0000018e Halott tűznyelő
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #399 - Halott akrobata
+0x0000018f Halott akrobata
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #400 - Halott törpe
+0x00000190 Halott törpe
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #401 - Halott hotdogárus
+0x00000191 Halott hotdogárus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #402 - Rainfall
+0x00000192 Rainfall
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #403 - Rainfall Splash
+0x00000193 Rainfall Splash
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #404 - Cold Wind
+0x00000194 Cold Wind
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #405 - Thunder
+0x00000195 Thunder
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #406 - Creepy Wolves
+0x00000196 Creepy Wolves
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #407 - Nyöszi
+0x00000197 Nyöszi
+
+# Chatter for Act 1
+0x00000198 Jaj, ne! Körülvettek, és egyre többen vannak!
+0x00000199 Nem kellett volna megennem azt a Groxot! Ki a jó ég tudja, hogy ő mit evett előtte!
+
+0x0000019a Gonosz, gonosz kaki!
+0x0000019b Ó, mennyire gyűlölöm az emésztőtraktus minden egyes folyamatát!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000019c Jaj, ne! Körülvettek, és egyre többen vannak!
+0x0000019d Nem kellett volna megennem azt a Groxot! Ki a jó ég tudja, hogy ő mit evett előtte!
+
+0x0000019e Gonosz, gonosz kaki!
+0x0000019f Ó, mennyire gyűlölöm az emésztőtraktus minden egyes folyamatát!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000001a0 Nem hiszem el, megint megtörténik!
+0x000001a1 Hát ezért félek én ezektől a gonosz kis kupacoktól, a bogarak miatt!
+0x000001a2 Ha eleget esznek belőle, egy hatalmas bogárszörnnyé állnak össze, és megzabálják az összes ismerősömet!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000001a3 Nem hiszem el, megint megtörténik!
+0x000001a4 Hát ezért félek én ezektől a gonosz kis kupacoktól, a bogarak miatt!
+0x000001a5 Ha eleget esznek belőle, egy hatalmas bogárszörnnyé állnak össze, és megzabálják az összes ismerősömet!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x000001a6 Mindig ez történik azokkal, akiket szeretek!
+0x000001a7 Ez a cucc veszélyes!
+0x000001a8 A barátaim életére esküszöm, hogy soha többé nem fektetek kábelt!
+0x000001a9 Jaaaaaaaaaaaaaaj!
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #426 - Fáklya
+0x000001aa Fáklya
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #427 - Fire Pit
+0x000001ab Fire Pit
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #428 - Fire Camp
+0x000001ac Fire Camp
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #429 - Halott sziámi ikrek
+0x000001ad Halott sziámi ikrek
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #430 - Halott Szi és Ámi
+0x000001ae Halott Szi és Ámi
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #431 - Halott sziámifánt
+0x000001af Halott sziámifánt
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #432 - A halott Renini fivérek
+0x000001b0 A halott Renini fivérek
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #433 - Halott artista
+0x000001b1 Halott artista
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #434 - Halott majomfivérek
+0x000001b2 Halott majomfivérek
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #435 - Carny Tent Destroyed
+0x000001b3 Carny Tent Destroyed
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #436 - Carny Tent Large Destroyed
+0x000001b4 Carny Tent Large Destroyed
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #437 - Carny Gypsy Tent Destroyed
+0x000001b5 Carny Gypsy Tent Destroyed
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #438 - Bögöly
+0x000001b6 Bögöly
+
+# Chatter for Act 1
+0x000001b7 Zümm-zümm-zümm
+0x000001b8 Zümm-zümm-zümm
+0x000001b9 Zümm-nyamm-nyamm-zümm
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000001ba Zümm-zümm-zümm
+0x000001bb Zümm-zümm-zümm
+0x000001bc Zümm-nyamm-nyamm-zümm
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000001bd Zümm-zümm-zümm
+0x000001be Zümm-zümm-zümm
+0x000001bf Zümm-nyamm-nyamm-zümm
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000001c0 Zümm-zümm-zümm
+0x000001c1 Zümm-zümm-zümm
+0x000001c2 Zümm-nyamm-nyamm-zümm
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #451 - Smoke Black
+0x000001c3 Smoke Black
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #452 - Bögölycsali
+0x000001c4 Bögölycsali
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #453 - Bögölycsali
+0x000001c5 Bögölycsali
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #454 - Bögölycsali
+0x000001c6 Bögölycsali
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #455 - Bögöly
+0x000001c7 Bögöly
+
+# Chatter for Act 1
+0x000001c8 Zümm-zümm-zümm
+0x000001c9 Zümm-zümm-zümm
+0x000001ca Zümm-nyamm-nyamm-zümm
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000001cb Zümm-zümm-zümm
+0x000001cc Zümm-zümm-zümm
+0x000001cd Zümm-nyamm-nyamm-zümm
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000001ce Zümm-zümm-zümm
+0x000001cf Zümm-zümm-zümm
+0x000001d0 Zümm-nyamm-nyamm-zümm
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000001d1 Zümm-zümm-zümm
+0x000001d2 Zümm-zümm-zümm
+0x000001d3 Zümm-nyamm-nyamm-zümm
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #468 - Bögöly
+0x000001d4 Bögöly
+
+# Chatter for Act 1
+0x000001d5 Zümm-zümm-zümm
+0x000001d6 Zümm-zümm-zümm
+0x000001d7 Zümm-nyamm-nyamm-zümm
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000001d8 Zümm-zümm-zümm
+0x000001d9 Zümm-zümm-zümm
+0x000001da Zümm-nyamm-nyamm-zümm
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000001db Zümm-zümm-zümm
+0x000001dc Zümm-zümm-zümm
+0x000001dd Zümm-nyamm-nyamm-zümm
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000001de Zümm-zümm-zümm
+0x000001df Zümm-zümm-zümm
+0x000001e0 Zümm-nyamm-nyamm-zümm
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #481 - poo
+0x000001e1 poo
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #482 - Cirkuszi kerítés
+0x000001e2 Cirkuszi kerítés
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #483 - Circus sign
+0x000001e3 Circus sign
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #484 - Egy tábla csoki
+0x000001e4 Egy tábla csoki
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #485 - Vasvilla
+0x000001e5 Vasvilla
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #486 - Blue Key
+0x000001e6 Blue Key
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #487 - Empty Pen
+0x000001e7 Empty Pen
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #488 - Evil Whispers
+0x000001e8 Evil Whispers
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #489 - Desolate Wind
+0x000001e9 Desolate Wind
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+

@@ -1,0 +1,3409 @@
+# Auto-generated localization file for: Недоэдем (ID: 0X1F508D49)
+# Adventure name
+0x00000001 Недоэдем
+
+# Adventure description
+0x00000002 Помоги вернуть потерянный Рай! Одень его обитателей и верни яблоко на древо познания.  Автор - Кевин Шиник.
+
+# Intro text
+0x00000003 Верни Раю его исконную красоту, избавив нагих жителей от змей, и поведи их в СпорМастер!
+
+# Win text
+0x00000004 Прими поздравления! Ты вовсе не такая гадина, как мы думали! Добро пожаловать в Рай!
+
+# Lose text
+0x00000005 Сдается, тебя увлекли муки вечные? Не пообедать ли нам с твоей матушкой?
+
+# Act 1
+0x00000006 Сад Недоэдема
+0x00000007 В любой другой вселенной это не сочли бы хорошим советом, но не поговорить ли тебе с тем здоровенным голым типом?
+
+# Goal 1
+0x00000008 На помощь! Мы ступили! Знаешь пословицу про то, что каждый день надо есть по яблоку?
+0x00000009 Полная фигня. Зря мы в нее поверили.
+0x0000000a А теперь еще и змеи на нас нападают, и... ЭЙ! Мое лицо, между прочим, вот здесь! Может, будем вести себя пристойно?
+0x0000000b Прямо любопытная Варвара! У этого гадкого хищника ШЕСТЬ блудливых глаз, и пять из них пялятся на мои укромные места. Думаю, шестой глаз просто ленивый.
+0x0000000c Если тебе удастся сделать, так, чтобы они у него на лоб полезли, они станут ГЛАЗОБОМБАМИ! Они помогли бы нам избавиться от змей и добыть кое-какую одежду. Кстати, у меня талия 58 сантиметров.
+
+
+# Act 2
+0x0000000d Глаза все видят
+0x0000000e Если тебе нужно всего лишь потанцевать, чтобы этот извращенный хищник бросил свои глазобомбы, то считай, что тебе повезло.
+
+# Goal 1
+0x0000000f На что ты смотришь? Разве есть заповедь, которая гласит: "Не возжелай наготы ближнего своего"! Так что вали отсюда!
+0x00000010 Ежли ты ждешь, что у меня глаза на лоб полезут, то давай потягаемся. Я повидал задниц больше, чем любой унитаз. И передниц тоже.
+0x00000011 И ничто меня не ошарашивает сильнее, чем дураки, готовые танцевать на глазах у всех.
+
+# Goal 2
+
+
+# Act 3
+0x00000012 Глаза все видят
+0x00000013 Пока тебе приходилось пользоваться головой, теперь воспользуйся глазами и уничтожь змей!
+
+# Goal 1
+
+
+# Act 4
+0x00000014 Нет одежки - нет и стыда.
+0x00000015 Ох ты! Это же особенное яблоко! Теперь бери его и веди этих дураков в местный СпорМастер.
+
+# Goal 1
+
+# Goal 2
+
+
+# Act 5
+0x00000016 Возврат и обмен не производятся
+0x00000017 Пока все бросаются за одеждой, найди Годфри, менеджера СпорМастера,  дай ему яблоко. Кредитки не принимаются.
+
+# Goal 1
+0x00000018 Спасибо за покупку у Годфри - в самом крупном галактическом РамСпоре!
+0x00000019 Купив столько одежды и вернув яблоко, ты становишься сегодня нашим Любимым Покупателем!
+0x0000001a И в благодарность я восстанавливаю Рай в его первозданной красоте! Можешь выйти и посмотреть! И не про...имей его снова!
+0x0000001b Заходи еще, если что.
+
+# Goal 2
+
+
+# Act 6
+0x0000001c В День Последний Он затусил!
+0x0000001d Найди Руди и посмотри его новые шмотки.
+
+# Goal 1
+
+# Goal 2
+0x0000001e О! Вот и ты! Спасибо тебе огромное за спасение планеты. Даже не пришлось пускать ее на переработку.
+0x0000001f Как тебе мой новый вид? Я думаю, мне это поможет охмурять дам.
+0x00000020 Или не дам. Я запутался.
+0x00000021 Сердце мое.
+
+
+# Prop #34 - Pear
+0x00000022 Pear
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #35 - Skeleton Cluster
+0x00000023 Skeleton Cluster
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #36 - Skeleton Ribcage
+0x00000024 Skeleton Ribcage
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #37 - Skeleton Fish
+0x00000025 Skeleton Fish
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #38 - Руди Голимец
+0x00000026 Руди Голимец
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #39 - СпорМарстер
+0x00000027 СпорМарстер
+
+# Chatter for Act 1
+0x00000028 СпорМарстер
+0x00000029 Добро пожаловать нагишом!
+0x0000002a Специальные воскресные суперцены!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000002b СпорМарстер
+0x0000002c Добро пожаловать нагишом!
+0x0000002d Специальные воскресные суперцены!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000002e СпорМарстер
+0x0000002f Добро пожаловать нагишом!
+0x00000030 Специальные воскресные суперцены!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000031 СпорМарстер
+0x00000032 Добро пожаловать нагишом!
+0x00000033 Специальные воскресные суперцены!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #52 - Marquee
+0x00000034 Marquee
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #53 - Skeleton Head
+0x00000035 Skeleton Head
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #54 - Skeleton Fragments
+0x00000036 Skeleton Fragments
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #55 - Skeleton Bone
+0x00000037 Skeleton Bone
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #56 - Conglomerate Rock
+0x00000038 Conglomerate Rock
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #57 - Fig
+0x00000039 Fig
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #58 - Гляделка
+0x0000003a Гляделка
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #59 - Гляделка
+0x0000003b Гляделка
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #60 - Grenade
+0x0000003c Grenade
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #61 - Пшик (Спормастер)
+0x0000003d Пшик (Спормастер)
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #62 - Змея
+0x0000003e Змея
+
+# Chatter for Act 1
+0x0000003f Ммммм! Еще беленькое мяско!
+0x00000040 Голышшш, голышшшш, голышшоооок.
+0x00000041 Ах, черт! Ну и местечко.
+0x00000042 Этим вовсе не наешься.
+0x00000043 Да я не худая, я просто голодная.
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000044 Ммммм! Еще беленькое мяско!
+0x00000045 Голышшш, голышшшш, голышшоооок.
+0x00000046 Ах, черт! Ну и местечко.
+0x00000047 Этим вовсе не наешься.
+0x00000048 Да я не худая, я просто голодная.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000049 Ммммм! Еще беленькое мяско!
+0x0000004a Голышшш, голышшшш, голышшоооок.
+0x0000004b Ах, черт! Ну и местечко.
+0x0000004c Этим вовсе не наешься.
+0x0000004d Да я не худая, я просто голодная.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #78 - Mongtu
+0x0000004e Mongtu
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #79 - Яблоко
+0x0000004f Яблоко
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #80 - Glitter Sphere
+0x00000050 Glitter Sphere
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #81 - Мистическое яблоко
+0x00000051 Мистическое яблоко
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000052 Мистическое яблоко
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000053 Мистическое яблоко
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000054 Мистическое яблоко
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #85 - Panicking Crowd
+0x00000055 Panicking Crowd
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #86 - Toronado
+0x00000056 Toronado
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #87 - Jump Pad 
+0x00000057 Jump Pad 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #88 - Binoculars
+0x00000058 Binoculars
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #89 - Folding Chair
+0x00000059 Folding Chair
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #90 - Mordleff
+0x0000005a Mordleff
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #91 - Pounded Plaza
+0x0000005b Pounded Plaza
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #92 - SporeMart Sides Damaged
+0x0000005c SporeMart Sides Damaged
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #93 - SporeMart Door Damaged Closed
+0x0000005d SporeMart Door Damaged Closed
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #94 - В Эдем
+0x0000005e В Эдем
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #95 - SporeMart Wall
+0x0000005f SporeMart Wall
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #96 - Museum Windows
+0x00000060 Museum Windows
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #97 - SporeMart Wall End
+0x00000061 SporeMart Wall End
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #98 - SporeMart Pole
+0x00000062 SporeMart Pole
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #99 - SporeMart Counter 1
+0x00000063 SporeMart Counter 1
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #100 - SporeMart Counter 2
+0x00000064 SporeMart Counter 2
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #101 - Годфри
+0x00000065 Годфри
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #102 - В СпорМастер
+0x00000066 В СпорМастер
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #103 - SporeMart
+0x00000067 SporeMart
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #104 - SporeMart Sides
+0x00000068 SporeMart Sides
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #105 - Gardelobatus
+0x00000069 Gardelobatus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #106 - Grundspurius
+0x0000006a Grundspurius
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #107 - Zona
+0x0000006b Zona
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #108 - Rainbow
+0x0000006c Rainbow
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #109 - Forest Ambience
+0x0000006d Forest Ambience
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #110 - Одетый Руди
+0x0000006e Одетый Руди
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #111 - Троглодит
+0x0000006f Троглодит
+
+# Chatter for Act 1
+0x00000070 Мне негде держать кошелек.
+0x00000071 Сейчас все бы отдал за бандаж!
+0x00000072 Надеюсь, на день восьмой он создаст мазелин!
+0x00000073 Похоже, я только что блеснул достоинством.
+0x00000074 Это придает новый смысл термину "бег в мешке".
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000075 Мне негде держать кошелек.
+0x00000076 Сейчас все бы отдал за бандаж!
+0x00000077 Надеюсь, на день восьмой он создаст мазелин!
+0x00000078 Похоже, я только что блеснул достоинством.
+0x00000079 Это придает новый смысл термину "бег в мешке".
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000007a Он наверняка учуял мою змею!
+0x0000007b Прямо как на съемках "Голой правды".
+0x0000007c Я того и гляди стану голым завтраком.
+0x0000007d Змеиным, Шелдон, змеиным!
+0x0000007e Вот именно такое мне и снится, как наемся бурритос!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000007f Ух ты! И правда - яблоко от яблони недалеко падает!
+0x00000080 Такое спелое!
+0x00000081 Почему у меня такое ощущение, будто бы я объясняю теорию всемирного  тяготения?
+0x00000082 Надеюсь, мои акции Pear не упали в цене.
+0x00000083 Чего мы все так уставились на это яблоко?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000084 Оно просто сказочное!
+0x00000085 Похоже, я теряю вес на этой яблочной  диете.
+0x00000086 Кто-нибудь еще сгорел на солнце?
+0x00000087 У меня аллергия на шерсть.
+0x00000088 А мы можем зайти в ресторанный дворик?
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #137 - Троглодит
+0x00000089 Троглодит
+
+# Chatter for Act 1
+0x0000008a Он наверняка учуял мою змею!
+0x0000008b Прямо как на съемках "Голой правды".
+0x0000008c Я того и гляди стану голым завтраком.
+0x0000008d Змеиным, Шелдон, змеиным!
+0x0000008e Вот именно такое мне и снится, как наемся бурритос!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000008f Он наверняка учуял мою змею!
+0x00000090 Прямо как на съемках "Голой правды".
+0x00000091 Я того и гляди стану голым завтраком.
+0x00000092 Змеиным, Шелдон, змеиным!
+0x00000093 Вот именно такое мне и снится, как наемся бурритос!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000094 Он наверняка учуял мою змею!
+0x00000095 Прямо как на съемках "Голой правды".
+0x00000096 Я того и гляди стану голым завтраком.
+0x00000097 Змеиным, Шелдон, змеиным!
+0x00000098 Вот именно такое мне и снится, как наемся бурритос!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000099 Ух ты! И правда - яблоко от яблони недалеко падает!
+0x0000009a Такое спелое!
+0x0000009b Почему у меня такое ощущение, будто бы я объясняю теорию всемирного  тяготения?
+0x0000009c Надеюсь, мои акции Pear не упали в цене.
+0x0000009d Чего мы все так уставились на это яблоко?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x0000009e Оно просто сказочное!
+0x0000009f Похоже, я теряю вес на этой яблочной  диете.
+0x000000a0 Кто-нибудь еще сгорел на солнце?
+0x000000a1 У меня аллергия на шерсть.
+0x000000a2 А мы можем зайти в ресторанный дворик?
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #163 - Троглодит
+0x000000a3 Троглодит
+
+# Chatter for Act 1
+0x000000a4 Мне негде держать кошелек.
+0x000000a5 Сейчас все бы отдал за бандаж!
+0x000000a6 Надеюсь, на день восьмой он создаст мазелин!
+0x000000a7 Похоже, я только что блеснул достоинством.
+0x000000a8 Это придает новый смысл термину "бег в мешке".
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000a9 Мне негде держать кошелек.
+0x000000aa Сейчас все бы отдал за бандаж!
+0x000000ab Надеюсь, на день восьмой он создаст мазелин!
+0x000000ac Похоже, я только что блеснул достоинством.
+0x000000ad Это придает новый смысл термину "бег в мешке".
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000ae Он наверняка учуял мою змею!
+0x000000af Прямо как на съемках "Голой правды".
+0x000000b0 Я того и гляди стану голым завтраком.
+0x000000b1 Змеиным, Шелдон, змеиным!
+0x000000b2 Вот именно такое мне и снится, как наемся бурритос!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000b3 Ух ты! И правда - яблоко от яблони недалеко падает!
+0x000000b4 Такое спелое!
+0x000000b5 Почему у меня такое ощущение, будто бы я объясняю теорию всемирного  тяготения?
+0x000000b6 Надеюсь, мои акции Pear не упали в цене.
+0x000000b7 Чего мы все так уставились на это яблоко?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000000b8 Оно просто сказочное!
+0x000000b9 Похоже, я теряю вес на этой яблочной  диете.
+0x000000ba Кто-нибудь еще сгорел на солнце?
+0x000000bb У меня аллергия на шерсть.
+0x000000bc А мы можем зайти в ресторанный дворик?
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #189 - Троглодитка
+0x000000bd Троглодитка
+
+# Chatter for Act 1
+0x000000be Мне негде держать кошелек.
+0x000000bf Сейчас все бы отдал за бандаж!
+0x000000c0 Надеюсь, на день восьмой он создаст мазелин!
+0x000000c1 Похоже, я только что блеснул достоинством.
+0x000000c2 Это придает новый смысл термину "бег в мешке".
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000c3 Мне негде держать кошелек.
+0x000000c4 Сейчас все бы отдал за бандаж!
+0x000000c5 Надеюсь, на день восьмой он создаст мазелин!
+0x000000c6 Похоже, я только что блеснул достоинством.
+0x000000c7 Это придает новый смысл термину "бег в мешке".
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000c8 Прямо как на съемках "Голой правды".
+0x000000c9 Я того и гляди стану голым завтраком.
+0x000000ca Змеиным, Шелдон, змеиным!
+0x000000cb Вот именно такое мне и снится, как наемся бурритос!
+0x000000cc Смотри, куда вещи кидаешь!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000cd Ух ты! И правда - яблоко от яблони недалеко падает!
+0x000000ce Такое спелое!
+0x000000cf Почему у меня такое ощущение, будто бы я объясняю теорию всемирного  тяготения?
+0x000000d0 Надеюсь, мои акции Pear не упали в цене.
+0x000000d1 Чего мы все так уставились на это яблоко?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000000d2 Оно просто сказочное!
+0x000000d3 Похоже, я теряю вес на этой яблочной  диете.
+0x000000d4 Кто-нибудь еще сгорел на солнце?
+0x000000d5 У меня аллергия на шерсть.
+0x000000d6 А мы можем зайти в ресторанный дворик?
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #215 - Троглодит
+0x000000d7 Троглодит
+
+# Chatter for Act 1
+0x000000d8 Он наверняка учуял мою змею!
+0x000000d9 Прямо как на съемках "Голой правды".
+0x000000da Я того и гляди стану голым завтраком.
+0x000000db Змеиным, Шелдон, змеиным!
+0x000000dc Вот именно такое мне и снится, как наемся бурритос!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000dd Он наверняка учуял мою змею!
+0x000000de Прямо как на съемках "Голой правды".
+0x000000df Я того и гляди стану голым завтраком.
+0x000000e0 Змеиным, Шелдон, змеиным!
+0x000000e1 Вот именно такое мне и снится, как наемся бурритос!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000e2 Он наверняка учуял мою змею!
+0x000000e3 Прямо как на съемках "Голой правды".
+0x000000e4 Я того и гляди стану голым завтраком.
+0x000000e5 Змеиным, Шелдон, змеиным!
+0x000000e6 Вот именно такое мне и снится, как наемся бурритос!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000000e7 Ух ты! И правда - яблоко от яблони недалеко падает!
+0x000000e8 Такое спелое!
+0x000000e9 Почему у меня такое ощущение, будто бы я объясняю теорию всемирного  тяготения?
+0x000000ea Надеюсь, мои акции Pear не упали в цене.
+0x000000eb Чего мы все так уставились на это яблоко?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000000ec Оно просто сказочное!
+0x000000ed Похоже, я теряю вес на этой яблочной  диете.
+0x000000ee Кто-нибудь еще сгорел на солнце?
+0x000000ef У меня аллергия на шерсть.
+0x000000f0 А мы можем зайти в ресторанный дворик?
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #241 - Троглодит
+0x000000f1 Троглодит
+
+# Chatter for Act 1
+0x000000f2 Мне негде держать кошелек.
+0x000000f3 Сейчас все бы отдал за бандаж!
+0x000000f4 Надеюсь, на день восьмой он создаст мазелин!
+0x000000f5 Похоже, я только что блеснул достоинством.
+0x000000f6 Это придает новый смысл термину "бег в мешке".
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000000f7 Мне негде держать кошелек.
+0x000000f8 Сейчас все бы отдал за бандаж!
+0x000000f9 Надеюсь, на день восьмой он создаст мазелин!
+0x000000fa Похоже, я только что блеснул достоинством.
+0x000000fb Это придает новый смысл термину "бег в мешке".
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000000fc Он наверняка учуял мою змею!
+0x000000fd Прямо как на съемках "Голой правды".
+0x000000fe Я того и гляди стану голым завтраком.
+0x000000ff Змеиным, Шелдон, змеиным!
+0x00000100 Вот именно такое мне и снится, как наемся бурритос!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000101 Ух ты! И правда - яблоко от яблони недалеко падает!
+0x00000102 Такое спелое!
+0x00000103 Почему у меня такое ощущение, будто бы я объясняю теорию всемирного  тяготения?
+0x00000104 Надеюсь, мои акции Pear не упали в цене.
+0x00000105 Чего мы все так уставились на это яблоко?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000106 Оно просто сказочное!
+0x00000107 Похоже, я теряю вес на этой яблочной  диете.
+0x00000108 Кто-нибудь еще сгорел на солнце?
+0x00000109 У меня аллергия на шерсть.
+0x0000010a А мы можем зайти в ресторанный дворик?
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #267 - Троглодит
+0x0000010b Троглодит
+
+# Chatter for Act 1
+0x0000010c Он наверняка учуял мою змею!
+0x0000010d Прямо как на съемках "Голой правды".
+0x0000010e Я того и гляди стану голым завтраком.
+0x0000010f Змеиным, Шелдон, змеиным!
+0x00000110 Вот именно такое мне и снится, как наемся бурритос!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000111 Он наверняка учуял мою змею!
+0x00000112 Прямо как на съемках "Голой правды".
+0x00000113 Я того и гляди стану голым завтраком.
+0x00000114 Змеиным, Шелдон, змеиным!
+0x00000115 Вот именно такое мне и снится, как наемся бурритос!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000116 Он наверняка учуял мою змею!
+0x00000117 Прямо как на съемках "Голой правды".
+0x00000118 Я того и гляди стану голым завтраком.
+0x00000119 Змеиным, Шелдон, змеиным!
+0x0000011a Вот именно такое мне и снится, как наемся бурритос!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000011b Ух ты! И правда - яблоко от яблони недалеко падает!
+0x0000011c Такое спелое!
+0x0000011d Почему у меня такое ощущение, будто бы я объясняю теорию всемирного  тяготения?
+0x0000011e Надеюсь, мои акции Pear не упали в цене.
+0x0000011f Чего мы все так уставились на это яблоко?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000120 Оно просто сказочное!
+0x00000121 Похоже, я теряю вес на этой яблочной  диете.
+0x00000122 Кто-нибудь еще сгорел на солнце?
+0x00000123 У меня аллергия на шерсть.
+0x00000124 А мы можем зайти в ресторанный дворик?
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #293 - Одетый
+0x00000125 Одетый
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000126 Мне нравятся вечеринки в саду
+0x00000127 Нагишом ты мне нравишься больше
+0x00000128 Тусанем как на девятый день!
+0x00000129 Похоже, я наступил на ядовитый плющ.
+0x0000012a Да тут и пятидесяти садовников не хватит!
+
+# Inspect for Act 6
+
+# Prop #299 - Одетый
+0x0000012b Одетый
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000012c Мне нравятся вечеринки в саду
+0x0000012d Нагишом ты мне нравишься больше
+0x0000012e Тусанем как на девятый день!
+0x0000012f Похоже, я наступил на ядовитый плющ.
+0x00000130 Да тут и пятидесяти садовников не хватит!
+
+# Inspect for Act 6
+
+# Prop #305 - Одетый
+0x00000131 Одетый
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000132 Мне нравятся вечеринки в саду
+0x00000133 Нагишом ты мне нравишься больше
+0x00000134 Тусанем как на девятый день!
+0x00000135 Похоже, я наступил на ядовитый плющ.
+0x00000136 Да тут и пятидесяти садовников не хватит!
+
+# Inspect for Act 6
+
+# Prop #311 - Одетый
+0x00000137 Одетый
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000138 Мне нравятся вечеринки в саду
+0x00000139 Нагишом ты мне нравишься больше
+0x0000013a Тусанем как на девятый день!
+0x0000013b Похоже, я наступил на ядовитый плющ.
+0x0000013c Да тут и пятидесяти садовников не хватит!
+
+# Inspect for Act 6
+
+# Prop #317 - Одетый
+0x0000013d Одетый
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000013e Мне нравятся вечеринки в саду
+0x0000013f Нагишом ты мне нравишься больше
+0x00000140 Тусанем как на девятый день!
+0x00000141 Похоже, я наступил на ядовитый плющ.
+0x00000142 Да тут и пятидесяти садовников не хватит!
+
+# Inspect for Act 6
+
+# Prop #323 - Одетый
+0x00000143 Одетый
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000144 Мне нравятся вечеринки в саду
+0x00000145 Нагишом ты мне нравишься больше
+0x00000146 Тусанем как на девятый день!
+0x00000147 Похоже, я наступил на ядовитый плющ.
+0x00000148 Да тут и пятидесяти садовников не хватит!
+
+# Inspect for Act 6
+
+# Prop #329 - Одетый
+0x00000149 Одетый
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000014a Мне нравятся вечеринки в саду
+0x0000014b Нагишом ты мне нравишься больше
+0x0000014c Тусанем как на девятый день!
+0x0000014d Похоже, я наступил на ядовитый плющ.
+0x0000014e Да тут и пятидесяти садовников не хватит!
+
+# Inspect for Act 6
+
+# Prop #335 - Троглодит
+0x0000014f Троглодит
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #336 - Троглодит
+0x00000150 Троглодит
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #337 - Blue Gate
+0x00000151 Blue Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #338 - Свет Эдема
+0x00000152 Свет Эдема
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #339 - Руди Солнышко
+0x00000153 Руди Солнышко
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #340 - Вешалка A
+0x00000154 Вешалка A
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #341 - Вешалка В
+0x00000155 Вешалка В
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #342 - Вешалка С
+0x00000156 Вешалка С
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #343 - Poof White
+0x00000157 Poof White
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #344 - Cha Cha
+0x00000158 Cha Cha
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #345 - Boogaloo
+0x00000159 Boogaloo
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #346 - Sting Angels
+0x0000015a Sting Angels
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #347 - Sting Fairy 
+0x0000015b Sting Fairy 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #348 - Sunbeams
+0x0000015c Sunbeams
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #349 - Awed Crowd
+0x0000015d Awed Crowd
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #350 - Glitter Sphere
+0x0000015e Glitter Sphere
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #351 - Searchlight
+0x0000015f Searchlight
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #352 - Female Scream
+0x00000160 Female Scream
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #353 - PervCat's Magazines
+0x00000161 PervCat's Magazines
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #354 - Butterflies
+0x00000162 Butterflies
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #355 - Pond
+0x00000163 Pond
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #356 - Waterfall
+0x00000164 Waterfall
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #357 - SporeMart Sign
+0x00000165 SporeMart Sign
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #358 - Spotlight Lone 
+0x00000166 Spotlight Lone 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #359 - Runway Lights
+0x00000167 Runway Lights
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #360 - Festivity Fountain
+0x00000168 Festivity Fountain
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #361 - Foliage Folly
+0x00000169 Foliage Folly
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #362 - Crate Classic
+0x0000016a Crate Classic
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #363 - City Lights
+0x0000016b City Lights
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #364 - Marquee
+0x0000016c Marquee
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #365 - Balloons
+0x0000016d Balloons
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #366 - Glitter Sphere
+0x0000016e Glitter Sphere
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #367 - Fog White
+0x0000016f Fog White
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #368 - Halo
+0x00000170 Halo
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #369 - Isoslaya
+0x00000171 Isoslaya
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #370 - Zazafuscus
+0x00000172 Zazafuscus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #371 - Pinjoop
+0x00000173 Pinjoop
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #372 - Crumjewl
+0x00000174 Crumjewl
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #373 - Frumptash
+0x00000175 Frumptash
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #374 - Pond
+0x00000176 Pond
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #375 - Dimple Stack
+0x00000177 Dimple Stack
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #376 - Birdy
+0x00000178 Birdy
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #377 - Airship
+0x00000179 Airship
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #378 - Cloud Lightning
+0x0000017a Cloud Lightning
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #379 - Unicorn
+0x0000017b Unicorn
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #380 - Гляделка
+0x0000017c Гляделка
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000017d Мне больше нравятся голые парни.
+0x0000017e Что хозяйство прикрываешь? Тупо.
+
+# Inspect for Act 6
+
+# Prop #383 - Змея
+0x0000017f Змея
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #384 - Power-Up Health
+0x00000180 Power-Up Health
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #385 - Вешалка D
+0x00000181 Вешалка D
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #386 - Broken SporeMart sign
+0x00000182 Broken SporeMart sign
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Prop #387 - Ева
+0x00000183 Ева
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000184 Меня зовут Ева
+0x00000185 Почему бы тебе просто не получить удовольствие от нового сценария?
+0x00000186 Как от шоколадки.
+
+# Inspect for Act 6
+
+# Prop #391 - Змей
+0x00000187 Змей
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000188 Эй, лапа! Как тебя зовут?
+0x00000189 Давай! Разделим яблоко на двоих!
+0x0000018a Выглядит, как будто здесь единорог нарыгал. А мне нравится, когда все темное.
+0x0000018b Как моя душа.
+
+# Inspect for Act 6
+
+# Prop #396 - Яблоко!
+0x0000018c Яблоко!
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+

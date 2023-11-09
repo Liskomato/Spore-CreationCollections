@@ -1,0 +1,3736 @@
+# Auto-generated localization file for: Az irodalom szentélye (ID: 0X43DC9218)
+# Adventure name
+0x00000001 Az irodalom szentélye
+
+# Adventure description
+0x00000002 Egy ember érkezik... Egy ember távozik... És általában a távozó fickó ugyanaz, mint aki megérkezett. Írta: Breckin Meyer.
+
+# Intro text
+0x00000003 A tudás hatalom. Hosszabbítsd meg az OLVASÓJEGYED a könyvtárossal. Nem feltétlenül kisasszony, férfi is lehet... Te szexista játékos, te.
+
+# Win text
+0x00000004 SIKERÜLT! Büszke vagyok rád... bizony... Mert megvalósítottad, amit elterveztél... Ennyi, igen. Azért ne túlozzunk, nem találtad fel a rák ellenszerét! Na, tűnj el.
+
+# Lose text
+0x00000005 Kudarcot vallottál. Nagyon csalódott vagyok. Talán a többieknek igazuk volt veled kapcsolatban... Most úgy érzem magam, mint egy idióta. Remélem, boldog vagy... lúzer!
+
+# Act 1
+0x00000006 Hosszabbítást kérünk
+0x00000007 Menj és beszélj a könyvtárvezetővel, Kalamáris úrral! Igen, a könyvtárosok között is vannak férfiak... te szexista, te! Keresd meg, és végre térj magadhoz, már nem az 50-es években vagyunk!
+
+# Goal 1
+0x00000008 Üdv, fiatalember. Azért vagy itt, hogy meghosszabbítsd az útleveledet Tudásországba? Hát persze, hogy az olvasójegyedről beszélek!
+0x00000009 Ilyet nem kaphat akárki, nem osztogatjuk őket csak úgy, mint azokat a dolgokat, amelyeket csak úgy osztogatunk. Világos? Igen, vén vagyok és bogaras, DE KI VAGY TE, HOGY ÍTÉLKEZZ FELETTEM?!
+0x0000000a Kicsit sem vagyok benne biztos, hogy tetszik a képed, a cipőd színe, a hangod csengése. Honnan tudjam, hogy képes leszel jól sáfárkodni az erőkkel, amelyek birtokodba kerülnek A KÁRTYÁVAL?!
+0x0000000b Jobb, ha tőlem tudod: fel kell kötnöd a gatyádat! Apropó gatya, kié van rajtam vajon? Ideje bevennem a gyógyszereimet, beszélj a könyvkukaccal, majd megtanítja neked a mi kis rumbánk lépéseit!
+0x0000000c És ne feledd, rajtad tartom a szememet! A jó szememet. Azt, amelyikkel még látok. A másik az ebédemet őrzi.
+
+
+# Act 2
+0x0000000d Könyvkukac
+0x0000000e A könyvkukac bajára csak te tudod a gyógyírt... Mondom: KÖNYVkukac! TE MÉGIS MILYEN KUKACRA GONDOLTÁL? Az a piszkos fantáziád... Csak keress egy benga kukacot, aki olvas! Nem könnyű veled.
+
+# Goal 1
+0x0000000f Hé! Hát odamegyek én a te munkahelyedre, hogy kiüssem a pecabotot a kezedből? Bizony, lehorgászoztalak! Tűnj el, mielőtt a hátsódba bökök egy horgot és belógatlak a cápák akváriuma fölé!
+0x00000010 Kalamáris küldött? Miért nem mondtad? Ja, várj csak, hiszen mondtad. Szóval olvasójegyre fáj a fogad. Szeretnéd teleszívni magad tudással, igaz-e?
+0x00000011 Tudok segíteni, de csak ha megteszel valamit a kedvemért. El kell menned Mordork várába, megtalálni a Gyűrűt... NE AGGÓDJ, CSAK UGRATLAK!
+0x00000012 Ez nem szokványos könyvtár ám. Nálunk kanapék is vannak! Nem is beszélve arról, hogy nálunk a könyvek életre kelnek... Na jó, mégis inkább a kanapékat kellene használni vevőcsalogatónak, ugye?
+0x00000013 Tégy nekem egy szívességet, és keríts egy könyvet, ami a nagy, kerek, szaftos... NEM, NEM, TE KERGEBIRKA! Almák! Hozz nekem egy könyvet az almákról. Egek, mi van ezekkel a mai kölykökkel?
+
+# Goal 2
+0x00000014 Egyszer volt, hol nem volt, volt egyszer egy alma, akit úgy hívtak, PC. Értitek, ugye? PC volt a legpirosabb és legfinomabb az összes alma közül!
+0x00000015 Egy napon PC sétálni indult, amikor egyszer csak egy furgon fékezett le előtte. Egy csapat dühös orvos pattant ki belőle, és az almaszószt is kiverték szegény PC-ből.
+0x00000016 Amikor az orvosok befejezték PC püfölését és elindultak, az egyikük visszanézett és így szólt: „Ezt azért kaptad, mert távol tartasz bennünket a betegeinktől, te finom, pirospozsgás &%$@*%#!”
+0x00000017 PC túlélte az esetet, de soha többé nem zongorázhatott... Nem mintha eddig tudott volna, végtére is csak egy alma volt, de mindig ott volt a lehetőség, hogy megpróbálhatja. De már soha többé!
+0x00000018 Így hát lassan megbomlott az elméje, most pedig a kikötőben dolgozik Motyó álnév alatt. Vége a mesének.
+
+
+# Act 3
+0x00000019 Almánia
+0x0000001a Kopp-kopp! Ki kopog? Alma. Milyen alma? ELÉG MÁR, VIDD VISSZA AZT AZ ÁTKOZOTT ALMÁT A KÖNVKUKACHOZ!
+
+# Goal 1
+
+
+# Act 4
+0x0000001b Leopolisz
+0x0000001c Menj, beszélj azzal a kócos sörényű nagymacskával, de vigyázz... Nem adhat mást, csak mi lényege, az pedig az ő esetében nem más, mint a többiek elfogyasztása.
+
+# Goal 1
+0x0000001d Valaki bal lábbal lépett le a talapzatról ma reggel... Hogy néz ki az a sörény? Loncsos, lompos és bozontos, hát így néz ki az állatok királya?
+0x0000001e Ez egy felettébb mogorva oroszlán. Emlékeztek arra a filmre, a „Morcos harcos” címűre? Ha ő játszana benne, „Morcos oroszlán rémes séróval” lenne a címe, és a kutya sem lenne rá kíváncsi.
+0x0000001f Talán van itt valahol egy könyv, amely segít megszelídíteni ezt a fékezhetetlen loboncot...
+
+# Goal 2
+0x00000020 A TÖRTÉNELEM LEGNAGYOBB HATÁSÚ HAJKEFÉI
+0x00000021 Itt is van! HAJKEFÉK!
+
+
+# Act 5
+0x00000022 Borzas borzalom
+0x00000023 Hajkefe + az oroszlán kócos sörénye: a végeredmény sejthető.
+
+# Goal 1
+
+
+# Act 6
+0x00000024 Boldogulás az oroszlán nélkül
+0x00000025 Az oroszlán jólfésülten lép elő, és ettől felettébb elégedett.
+
+# Goal 1
+0x00000026 El az útból, megérkezett Mr. Szívdöglesztő! Hölgyeim, balra lehet sorbaállni a kegyeimért esedezve... Haver, el sem tudom mondani, mennyire hálás vagyok!
+0x00000027 Au, valami belement a mancsomba... Várjunk csak, csupán a vonzerőm az – hát persze, oda is jutott belőle! Jobb lesz, ha átmegyek a fantasy részlegre; túl dögös vagyok ahhoz, hogy igaz legyek!
+0x00000028 Szóval kellene neked egy olvasójegy. Nem probléma.
+0x00000029 Csak annyit kell tenned, hogy elfogadtatod a kérelmedet a könyvtárvezetővel. Nem árt, ha nem vagy teljesen felkészületlen, mert ő néha kissé...
+0x0000002a A manóba! Már jön is, és A HALÁL LIHEG A NYOMÁBAN!!!
+
+
+# Act 7
+0x0000002b A könnytáros
+0x0000002c A könyvtáros eltette láb alól a nagymacskát! Tudd meg, mire van szüksége!
+
+# Goal 1
+0x0000002d Egy szív szívmelengető utazása Szívországba – Írta: Tünci McTüncington.
+
+
+# Act 8
+0x0000002e A kártya
+0x0000002f A zord könyvtárosnak csak egy kis szeretetre volt szüksége... Most menj, és vedd át az olvasójegyedet Kalamáris úrtól!
+
+# Goal 1
+0x00000030 Láttad Juliót? Jól emlékszem, hogy kapott az arcába egy libát pár éve? Az csodálatos pillanat volt!
+0x00000031 Sohasem értettem, mit esznek rajta. Végtére is az ürgének mellei vannak, az ég szerelmére, méghozzá legalább E kosarasak! Fura ügy.
+0x00000032 Nos, én állom a szavam, és te, jó uram, rászolgáltál az olvasójegyedre. Gratulálok!
+0x00000033 De egy valamit ne feledj: ha csak egyszer késve hozol vissza egy könyvet, én itt leszek. Ha akárcsak egy napocskát is belefirkantasz egy könyvbe, én itt leszek. Mert tudod, mi nem alszik soha?
+0x00000034 AZ IGAZSÁG! Meg az ördög, persze, legalábbis a mondás szerint. Az álmatlanságban szenvedők, valóban... Miről is beszéltünk? Te ki a csuda vagy? Hogyhogy beszélsz a nyelvemen? Ki küldött?!
+
+
+# Prop #53 - Könyv
+0x00000035 Könyv
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000036 AMIÉRT MINDEN LIBA GALIBA – Írta: Matthias Ludash
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000037 AMIÉRT MINDEN LIBA GALIBA – Írta: Matthias Ludash
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000038 AMIÉRT MINDEN LIBA GALIBA – Írta: Matthias Ludash
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000039 AMIÉRT MINDEN LIBA GALIBA – Írta: Matthias Ludash
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000003a AMIÉRT MINDEN LIBA GALIBA – Írta: Matthias Ludash
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x0000003b AMIÉRT MINDEN LIBA GALIBA – Írta: Matthias Ludash
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x0000003c AMIÉRT MINDEN LIBA GALIBA – Írta: Matthias Ludash
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x0000003d AMIÉRT MINDEN LIBA GALIBA – Írta: Matthias Ludash
+
+# Prop #62 - Poof Black
+0x0000003e Poof Black
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #63 - Wooden Bookshelf (full)
+0x0000003f Wooden Bookshelf (full)
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #64 - Jump Pad 
+0x00000040 Jump Pad 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #65 - Teleporter
+0x00000041 Teleporter
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #66 - Kalamáris úr
+0x00000042 Kalamáris úr
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #67 - Library Table
+0x00000043 Library Table
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #68 - Library Chair
+0x00000044 Library Chair
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #69 - Library Card Catalogue
+0x00000045 Library Card Catalogue
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #70 - Book Carrier
+0x00000046 Book Carrier
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #71 - Library Desk
+0x00000047 Library Desk
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #72 - Library Ladder
+0x00000048 Library Ladder
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #73 - Könyvkukac
+0x00000049 Könyvkukac
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000004a Végre egy almával kényeztethetem magam!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #75 - Könyvtáros
+0x0000004b Könyvtáros
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x0000004c Te vagy az a csirkefogó, aki megzavarja a könyvtáram nyugalmát? Van pár késedelmes, ám orbitális pofonom a számodra! Ideje rendezni a számlát!
+0x0000004d Ez az oroszlán igazi semmirekellő, ráadásul még oroszlánszaga is van!
+0x0000004e Ha jól látom az órámon, itt az ideje szétrúgni pár tomport!
+0x0000004f A könyvtáros élete csupa keserv, mar a bú... Marabu? Egy madár a könyvtáramban? HOL?!
+0x00000050 Ideje elugranom a nekrológok részlegébe...
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000051 El sem hiszem, hogy tényleg te vagy az!
+0x00000052 Ezzel egy álom vált valóra!
+
+# Inspect for Act 8
+
+# Prop #83 - Oroszlán
+0x00000053 Oroszlán
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #84 - Oroszlánszobor
+0x00000054 Oroszlánszobor
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #85 - Book Holder
+0x00000055 Book Holder
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #86 - Pedestal
+0x00000056 Pedestal
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #87 - Library Wall No Pillar
+0x00000057 Library Wall No Pillar
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #88 - Könyv 10
+0x00000058 Könyv 10
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000059 GREENGASD EL MAGAD – Írta: Seth Green
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x0000005a GREENGASD EL MAGAD – Írta: Seth Green
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000005b GREENGASD EL MAGAD – Írta: Seth Green
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000005c GREENGASD EL MAGAD – Írta: Seth Green
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000005d GREENGASD EL MAGAD – Írta: Seth Green
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x0000005e GREENGASD EL MAGAD – Írta: Seth Green
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x0000005f GREENGASD EL MAGAD – Írta: Seth Green
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000060 GREENGASD EL MAGAD – Írta: Seth Green
+
+# Prop #97 - Könyv 11
+0x00000061 Könyv 11
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000062 KÜLÖNLEGES PÁCIENS – Írta: Plaris Chilton. SZEMELVÉNY: „Bocs a viszketésért...”
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000063 KÜLÖNLEGES PÁCIENS – Írta: Plaris Chilton. SZEMELVÉNY: „Bocs a viszketésért...”
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000064 KÜLÖNLEGES PÁCIENS – Írta: Plaris Chilton. SZEMELVÉNY: „Bocs a viszketésért...”
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000065 KÜLÖNLEGES PÁCIENS – Írta: Plaris Chilton. SZEMELVÉNY: „Bocs a viszketésért...”
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000066 KÜLÖNLEGES PÁCIENS – Írta: Plaris Chilton. SZEMELVÉNY: „Bocs a viszketésért...”
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000067 KÜLÖNLEGES PÁCIENS – Írta: Plaris Chilton. SZEMELVÉNY: „Bocs a viszketésért...”
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000068 KÜLÖNLEGES PÁCIENS – Írta: Plaris Chilton. SZEMELVÉNY: „Bocs a viszketésért...”
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000069 KÜLÖNLEGES PÁCIENS – Írta: Plaris Chilton. SZEMELVÉNY: „Bocs a viszketésért...”
+
+# Prop #106 - Könyv 12
+0x0000006a Könyv 12
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x0000006b RIZSHEGYEZŐ *ÁTDOLGOZOTT KIADÁS* – Írta: D.J. Falinger. „Még több félreértelmezésre kiválóan alkalmas, homályos utalással"
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x0000006c RIZSHEGYEZŐ *ÁTDOLGOZOTT KIADÁS* – Írta: D.J. Falinger. „Még több félreértelmezésre kiválóan alkalmas, homályos utalással"
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000006d RIZSHEGYEZŐ *ÁTDOLGOZOTT KIADÁS* – Írta: D.J. Falinger. „Még több félreértelmezésre kiválóan alkalmas, homályos utalással"
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000006e RIZSHEGYEZŐ *ÁTDOLGOZOTT KIADÁS* – Írta: D.J. Falinger. „Még több félreértelmezésre kiválóan alkalmas, homályos utalással"
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000006f RIZSHEGYEZŐ *ÁTDOLGOZOTT KIADÁS* – Írta: D.J. Falinger. „Még több félreértelmezésre kiválóan alkalmas, homályos utalással"
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000070 RIZSHEGYEZŐ *ÁTDOLGOZOTT KIADÁS* – Írta: D.J. Falinger. „Még több félreértelmezésre kiválóan alkalmas, homályos utalással"
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000071 RIZSHEGYEZŐ *ÁTDOLGOZOTT KIADÁS* – Írta: D.J. Falinger. „Még több félreértelmezésre kiválóan alkalmas, homályos utalással"
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000072 RIZSHEGYEZŐ *ÁTDOLGOZOTT KIADÁS* – Írta: D.J. Falinger. „Még több félreértelmezésre kiválóan alkalmas, homályos utalással"
+
+# Prop #115 - Könyv 13
+0x00000073 Könyv 13
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000074 AZ IDŐ RÖVID TÖRTÉNETE – Írta: az az ürge a trónusával meg a mély hangjával.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000075 AZ IDŐ RÖVID TÖRTÉNETE – Írta: az az ürge a trónusával meg a mély hangjával.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000076 AZ IDŐ RÖVID TÖRTÉNETE – Írta: az az ürge a trónusával meg a mély hangjával.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000077 AZ IDŐ RÖVID TÖRTÉNETE – Írta: az az ürge a trónusával meg a mély hangjával.
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000078 AZ IDŐ RÖVID TÖRTÉNETE – Írta: az az ürge a trónusával meg a mély hangjával.
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000079 AZ IDŐ RÖVID TÖRTÉNETE – Írta: az az ürge a trónusával meg a mély hangjával.
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x0000007a AZ IDŐ RÖVID TÖRTÉNETE – Írta: az az ürge a trónusával meg a mély hangjával.
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x0000007b AZ IDŐ RÖVID TÖRTÉNETE – Írta: az az ürge a trónusával meg a mély hangjával.
+
+# Prop #124 - Könyv 14
+0x0000007c Könyv 14
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x0000007d Remi More: A FÉRJEM EGY IDIÓTA – Egy asszony különös utazása egy málészájú oldalán
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x0000007e Remi More: A FÉRJEM EGY IDIÓTA – Egy asszony különös utazása egy málészájú oldalán
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000007f Remi More: A FÉRJEM EGY IDIÓTA – Egy asszony különös utazása egy málészájú oldalán
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000080 Remi More: A FÉRJEM EGY IDIÓTA – Egy asszony különös utazása egy málészájú oldalán
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000081 Remi More: A FÉRJEM EGY IDIÓTA – Egy asszony különös utazása egy málészájú oldalán
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000082 Remi More: A FÉRJEM EGY IDIÓTA – Egy asszony különös utazása egy málészájú oldalán
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000083 Remi More: A FÉRJEM EGY IDIÓTA – Egy asszony különös utazása egy málészájú oldalán
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000084 Remi More: A FÉRJEM EGY IDIÓTA – Egy asszony különös utazása egy málészájú oldalán
+
+# Prop #133 - Könyv 15
+0x00000085 Könyv 15
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000086 LARRY BLOTTER ÉS A SZENT SZŐR, LASSAN KIÖREGSZEM A VARÁZSLÓSULIBÓL! – Írta: R.J. Bowling SZEMELVÉNY -
+0x00000087 „Ma a varázserőm felhasználásával eltettem láb alól egy tőzsdeügynököt... Csak a mulatság kedvéért.”
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000088 LARRY BLOTTER ÉS A SZENT SZŐR, LASSAN KIÖREGSZEM A VARÁZSLÓSULIBÓL! – Írta: R.J. Bowling SZEMELVÉNY -
+0x00000089 „Ma a varázserőm felhasználásával eltettem láb alól egy tőzsdeügynököt... Csak a mulatság kedvéért.”
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000008a LARRY BLOTTER ÉS A SZENT SZŐR, LASSAN KIÖREGSZEM A VARÁZSLÓSULIBÓL! – Írta: R.J. Bowling SZEMELVÉNY -
+0x0000008b „Ma a varázserőm felhasználásával eltettem láb alól egy tőzsdeügynököt... Csak a mulatság kedvéért.”
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000008c LARRY BLOTTER ÉS A SZENT SZŐR, LASSAN KIÖREGSZEM A VARÁZSLÓSULIBÓL! – Írta: R.J. Bowling SZEMELVÉNY -
+0x0000008d „Ma a varázserőm felhasználásával eltettem láb alól egy tőzsdeügynököt... Csak a mulatság kedvéért.”
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000008e LARRY BLOTTER ÉS A SZENT SZŐR, LASSAN KIÖREGSZEM A VARÁZSLÓSULIBÓL! – Írta: R.J. Bowling SZEMELVÉNY -
+0x0000008f „Ma a varázserőm felhasználásával eltettem láb alól egy tőzsdeügynököt... Csak a mulatság kedvéért.”
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000090 LARRY BLOTTER ÉS A SZENT SZŐR, LASSAN KIÖREGSZEM A VARÁZSLÓSULIBÓL! – Írta: R.J. Bowling SZEMELVÉNY -
+0x00000091 „Ma a varázserőm felhasználásával eltettem láb alól egy tőzsdeügynököt... Csak a mulatság kedvéért.”
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000092 LARRY BLOTTER ÉS A SZENT SZŐR, LASSAN KIÖREGSZEM A VARÁZSLÓSULIBÓL! – Írta: R.J. Bowling SZEMELVÉNY -
+0x00000093 „Ma a varázserőm felhasználásával eltettem láb alól egy tőzsdeügynököt... Csak a mulatság kedvéért.”
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000094 LARRY BLOTTER ÉS A SZENT SZŐR, LASSAN KIÖREGSZEM A VARÁZSLÓSULIBÓL! – Írta: R.J. Bowling SZEMELVÉNY -
+0x00000095 „Ma a varázserőm felhasználásával eltettem láb alól egy tőzsdeügynököt... Csak a mulatság kedvéért.”
+
+# Prop #150 - Könyv 16
+0x00000096 Könyv 16
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000097 A TIGRIS, AZ ORRBAVÁGÁS, A RUHÁSSZEKRÉNY,
+0x00000098 A MENNYEZETI VENTILÁTOR, A MAJOM, A MOSOGATÓ, A KANAPÉ MELLETTI VÁZA,
+0x00000099 AZ EMELETI SZOBALÁNY, AKI MINDIG FALATNYI PÓLÓKAT VISEL, MAJD ÚGY TESZ, MINTHA FELHÁBORODNA, AMIKOR BÁMULÁSON KAP
+0x0000009a ... DE MOST KOMOLYAN, MÉGIS MIT GONDOL, MIT NÉZEL, MERT AZÉRT NINCS IDEBENT OLYAN MELEG, PICIM! – Írta: P.S. Louie
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x0000009b A TIGRIS, AZ ORRBAVÁGÁS, A RUHÁSSZEKRÉNY,
+0x0000009c A MENNYEZETI VENTILÁTOR, A MAJOM, A MOSOGATÓ, A KANAPÉ MELLETTI VÁZA,
+0x0000009d AZ EMELETI SZOBALÁNY, AKI MINDIG FALATNYI PÓLÓKAT VISEL, MAJD ÚGY TESZ, MINTHA FELHÁBORODNA, AMIKOR BÁMULÁSON KAP
+0x0000009e ... DE MOST KOMOLYAN, MÉGIS MIT GONDOL, MIT NÉZEL, MERT AZÉRT NINCS IDEBENT OLYAN MELEG, PICIM! – Írta: P.S. Louie
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000009f A TIGRIS, AZ ORRBAVÁGÁS, A RUHÁSSZEKRÉNY,
+0x000000a0 A MENNYEZETI VENTILÁTOR, A MAJOM, A MOSOGATÓ, A KANAPÉ MELLETTI VÁZA,
+0x000000a1 AZ EMELETI SZOBALÁNY, AKI MINDIG FALATNYI PÓLÓKAT VISEL, MAJD ÚGY TESZ, MINTHA FELHÁBORODNA, AMIKOR BÁMULÁSON KAP
+0x000000a2 ... DE MOST KOMOLYAN, MÉGIS MIT GONDOL, MIT NÉZEL, MERT AZÉRT NINCS IDEBENT OLYAN MELEG, PICIM! – Írta: P.S. Louie
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000a3 A TIGRIS, AZ ORRBAVÁGÁS, A RUHÁSSZEKRÉNY,
+0x000000a4 A MENNYEZETI VENTILÁTOR, A MAJOM, A MOSOGATÓ, A KANAPÉ MELLETTI VÁZA,
+0x000000a5 AZ EMELETI SZOBALÁNY, AKI MINDIG FALATNYI PÓLÓKAT VISEL, MAJD ÚGY TESZ, MINTHA FELHÁBORODNA, AMIKOR BÁMULÁSON KAP
+0x000000a6 ... DE MOST KOMOLYAN, MÉGIS MIT GONDOL, MIT NÉZEL, MERT AZÉRT NINCS IDEBENT OLYAN MELEG, PICIM! – Írta: P.S. Louie
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000a7 A TIGRIS, AZ ORRBAVÁGÁS, A RUHÁSSZEKRÉNY,
+0x000000a8 A MENNYEZETI VENTILÁTOR, A MAJOM, A MOSOGATÓ, A KANAPÉ MELLETTI VÁZA,
+0x000000a9 AZ EMELETI SZOBALÁNY, AKI MINDIG FALATNYI PÓLÓKAT VISEL, MAJD ÚGY TESZ, MINTHA FELHÁBORODNA, AMIKOR BÁMULÁSON KAP
+0x000000aa ... DE MOST KOMOLYAN, MÉGIS MIT GONDOL, MIT NÉZEL, MERT AZÉRT NINCS IDEBENT OLYAN MELEG, PICIM! – Írta: P.S. Louie
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000ab A TIGRIS, AZ ORRBAVÁGÁS, A RUHÁSSZEKRÉNY,
+0x000000ac A MENNYEZETI VENTILÁTOR, A MAJOM, A MOSOGATÓ, A KANAPÉ MELLETTI VÁZA,
+0x000000ad AZ EMELETI SZOBALÁNY, AKI MINDIG FALATNYI PÓLÓKAT VISEL, MAJD ÚGY TESZ, MINTHA FELHÁBORODNA, AMIKOR BÁMULÁSON KAP
+0x000000ae ... DE MOST KOMOLYAN, MÉGIS MIT GONDOL, MIT NÉZEL, MERT AZÉRT NINCS IDEBENT OLYAN MELEG, PICIM! – Írta: P.S. Louie
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000af A TIGRIS, AZ ORRBAVÁGÁS, A RUHÁSSZEKRÉNY,
+0x000000b0 A MENNYEZETI VENTILÁTOR, A MAJOM, A MOSOGATÓ, A KANAPÉ MELLETTI VÁZA,
+0x000000b1 AZ EMELETI SZOBALÁNY, AKI MINDIG FALATNYI PÓLÓKAT VISEL, MAJD ÚGY TESZ, MINTHA FELHÁBORODNA, AMIKOR BÁMULÁSON KAP
+0x000000b2 ... DE MOST KOMOLYAN, MÉGIS MIT GONDOL, MIT NÉZEL, MERT AZÉRT NINCS IDEBENT OLYAN MELEG, PICIM! – Írta: P.S. Louie
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000b3 A TIGRIS, AZ ORRBAVÁGÁS, A RUHÁSSZEKRÉNY,
+0x000000b4 A MENNYEZETI VENTILÁTOR, A MAJOM, A MOSOGATÓ, A KANAPÉ MELLETTI VÁZA,
+0x000000b5 AZ EMELETI SZOBALÁNY, AKI MINDIG FALATNYI PÓLÓKAT VISEL, MAJD ÚGY TESZ, MINTHA FELHÁBORODNA, AMIKOR BÁMULÁSON KAP
+0x000000b6 ... DE MOST KOMOLYAN, MÉGIS MIT GONDOL, MIT NÉZEL, MERT AZÉRT NINCS IDEBENT OLYAN MELEG, PICIM! – Írta: P.S. Louie
+
+# Prop #183 - Könyv 17
+0x000000b7 Könyv 17
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000b8 Egy szív szívmelengető utazása Szívországba – Írta: Tünci McTüncington.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000b9 Egy szív szívmelengető utazása Szívországba – Írta: Tünci McTüncington.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000ba Egy szív szívmelengető utazása Szívországba – Írta: Tünci McTüncington.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000bb Egy szív szívmelengető utazása Szívországba – Írta: Tünci McTüncington.
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000bc Egy szív szívmelengető utazása Szívországba – Írta: Tünci McTüncington.
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000bd Egy szív szívmelengető utazása Szívországba – Írta: Tünci McTüncington.
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000be Egy szív szívmelengető utazása Szívországba – Írta: Tünci McTüncington.
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000bf Egy szív szívmelengető utazása Szívországba – Írta: Tünci McTüncington.
+
+# Prop #192 - Könyv 18
+0x000000c0 Könyv 18
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000c1 IGEN, ITT VAGYOK, DE NEM ÚGY KEDVELLEK, MARGARET – Írta: Isten
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000c2 IGEN, ITT VAGYOK, DE NEM ÚGY KEDVELLEK, MARGARET – Írta: Isten
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000c3 IGEN, ITT VAGYOK, DE NEM ÚGY KEDVELLEK, MARGARET – Írta: Isten
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000c4 IGEN, ITT VAGYOK, DE NEM ÚGY KEDVELLEK, MARGARET – Írta: Isten
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000c5 IGEN, ITT VAGYOK, DE NEM ÚGY KEDVELLEK, MARGARET – Írta: Isten
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000c6 IGEN, ITT VAGYOK, DE NEM ÚGY KEDVELLEK, MARGARET – Írta: Isten
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000c7 IGEN, ITT VAGYOK, DE NEM ÚGY KEDVELLEK, MARGARET – Írta: Isten
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000c8 IGEN, ITT VAGYOK, DE NEM ÚGY KEDVELLEK, MARGARET – Írta: Isten
+
+# Prop #201 - Könyv 19
+0x000000c9 Könyv 19
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000ca MILYEN TOVÁBBI ÉLETTELEN TÁRGYAK LEHETNEK GONOSZAK? – Írta: Steven Queen
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000cb MILYEN TOVÁBBI ÉLETTELEN TÁRGYAK LEHETNEK GONOSZAK? – Írta: Steven Queen
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000cc MILYEN TOVÁBBI ÉLETTELEN TÁRGYAK LEHETNEK GONOSZAK? – Írta: Steven Queen
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000cd MILYEN TOVÁBBI ÉLETTELEN TÁRGYAK LEHETNEK GONOSZAK? – Írta: Steven Queen
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000ce MILYEN TOVÁBBI ÉLETTELEN TÁRGYAK LEHETNEK GONOSZAK? – Írta: Steven Queen
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000cf MILYEN TOVÁBBI ÉLETTELEN TÁRGYAK LEHETNEK GONOSZAK? – Írta: Steven Queen
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000d0 MILYEN TOVÁBBI ÉLETTELEN TÁRGYAK LEHETNEK GONOSZAK? – Írta: Steven Queen
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000d1 MILYEN TOVÁBBI ÉLETTELEN TÁRGYAK LEHETNEK GONOSZAK? – Írta: Steven Queen
+
+# Prop #210 - Könyv 2
+0x000000d2 Könyv 2
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000d3 OTT VAGY, STEVE? – Írta: J.C.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000d4 OTT VAGY, STEVE? – Írta: J.C.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000d5 OTT VAGY, STEVE? – Írta: J.C.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000d6 OTT VAGY, STEVE? – Írta: J.C.
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000d7 OTT VAGY, STEVE? – Írta: J.C.
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000d8 OTT VAGY, STEVE? – Írta: J.C.
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000d9 OTT VAGY, STEVE? – Írta: J.C.
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000da OTT VAGY, STEVE? – Írta: J.C.
+
+# Prop #219 - Könyv 20
+0x000000db Könyv 20
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000dc A LEONARDO-kód – Írta Stan Blue. SZEMELVÉNY: „Bizony, van bár furcsaság a Louvre alatt, és akkor még el sem meséltem, milyen fura sztorikat tudok a Vatikánról!”
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000dd A LEONARDO-kód – Írta Stan Blue. SZEMELVÉNY: „Bizony, van bár furcsaság a Louvre alatt, és akkor még el sem meséltem, milyen fura sztorikat tudok a Vatikánról!”
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000de A LEONARDO-kód – Írta Stan Blue. SZEMELVÉNY: „Bizony, van bár furcsaság a Louvre alatt, és akkor még el sem meséltem, milyen fura sztorikat tudok a Vatikánról!”
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000df A LEONARDO-kód – Írta Stan Blue. SZEMELVÉNY: „Bizony, van bár furcsaság a Louvre alatt, és akkor még el sem meséltem, milyen fura sztorikat tudok a Vatikánról!”
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000e0 A LEONARDO-kód – Írta Stan Blue. SZEMELVÉNY: „Bizony, van bár furcsaság a Louvre alatt, és akkor még el sem meséltem, milyen fura sztorikat tudok a Vatikánról!”
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000e1 A LEONARDO-kód – Írta Stan Blue. SZEMELVÉNY: „Bizony, van bár furcsaság a Louvre alatt, és akkor még el sem meséltem, milyen fura sztorikat tudok a Vatikánról!”
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x000000e2 A LEONARDO-kód – Írta Stan Blue. SZEMELVÉNY: „Bizony, van bár furcsaság a Louvre alatt, és akkor még el sem meséltem, milyen fura sztorikat tudok a Vatikánról!”
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x000000e3 A LEONARDO-kód – Írta Stan Blue. SZEMELVÉNY: „Bizony, van bár furcsaság a Louvre alatt, és akkor még el sem meséltem, milyen fura sztorikat tudok a Vatikánról!”
+
+# Prop #228 - Könyv 21
+0x000000e4 Könyv 21
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x000000e5 Egyszer volt, hol nem volt, volt egyszer egy alma, akit úgy hívtak, PC. Értitek, ugye? PC volt a legpirosabb és legfinomabb az összes alma közül!
+0x000000e6 Egy napon PC sétálni indult, amikor egyszer csak egy furgon fékezett le előtte. Egy csapat dühös orvos pattant ki belőle, és az almaszószt is kiverték szegény PC-ből.
+0x000000e7 Amikor az orvosok befejezték PC püfölését és elindultak, az egyikük visszanézett és így szólt: „Ezt azért kaptad, mert távol tartasz bennünket a betegeinktől, te finom, pirospozsgás &%$@*%#!”
+0x000000e8 PC túlélte az esetet, de soha többé nem zongorázhatott... Nem mintha eddig tudott volna, végtére is csak egy alma volt, de mindig ott volt a lehetőség, hogy megpróbálhatja. De már soha többé!
+0x000000e9 Így hát lassan megbomlott az elméje, most pedig a kikötőben dolgozik Motyó álnév alatt. Vége a mesének.
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x000000ea Egyszer volt, hol nem volt, volt egyszer egy alma, akit úgy hívtak, PC. Értitek, ugye? PC volt a legpirosabb és legfinomabb az összes alma közül!
+0x000000eb Egy napon PC sétálni indult, amikor egyszer csak egy furgon fékezett le előtte. Egy csapat dühös orvos pattant ki belőle, és az almaszószt is kiverték szegény PC-ből.
+0x000000ec Amikor az orvosok befejezték PC püfölését és elindultak, az egyikük visszanézett és így szólt: „Ezt azért kaptad, mert távol tartasz bennünket a betegeinktől, te finom, pirospozsgás &%$@*%#!”
+0x000000ed PC túlélte az esetet, de soha többé nem zongorázhatott... Nem mintha eddig tudott volna, végtére is csak egy alma volt, de mindig ott volt a lehetőség, hogy megpróbálhatja. De már soha többé!
+0x000000ee Így hát lassan megbomlott az elméje, most pedig a kikötőben dolgozik Motyó álnév alatt. Vége a mesének.
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x000000ef Egyszer volt, hol nem volt, volt egyszer egy alma, akit úgy hívtak, PC. Értitek, ugye? PC volt a legpirosabb és legfinomabb az összes alma közül!
+0x000000f0 Egy napon PC sétálni indult, amikor egyszer csak egy furgon fékezett le előtte. Egy csapat dühös orvos pattant ki belőle, és az almaszószt is kiverték szegény PC-ből.
+0x000000f1 Amikor az orvosok befejezték PC püfölését és elindultak, az egyikük visszanézett és így szólt: „Ezt azért kaptad, mert távol tartasz bennünket a betegeinktől, te finom, pirospozsgás &%$@*%#!”
+0x000000f2 PC túlélte az esetet, de soha többé nem zongorázhatott... Nem mintha eddig tudott volna, végtére is csak egy alma volt, de mindig ott volt a lehetőség, hogy megpróbálhatja. De már soha többé!
+0x000000f3 Így hát lassan megbomlott az elméje, most pedig a kikötőben dolgozik Motyó álnév alatt. Vége a mesének.
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x000000f4 Egyszer volt, hol nem volt, volt egyszer egy alma, akit úgy hívtak, PC. Értitek, ugye? PC volt a legpirosabb és legfinomabb az összes alma közül!
+0x000000f5 Egy napon PC sétálni indult, amikor egyszer csak egy furgon fékezett le előtte. Egy csapat dühös orvos pattant ki belőle, és az almaszószt is kiverték szegény PC-ből.
+0x000000f6 Amikor az orvosok befejezték PC püfölését és elindultak, az egyikük visszanézett és így szólt: „Ezt azért kaptad, mert távol tartasz bennünket a betegeinktől, te finom, pirospozsgás &%$@*%#!”
+0x000000f7 PC túlélte az esetet, de soha többé nem zongorázhatott... Nem mintha eddig tudott volna, végtére is csak egy alma volt, de mindig ott volt a lehetőség, hogy megpróbálhatja. De már soha többé!
+0x000000f8 Így hát lassan megbomlott az elméje, most pedig a kikötőben dolgozik Motyó álnév alatt. Vége a mesének.
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x000000f9 Egyszer volt, hol nem volt, volt egyszer egy alma, akit úgy hívtak, PC. Értitek, ugye? PC volt a legpirosabb és legfinomabb az összes alma közül!
+0x000000fa Egy napon PC sétálni indult, amikor egyszer csak egy furgon fékezett le előtte. Egy csapat dühös orvos pattant ki belőle, és az almaszószt is kiverték szegény PC-ből.
+0x000000fb Amikor az orvosok befejezték PC püfölését és elindultak, az egyikük visszanézett és így szólt: „Ezt azért kaptad, mert távol tartasz bennünket a betegeinktől, te finom, pirospozsgás &%$@*%#!”
+0x000000fc PC túlélte az esetet, de soha többé nem zongorázhatott... Nem mintha eddig tudott volna, végtére is csak egy alma volt, de mindig ott volt a lehetőség, hogy megpróbálhatja. De már soha többé!
+0x000000fd Így hát lassan megbomlott az elméje, most pedig a kikötőben dolgozik Motyó álnév alatt. Vége a mesének.
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x000000fe Egyszer volt, hol nem volt, volt egyszer egy alma, akit úgy hívtak, PC. Értitek, ugye? PC volt a legpirosabb és legfinomabb az összes alma közül!
+0x000000ff Egy napon PC sétálni indult, amikor egyszer csak egy furgon fékezett le előtte. Egy csapat dühös orvos pattant ki belőle, és az almaszószt is kiverték szegény PC-ből.
+0x00000100 Amikor az orvosok befejezték PC püfölését és elindultak, az egyikük visszanézett és így szólt: „Ezt azért kaptad, mert távol tartasz bennünket a betegeinktől, te finom, pirospozsgás &%$@*%#!”
+0x00000101 PC túlélte az esetet, de soha többé nem zongorázhatott... Nem mintha eddig tudott volna, végtére is csak egy alma volt, de mindig ott volt a lehetőség, hogy megpróbálhatja. De már soha többé!
+0x00000102 Így hát lassan megbomlott az elméje, most pedig a kikötőben dolgozik Motyó álnév alatt. Vége a mesének.
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000103 Egyszer volt, hol nem volt, volt egyszer egy alma, akit úgy hívtak, PC. Értitek, ugye? PC volt a legpirosabb és legfinomabb az összes alma közül!
+0x00000104 Egy napon PC sétálni indult, amikor egyszer csak egy furgon fékezett le előtte. Egy csapat dühös orvos pattant ki belőle, és az almaszószt is kiverték szegény PC-ből.
+0x00000105 Amikor az orvosok befejezték PC püfölését és elindultak, az egyikük visszanézett és így szólt: „Ezt azért kaptad, mert távol tartasz bennünket a betegeinktől, te finom, pirospozsgás &%$@*%#!”
+0x00000106 PC túlélte az esetet, de soha többé nem zongorázhatott... Nem mintha eddig tudott volna, végtére is csak egy alma volt, de mindig ott volt a lehetőség, hogy megpróbálhatja. De már soha többé!
+0x00000107 Így hát lassan megbomlott az elméje, most pedig a kikötőben dolgozik Motyó álnév alatt. Vége a mesének.
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000108 Egyszer volt, hol nem volt, volt egyszer egy alma, akit úgy hívtak, PC. Értitek, ugye? PC volt a legpirosabb és legfinomabb az összes alma közül!
+0x00000109 Egy napon PC sétálni indult, amikor egyszer csak egy furgon fékezett le előtte. Egy csapat dühös orvos pattant ki belőle, és az almaszószt is kiverték szegény PC-ből.
+0x0000010a Amikor az orvosok befejezték PC püfölését és elindultak, az egyikük visszanézett és így szólt: „Ezt azért kaptad, mert távol tartasz bennünket a betegeinktől, te finom, pirospozsgás &%$@*%#!”
+0x0000010b PC túlélte az esetet, de soha többé nem zongorázhatott... Nem mintha eddig tudott volna, végtére is csak egy alma volt, de mindig ott volt a lehetőség, hogy megpróbálhatja. De már soha többé!
+0x0000010c Így hát lassan megbomlott az elméje, most pedig a kikötőben dolgozik Motyó álnév alatt. Vége a mesének.
+
+# Prop #269 - Könyv 22
+0x0000010d Könyv 22
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x0000010e TETŐABLAK – Írta: Melanie Meyer „MEGJELENT KÖNYVBEN IS!”
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x0000010f TETŐABLAK – Írta: Melanie Meyer „MEGJELENT KÖNYVBEN IS!”
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000110 TETŐABLAK – Írta: Melanie Meyer „MEGJELENT KÖNYVBEN IS!”
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000111 TETŐABLAK – Írta: Melanie Meyer „MEGJELENT KÖNYVBEN IS!”
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000112 TETŐABLAK – Írta: Melanie Meyer „MEGJELENT KÖNYVBEN IS!”
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000113 TETŐABLAK – Írta: Melanie Meyer „MEGJELENT KÖNYVBEN IS!”
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000114 TETŐABLAK – Írta: Melanie Meyer „MEGJELENT KÖNYVBEN IS!”
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000115 TETŐABLAK – Írta: Melanie Meyer „MEGJELENT KÖNYVBEN IS!”
+
+# Prop #278 - Könyv 3
+0x00000116 Könyv 3
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000117 HOGYAN ARASSUNK SIKEREKET ANÉLKÜL, HOGY BÁRMIBEN IS TEHETSÉGESEK LENNÉNK – Írta: Aster Kushion
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000118 HOGYAN ARASSUNK SIKEREKET ANÉLKÜL, HOGY BÁRMIBEN IS TEHETSÉGESEK LENNÉNK – Írta: Aster Kushion
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000119 HOGYAN ARASSUNK SIKEREKET ANÉLKÜL, HOGY BÁRMIBEN IS TEHETSÉGESEK LENNÉNK – Írta: Aster Kushion
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000011a HOGYAN ARASSUNK SIKEREKET ANÉLKÜL, HOGY BÁRMIBEN IS TEHETSÉGESEK LENNÉNK – Írta: Aster Kushion
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000011b HOGYAN ARASSUNK SIKEREKET ANÉLKÜL, HOGY BÁRMIBEN IS TEHETSÉGESEK LENNÉNK – Írta: Aster Kushion
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x0000011c HOGYAN ARASSUNK SIKEREKET ANÉLKÜL, HOGY BÁRMIBEN IS TEHETSÉGESEK LENNÉNK – Írta: Aster Kushion
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x0000011d HOGYAN ARASSUNK SIKEREKET ANÉLKÜL, HOGY BÁRMIBEN IS TEHETSÉGESEK LENNÉNK – Írta: Aster Kushion
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x0000011e HOGYAN ARASSUNK SIKEREKET ANÉLKÜL, HOGY BÁRMIBEN IS TEHETSÉGESEK LENNÉNK – Írta: Aster Kushion
+
+# Prop #287 - Könyv 4
+0x0000011f Könyv 4
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000120 LELŐJÜK A POÉNOKAT, 1. KÖTET. SZEMELVÉNY:
+0x00000121 „Spruce Wellis végig halott volt.
+0x00000122 Kelvin Spazzy nem más, mint Kaisah Sosie... ha úgy vesszük.
+0x00000123 Brad Mitt csak Edwin Morton fejében létezik.
+0x00000124 Snorman beöltözött az anyukájának.”
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000125 LELŐJÜK A POÉNOKAT, 1. KÖTET. SZEMELVÉNY:
+0x00000126 „Spruce Wellis végig halott volt.
+0x00000127 Kelvin Spazzy nem más, mint Kaisah Sosie... ha úgy vesszük.
+0x00000128 Brad Mitt csak Edwin Morton fejében létezik.
+0x00000129 Snorman beöltözött az anyukájának.”
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000012a LELŐJÜK A POÉNOKAT, 1. KÖTET. SZEMELVÉNY:
+0x0000012b „Spruce Wellis végig halott volt.
+0x0000012c Kelvin Spazzy nem más, mint Kaisah Sosie... ha úgy vesszük.
+0x0000012d Brad Mitt csak Edwin Morton fejében létezik.
+0x0000012e Snorman beöltözött az anyukájának.”
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000012f LELŐJÜK A POÉNOKAT, 1. KÖTET. SZEMELVÉNY:
+0x00000130 „Spruce Wellis végig halott volt.
+0x00000131 Kelvin Spazzy nem más, mint Kaisah Sosie... ha úgy vesszük.
+0x00000132 Brad Mitt csak Edwin Morton fejében létezik.
+0x00000133 Snorman beöltözött az anyukájának.”
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000134 LELŐJÜK A POÉNOKAT, 1. KÖTET. SZEMELVÉNY:
+0x00000135 „Spruce Wellis végig halott volt.
+0x00000136 Kelvin Spazzy nem más, mint Kaisah Sosie... ha úgy vesszük.
+0x00000137 Brad Mitt csak Edwin Morton fejében létezik.
+0x00000138 Snorman beöltözött az anyukájának.”
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000139 LELŐJÜK A POÉNOKAT, 1. KÖTET. SZEMELVÉNY:
+0x0000013a „Spruce Wellis végig halott volt.
+0x0000013b Kelvin Spazzy nem más, mint Kaisah Sosie... ha úgy vesszük.
+0x0000013c Brad Mitt csak Edwin Morton fejében létezik.
+0x0000013d Snorman beöltözött az anyukájának.”
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x0000013e LELŐJÜK A POÉNOKAT, 1. KÖTET. SZEMELVÉNY:
+0x0000013f „Spruce Wellis végig halott volt.
+0x00000140 Kelvin Spazzy nem más, mint Kaisah Sosie... ha úgy vesszük.
+0x00000141 Brad Mitt csak Edwin Morton fejében létezik.
+0x00000142 Snorman beöltözött az anyukájának.”
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000143 LELŐJÜK A POÉNOKAT, 1. KÖTET. SZEMELVÉNY:
+0x00000144 „Spruce Wellis végig halott volt.
+0x00000145 Kelvin Spazzy nem más, mint Kaisah Sosie... ha úgy vesszük.
+0x00000146 Brad Mitt csak Edwin Morton fejében létezik.
+0x00000147 Snorman beöltözött az anyukájának.”
+
+# Prop #328 - Könyv 5
+0x00000148 Könyv 5
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000149 MOBY DICK... hihi!
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x0000014a MOBY DICK... hihi!
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000014b MOBY DICK... hihi!
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000014c MOBY DICK... hihi!
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000014d MOBY DICK... hihi!
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x0000014e MOBY DICK... hihi!
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x0000014f MOBY DICK... hihi!
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000150 MOBY DICK... hihi!
+
+# Prop #337 - Könyv 6
+0x00000151 Könyv 6
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000152 NE GYŰLÖLJ – Írta: Carrot Bottom
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000153 NE GYŰLÖLJ – Írta: Carrot Bottom
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000154 NE GYŰLÖLJ – Írta: Carrot Bottom
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000155 NE GYŰLÖLJ – Írta: Carrot Bottom
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000156 NE GYŰLÖLJ – Írta: Carrot Bottom
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000157 NE GYŰLÖLJ – Írta: Carrot Bottom
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000158 NE GYŰLÖLJ – Írta: Carrot Bottom
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000159 NE GYŰLÖLJ – Írta: Carrot Bottom
+
+# Prop #346 - Könyv 7
+0x0000015a Könyv 7
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x0000015b ÉN ÍRTAM A ROBOT CHICKEN CSÁSZÁROS JELENETÉT! – Írta: Breckin Meyer
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x0000015c ÉN ÍRTAM A ROBOT CHICKEN CSÁSZÁROS JELENETÉT! – Írta: Breckin Meyer
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x0000015d ÉN ÍRTAM A ROBOT CHICKEN CSÁSZÁROS JELENETÉT! – Írta: Breckin Meyer
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000015e ÉN ÍRTAM A ROBOT CHICKEN CSÁSZÁROS JELENETÉT! – Írta: Breckin Meyer
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000015f ÉN ÍRTAM A ROBOT CHICKEN CSÁSZÁROS JELENETÉT! – Írta: Breckin Meyer
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x00000160 ÉN ÍRTAM A ROBOT CHICKEN CSÁSZÁROS JELENETÉT! – Írta: Breckin Meyer
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000161 ÉN ÍRTAM A ROBOT CHICKEN CSÁSZÁROS JELENETÉT! – Írta: Breckin Meyer
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000162 ÉN ÍRTAM A ROBOT CHICKEN CSÁSZÁROS JELENETÉT! – Írta: Breckin Meyer
+
+# Prop #355 - Könyv 8
+0x00000163 Könyv 8
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000164 A RINGON BIBLIA. SZEMELVÉNY: „Miért venné meg ezt a vacakot bárki is? De komolyan, semmi értelme!
+0x00000165 A ringonok nem a mi hitrendszerünk szerint élnek, miért is fordítanák le a Bibliát? Csak a móka kedvéért? Ennek TÉNYLEG semmi értelme!”
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000166 A RINGON BIBLIA. SZEMELVÉNY: „Miért venné meg ezt a vacakot bárki is? De komolyan, semmi értelme!
+0x00000167 A ringonok nem a mi hitrendszerünk szerint élnek, miért is fordítanák le a Bibliát? Csak a móka kedvéért? Ennek TÉNYLEG semmi értelme!”
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000168 A RINGON BIBLIA. SZEMELVÉNY: „Miért venné meg ezt a vacakot bárki is? De komolyan, semmi értelme!
+0x00000169 A ringonok nem a mi hitrendszerünk szerint élnek, miért is fordítanák le a Bibliát? Csak a móka kedvéért? Ennek TÉNYLEG semmi értelme!”
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x0000016a A RINGON BIBLIA. SZEMELVÉNY: „Miért venné meg ezt a vacakot bárki is? De komolyan, semmi értelme!
+0x0000016b A ringonok nem a mi hitrendszerünk szerint élnek, miért is fordítanák le a Bibliát? Csak a móka kedvéért? Ennek TÉNYLEG semmi értelme!”
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x0000016c A RINGON BIBLIA. SZEMELVÉNY: „Miért venné meg ezt a vacakot bárki is? De komolyan, semmi értelme!
+0x0000016d A ringonok nem a mi hitrendszerünk szerint élnek, miért is fordítanák le a Bibliát? Csak a móka kedvéért? Ennek TÉNYLEG semmi értelme!”
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x0000016e A RINGON BIBLIA. SZEMELVÉNY: „Miért venné meg ezt a vacakot bárki is? De komolyan, semmi értelme!
+0x0000016f A ringonok nem a mi hitrendszerünk szerint élnek, miért is fordítanák le a Bibliát? Csak a móka kedvéért? Ennek TÉNYLEG semmi értelme!”
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x00000170 A RINGON BIBLIA. SZEMELVÉNY: „Miért venné meg ezt a vacakot bárki is? De komolyan, semmi értelme!
+0x00000171 A ringonok nem a mi hitrendszerünk szerint élnek, miért is fordítanák le a Bibliát? Csak a móka kedvéért? Ennek TÉNYLEG semmi értelme!”
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x00000172 A RINGON BIBLIA. SZEMELVÉNY: „Miért venné meg ezt a vacakot bárki is? De komolyan, semmi értelme!
+0x00000173 A ringonok nem a mi hitrendszerünk szerint élnek, miért is fordítanák le a Bibliát? Csak a móka kedvéért? Ennek TÉNYLEG semmi értelme!”
+
+# Prop #372 - Könyv 9
+0x00000174 Könyv 9
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+0x00000175 A TÖRTÉNELEM LEGNAGYOBB HATÁSÚ HAJKEFÉI
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+0x00000176 A TÖRTÉNELEM LEGNAGYOBB HATÁSÚ HAJKEFÉI
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+0x00000177 A TÖRTÉNELEM LEGNAGYOBB HATÁSÚ HAJKEFÉI
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+0x00000178 A TÖRTÉNELEM LEGNAGYOBB HATÁSÚ HAJKEFÉI
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+0x00000179 A TÖRTÉNELEM LEGNAGYOBB HATÁSÚ HAJKEFÉI
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+0x0000017a A TÖRTÉNELEM LEGNAGYOBB HATÁSÚ HAJKEFÉI
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+0x0000017b A TÖRTÉNELEM LEGNAGYOBB HATÁSÚ HAJKEFÉI
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+0x0000017c A TÖRTÉNELEM LEGNAGYOBB HATÁSÚ HAJKEFÉI
+
+# Prop #381 - Ancient Books
+0x0000017d Ancient Books
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #382 - PC
+0x0000017e PC
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000017f Mit kapsz, ha keresztezed a hagyományokat fél tucat almával? A szokás hatalmát, hahaha!
+0x00000180 Hova járnak a kis almák iskolába? Hát az alma materbe! Haha, annyira jó ez a vicc!
+0x00000181 Hogyan kell almás lepényt készíteni? Keress egy elefántot, és ültesd rá az almára! Muhahaha! Ez a vicc annyira jó, egyszer megöl. Még egyszer muhahaha!
+0x00000182 Tudod, mi az a hely, ahol a gyümölcsök megőrölhetik a búzájukat? Az alma malma! Egyszerűen remekelek ma, nincs mese.
+0x00000183 Tudod, miért nem lehet egy alma cowboy? Mert mind rézbőrűek vagyunk! Istenem, annyira vicces vagyok!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #388 - Jump Pad 
+0x00000184 Jump Pad 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #389 - Hajkefe
+0x00000185 Hajkefe
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000186 Idefele jövet majdnem elütött egy autó. Szerencsére megúsztam, bár kefésűn múlt! Nyihihi.
+0x00000187 A rendezett hajviselet manapság elengedhetetlen. Hogy képesek egyesek mégis kócosan rohangálni? Komolyan, tisztára kifésülök! Érted, ugye? Megint nyihihi!
+0x00000188 Bizony ám, ez egy új fogantyú, kedves, hogy észrevetted. Te is csinos vagy, kár, hogy olyan kisnöfésű... És ez már a harmadik nyihihi!
+0x00000189 Az embereknek jobban oda kellene figyelniük, hogy miként viselkednek a nyilvánosság előtt. Végtére senki sem szeret sok ember szeme láttára fésűni! Nyihihi, még mindig jó vagyok!
+0x0000018a Jobb lett volna, ha egy kicsit korábban jössz. Akkor még mindent elintézhettünk volna, de... várj, jön a poén... most már fésű! Nyihihi – egy új kezdet!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #395 - Teleporter
+0x0000018b Teleporter
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #396 - Jump Pad 
+0x0000018c Jump Pad 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #397 - Love Bomb
+0x0000018d Love Bomb
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #398 - Column 'o Love
+0x0000018e Column 'o Love
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #399 - Julio
+0x0000018f Julio
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000190 Gyere, ballagjunk hátra a romantikus irodalom szekcióba mi ketten, és rázzunk meg néhány polcot!
+0x00000191 Azt hiszem, komoly késésben vagy – rég itt az ideje egy kis szerelemnek!
+
+# Inspect for Act 8
+
+# Prop #402 - Teleporter
+0x00000192 Teleporter
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #403 - Jump Pad 
+0x00000193 Jump Pad 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #404 - Poof White
+0x00000194 Poof White
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #405 - Boulder
+0x00000195 Boulder
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #406 - Sting Angels
+0x00000196 Sting Angels
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #407 - Door Open
+0x00000197 Door Open
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #408 - Fairy Wand
+0x00000198 Fairy Wand
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #409 - Blue Key
+0x00000199 Blue Key
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #410 - Sting Romance
+0x0000019a Sting Romance
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #411 - Holló
+0x0000019b Holló
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000019c E=MC HALOTT!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #413 - Library Bookshelves
+0x0000019d Library Bookshelves
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #414 - Chandelier
+0x0000019e Chandelier
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #415 - Study Carrels
+0x0000019f Study Carrels
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #416 - Library Main Door
+0x000001a0 Library Main Door
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #417 - Library Door (open)
+0x000001a1 Library Door (open)
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #418 - Library Doorway
+0x000001a2 Library Doorway
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #419 - Library Doors (Closed)
+0x000001a3 Library Doors (Closed)
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #420 - Librarian's Desk
+0x000001a4 Librarian's Desk
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #421 - Door Open
+0x000001a5 Door Open
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #422 - Poof White
+0x000001a6 Poof White
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #423 - Book Tower
+0x000001a7 Book Tower
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #424 - Library wall 1
+0x000001a8 Library wall 1
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #425 - Library wall One Pillar
+0x000001a9 Library wall One Pillar
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #426 - Spotlight Lone 
+0x000001aa Spotlight Lone 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #427 - Library Archway
+0x000001ab Library Archway
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #428 - Library Ceiling
+0x000001ac Library Ceiling
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #429 - Lamp of Delight
+0x000001ad Lamp of Delight
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #430 - Festivity Fountain
+0x000001ae Festivity Fountain
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #431 - Foliage Folly
+0x000001af Foliage Folly
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #432 - Flying Book 4
+0x000001b0 Flying Book 4
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #433 - Book Fly2
+0x000001b1 Book Fly2
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #434 - Blue Key
+0x000001b2 Blue Key
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #435 - Haunted House
+0x000001b3 Haunted House
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #436 - A könyvtár támogatója
+0x000001b4 A könyvtár támogatója
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000001b5 Ennek a könyvnek kukoricachips szaga van... Vagy lábszaga? Nem, kukoricachips. Határozottan kukoricachips.
+0x000001b6 MIÉRT VAN MINDENKI CSENDBEN?! SZÓLALJATOK MÁR MEG!!!
+0x000001b7 Könyvtár vagy könnytár?
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000001b8 Ennek a könyvnek kukoricachips szaga van... Vagy lábszaga? Nem, kukoricachips. Határozottan kukoricachips.
+0x000001b9 MIÉRT VAN MINDENKI CSENDBEN?! SZÓLALJATOK MÁR MEG!!!
+0x000001ba Könyvtár vagy könnytár?
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000001bb Ennek a könyvnek kukoricachips szaga van... Vagy lábszaga? Nem, kukoricachips. Határozottan kukoricachips.
+0x000001bc MIÉRT VAN MINDENKI CSENDBEN?! SZÓLALJATOK MÁR MEG!!!
+0x000001bd Könyvtár vagy könnytár?
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000001be Ennek a könyvnek kukoricachips szaga van... Vagy lábszaga? Nem, kukoricachips. Határozottan kukoricachips.
+0x000001bf MIÉRT VAN MINDENKI CSENDBEN?! SZÓLALJATOK MÁR MEG!!!
+0x000001c0 Könyvtár vagy könnytár?
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000001c1 Ennek a könyvnek kukoricachips szaga van... Vagy lábszaga? Nem, kukoricachips. Határozottan kukoricachips.
+0x000001c2 MIÉRT VAN MINDENKI CSENDBEN?! SZÓLALJATOK MÁR MEG!!!
+0x000001c3 Könyvtár vagy könnytár?
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x000001c4 Ennek a könyvnek kukoricachips szaga van... Vagy lábszaga? Nem, kukoricachips. Határozottan kukoricachips.
+0x000001c5 MIÉRT VAN MINDENKI CSENDBEN?! SZÓLALJATOK MÁR MEG!!!
+0x000001c6 Könyvtár vagy könnytár?
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x000001c7 Ennek a könyvnek kukoricachips szaga van... Vagy lábszaga? Nem, kukoricachips. Határozottan kukoricachips.
+0x000001c8 MIÉRT VAN MINDENKI CSENDBEN?! SZÓLALJATOK MÁR MEG!!!
+0x000001c9 Könyvtár vagy könnytár?
+
+# Inspect for Act 8
+
+# Prop #458 - Nerd malac
+0x000001ca Nerd malac
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x000001cb 35 cent egy késve visszahozott könyvért?! Most megmutatom nekik, pennyvel fizetek. Rozsdás pennyvel!
+0x000001cc Hogy mondanád más szóval, hogy thesaurus?
+0x000001cd Bárcsak otthon lehetnék, hogy megnézhessem a Robot Chicken császáros jelenetét, amit Breckin Meyer írt!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x000001ce 35 cent egy késve visszahozott könyvért?! Most megmutatom nekik, pennyvel fizetek. Rozsdás pennyvel!
+0x000001cf Hogy mondanád más szóval, hogy thesaurus?
+0x000001d0 Bárcsak otthon lehetnék, hogy megnézhessem a Robot Chicken császáros jelenetét, amit Breckin Meyer írt!
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000001d1 35 cent egy késve visszahozott könyvért?! Most megmutatom nekik, pennyvel fizetek. Rozsdás pennyvel!
+0x000001d2 Hogy mondanád más szóval, hogy thesaurus?
+0x000001d3 Bárcsak otthon lehetnék, hogy megnézhessem a Robot Chicken császáros jelenetét, amit Breckin Meyer írt!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000001d4 35 cent egy késve visszahozott könyvért?! Most megmutatom nekik, pennyvel fizetek. Rozsdás pennyvel!
+0x000001d5 Hogy mondanád más szóval, hogy thesaurus?
+0x000001d6 Bárcsak otthon lehetnék, hogy megnézhessem a Robot Chicken császáros jelenetét, amit Breckin Meyer írt!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000001d7 35 cent egy késve visszahozott könyvért?! Most megmutatom nekik, pennyvel fizetek. Rozsdás pennyvel!
+0x000001d8 Hogy mondanád más szóval, hogy thesaurus?
+0x000001d9 Bárcsak otthon lehetnék, hogy megnézhessem a Robot Chicken császáros jelenetét, amit Breckin Meyer írt!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x000001da 35 cent egy késve visszahozott könyvért?! Most megmutatom nekik, pennyvel fizetek. Rozsdás pennyvel!
+0x000001db Hogy mondanád más szóval, hogy thesaurus?
+0x000001dc Bárcsak otthon lehetnék, hogy megnézhessem a Robot Chicken császáros jelenetét, amit Breckin Meyer írt!
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x000001dd 35 cent egy késve visszahozott könyvért?! Most megmutatom nekik, pennyvel fizetek. Rozsdás pennyvel!
+0x000001de Hogy mondanád más szóval, hogy thesaurus?
+0x000001df Bárcsak otthon lehetnék, hogy megnézhessem a Robot Chicken császáros jelenetét, amit Breckin Meyer írt!
+
+# Inspect for Act 8
+
+# Prop #480 - Ancient Books
+0x000001e0 Ancient Books
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #481 - Blue Key
+0x000001e1 Blue Key
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #482 - Green Key
+0x000001e2 Green Key
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #483 - Chandelier
+0x000001e3 Chandelier
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+
+# Inspect for Act 8
+
+# Prop #484 - A vak ember
+0x000001e4 A vak ember
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000001e5 Az előbb elaludtam, és nem dőltem el! TEVE VAGYOK!
+0x000001e6 Hogyhogy sohasem láttam galambfiókát?
+0x000001e7 Egek, Larry Plotter lány!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000001e8 Az előbb elaludtam, és nem dőltem el! TEVE VAGYOK!
+0x000001e9 Hogyhogy sohasem láttam galambfiókát?
+0x000001ea Egek, Larry Plotter lány!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000001eb Az előbb elaludtam, és nem dőltem el! TEVE VAGYOK!
+0x000001ec Hogyhogy sohasem láttam galambfiókát?
+0x000001ed Egek, Larry Plotter lány!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x000001ee Az előbb elaludtam, és nem dőltem el! TEVE VAGYOK!
+0x000001ef Hogyhogy sohasem láttam galambfiókát?
+0x000001f0 Egek, Larry Plotter lány!
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x000001f1 Az előbb elaludtam, és nem dőltem el! TEVE VAGYOK!
+0x000001f2 Hogyhogy sohasem láttam galambfiókát?
+0x000001f3 Egek, Larry Plotter lány!
+
+# Inspect for Act 8
+
+# Prop #500 - Vízvezetékszerelő
+0x000001f4 Vízvezetékszerelő
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x000001f5 Ó, Karcsi, mit csinálsz majd ennyi csokival?
+0x000001f6 Ó, Jane Austen, összetörték a szívedet. Ki volt az a gazember?
+0x000001f7 De jó móka is lenne, ha görkorizhatnék!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x000001f8 Ó, Karcsi, mit csinálsz majd ennyi csokival?
+0x000001f9 Ó, Jane Austen, összetörték a szívedet. Ki volt az a gazember?
+0x000001fa De jó móka is lenne, ha görkorizhatnék!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x000001fb Ó, Karcsi, mit csinálsz majd ennyi csokival?
+0x000001fc Ó, Jane Austen, összetörték a szívedet. Ki volt az a gazember?
+0x000001fd De jó móka is lenne, ha görkorizhatnék!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x000001fe Ó, Karcsi, mit csinálsz majd ennyi csokival?
+0x000001ff Ó, Jane Austen, összetörték a szívedet. Ki volt az a gazember?
+0x00000200 De jó móka is lenne, ha görkorizhatnék!
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000201 Ó, Karcsi, mit csinálsz majd ennyi csokival?
+0x00000202 Ó, Jane Austen, összetörték a szívedet. Ki volt az a gazember?
+0x00000203 De jó móka is lenne, ha görkorizhatnék!
+
+# Inspect for Act 8
+
+# Prop #516 - Sir Csőrenstein
+0x00000204 Sir Csőrenstein
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000205 Meztelen vagyok a ruháim alatt!
+0x00000206 Bárcsak az összes könyv a barátom lenne!
+0x00000207 A mama szerint jóképű vagyok!
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x00000208 Meztelen vagyok a ruháim alatt!
+0x00000209 Bárcsak az összes könyv a barátom lenne!
+0x0000020a A mama szerint jóképű vagyok!
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x0000020b Meztelen vagyok a ruháim alatt!
+0x0000020c Bárcsak az összes könyv a barátom lenne!
+0x0000020d A mama szerint jóképű vagyok!
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x0000020e Meztelen vagyok a ruháim alatt!
+0x0000020f Bárcsak az összes könyv a barátom lenne!
+0x00000210 A mama szerint jóképű vagyok!
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000211 Meztelen vagyok a ruháim alatt!
+0x00000212 Bárcsak az összes könyv a barátom lenne!
+0x00000213 A mama szerint jóképű vagyok!
+
+# Inspect for Act 8
+
+# Prop #532 - Wortgon
+0x00000214 Wortgon
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000215 Csak pipiltem egy keveset.
+0x00000216 Itt-ott bohócsminket viselek... Izgalmas, igaz?
+0x00000217 Ezek nem is igazi tévéműsorok! Micsoda csalódás.
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000218 Csak pipiltem egy keveset.
+0x00000219 Itt-ott bohócsminket viselek... Izgalmas, igaz?
+0x0000021a Ezek nem is igazi tévéműsorok! Micsoda csalódás.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000021b Csak pipiltem egy keveset.
+0x0000021c Itt-ott bohócsminket viselek... Izgalmas, igaz?
+0x0000021d Ezek nem is igazi tévéműsorok! Micsoda csalódás.
+
+# Inspect for Act 4
+
+# Chatter for Act 5
+0x0000021e Csak pipiltem egy keveset.
+0x0000021f Itt-ott bohócsminket viselek... Izgalmas, igaz?
+0x00000220 Ezek nem is igazi tévéműsorok! Micsoda csalódás.
+
+# Inspect for Act 5
+
+# Chatter for Act 6
+0x00000221 Csak pipiltem egy keveset.
+0x00000222 Itt-ott bohócsminket viselek... Izgalmas, igaz?
+0x00000223 Ezek nem is igazi tévéműsorok! Micsoda csalódás.
+
+# Inspect for Act 6
+
+# Chatter for Act 7
+0x00000224 Csak pipiltem egy keveset.
+0x00000225 Itt-ott bohócsminket viselek... Izgalmas, igaz?
+0x00000226 Ezek nem is igazi tévéműsorok! Micsoda csalódás.
+
+# Inspect for Act 7
+
+# Chatter for Act 8
+0x00000227 Csak pipiltem egy keveset.
+0x00000228 Itt-ott bohócsminket viselek... Izgalmas, igaz?
+0x00000229 Ezek nem is igazi tévéműsorok! Micsoda csalódás.
+
+# Inspect for Act 8
+

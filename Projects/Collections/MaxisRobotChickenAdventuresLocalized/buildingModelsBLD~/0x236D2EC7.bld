@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><sporemodel>
+  <formatversion>18</formatversion>
+  <properties>
+    <modeltype>0x99e92f05</modeltype>
+    <zcorpscore>10</zcorpscore>
+  </properties>
+  <blocks count="3">
+    <blockref>
+      <blockid>0x40636000, 0x60bdd17d</blockid>
+      <transform>
+        <scale>2</scale>
+        <position>0,0,-0.213603</position>
+        <triangledirection>0,1,0</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>1,0,0</row0>
+          <row1>0,1,0</row1>
+          <row2>0,0,1</row2>
+        </orientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="4">
+        <paint>
+          <paintregion>0x00000004</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>0.105881,0.443136,0.0823528</color1>
+          <color2>0.238000,0.358999,0.531000</color2>
+        </paint>
+        <paint>
+          <paintregion>0x0000000e</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>0.105881,0.443136,0.0823528</color1>
+          <color2>0.238000,0.358999,0.531000</color2>
+        </paint>
+        <paint>
+          <paintregion>0x0000000f</paintregion>
+          <paintid>0x16890c8f</paintid>
+          <color1>0.258823,0.298038,0.803920</color1>
+          <color2>0.474509,0.501959,0.803920</color2>
+        </paint>
+        <paint>
+          <paintregion>0x00000010</paintregion>
+          <paintid>0x2d7df29c</paintid>
+          <color1>0.258823,0.298038,0.803920</color1>
+          <color2>0.792155,0.792155,0.792155</color2>
+        </paint>
+      </paintlist>
+      <childlist count="2">
+        <childid>2</childid>
+        <childid>1</childid>
+      </childlist>
+      <handles count="2">
+        <weight channel="0x808c04d9">0.438425</weight>
+        <weight channel="0xd02751de">0.670292</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0x296b1093</blockid>
+      <transform>
+        <scale>1</scale>
+        <position>4.760212,4.558993,1.420439</position>
+        <triangledirection>-0.426914,-0.739435,-0.520555</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>-0.866024,0.5,-1.49010e-8</row0>
+          <row1>-0.426914,-0.739435,-0.520555</row1>
+          <row2>-0.260277,-0.450814,0.853826</row2>
+        </orientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="1">
+        <paint>
+          <paintregion>0x00000005</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>0.501959,0.501959,0.501959</color1>
+          <color2>0.699998,0.699998,0.699998</color2>
+        </paint>
+      </paintlist>
+      <handles count="2">
+        <weight channel="0x7cc96c02">0.179151</weight>
+        <weight channel="0xd02751de">0</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+    <blockref>
+      <blockid>0x40636000, 0x296b1093</blockid>
+      <transform>
+        <scale>1</scale>
+        <position>3.227036,5.593120,1.208863</position>
+        <triangledirection>-0.426912,-0.739435,-0.520555</triangledirection>
+        <trianglepickorigin>0,0,0</trianglepickorigin>
+        <orientation>
+          <row0>-0.866024,0.499998,-5.96045e-8</row0>
+          <row1>-0.426912,-0.739435,-0.520555</row1>
+          <row2>-0.260277,-0.450814,0.853826</row2>
+        </orientation>
+      </transform>
+      <snapped>false</snapped>
+      <paintlist count="1">
+        <paint>
+          <paintregion>0x00000005</paintregion>
+          <paintid>0x010b5b15</paintid>
+          <color1>0.501959,0.501959,0.501959</color1>
+          <color2>0.699998,0.699998,0.699998</color2>
+        </paint>
+      </paintlist>
+      <handles count="2">
+        <weight channel="0x7cc96c02">0.179153</weight>
+        <weight channel="0xd02751de">0</weight>
+      </handles>
+      <isasymmetric>false</isasymmetric>
+    </blockref>
+  </blocks></sporemodel>

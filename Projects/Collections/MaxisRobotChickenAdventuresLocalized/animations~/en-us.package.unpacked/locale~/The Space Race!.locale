@@ -1,0 +1,648 @@
+# Auto-generated localization file for: The Space Race! (ID: 0XE81D738C)
+# Adventure name
+0x00000001 The Space Race!
+
+# Adventure description
+0x00000002 Run, jump and fly to the finish line in this exciting race set in space.
+Created by MaxisEditorDan, edited by MaxisCimino, MaxisJason
+
+# Intro text
+0x00000003 Get ready to RACE!  Make it to the end safely to get the treasure.  Be sure to collect all of the tri-spheres along the way.
+
+# Win text
+0x00000004 Nice job, check out your time on the leaderboard!
+
+# Lose text
+0x00000005 Lava hurts, huh?
+
+# Act 1
+0x00000006 Ready. Set.
+0x00000007 Get ready to RACE!
+
+
+# Act 2
+0x00000008 Go!
+0x00000009 Make it to the treasure as fast as possible while collecting all the tri-spheres.
+
+# Goal 1
+
+# Goal 2
+
+
+# Act 3
+0x0000000a Woot!
+0x0000000b You did it!
+
+
+# Prop #12 - Power-Up Speed
+0x0000000c Power-Up Speed
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #13 - Jump Barrier
+0x0000000d Jump Barrier
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #14 - Teleporter
+0x0000000e Teleporter
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #15 - Jump Pad 
+0x0000000f Jump Pad 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #16 - Arena Cheer
+0x00000010 Arena Cheer
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #17 - Teleporter
+0x00000011 Teleporter
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #18 - Fweebo
+0x00000012 Fweebo
+
+# Chatter for Act 1
+0x00000013 This part is tricky!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000014 This part is tricky!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000015 This part is tricky!
+
+# Inspect for Act 3
+
+# Prop #22 - Fweebo
+0x00000016 Fweebo
+
+# Chatter for Act 1
+0x00000017 I always get stuck down here....
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000018 I always get stuck down here....
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000019 I always get stuck down here....
+
+# Inspect for Act 3
+
+# Prop #26 - Fweebo
+0x0000001a Fweebo
+
+# Chatter for Act 1
+0x0000001b Don't want to step on those!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000001c Don't want to step on those!
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000001d Don't want to step on those!
+
+# Inspect for Act 3
+
+# Prop #30 - Fweebo
+0x0000001e Fweebo
+
+# Chatter for Act 1
+0x0000001f There's a secret up ahead!  Hee hee
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x00000020 There's a secret up ahead!  Hee hee
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000021 There's a secret up ahead!  Hee hee
+
+# Inspect for Act 3
+
+# Prop #34 - Finish Line
+0x00000022 Finish Line
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #35 - Spotlight Lone 
+0x00000023 Spotlight Lone 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #36 - Celestial Portal
+0x00000024 Celestial Portal
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #37 - Sting Mysterious
+0x00000025 Sting Mysterious
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #38 - Bell
+0x00000026 Bell
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #39 - Dreamy Piano
+0x00000027 Dreamy Piano
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #40 - Guitar 
+0x00000028 Guitar 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #41 - Organ
+0x00000029 Organ
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #42 - Arrow
+0x0000002a Arrow
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #43 - Gold Sack
+0x0000002b Gold Sack
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #44 - Money Bagsalot
+0x0000002c Money Bagsalot
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #45 - Dappled Sunlight
+0x0000002d Dappled Sunlight
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #46 - Glitter Sphere
+0x0000002e Glitter Sphere
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #47 - archway
+0x0000002f archway
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #48 - Atom
+0x00000030 Atom
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #49 - Planet
+0x00000031 Planet
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #50 - Rainbow Row
+0x00000032 Rainbow Row
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #51 - Ceiling
+0x00000033 Ceiling
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #52 - tri-sphere
+0x00000034 tri-sphere
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #53 - DNA
+0x00000035 DNA
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #54 - Disco Floor
+0x00000036 Disco Floor
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #55 - Spotlight Blue
+0x00000037 Spotlight Blue
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #56 - Starter Pistol
+0x00000038 Starter Pistol
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #57 - Blue Gate
+0x00000039 Blue Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #58 - Poof White
+0x0000003a Poof White
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #59 - Spaced Out
+0x0000003b Spaced Out
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #60 - Sting Fairy 
+0x0000003c Sting Fairy 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #61 - Runway Lights
+0x0000003d Runway Lights
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #62 - Green Gate
+0x0000003e Green Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Prop #63 - Red Gate
+0x0000003f Red Gate
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+

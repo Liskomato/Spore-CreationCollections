@@ -1,0 +1,559 @@
+# Auto-generated localization file for: Clark and Stanley Go Stargazing (ID: 0X3BFCC785)
+# Adventure name
+0x00000001 Clark and Stanley Go Stargazing
+
+# Adventure description
+0x00000002 Meet up with Clark and Stanley out in the country side where they've gone stargazing.~br~Created by MaxisCimino
+
+# Intro text
+0x00000003 Our sensors indicate Stanley and Clark have requested your assistance once again. Go find them and see what they want this time.
+
+# Win text
+0x00000004 Two guys are dead and you do a rub-it-in dance. What a jerk...
+
+# Lose text
+0x00000005 Try not to get too close to Clark and Stanley, these two are troubles.
+
+# Act 1
+0x00000006 A Beautiful Night
+0x00000007 Meet up with Clark and Stanley at the top of the hill.
+
+# Goal 1
+0x00000008 Hello friend. We're so very pleased you were able to make it!
+0x00000009 What a bee-YOOO-tiful night to watch for shooting stars! Wouldn't you agree?
+
+
+# Act 2
+0x0000000a Something feels wrong
+0x0000000b There's just something that's not quite right.
+
+
+# Act 3
+0x0000000c Something feels really wrong
+0x0000000d Just can't shake that feeling of impending catastrophe.
+
+
+# Act 4
+0x0000000e Oh no!
+0x0000000f Well that was it. Stay away!
+
+
+# Prop #16 - Hut Simple
+0x00000010 Hut Simple
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #17 - Fire Stove
+0x00000011 Fire Stove
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #18 - Stanley
+0x00000012 Stanley
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x00000013 I think I see one.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x00000014 I think I see one.
+
+# Inspect for Act 4
+
+# Prop #21 - Zazafuscus
+0x00000015 Zazafuscus
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #22 - Ancient Books
+0x00000016 Ancient Books
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #23 - Telescope
+0x00000017 Telescope
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #24 - Clay Cluster
+0x00000018 Clay Cluster
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #25 - Conglomerate Stack
+0x00000019 Conglomerate Stack
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #26 - Dimple Stack
+0x0000001a Dimple Stack
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #27 - Clark
+0x0000001b Clark
+
+# Chatter for Act 1
+0x0000001c Well, hello there sir!
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+0x0000001d Seen any yet Stanley?
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+0x0000001e Move over and let me see.
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+0x0000001f Move over and let me see.
+
+# Inspect for Act 4
+
+# Prop #32 - Meteorite
+0x00000020 Meteorite
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #33 - Twessle
+0x00000021 Twessle
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #34 - Brasstax
+0x00000022 Brasstax
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #35 - Mistletipps
+0x00000023 Mistletipps
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #36 - Arrow
+0x00000024 Arrow
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #37 - Spotlight Lone 
+0x00000025 Spotlight Lone 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #38 - Light-Hearted
+0x00000026 Light-Hearted
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #39 - Forest Ambience
+0x00000027 Forest Ambience
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #40 - Crickets Ambience 
+0x00000028 Crickets Ambience 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #41 - Explosive Barrel
+0x00000029 Explosive Barrel
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #42 - Fireflies
+0x0000002a Fireflies
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #43 - Sting Fun Park 
+0x0000002b Sting Fun Park 
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #44 - Aurora Sporealis
+0x0000002c Aurora Sporealis
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #45 - Calm World
+0x0000002d Calm World
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #46 - Explosion
+0x0000002e Explosion
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #47 - Poof White
+0x0000002f Poof White
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
+# Prop #48 - Sting Jazz Finale
+0x00000030 Sting Jazz Finale
+
+# Chatter for Act 1
+
+# Inspect for Act 1
+
+# Chatter for Act 2
+
+# Inspect for Act 2
+
+# Chatter for Act 3
+
+# Inspect for Act 3
+
+# Chatter for Act 4
+
+# Inspect for Act 4
+
