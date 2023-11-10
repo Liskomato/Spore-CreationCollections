@@ -8,10 +8,10 @@ originalParentAssetID 300001208361
 timeCreated 63381394836
 timeDownloaded 63659391669
 authorID 1
-authorNameLocale RobotChickenTags!0xb
-nameLocale 0x6282812a!0x1
-descriptionLocale 0x6282812a!0x2
+authorNameLocale 0X6282812A!0x10000001
+nameLocale 0X6282812A!0x1
+descriptionLocale 0X6282812A!0x2
 authors "tag:spore.com,2006:AssembledContent"
-tagsLocale RobotChickenTags!0xa
+tagsLocale 0X6282812A!0x10000002
 isShareable false
 consequenceTraits
