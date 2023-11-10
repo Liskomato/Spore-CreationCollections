@@ -1,14 +1,14 @@
 metadataVersion 13
 
 assetID 300001208114
-assetKey adventureImages_1~!0x18FC228D.0x366A930D
+assetKey adventureImages_1~!PlanetOfNeeding.0x366A930D
 parentAssetKey animations~
 parentAssetID 0
 originalParentAssetID 300001208114
 timeCreated 63381394696
 timeDownloaded 63659391669
 authorID 1
-authorNameLocale "Maxis"
+authorNameLocale RobotChickenTags!0xb
 nameLocale 0x7d8524e2!0x1
 descriptionLocale 0x7d8524e2!0x2
 authors "tag:spore.com,2006:AssembledContent"
