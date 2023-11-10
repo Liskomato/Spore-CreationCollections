@@ -1,0 +1,17 @@
+metadataVersion 13
+
+assetID 300001205862
+assetKey adventureImages_1~!0x18FBE95F.0x366A930D
+parentAssetKey 0xFFFFFFFF!0xFFFFFFFF.0xFFFFFFFF
+parentAssetID 300001190489
+originalParentAssetID -1
+timeCreated 63381118190
+timeDownloaded 63659383927
+authorID 1
+authorName "Maxis"
+name "Spoffit Calculator!"
+description "The Spoffits are actually a highly intelligent species. They are capable of doing simple calculations, and do your laundry. Just give them numbers and let them calculate the answer for you!\nCreated by MaxisGamer, edited by MaxisKate"
+authors "tag:spore.com,2006:AssembledContent"
+tags "maxis" "calculator" "maxisgamer" "maxiskate"
+isShareable false
+consequenceTraits

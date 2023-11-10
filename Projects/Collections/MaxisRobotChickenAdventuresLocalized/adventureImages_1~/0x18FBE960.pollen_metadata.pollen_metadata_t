@@ -1,0 +1,17 @@
+metadataVersion 13
+
+assetID 300001215014
+assetKey adventureImages_1~!0x18FBE960.0x366A930D
+parentAssetKey 0xFFFFFFFF!0xFFFFFFFF.0xFFFFFFFF
+parentAssetID 300001205801
+originalParentAssetID 300000835508
+timeCreated 63381135963
+timeDownloaded 63659383927
+authorID 1
+authorName "Maxis"
+name "The Space Race!"
+description "Run, jump and fly to the finish line in this exciting race set in space.\nCreated by MaxisEditorDan, edited by MaxisCimino, MaxisJason"
+authors "tag:spore.com,2006:AssembledContent"
+tags "maxis" "maxiscimino" "maxiseditordan" "maxisjason" "race" "time trial"
+isShareable false
+consequenceTraits

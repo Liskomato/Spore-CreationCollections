@@ -11,7 +11,7 @@ authorID 1
 authorNameLocale "Maxis"
 nameLocale 0xcfe5262d!0x1
 descriptionLocale 0xcfe5262d!0x2
-authors "tag:spore.com,2006:downloadQueue" "tag:spore.com,2006:AssembledContent"
-tags "dan milano" " maxis" " robot chicken"
+authors "tag:spore.com,2006:AssembledContent"
+tagsLocale RobotChickenTags!0x3
 isShareable false
 consequenceTraits

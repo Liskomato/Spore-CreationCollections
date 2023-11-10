@@ -11,7 +11,7 @@ authorID 1
 authorNameLocale "Maxis"
 nameLocale 0x60bd602b!0x1
 descriptionLocale 0x60bd602b!0x2
-authors "tag:spore.com,2006:downloadQueue" "tag:spore.com,2006:AssembledContent"
-tags "maxis" " robot chicken" " tom root"
+authors "tag:spore.com,2006:AssembledContent"
+tagsLocale RobotChickenTags!0x7
 isShareable false
 consequenceTraits

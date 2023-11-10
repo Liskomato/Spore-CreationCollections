@@ -1,7 +1,7 @@
 metadataVersion 13
 
 assetID 300001207996
-assetKey adventureImages_1~!0x18FC228B.0x366A930D
+assetKey adventureImages_1~!0x236af30a.0x366A930D
 parentAssetKey animations~
 parentAssetID 0
 originalParentAssetID 300001207996
@@ -11,7 +11,7 @@ authorID 1
 authorNameLocale "Maxis"
 nameLocale 0xB0075784!0x1
 descriptionLocale 0xB0075784!0x2
-authors "tag:spore.com,2006:downloadQueue" "tag:spore.com,2006:AssembledContent"
-tags "maxis" " robot chicken" " tom root"
+authors "tag:spore.com,2006:AssembledContent"
+tagsLocale RobotChickenTags!0x2
 isShareable false
 consequenceTraits

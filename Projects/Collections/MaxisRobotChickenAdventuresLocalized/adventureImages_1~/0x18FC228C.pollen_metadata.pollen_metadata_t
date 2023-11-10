@@ -11,7 +11,7 @@ authorID 1
 authorNameLocale "Maxis"
 nameLocale 0x22416ab9!0x1
 descriptionLocale 0x22416ab9!0x2
-authors "tag:spore.com,2006:downloadQueue" "tag:spore.com,2006:AssembledContent"
-tags "breckin meyer" " maxis" " robot chicken"
+authors "tag:spore.com,2006:AssembledContent"
+tagsLocale RobotChickenTags!0x6
 isShareable false
 consequenceTraits

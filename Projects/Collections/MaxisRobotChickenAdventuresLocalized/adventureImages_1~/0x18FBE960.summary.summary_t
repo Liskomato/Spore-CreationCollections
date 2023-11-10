@@ -1,0 +1,16 @@
+parameter int type 0x366a930d
+parameter int 0x05fb4759 0
+parameter int 0x03cc89b1 0x913b23be
+parameter int 0x05dc0b88 0
+parameter int 0x061ef9b1 0x778e4a2e
+parameter int 0xcd6e902c 0
+parameter int subtype hash(ScenarioGenreCollect)
+parameter int 0x54a32960 1
+parameter int 0x0665f917 1
+parameter int 0x067b82d8 1
+parameter int 0x15e8afc8 0
+parameter int 0xb91fba14 0
+parameter int 0xd22f5e35 0
+parameter int 0x5a3584a7 0
+parameter int 0xdb4675dd 0
+

@@ -1,0 +1,17 @@
+metadataVersion 13
+
+assetID 300001190888
+assetKey adventureImages_1~!0x18FBE956.0x366A930D
+parentAssetKey 0xFFFFFFFF!0xFFFFFFFF.0xFFFFFFFF
+parentAssetID 300001190635
+originalParentAssetID -1
+timeCreated 63380800554
+timeDownloaded 63659383926
+authorID 1
+authorName "Maxis"
+name "Monstered Town"
+description "Are you Captain enough to take on a giant monster that's already destroyed half of this planet's downtown?\nCreated by MaxisGuillaume, edited by MaxisCimino"
+authors "tag:spore.com,2006:AssembledContent"
+tags "maxis" "monster" "robot" "maxisguillaume" "maxiscimino"
+isShareable false
+consequenceTraits

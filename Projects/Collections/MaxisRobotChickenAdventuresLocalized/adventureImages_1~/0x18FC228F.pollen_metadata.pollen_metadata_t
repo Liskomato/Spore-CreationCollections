@@ -11,7 +11,7 @@ authorID 1
 authorNameLocale "Maxis"
 nameLocale 0x1921d231!0x1
 descriptionLocale 0x1921d231!0x2
-authors "tag:spore.com,2006:downloadQueue" "tag:spore.com,2006:AssembledContent"
-tags "matthew beans" " maxis" " robot chicken"
+authors "tag:spore.com,2006:AssembledContent"
+tagsLocale RobotChickenTags!0x8
 isShareable false
 consequenceTraits
